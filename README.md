@@ -17,6 +17,7 @@ _1 TIL and counting..._
 ### Bash
 
 - [Repeating an executable continuously](bash/repeating_an_executable_continuously.md)
+- [Slimming history](bash/slimming_history.md)
 
 ## About
 
