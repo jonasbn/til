@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a developer.
 
-_1 TIL and counting..._
+_2 TILs and counting..._
 
 ---
 
