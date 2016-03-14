@@ -4,13 +4,14 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a developer.
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Bash](#bash)
+* [SQLplus](#sqlplus)
 
 ---
 
@@ -18,6 +19,10 @@ _2 TILs and counting..._
 
 - [Repeating an executable continuously](bash/repeating_an_executable_continuously.md)
 - [Slimming history](bash/slimming_history.md)
+
+### SQLplus
+
+- [Output to a file](sqlplus/outputting_to_a_file.md)
 
 ## About
 
