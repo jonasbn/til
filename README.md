@@ -11,6 +11,7 @@ _3 TILs and counting..._
 ### Categories
 
 * [Bash](#bash)
+* [Postgresql](#postgresql)
 * [sqlplus](#sqlplus)
 
 ---
@@ -19,6 +20,10 @@ _3 TILs and counting..._
 
 - [Repeating an executable continuously](bash/repeating_an_executable_continuously.md)
 - [Slimming history](bash/slimming_history.md)
+
+### Postgresql
+
+- [Setting the prompt](postgresql/setting_the_prompt.md)
 
 ### sqlplus
 
