@@ -11,7 +11,7 @@ _3 TILs and counting..._
 ### Categories
 
 * [Bash](#bash)
-* [SQLplus](#sqlplus)
+* [sqlplus](#sqlplus)
 
 ---
 
@@ -20,7 +20,7 @@ _3 TILs and counting..._
 - [Repeating an executable continuously](bash/repeating_an_executable_continuously.md)
 - [Slimming history](bash/slimming_history.md)
 
-### SQLplus
+### sqlplus
 
 - [Output to a file](sqlplus/outputting_to_a_file.md)
 
