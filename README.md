@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a developer.
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
@@ -18,6 +18,7 @@ _4 TILs and counting..._
 
 ### Bash
 
+- [Inputting danish characters](bash/inputting_danish_characters.md)
 - [Repeating an executable continuously](bash/repeating_an_executable_continuously.md)
 - [Slimming history](bash/slimming_history.md)
 
