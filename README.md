@@ -25,7 +25,7 @@ _6 TILs and counting..._
 
 ### OSX
 
-- [Lock screen hotkeys](osx/lock_screen_hotkeys.md)
+- [Lock screen shortcuts](osx/lock_screen_shortcuts.md)
 
 ### Postgresql
 

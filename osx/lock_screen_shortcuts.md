@@ -1,4 +1,4 @@
-# Lock screen hotkeys
+# Lock screen shortcuts
 
 Locking the screen in OSX is possible, the combinations however differ between models, examples are from the machines I have tried it on:
 
