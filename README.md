@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a developer.
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -21,6 +21,10 @@ _5 TILs and counting..._
 - [Inputting danish characters](bash/inputting_danish_characters.md)
 - [Repeating an executable continuously](bash/repeating_an_executable_continuously.md)
 - [Slimming history](bash/slimming_history.md)
+
+### OSX
+
+- [Lock screen hotkeys](osx/lock_screen_hotkeys.md)
 
 ### Postgresql
 
