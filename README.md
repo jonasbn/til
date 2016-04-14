@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a developer.
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -12,6 +12,7 @@ _7 TILs and counting..._
 
 * [ack](#ack)
 * [Bash](#bash)
+* [jq](#jq)
 * [OSX](#osx)
 * [Postgresql](#postgresql)
 * [sqlplus](#sqlplus)
@@ -27,6 +28,10 @@ _7 TILs and counting..._
 - [Inputting danish characters](bash/inputting_danish_characters.md)
 - [Repeating an executable continuously](bash/repeating_an_executable_continuously.md)
 - [Slimming history](bash/slimming_history.md)
+
+### jq
+
+- [Use jq](jq/use_jq.md)
 
 ### OSX
 
