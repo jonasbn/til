@@ -11,6 +11,7 @@ _6 TILs and counting..._
 ### Categories
 
 * [Bash](#bash)
+* [OSX](#osx)
 * [Postgresql](#postgresql)
 * [sqlplus](#sqlplus)
 
