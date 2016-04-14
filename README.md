@@ -4,18 +4,23 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a developer.
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [ack](#ack)
 * [Bash](#bash)
 * [OSX](#osx)
 * [Postgresql](#postgresql)
 * [sqlplus](#sqlplus)
 
 ---
+
+### ack
+
+- [Install ack](ack/install_ack.md)
 
 ### Bash
 
