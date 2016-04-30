@@ -34,7 +34,7 @@ _11 TILs and counting..._
 
 ### Bootstrap
 
-- [Wrap contents of code tags](bootstrap/wrap_contents_of_code_tags.md)
+- [Prevent wrapping of contents of code tags](bootstrap/prevent_wrapping_of_contents_of_code_tags.md)
 
 ### curl
 

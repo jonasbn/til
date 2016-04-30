@@ -1,4 +1,4 @@
-# Wrap contents of code tags
+# Prevent wrapping of contents of code tags
 
 If you want to wrap contents of `code` tags in Twitter Bootstrap (v2).
 
