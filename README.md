@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a developer.
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -24,6 +24,7 @@ _10 TILs and counting..._
 ### ack
 
 - [Install ack](ack/install_ack.md)
+- [Define a custom search filetype scope](ack/define_a_custom_search_filetype_scope.md)
 
 ### Bash
 
