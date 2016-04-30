@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a developer.
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _12 TILs and counting..._
     - [Bootstrap](#bootstrap)
     - [curl](#curl)
     - [jq](#jq)
+    - [Liquid Prompt](#liquid-prompt)
     - [OSX](#osx)
     - [Postgresql](#postgresql)
     - [smartcd](#smartcd)
@@ -51,6 +52,10 @@ _12 TILs and counting..._
 ### jq
 
 - [Use jq](jq/use_jq.md)
+
+### Liquid Prompt
+
+- [Install Liquid Prompt](liquidprompt/install_liquidprompt.md)
 
 ### OSX
 
