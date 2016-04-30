@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a developer.
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _11 TILs and counting..._
 * [jq](#jq)
 * [OSX](#osx)
 * [Postgresql](#postgresql)
+* [smartcd](#smartcd)
 * [sqlplus](#sqlplus)
 
 ---
@@ -51,6 +52,10 @@ _11 TILs and counting..._
 ### Postgresql
 
 - [Setting the prompt](postgresql/setting_the_prompt.md)
+
+### smartcd
+
+- [Install smartcd](smartcd/install_smartcd.md)
 
 ### sqlplus
 
