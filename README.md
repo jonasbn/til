@@ -10,15 +10,22 @@ _12 TILs and counting..._
 
 ### Categories
 
-* [ack](#ack)
-* [Bash](#bash)
-* [Bootstrap](#bootstrap)
-* [curl](#curl)
-* [jq](#jq)
-* [OSX](#osx)
-* [Postgresql](#postgresql)
-* [smartcd](#smartcd)
-* [sqlplus](#sqlplus)
+<!-- MarkdownTOC bracket=round depth=3 -->
+
+- [ack](#ack)
+    - [Bash](#bash)
+    - [Bootstrap](#bootstrap)
+    - [curl](#curl)
+    - [jq](#jq)
+    - [OSX](#osx)
+    - [Postgresql](#postgresql)
+    - [smartcd](#smartcd)
+    - [sqlplus](#sqlplus)
+- [About](#about)
+- [Additional TIL Collections](#additional-til-collections)
+- [License](#license)
+
+<!-- /MarkdownTOC -->
 
 ---
 
