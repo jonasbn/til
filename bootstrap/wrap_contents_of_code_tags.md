@@ -1,6 +1,6 @@
 # Wrap contents of code tags
 
-If you want to wrap contents of `code` tags in Bootstrap.
+If you want to wrap contents of `code` tags in Twitter Bootstrap (v2).
 
 ```css
 white-space: pre;
