@@ -11,3 +11,5 @@ $ jq '.' < foo-ugly.json > foo-pretty.json
 ```
 
 Tip from @chriswinters via Twitter
+
+You can with luck install `jq` via [Homebrew](http://brew.sh/) on your Mac.
