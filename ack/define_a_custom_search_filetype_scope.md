@@ -10,7 +10,7 @@ If you for have a **Mojolicious** project consisting of:
 - Template files: `.ep`
 - Configuration files: `.conf`
 
-In your `$HOM/.ackrc`, insert the line: `--type-set=mojo=.css,.pl,.pm,.html,.js,.ep,.conf`
+In your `$HOME/.ackrc`, insert the line: `--type-set=mojo=.css,.pl,.pm,.html,.js,.ep,.conf`
 
 This mean you can `ack` across your complete project in the above file types avoiding logfiles etc.
 
