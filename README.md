@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a developer.
+This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a computer programmer and every day computer user.
 
 _13 TILs and counting..._
 
