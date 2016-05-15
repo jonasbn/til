@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a computer programmer and every day computer user.
 
-_13 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
@@ -15,6 +15,8 @@ _13 TILs and counting..._
 - [ack](#ack)
     - [Bash](#bash)
     - [Bootstrap](#bootstrap)
+    - [carton](#carton)
+    - [cpanm](#cpanm)
     - [curl](#curl)
     - [jq](#jq)
     - [Liquid Prompt](#liquid-prompt)
@@ -44,6 +46,18 @@ _13 TILs and counting..._
 ### Bootstrap
 
 - [Prevent wrapping of contents of code tags](bootstrap/prevent_wrapping_of_contents_of_code_tags.md)
+
+### carton
+
+- [Use carton](carton/use_carton.md)
+
+### cpanm
+
+- [Use cpanm](cpanm/use_cpanm.md)
+- [Use cpanm with cpanfile](cpanm/use_cpanm_with_cpanfile.md)
+- [Use cpanm with Module::Build](cpanm/use_cpanm_with_module-build.md)
+- [Use cpanm with CPAN::Mini](cpanm/use_cpanm_with_cpan-mini.md)
+- [Use cpanm with carton](cpanm/use_cpanm_with_carton.md)
 
 ### curl
 
