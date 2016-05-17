@@ -39,7 +39,7 @@ _20 TILs and counting..._
 
 ### Bash
 
-- [Implement_tab_completions](bash/implement_tab_completions.md)
+- [Implement tab completions](bash/implement_tab_completions.md)
 - [Inputting danish characters](bash/inputting_danish_characters.md)
 - [Repeating an executable continuously](bash/repeating_an_executable_continuously.md)
 - [Slimming history](bash/slimming_history.md)
