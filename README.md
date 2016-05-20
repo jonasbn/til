@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a computer programmer and every day computer user.
 
-_20 TILs and counting..._
+_21 TILs and counting..._
 
 ---
 
@@ -18,6 +18,7 @@ _20 TILs and counting..._
     - [carton](#carton)
     - [cpanm](#cpanm)
     - [curl](#curl)
+    - [Debian](#debian)
     - [jq](#jq)
     - [Liquid Prompt](#liquid-prompt)
     - [OSX](#osx)
@@ -63,6 +64,10 @@ _20 TILs and counting..._
 ### curl
 
 - [More POST Parameters](curl/more_post_parameters.md)
+
+### Debian
+
+- [How to enquire version](debian/how_to_enquire_version.md)
 
 ### jq
 
