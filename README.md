@@ -4,13 +4,13 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a computer programmer and every day computer user.
 
-_24 TILs and counting..._
+_25 TILs and counting..._
 
 ---
 
-### Categories
+## Categories
 
-<!-- MarkdownTOC bracket=round depth=3 -->
+<!-- MarkdownTOC depth=3 bracket=round  -->
 
 - [ack](#ack)
     - [Bash](#bash)
@@ -23,6 +23,7 @@ _24 TILs and counting..._
     - [Liquid Prompt](#liquid-prompt)
     - [OSX](#osx)
     - [Postgresql](#postgresql)
+    - [Python](#python)
     - [smartcd](#smartcd)
     - [sqlplus](#sqlplus)
     - [VMware Fusion](#vmware-fusion)
@@ -86,6 +87,10 @@ _24 TILs and counting..._
 ### Postgresql
 
 - [Setting the prompt](postgresql/setting_the_prompt.md)
+
+### Python
+
+- [Old-school string formatting](python/old-school_string_formatting.md)
 
 ### smartcd
 
