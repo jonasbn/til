@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a computer programmer and every day computer user.
 
-_22 TILs and counting..._
+_24 TILs and counting..._
 
 ---
 
