@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a computer programmer and every day computer user.
 
-_21 TILs and counting..._
+_22 TILs and counting..._
 
 ---
 
@@ -25,6 +25,7 @@ _21 TILs and counting..._
     - [Postgresql](#postgresql)
     - [smartcd](#smartcd)
     - [sqlplus](#sqlplus)
+    - [VMware Fusion](#vmware-fusion)
 - [About](#about)
 - [Additional TIL Collections](#additional-til-collections)
 - [License](#license)
@@ -68,6 +69,7 @@ _21 TILs and counting..._
 ### Debian
 
 - [How to enquire version](debian/how_to_enquire_version.md)
+- [Add user to sudoers group](debian/add_user_to_sudoers.md)
 
 ### jq
 
@@ -92,6 +94,11 @@ _21 TILs and counting..._
 ### sqlplus
 
 - [Output to a file](sqlplus/outputting_to_a_file.md)
+
+### VMware Fusion
+
+- [Install VMware Tools](fusion/install_vmware_tools.md5)
+- [Configure Debian](fusion/configure_debian.md5)
 
 ## About
 
