@@ -8,11 +8,10 @@ _25 TILs and counting..._
 
 ---
 
-## Categories
+<!-- MarkdownTOC depth=3 bracket=round -->
 
-<!-- MarkdownTOC depth=3 bracket=round  -->
-
-- [ack](#ack)
+- [Categories](#categories)
+    - [ack](#ack)
     - [Bash](#bash)
     - [Bootstrap](#bootstrap)
     - [carton](#carton)
@@ -34,6 +33,8 @@ _25 TILs and counting..._
 <!-- /MarkdownTOC -->
 
 ---
+
+## Categories
 
 ### ack
 
