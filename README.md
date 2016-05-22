@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I learn from day to day working with computers and technology as a computer programmer and every day computer user.
 
-_25 TILs and counting..._
+_28 TILs and counting..._
 
 ---
 
@@ -18,6 +18,7 @@ _25 TILs and counting..._
     - [cpanm](#cpanm)
     - [curl](#curl)
     - [Debian](#debian)
+    - [Docker](#docker)
     - [jq](#jq)
     - [Liquid Prompt](#liquid-prompt)
     - [OSX](#osx)
@@ -73,6 +74,10 @@ _25 TILs and counting..._
 - [How to enquire version](debian/how_to_enquire_version.md)
 - [Add user to sudoers group](debian/add_user_to_sudoers.md)
 
+### Docker
+
+- [Mount shared folder](docker/mount_shared_folder.md)
+
 ### jq
 
 - [Use jq](jq/use_jq.md)
@@ -103,8 +108,8 @@ _25 TILs and counting..._
 
 ### VMware Fusion
 
-- [Install VMware Tools](fusion/install_vmware_tools.md5)
-- [Configure Debian](fusion/configure_debian.md5)
+- [Install VMware Tools](fusion/install_vmware_tools.md)
+- [Configure Debian 7](fusion/mount_shared_folder.md)
 
 ## About
 
