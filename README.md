@@ -8,9 +8,10 @@ _28 TILs and counting..._
 
 ---
 
-<!-- MarkdownTOC depth=3 bracket=round -->
+## Categories
 
-- [Categories](#categories)
+<!-- MarkdownTOC depth=3 bracket=round autolink=true autoanchor=true -->
+
     - [ack](#ack)
     - [Bash](#bash)
     - [Bootstrap](#bootstrap)
@@ -35,13 +36,13 @@ _28 TILs and counting..._
 
 ---
 
-## Categories
-
+<a name="ack"></a>
 ### ack
 
 - [Install ack](ack/install_ack.md)
 - [Define a custom search filetype scope](ack/define_a_custom_search_filetype_scope.md)
 
+<a name="bash"></a>
 ### Bash
 
 - [Implement tab completions](bash/implement_tab_completions.md)
@@ -49,14 +50,17 @@ _28 TILs and counting..._
 - [Repeating an executable continuously](bash/repeating_an_executable_continuously.md)
 - [Slimming history](bash/slimming_history.md)
 
+<a name="bootstrap"></a>
 ### Bootstrap
 
 - [Prevent wrapping of contents of code tags](bootstrap/prevent_wrapping_of_contents_of_code_tags.md)
 
+<a name="carton"></a>
 ### carton
 
 - [Use carton](carton/use_carton.md)
 
+<a name="cpanm"></a>
 ### cpanm
 
 - [Use cpanm](cpanm/use_cpanm.md)
@@ -65,52 +69,64 @@ _28 TILs and counting..._
 - [Use cpanm with CPAN::Mini](cpanm/use_cpanm_with_cpan-mini.md)
 - [Use cpanm with carton](cpanm/use_cpanm_with_carton.md)
 
+<a name="curl"></a>
 ### curl
 
 - [More POST Parameters](curl/more_post_parameters.md)
 
+<a name="debian"></a>
 ### Debian
 
 - [How to enquire version](debian/how_to_enquire_version.md)
 - [Add user to sudoers group](debian/add_user_to_sudoers.md)
 
+<a name="docker"></a>
 ### Docker
 
 - [Mount shared folder](docker/mount_shared_folder.md)
 
+<a name="jq"></a>
 ### jq
 
 - [Use jq](jq/use_jq.md)
 
+<a name="liquid-prompt"></a>
 ### Liquid Prompt
 
 - [Install Liquid Prompt](liquidprompt/install_liquidprompt.md)
 
+<a name="osx"></a>
 ### OSX
 
 - [Lock screen shortcuts](osx/lock_screen_shortcuts.md)
 
+<a name="postgresql"></a>
 ### Postgresql
 
 - [Setting the prompt](postgresql/setting_the_prompt.md)
 
+<a name="python"></a>
 ### Python
 
 - [Old-school string formatting](python/old-school_string_formatting.md)
 
+<a name="smartcd"></a>
 ### smartcd
 
 - [Install smartcd](smartcd/install_smartcd.md)
 
+<a name="sqlplus"></a>
 ### sqlplus
 
 - [Output to a file](sqlplus/outputting_to_a_file.md)
 
+<a name="vmware-fusion"></a>
 ### VMware Fusion
 
 - [Install VMware Tools](fusion/install_vmware_tools.md)
 - [Configure Debian 7](fusion/mount_shared_folder.md)
 
+<a name="about"></a>
 ## About
 
 I have for a long time maintained notes in a public wiki, finding the TIL of 
@@ -118,12 +134,14 @@ Josh Branchaud [jbranchaud/til](https://github.com/jbranchaud/til) was an eye-op
 
 I plan to migrate my earlier notes, so they are more easily accessible here as TIL snippets, this will be done when I have the time, one TIL at a time :-)
 
+<a name="additional-til-collections"></a>
 ## Additional TIL Collections
 
 * [Today I Learned by Hashrocket](https://til.hashrocket.com)
 * [jwworth/til](https://github.com/jwworth/til)
 * [thoughtbot/til](https://github.com/thoughtbot/til)
 
+<a name="license"></a>
 ## License
 
 &copy; 2016 jonasbn
