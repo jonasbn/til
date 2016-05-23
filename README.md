@@ -10,7 +10,7 @@ _28 TILs and counting..._
 
 ## Categories
 
-<!-- MarkdownTOC depth=3 bracket=round autolink=true autoanchor=true -->
+<!-- MarkdownTOC depth=3 bracket=round autoanchor=true -->
 
     - [ack](#ack)
     - [Bash](#bash)
