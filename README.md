@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I have learned from day to day working with computers and technology as a computer programmer and every day computer user.
 
-_28 TILs and counting..._
+_29 TILs and counting..._
 
 ---
 
@@ -73,6 +73,7 @@ _28 TILs and counting..._
 ### curl
 
 - [More POST Parameters](curl/more_post_parameters.md)
+- [Handling shell sensitive characters in URL](curl/handling_shell_sensitive_characters_in_url.md)
 
 <a name="debian"></a>
 ### Debian
