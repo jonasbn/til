@@ -100,7 +100,7 @@ _28 TILs and counting..._
 
 - [Lock screen shortcuts](osx/lock_screen_shortcuts.md)
 - [Speak when long running job is done](osx/speak_when_long_running_job_is_done.md)
-- [List available voices for speechsynthesis](osx/list_available_voices for_speechsynthesis.md)
+- [List available voices for speechsynthesis](osx/list_available_voices_for_speechsynthesis.md)
 
 <a name="postgresql"></a>
 ### Postgresql
