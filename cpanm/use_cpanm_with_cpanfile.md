@@ -1,6 +1,6 @@
-# Use cpanm with carton
+# Use cpanm with cpanfile
 
-Sometimes a module might prove difficult to install using `carton` (via your cpanfile)
+You can install dependencies identified in a `cpanfile` directly using `cpanm`
 
 ```bash
 $ cpanm --cpanfile cpanfile --installdeps .
