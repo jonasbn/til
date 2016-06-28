@@ -1,6 +1,6 @@
 # Use jq
 
-`jq` is an JSON command-line processor. A nifty alternative is `httpie`.
+`jq` is an JSON command-line processor.
 
 Check: https://stedolan.github.io/jq/
 
@@ -12,7 +12,7 @@ $ jq '.' < foo-ugly.json > foo-pretty.json
 
 Tip from @chriswinters via Twitter
 
-Or in conjuction with `curl`
+Or in conjuction with `curl`. A nifty alternative is `httpie`.
 
 ```bash
 $ curl http://jsonplaceholder.typicode.com/posts/1 |jq
