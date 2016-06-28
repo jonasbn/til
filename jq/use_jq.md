@@ -1,6 +1,6 @@
 # Use jq
 
-`jq` is an JSON command-line processor
+`jq` is an JSON command-line processor. A nifty alternative is `httpie`.
 
 Check: https://stedolan.github.io/jq/
 
