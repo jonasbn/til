@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I have learned from day to day working with computers and technology as a computer programmer and every day computer user.
 
-_30 TILs and counting..._
+_31 TILs and counting..._
 
 ---
 
@@ -20,6 +20,7 @@ _30 TILs and counting..._
     - [curl](#curl)
     - [Debian](#debian)
     - [Docker](#docker)
+    - [httpie](#httpie)
     - [jq](#jq)
     - [Liquid Prompt](#liquid-prompt)
     - [OSX](#osx)
@@ -87,6 +88,11 @@ _30 TILs and counting..._
 
 - [Mount shared folder](docker/mount_shared_folder.md)
 
+<a name="httpie"></a>
+### httpie
+
+- [Use httpie](httpie/use_httpie.md)
+- 
 <a name="jq"></a>
 ### jq
 
