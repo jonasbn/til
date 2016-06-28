@@ -8,10 +8,9 @@ _31 TILs and counting..._
 
 ---
 
-## Categories
-
 <!-- MarkdownTOC depth=3 bracket=round autoanchor=true autolink=true -->
 
+- [Categories](#categories)
     - [ack](#ack)
     - [Bash](#bash)
     - [Bootstrap](#bootstrap)
@@ -36,6 +35,9 @@ _31 TILs and counting..._
 <!-- /MarkdownTOC -->
 
 ---
+
+<a name="categories"></a>
+## Categories
 
 <a name="ack"></a>
 ### ack
