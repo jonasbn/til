@@ -35,4 +35,6 @@ X-Powered-By: Express
 
 Source used in example: http://jsonplaceholder.typicode.com/
 
+NB: Remember to quote URLs including `&` (ampersand) in the path.
+
 You can with luck install `httpie` via [Homebrew](http://brew.sh/) on your Mac.
