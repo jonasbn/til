@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I have learned from day to day working with computers and technology as a computer programmer and every day computer user.
 
-_31 TILs and counting..._
+_32 TILs and counting..._
 
 ---
 
@@ -89,6 +89,7 @@ _31 TILs and counting..._
 ### Docker
 
 - [Mount shared folder](docker/mount_shared_folder.md)
+- [Use shell to inspect filesystem of layer](docker/use_shell_for_layer.md)
 
 <a name="httpie"></a>
 ### httpie
