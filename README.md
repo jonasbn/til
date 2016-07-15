@@ -4,7 +4,7 @@
 
 This is a collection of notes, tips and tricks and stuff I have learned from day to day working with computers and technology as a computer programmer and every day computer user.
 
-_32 TILs and counting..._
+_33 TILs and counting..._
 
 ---
 
@@ -112,6 +112,7 @@ _32 TILs and counting..._
 - [Lock screen shortcuts](osx/lock_screen_shortcuts.md)
 - [Speak when long running job is done](osx/speak_when_long_running_job_is_done.md)
 - [List available voices for speechsynthesis](osx/list_available_voices_for_speechsynthesis.md)
+- [Set hostname permanently](osx/set_hostname_permanently.md)
 
 <a name="postgresql"></a>
 ### Postgresql
