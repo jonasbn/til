@@ -4,8 +4,6 @@
 
 This is a collection of notes, tips and tricks and stuff I have learned from day to day working with computers and technology as a computer programmer and every day computer user.
 
-_34 TILs and counting..._
-
 ---
 
 <!-- MarkdownTOC depth=3 bracket=round autoanchor=true autolink=true -->
@@ -27,6 +25,7 @@ _34 TILs and counting..._
     - [Python](#python)
     - [smartcd](#smartcd)
     - [sqlplus](#sqlplus)
+    - [tmux](#tmux)
     - [VMware Fusion](#vmware-fusion)
 - [About](#about)
 - [Additional TIL Collections](#additional-til-collections)
@@ -134,6 +133,11 @@ _34 TILs and counting..._
 ### sqlplus
 
 - [Output to a file](sqlplus/outputting_to_a_file.md)
+
+<a name="tmux"></a>
+### tmux
+
+- [Install tmux](tmux/install_tmux.md)
 
 <a name="vmware-fusion"></a>
 ### VMware Fusion
