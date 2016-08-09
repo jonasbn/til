@@ -89,6 +89,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 
 - [Mount shared folder](docker/mount_shared_folder.md)
 - [Use shell to inspect filesystem of layer](docker/use_shell_for_layer.md)
+- [How to read files and stdout from a running docker container](docker/how_to_read_files_and_stdout_from_a_running_docker_container.md)
 
 <a name="httpie"></a>
 ### httpie
