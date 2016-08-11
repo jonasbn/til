@@ -20,6 +20,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
     - [httpie](#httpie)
     - [jq](#jq)
     - [Liquid Prompt](#liquid-prompt)
+    - [Oracle](#oracle)
     - [OSX](#osx)
     - [Postgresql](#postgresql)
     - [Python](#python)
@@ -105,6 +106,11 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 ### Liquid Prompt
 
 - [Install Liquid Prompt](liquidprompt/install_liquidprompt.md)
+
+<a name="oracle"></a>
+### Oracle
+
+- [ORA-21561: OID generation failed](oracle/ora-21561.md)
 
 <a name="osx"></a>
 ### OSX
