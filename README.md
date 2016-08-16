@@ -19,6 +19,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
     - [Docker](#docker)
     - [httpie](#httpie)
     - [jq](#jq)
+    - [Git](#git)
     - [Liquid Prompt](#liquid-prompt)
     - [Oracle](#oracle)
     - [OSX](#osx)
@@ -101,6 +102,11 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 ### jq
 
 - [Use jq](jq/use_jq.md)
+
+<a name="git"></a>
+### Git
+
+- [Resolve conflicts involving binary files](git/resolve_conflicts_involving_binary_files.md)
 
 <a name="liquid-prompt"></a>
 ### Liquid Prompt
