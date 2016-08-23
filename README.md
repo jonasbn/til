@@ -117,6 +117,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 <a name="oracle"></a>
 ### Oracle
 
+- [Convert string to date](oracle/convert_string_to_date.md)
 - [ORA-21561: OID generation failed](oracle/ora-21561.md)
 
 <a name="osx"></a>
