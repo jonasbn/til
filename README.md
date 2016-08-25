@@ -108,6 +108,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 
 - [Resolve conflicts involving binary files](git/resolve_conflicts_involving_binary_files.md)
 - [Delete local and remote branch](git/delete_local_and_remote_branch.md)
+- [Set your email for a repository](git/set_your_email_for_a_repo.md)
 
 <a name="liquid-prompt"></a>
 ### Liquid Prompt
