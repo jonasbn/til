@@ -21,14 +21,20 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
     - [jq](#jq)
     - [Git](#git)
     - [Liquid Prompt](#liquid-prompt)
+    - [Mail.app](#mailapp)
     - [Oracle](#oracle)
     - [OSX](#osx)
     - [Postgresql](#postgresql)
     - [Python](#python)
     - [smartcd](#smartcd)
+    - [SQLite](#sqlite)
     - [sqlplus](#sqlplus)
+    - [Swift](#swift)
+    - [Terminal.app](#terminalapp)
     - [tmux](#tmux)
     - [VMware Fusion](#vmware-fusion)
+    - [XML](#xml)
+    - [YAML](#yaml)
 - [About](#about)
 - [Additional TIL Collections](#additional-til-collections)
 - [License](#license)
@@ -115,6 +121,11 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 
 - [Install Liquid Prompt](liquidprompt/install_liquidprompt.md)
 
+<a name="mailapp"></a>
+### Mail.app
+
+- [Mail file from the commandline](mailapp/mail_file_from_cli.md)
+
 <a name="oracle"></a>
 ### Oracle
 
@@ -145,10 +156,25 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 
 - [Install smartcd](smartcd/install_smartcd.md)
 
+<a name="sqlite"></a>
+### SQLite
+
+- [Emulate schemas](sqlite/emulate_schemas.md)
+
 <a name="sqlplus"></a>
 ### sqlplus
 
 - [Output to a file](sqlplus/outputting_to_a_file.md)
+
+<a name="swift"></a>
+### Swift
+
+- [Learn Swift](swift/learn_swift.md)
+
+<a name="terminalapp"></a>
+### Terminal.app
+
+- [Opening files in an application from the command line](terminal/opening_files_in_applications_from_the_cli.md)
 
 <a name="tmux"></a>
 ### tmux
@@ -160,6 +186,16 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 
 - [Install VMware Tools](fusion/install_vmware_tools.md)
 - [Configure Debian 7](fusion/mount_shared_folder.md)
+
+<a name="xml"></a>
+### XML
+
+- [Avoid entity expansion](xml/avoid_entity_expansion.md)
+
+<a name="yaml"></a>
+### YAML
+
+- [How to syntax check a YAML file](yaml/howto_syntax_check_a_yaml_file.md)
 
 <a name="about"></a>
 ## About
