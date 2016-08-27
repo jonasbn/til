@@ -131,6 +131,8 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 
 - [Convert string to date](oracle/convert_string_to_date.md)
 - [ORA-21561: OID generation failed](oracle/ora-21561.md)
+- [Beware of for force for creation](oracle/beware_of_force_for_creation.md)
+- [How to see Oracle version](oracle/howto_see_oracle_version.md)
 
 <a name="osx"></a>
 ### OSX
