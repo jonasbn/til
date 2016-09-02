@@ -162,7 +162,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 <a name="sql-developer"></a>
 ### SQL Developer
 
-- [Emulate schemas](sqlite/emulate_schemas.md)
+- [Setting UI fontsize](sqldeveloper/setting_ui_fontsize.md)
 
 <a name="sqlite"></a>
 ### SQLite
