@@ -27,6 +27,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
     - [Postgresql](#postgresql)
     - [Python](#python)
     - [smartcd](#smartcd)
+    - [SQL Developer](#sql-developer)
     - [SQLite](#sqlite)
     - [sqlplus](#sqlplus)
     - [Swift](#swift)
@@ -157,6 +158,11 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 ### smartcd
 
 - [Install smartcd](smartcd/install_smartcd.md)
+
+<a name="sql-developer"></a>
+### SQL Developer
+
+- [Emulate schemas](sqlite/emulate_schemas.md)
 
 <a name="sqlite"></a>
 ### SQLite
