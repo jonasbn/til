@@ -162,6 +162,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 ### SQLite
 
 - [Emulate schemas](sqlite/emulate_schemas.md)
+- [Inserting dates](sqlite/insert_dates.md)
 
 <a name="sqlplus"></a>
 ### sqlplus
