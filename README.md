@@ -27,6 +27,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
     - [Postgresql](#postgresql)
     - [Python](#python)
     - [smartcd](#smartcd)
+    - [Sublime Text 3](#sublime-text-3)
     - [SQL Developer](#sql-developer)
     - [SQLite](#sqlite)
     - [sqlplus](#sqlplus)
@@ -158,6 +159,11 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 ### smartcd
 
 - [Install smartcd](smartcd/install_smartcd.md)
+
+<a name="sublime-text-3"></a>
+### Sublime Text 3
+
+- [Set colour scheme per language](sublimetext3/set_colour_scheme_per_language.md)
 
 <a name="sql-developer"></a>
 ### SQL Developer
