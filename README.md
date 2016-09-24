@@ -118,7 +118,8 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 - [Delete local and remote branch](git/delete_local_and_remote_branch.md)
 - [Set your email for a repository](git/set_your_email_for_a_repo.md)
 - [Delete local and remote tags](git/delete_local_and_remote_tags.md)
-
+- [Create a branch from a tag](git/create_branch_from_tag.md)
+- 
 <a name="liquid-prompt"></a>
 ### Liquid Prompt
 
