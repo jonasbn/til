@@ -22,6 +22,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
     - [Git](#git)
     - [Liquid Prompt](#liquid-prompt)
     - [Mail.app](#mailapp)
+    - [Mojolicious](#mojolicious)
     - [Oracle](#oracle)
     - [OSX](#osx)
     - [Postgresql](#postgresql)
@@ -130,6 +131,11 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 ### Mail.app
 
 - [Mail file from the commandline](mailapp/mail_file_from_cli.md)
+
+<a name="mojolicious"></a>
+### Mojolicious
+
+- [Redirecting from one URL to another](mojolicous/redirecting_from_one_url_to_another.md)
 
 <a name="oracle"></a>
 ### Oracle
