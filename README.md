@@ -81,6 +81,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 - [Use cpanm with Module::Build](cpanm/use_cpanm_with_module-build.md)
 - [Use cpanm with CPAN::Mini](cpanm/use_cpanm_with_cpan-mini.md)
 - [Use cpanm with carton](cpanm/use_cpanm_with_carton.md)
+- [Tailing cpanm build log file](cpanm/tailing_cpanm_build_log_file.md)
 
 <a name="curl"></a>
 ### curl
