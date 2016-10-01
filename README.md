@@ -23,6 +23,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
     - [jq](#jq)
     - [FileMerge.app](#filemergeapp)
     - [Git](#git)
+    - [JSON](#json)
     - [Liquid Prompt](#liquid-prompt)
     - [Mail.app](#mailapp)
     - [Markdown](#markdown)
@@ -144,6 +145,11 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 - [Create a branch from a tag](git/create_branch_from_tag.md)
 - [Correct a commit message](git/correct_a_commit_message.md)
 - [Update a branch from master](git/update_branch_from_master.md)
+
+<a name="json"></a>
+### JSON
+
+- [Beware of eval](json/beware_of_eval.md)
 
 <a name="liquid-prompt"></a>
 ### Liquid Prompt
