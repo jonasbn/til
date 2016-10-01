@@ -32,6 +32,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
     - [Python](#python)
     - [smartcd](#smartcd)
     - [Sublime Text 3](#sublime-text-3)
+    - [Subversion](#subversion)
     - [SQL Developer](#sql-developer)
     - [SQLite](#sqlite)
     - [sqlplus](#sqlplus)
@@ -192,6 +193,13 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 ### Sublime Text 3
 
 - [Set colour scheme per language](sublimetext3/set_colour_scheme_per_language.md)
+
+<a name="subversion"></a>
+### Subversion
+
+- [Do something with every repository](subversion/do_something_every_repo.md)
+- [See in what revision a branch was created](subversion/see_in_what_revision_was_a_branch_created.md)
+- [Use Filemerge as diff tool](subversion/use_filemerge_for_diff.md)
 
 <a name="sql-developer"></a>
 ### SQL Developer
