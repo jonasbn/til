@@ -21,6 +21,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
     - [httpie](#httpie)
     - [Jenkins](#jenkins)
     - [jq](#jq)
+    - [FileMerge.app](#filemergeapp)
     - [Git](#git)
     - [Liquid Prompt](#liquid-prompt)
     - [Mail.app](#mailapp)
@@ -127,6 +128,11 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 ### jq
 
 - [Use jq](jq/use_jq.md)
+
+<a name="filemergeapp"></a>
+### FileMerge.app
+
+- [User Filemerge from the commandline](filemergeapp/use_filemerge_from_cli.md)
 
 <a name="git"></a>
 ### Git
