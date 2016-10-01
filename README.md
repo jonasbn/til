@@ -18,6 +18,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
     - [Debian](#debian)
     - [Docker](#docker)
     - [httpie](#httpie)
+    - [Jenkins](#jenkins)
     - [jq](#jq)
     - [Git](#git)
     - [Liquid Prompt](#liquid-prompt)
@@ -108,6 +109,11 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 ### httpie
 
 - [Use httpie](httpie/use_httpie.md)
+
+<a name="jenkins"></a>
+### Jenkins
+
+- [Use a script for freestyle projects](jenkins/use_a_script_for_freestyle_projects.md)
 
 <a name="jq"></a>
 ### jq
