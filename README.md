@@ -13,6 +13,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
     - [Bash](#bash)
     - [Bootstrap](#bootstrap)
     - [carton](#carton)
+    - [CPAN](#cpan)
     - [cpanm](#cpanm)
     - [curl](#curl)
     - [Debian](#debian)
@@ -75,6 +76,12 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 
 - [Use carton](carton/use_carton.md)
 - [Pass flags to arguments to exec](carton/pass_flags_to_arguments_to_exec.md)
+
+<a name="cpan"></a>
+### CPAN
+
+- [Data::FormValidator](cpan/data-formvalidator.md)
+- [Test::Pretty](cpan/test-pretty.md)
 
 <a name="cpanm"></a>
 ### cpanm
