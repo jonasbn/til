@@ -22,6 +22,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
     - [Git](#git)
     - [Liquid Prompt](#liquid-prompt)
     - [Mail.app](#mailapp)
+    - [Markdown](#markdown)
     - [Mojolicious](#mojolicious)
     - [Oracle](#oracle)
     - [OSX](#osx)
@@ -131,6 +132,11 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 ### Mail.app
 
 - [Mail file from the commandline](mailapp/mail_file_from_cli.md)
+
+<a name="markdown"></a>
+### Markdown
+
+- [Use Markdown](markdown/use_markdown.md)
 
 <a name="mojolicious"></a>
 ### Mojolicious
