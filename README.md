@@ -79,6 +79,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 
 - [Use carton](carton/use_carton.md)
 - [Pass flags to arguments to exec](carton/pass_flags_to_arguments_to_exec.md)
+- [Update snapshot cpanfile](carton/update_snapshot_cpanfile.md)
 
 <a name="cpan"></a>
 ### CPAN
