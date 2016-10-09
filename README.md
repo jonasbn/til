@@ -171,6 +171,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 ### Mojolicious
 
 - [Redirecting from one URL to another](mojolicous/redirecting_from_one_url_to_another.md)
+- [Setting up a new application](mojolicious/setting_up_a_new_app.md)
 
 <a name="oracle"></a>
 ### Oracle
