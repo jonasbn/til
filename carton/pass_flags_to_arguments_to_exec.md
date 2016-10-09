@@ -24,6 +24,6 @@ So you have to utilize the `--`  to terminate command-line argument passing for 
 $ carton exec -- prove -v 
 ```
 
-And your test output will be as verbose as you are used too.
+And your test output will be as verbose as you are used to.
 
 [Source: Github](https://github.com/perl-carton/carton/issues/151)
