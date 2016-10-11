@@ -189,6 +189,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 - [List available voices for speechsynthesis](osx/list_available_voices_for_speechsynthesis.md)
 - [Set hostname permanently](osx/set_hostname_permanently.md)
 - [Access iCloud from the cli](osx/access_icloud_drive_from_cli.md)
+- [Install Homebrew](osx/install_homebrew.md)
 
 <a name="postgresql"></a>
 ### Postgresql
