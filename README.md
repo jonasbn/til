@@ -146,7 +146,8 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 - [Create a branch from a tag](git/create_branch_from_tag.md)
 - [Correct a commit message](git/correct_a_commit_message.md)
 - [Update a branch from master](git/update_branch_from_master.md)
-
+- [Rename branch](git/rename_branch.md)
+ 
 <a name="json"></a>
 ### JSON
 
