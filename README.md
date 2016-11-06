@@ -23,6 +23,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
     - [jq](#jq)
     - [FileMerge.app](#filemergeapp)
     - [Git](#git)
+    - [grep](#grep)
     - [JSON](#json)
     - [Liquid Prompt](#liquid-prompt)
     - [Mail.app](#mailapp)
@@ -148,6 +149,10 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 - [Update a branch from master](git/update_branch_from_master.md)
 - [Rename branch](git/rename_branch.md)
  
+<a name="grep"></a>
+### grep
+- [Add colour to grep output](grep/add_colour_to_grep.md)
+
 <a name="json"></a>
 ### JSON
 
