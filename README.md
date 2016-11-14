@@ -223,6 +223,7 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 - [Do something with every repository](subversion/do_something_every_repo.md)
 - [See in what revision a branch was created](subversion/see_in_what_revision_was_a_branch_created.md)
 - [Use Filemerge as diff tool](subversion/use_filemerge_for_diff.md)
+- [Use commit message from file](subversion/use_commit_message_from_file.md)
 
 <a name="sql-developer"></a>
 ### SQL Developer
