@@ -2,10 +2,6 @@
 
 > Today I Learned
 
-This is a collection of notes, tips and tricks and stuff I have learned from day to day working with computers and technology as a computer programmer and every day computer user.
-
----
-
 <!-- MarkdownTOC depth=3 bracket=round autoanchor=true autolink=true -->
 
 - [Categories](#categories)
@@ -50,8 +46,6 @@ This is a collection of notes, tips and tricks and stuff I have learned from day
 - [License](#license)
 
 <!-- /MarkdownTOC -->
-
----
 
 <a name="categories"></a>
 ## Categories
@@ -293,5 +287,4 @@ I plan to migrate my earlier notes, so they are more easily accessible here as T
 
 &copy; 2016 jonasbn
 
-This repository is licensed under the MIT license. See `LICENSE` for
-details. Much is lifted from elsewhere and might by copyrighted under other licenses by the respective authors. I will mention this where applicable and I will link to original sources if possible.
+This repository is licensed under the MIT license. See [`LICENSE`](LICENSE) file for details. Much is lifted from elsewhere and might by copyrighted under other licenses by the respective authors. I will mention this where applicable and I will link to original sources if possible.
