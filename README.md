@@ -1,6 +1,3 @@
-# TIL
-
-> Today I Learned
 
 <!-- MarkdownTOC depth=3 bracket=round autoanchor=true autolink=true -->
 
