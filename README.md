@@ -44,16 +44,16 @@
 
 <!-- /MarkdownTOC -->
 
-<a name="categories"></a>
+
 ## Categories
 
-<a name="ack"></a>
+
 ### ack
 
 - [Install ack](ack/install_ack.md)
 - [Define a custom search filetype scope](ack/define_a_custom_search_filetype_scope.md)
 
-<a name="bash"></a>
+
 ### Bash
 
 - [Implement tab completions](bash/implement_tab_completions.md)
@@ -61,25 +61,25 @@
 - [Repeating an executable continuously](bash/repeating_an_executable_continuously.md)
 - [Slimming history](bash/slimming_history.md)
 
-<a name="bootstrap"></a>
+
 ### Bootstrap
 
 - [Prevent wrapping of contents of code tags](bootstrap/prevent_wrapping_of_contents_of_code_tags.md)
 
-<a name="carton"></a>
+
 ### carton
 
 - [Use carton](carton/use_carton.md)
 - [Pass flags to arguments to exec](carton/pass_flags_to_arguments_to_exec.md)
 - [Update snapshot cpanfile](carton/update_snapshot_cpanfile.md)
 
-<a name="cpan"></a>
+
 ### CPAN
 
 - [Data::FormValidator](cpan/data-formvalidator.md)
 - [Test::Pretty](cpan/test-pretty.md)
 
-<a name="cpanm"></a>
+
 ### cpanm
 
 - [Use cpanm](cpanm/use_cpanm.md)
@@ -89,46 +89,46 @@
 - [Use cpanm with carton](cpanm/use_cpanm_with_carton.md)
 - [Tailing cpanm build log file](cpanm/tailing_cpanm_build_log_file.md)
 
-<a name="curl"></a>
+
 ### curl
 
 - [More POST Parameters](curl/more_post_parameters.md)
 - [Handling shell sensitive characters in URL](curl/handling_shell_sensitive_characters_in_url.md)
 
-<a name="debian"></a>
+
 ### Debian
 
 - [How to enquire version](debian/how_to_enquire_version.md)
 - [Add user to sudoers group](debian/add_user_to_sudoers.md)
 
-<a name="docker"></a>
+
 ### Docker
 
 - [Mount shared folder](docker/mount_shared_folder.md)
 - [Use shell to inspect filesystem of layer](docker/use_shell_for_layer.md)
 - [How to read files and stdout from a running docker container](docker/how_to_read_files_and_stdout_from_a_running_docker_container.md)
 
-<a name="httpie"></a>
+
 ### httpie
 
 - [Use httpie](httpie/use_httpie.md)
 
-<a name="jenkins"></a>
+
 ### Jenkins
 
 - [Use a script for freestyle projects](jenkins/use_a_script_for_freestyle_projects.md)
 
-<a name="jq"></a>
+
 ### jq
 
 - [Use jq](jq/use_jq.md)
 
-<a name="filemergeapp"></a>
+
 ### FileMerge.app
 
 - [User Filemerge from the commandline](filemergeapp/use_filemerge_from_cli.md)
 
-<a name="git"></a>
+
 ### Git
 
 - [Resolve conflicts involving binary files](git/resolve_conflicts_involving_binary_files.md)
@@ -140,38 +140,40 @@
 - [Update a branch from master](git/update_branch_from_master.md)
 - [Rename branch](git/rename_branch.md)
  
-<a name="grep"></a>
+
+
 ### grep
+
 - [Add colour to grep output](grep/add_colour_to_grep.md)
 
-<a name="json"></a>
+
 ### JSON
 
 - [Beware of eval](json/beware_of_eval.md)
 
-<a name="liquid-prompt"></a>
+
 ### Liquid Prompt
 
 - [Install Liquid Prompt](liquidprompt/install_liquidprompt.md)
 
-<a name="mailapp"></a>
+
 ### Mail.app
 
 - [Mail file from the commandline](mailapp/mail_file_from_cli.md)
 
-<a name="markdown"></a>
+
 ### Markdown
 
 - [Use Markdown](markdown/use_markdown.md)
 
-<a name="mojolicious"></a>
+
 ### Mojolicious
 
 - [Redirecting from one URL to another](mojolicous/redirecting_from_one_url_to_another.md)
 - [Setting up a new application](mojolicious/setting_up_a_new_app.md)
 - [Enable logging](mojolicious/enable_logging.md)
 
-<a name="oracle"></a>
+
 ### Oracle
 
 - [Convert string to date](oracle/convert_string_to_date.md)
@@ -179,7 +181,7 @@
 - [Beware of for force for creation](oracle/beware_of_force_for_creation.md)
 - [How to see Oracle version](oracle/howto_see_oracle_version.md)
 
-<a name="osx"></a>
+
 ### OSX
 
 - [Lock screen shortcuts](osx/lock_screen_shortcuts.md)
@@ -189,27 +191,27 @@
 - [Access iCloud from the cli](osx/access_icloud_drive_from_cli.md)
 - [Install Homebrew](osx/install_homebrew.md)
 
-<a name="postgresql"></a>
+
 ### Postgresql
 
 - [Setting the prompt](postgresql/setting_the_prompt.md)
 
-<a name="python"></a>
+
 ### Python
 
 - [Old-school string formatting](python/old-school_string_formatting.md)
 
-<a name="smartcd"></a>
+
 ### smartcd
 
 - [Install smartcd](smartcd/install_smartcd.md)
 
-<a name="sublime-text-3"></a>
+
 ### Sublime Text 3
 
 - [Set colour scheme per language](sublimetext3/set_colour_scheme_per_language.md)
 
-<a name="subversion"></a>
+
 ### Subversion
 
 - [Do something with every repository](subversion/do_something_every_repo.md)
@@ -217,54 +219,54 @@
 - [Use Filemerge as diff tool](subversion/use_filemerge_for_diff.md)
 - [Use commit message from file](subversion/use_commit_message_from_file.md)
 
-<a name="sql-developer"></a>
+
 ### SQL Developer
 
 - [Setting UI fontsize](sqldeveloper/setting_ui_fontsize.md)
 
-<a name="sqlite"></a>
+
 ### SQLite
 
 - [Emulate schemas](sqlite/emulate_schemas.md)
 - [Inserting dates](sqlite/insert_dates.md)
 
-<a name="sqlplus"></a>
+
 ### sqlplus
 
 - [Output to a file](sqlplus/outputting_to_a_file.md)
 
-<a name="swift"></a>
+
 ### Swift
 
 - [Learn Swift](swift/learn_swift.md)
 
-<a name="terminalapp"></a>
+
 ### Terminal.app
 
 - [Opening files in an application from the command line](terminal/opening_files_in_applications_from_the_cli.md)
 
-<a name="tmux"></a>
+
 ### tmux
 
 - [Install tmux](tmux/install_tmux.md)
 
-<a name="vmware-fusion"></a>
+
 ### VMware Fusion
 
 - [Install VMware Tools](fusion/install_vmware_tools.md)
 - [Configure Debian 7](fusion/mount_shared_folder.md)
 
-<a name="xml"></a>
+
 ### XML
 
 - [Avoid entity expansion](xml/avoid_entity_expansion.md)
 
-<a name="yaml"></a>
+
 ### YAML
 
 - [How to syntax check a YAML file](yaml/howto_syntax_check_a_yaml_file.md)
 
-<a name="about"></a>
+
 ## About
 
 I have for a long time maintained notes in a public wiki, finding the TIL of 
@@ -272,14 +274,14 @@ Josh Branchaud [jbranchaud/til](https://github.com/jbranchaud/til) was an eye-op
 
 I plan to migrate my earlier notes, so they are more easily accessible here as TIL snippets, this will be done when I have the time, one TIL at a time :-)
 
-<a name="additional-til-collections"></a>
+
 ## Additional TIL Collections
 
 * [Today I Learned by Hashrocket](https://til.hashrocket.com)
 * [jwworth/til](https://github.com/jwworth/til)
 * [thoughtbot/til](https://github.com/thoughtbot/til)
 
-<a name="license"></a>
+
 ## License
 
 &copy; 2016 jonasbn
