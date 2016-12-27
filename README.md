@@ -1,5 +1,5 @@
 
-<!-- MarkdownTOC depth=3 bracket=round autoanchor=true autolink=true -->
+<!-- MarkdownTOC depth=3 bracket=round autoanchor=false autolink=true -->
 
 - [Categories](#categories)
     - [ack](#ack)
