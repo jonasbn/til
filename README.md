@@ -211,6 +211,7 @@
 ### smartcd
 
 - [Install smartcd](smartcd/install_smartcd.md)
+- [Use smartcd with tabs](smartcd/use_with_tabs.md)
 
 
 ### Sublime Text 3
