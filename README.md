@@ -24,6 +24,7 @@
     - [Mojolicious](#mojolicious)
     - [Oracle](#oracle)
     - [OSX](#osx)
+    - [Perl](#perl)
     - [Postgresql](#postgresql)
     - [Python](#python)
     - [smartcd](#smartcd)
@@ -191,6 +192,10 @@
 - [Set hostname permanently](osx/set_hostname_permanently.md)
 - [Access iCloud from the cli](osx/access_icloud_drive_from_cli.md)
 - [Install Homebrew](osx/install_homebrew.md)
+
+### Perl
+
+- [View generated SQL when using DBIx::Class](perl/view_generated_sql_when_using_dbix-class.md)
 
 
 ### Postgresql
