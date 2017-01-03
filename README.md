@@ -141,8 +141,8 @@
 - [Correct a commit message](git/correct_a_commit_message.md)
 - [Update a branch from master](git/update_branch_from_master.md)
 - [Rename branch](git/rename_branch.md)
- 
-
+- [Get a cheatsheet](git/get_a_cheatsheet.md) 
+- [Update form from original repository](git/update_fork_from_original_repository.md)
 
 ### grep
 
