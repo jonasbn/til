@@ -1,6 +1,6 @@
 # Tailing cpanm build logfile
 
-When using tools like `cpanm` want to be able to `tail` the log file generated for build. `cpanm` offers a canonical log file at: `$HOME/.cpanm/build.log` in addition to the temporary log files located in the `$HOME/.cpan,/work/*` directories.
+When using tools like `cpanm` want to be able to `tail` the log file generated for build. `cpanm` offers a canonical log file at: `$HOME/.cpanm/build.log` in addition to the temporary log files located in the `$HOME/.cpanm/work/*` directories.
 
 But the `$HOME/.cpanm/build.log` changes with every build, so `tail -f $HOME/.cpanm/build.log` falls short.
 
