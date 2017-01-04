@@ -15,3 +15,5 @@ MacBook Pro keyboard:
 ```
 
 Apparently the power symbol (IEC 60417-5009) is not easily available, it is not in [the list of mac symbols](http://www.danrodney.com/mac/) I have been able to dig up and it is not represented in the unicode table. You can read more about an initiative to get it included on: http://unicodepowersymbol.com/
+
+Or if you use **Alfred** you can simply write `lock`
