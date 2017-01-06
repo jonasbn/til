@@ -197,6 +197,7 @@
 ### Perl
 
 - [View generated SQL when using DBIx::Class](perl/view_generated_sql_when_using_dbix-class.md)
+- [Create Test Coverage Report Using Dist::Zilla](perl/create_test_coverage_report_uzing_dist-zilla.md)
 
 
 ### Postgresql
