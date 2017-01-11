@@ -10,7 +10,7 @@ $ cd myfork
 $ git remote add parent <parent-url>
 
 # pull from the parent
-$ git pull parent
+$ git pull parent <branch>
 
 # commit the changes if you like them
 $ git commit -a
