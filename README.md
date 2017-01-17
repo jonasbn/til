@@ -62,6 +62,7 @@
 - [Repeating an executable continuously](bash/repeating_an_executable_continuously.md)
 - [Slimming history](bash/slimming_history.md)
 - [Reading arguments from the command line](bash/reading_cli_arguments.md)
+- [Copy a file to multiple directories](bash/copy_a_file_to_multiple_directories.md)
 
 
 ### Bootstrap
