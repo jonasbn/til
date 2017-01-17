@@ -6,6 +6,7 @@
     - [Bash](#bash)
     - [Bootstrap](#bootstrap)
     - [carton](#carton)
+    - [chrome](#chrome)
     - [CPAN](#cpan)
     - [cpanm](#cpanm)
     - [curl](#curl)
@@ -78,6 +79,10 @@
 - [Use carton](carton/use_carton.md)
 - [Pass flags to arguments to exec](carton/pass_flags_to_arguments_to_exec.md)
 - [Update snapshot cpanfile](carton/update_snapshot_cpanfile.md)
+
+### chrome
+
+- [Add search shortcuts](chrome/add_search_shortcuts.md)
 
 
 ### CPAN
