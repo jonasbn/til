@@ -29,6 +29,7 @@
     - [Perl](#perl)
     - [Postgresql](#postgresql)
     - [Python](#python)
+    - [sed](#sed)
     - [smartcd](#smartcd)
     - [Sublime Text 3](#sublime-text-3)
     - [Subversion](#subversion)
@@ -222,6 +223,12 @@
 ### Python
 
 - [Old-school string formatting](python/old-school_string_formatting.md)
+
+
+
+### sed
+
+- [Test Command Using Echo](sed/test_command_using_echo.md)
 
 
 ### smartcd
