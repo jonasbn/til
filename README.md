@@ -258,6 +258,7 @@
 ### SQL Developer
 
 - [Setting UI fontsize](sqldeveloper/setting_ui_fontsize.md)
+- [Setting dateformat](sqldeveloper/setting_dateformat.md)
 
 
 ### SQLite
