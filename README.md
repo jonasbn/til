@@ -17,6 +17,7 @@
     - [jq](#jq)
     - [FileMerge.app](#filemergeapp)
     - [Git](#git)
+    - [Github](#github)
     - [grep](#grep)
     - [JSON](#json)
     - [Liquid Prompt](#liquid-prompt)
@@ -152,6 +153,10 @@
 - [Get a cheatsheet](git/get_a_cheatsheet.md) 
 - [Update fork from original repository](git/update_fork_from_original_repository.md)
 - [Tag a specific revision](git/tag_a_specific_revision.md)
+
+### Github
+
+- [Ignore whitespace changes](github/ignore_whitespace_changes.md)
 
 
 ### grep
