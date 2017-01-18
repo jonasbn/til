@@ -159,6 +159,8 @@
 - [Get a cheatsheet](git/get_a_cheatsheet.md) 
 - [Update fork from original repository](git/update_fork_from_original_repository.md)
 - [Tag a specific revision](git/tag_a_specific_revision.md)
+- [Make a branch new master](git/make_a_branch_new_master.md)
+
 
 ### Github
 
