@@ -28,6 +28,7 @@
     - [Oracle](#oracle)
     - [OSX](#osx)
     - [Perl](#perl)
+    - [Perlbrew](#perlbrew)
     - [Postgresql](#postgresql)
     - [Python](#python)
     - [sed](#sed)
@@ -221,6 +222,12 @@
 - [View generated SQL when using DBIx::Class](perl/view_generated_sql_when_using_dbix-class.md)
 - [Create Test Coverage Report Using Dist::Zilla](perl/create_test_coverage_report_uzing_dist-zilla.md)
 
+
+### Perlbrew
+
+- [Install perlbrew](install_perlbrew.md)
+- [Eliminate compilation warnings on OSX](eliminate_compilation_warnings_on_osx.md)
+- [Uninstall perlbrew](uninstall_perlbrew.md)
 
 ### Postgresql
 
