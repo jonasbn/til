@@ -218,6 +218,7 @@
 - [Access iCloud from the cli](osx/access_icloud_drive_from_cli.md)
 - [Install Homebrew](osx/install_homebrew.md)
 - [Debugging Issues with Dynamic Libraries](osx/debugging_issues_with_dynamic_libs.md)
+- [Uninstall MacPorts](OSX/uninstall_macports.md)
 
 ### Perl
 
