@@ -243,7 +243,7 @@
 
 ### sed
 
-- [Test Command Using Echo](sed/test_command_using_echo.md)
+- [Test Command Using echo](sed/test_command_using_echo.md)
 
 
 ### smartcd
