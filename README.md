@@ -277,6 +277,7 @@
 
 - [Emulate schemas](sqlite/emulate_schemas.md)
 - [Inserting dates](sqlite/insert_dates.md)
+- [Defaulting to now for date](sqlite/default_now_for_date.md)
 
 
 ### sqlplus
