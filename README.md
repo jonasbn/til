@@ -5,6 +5,7 @@
     - [ack](#ack)
     - [Bash](#bash)
     - [Bootstrap](#bootstrap)
+    - [brew](#brew)
     - [carton](#carton)
     - [chrome](#chrome)
     - [CPAN](#cpan)
@@ -74,6 +75,11 @@
 ### Bootstrap
 
 - [Prevent wrapping of contents of code tags](bootstrap/prevent_wrapping_of_contents_of_code_tags.md)
+
+
+### brew
+
+- [Stop brew from calling home](brew/stop_brew_from_calling_home.md)
 
 
 ### carton
