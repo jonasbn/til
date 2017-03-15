@@ -174,7 +174,7 @@
 ### Github
 
 - [Ignore whitespace changes](github/ignore_whitespace_changes.md)
-
+- [Test Markdown rendering before making public](github/test_markdown_rendering_before_making_public.md)
 
 ### grep
 
