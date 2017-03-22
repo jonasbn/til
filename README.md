@@ -131,6 +131,7 @@
 - [Use ctop](docker/use_ctop.md)
 - [Define default network addresses used for containers](define_default_network_addresses_used_for_containers.md)
 
+
 ### Dropbox
 
 - [# Download instead of playing multimedia file from Dropbox](dropbox/download_multimedia.md)
@@ -176,6 +177,8 @@
 
 - [Ignore whitespace changes](github/ignore_whitespace_changes.md)
 - [Test Markdown rendering before making public](github/test_markdown_rendering_before_making_public.md)
+- [How to get the email address of a github user](github/get_email_of_github_user.md)
+
 
 ### grep
 
