@@ -5,7 +5,7 @@
     - [ack](#ack)
     - [Bash](#bash)
     - [Bootstrap](#bootstrap)
-    - [brew](#brew)
+    - [Homebrew](#homebrew)
     - [carton](#carton)
     - [chrome](#chrome)
     - [CPAN](#cpan)
@@ -77,9 +77,10 @@
 - [Prevent wrapping of contents of code tags](bootstrap/prevent_wrapping_of_contents_of_code_tags.md)
 
 
-### brew
+### Homebrew
 
-- [Stop brew from calling home](brew/stop_brew_from_calling_home.md)
+- [Stop brew from calling home](homebrew/stop_brew_from_calling_home.md)
+- [Cleaning your homebrew cellar](homebrew/clean.md)
 
 
 ### carton
