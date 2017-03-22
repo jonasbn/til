@@ -134,7 +134,7 @@
 
 ### Dropbox
 
-- [# Download instead of playing multimedia file from Dropbox](dropbox/download_multimedia.md)
+- [Download instead of playing multimedia file from Dropbox](dropbox/download_multimedia.md)
 
 
 ### httpie
