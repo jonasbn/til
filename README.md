@@ -26,11 +26,13 @@
     - [Mail.app](#mailapp)
     - [Markdown](#markdown)
     - [Mojolicious](#mojolicious)
+    - [MySQL](#mysql)
     - [Oracle](#oracle)
     - [OSX](#osx)
     - [Perl](#perl)
     - [Perlbrew](#perlbrew)
     - [Postgresql](#postgresql)
+    - [Prolog](#prolog)
     - [Python](#python)
     - [sed](#sed)
     - [smartcd](#smartcd)
@@ -213,6 +215,11 @@
 - [Enable logging](mojolicious/enable_logging.md)
 
 
+### MySQL
+
+- [Setting the prompt](mysql/setting_the_prompt.md)
+
+
 ### Oracle
 
 - [Convert string to date](oracle/convert_string_to_date.md)
@@ -247,6 +254,11 @@
 ### Postgresql
 
 - [Setting the prompt](postgresql/setting_the_prompt.md)
+
+
+### Prolog
+
+- [Prolog resources](prolog/prolog.md)
 
 
 ### Python
