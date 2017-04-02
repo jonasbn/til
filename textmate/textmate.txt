@@ -1,0 +1,297 @@
+Textmate has a marvelous Perl bundle, also available on Github.
+One of the interesting functions is a hook where your Perl code is evaluated when you save your Perl file. This is done using a script named perlcheckmate.pl.
+
+So if I save this half-finished file, I get the following warning:
+
+So I correct the file and save again:
+
+This is really useful, but my problem with perlcheckmate.pl is an issue of it using the system perl interpreter and not respecting the perl interpreter I use via perlbrew.
+original perlcheckmate.pl
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+#!/usr/bin/perl
+use strict;
+# cwd should be $TM_DIRECTORY
+# filename to check is $ARGV[0]
+my $file = $ARGV[0];
+my %file_source;
+sub read_source {
+    require File::Spec;
+    require File::Basename;
+    my $file = shift;
+    my $file_source;
+    { local $/ = undef; open F, "<$ENV{TM_FILEPATH}"; $file_source = <F>; close F }
+    my @file_source = split /\r?\n/, $file_source;
+    my $path = $file;
+    if (!-f $path || !File::Spec->file_name_is_absolute($path)) {
+        $path = File::Spec->rel2abs($path, $ENV{TM_DIRECTORY});
+        if (!-e $path) {
+            $path = undef;
+            my $base = File::Basename::basename($path);
+            foreach (@INC) {
+                my $file = File::Spec->catfile($_, $base);
+                $path = $file, last if -e $file;
+            }
+        }
+    }
+    $file_source{$file} = { source => \@file_source, path => $path };
+}
+my @lines = `perl -Tcw "$file" 2>&1`;
+my $lines = join '', @lines;
+if ((scalar(@lines) == 1) && ($lines =~ m/ syntax OK$/s)) {
+    exit 0;
+}
+$lines =~ s/&/&amp;/g;
+$lines =~ s/</&lt;/g;
+$lines =~ s/>/&gt;/g;
+# link line numbers to source
+$lines =~ s%^((?:.+)[ ]+at[ ]+(.+)[ ]+line[ ]+)(\d+)[.,]%
+    my $pre = $1;
+    my $file = $2;
+    my $lnum = $3;
+    my $col;
+    if ($pre =~ m/"([^"]+)"/) {
+        read_source($file)
+            unless exists $file_source{$file};
+        my $source_line = $file_source{$file}{source}[$lnum-1];
+        $file = $file_source{$file}{path};
+        $col = index($source_line, $1);
+        $col = $col != -1 ? $col + 1 : 0;
+    } else {
+        if ($file !~ m!^/!) {
+            read_source($file)
+                unless exists $file_source{$file};
+            $file = $file_source{$file}{path};
+        }
+    }
+    my $url = qq{txmt://open?url=file://$file&amp;line=$lnum};
+    $url .= "&amp;column=$col" if $col;
+    qq{$pre<a href="$url">$lnum</a>.};
+%gmex;
+my $output = '<pre style="word-wrap: break-word;">';
+$output .= $lines;
+$output .= '</pre>';
+print $output;
+This script is located in: /Applications/TextMate.app/Contents/SharedSupport/Bundles/Perl.tmbundle/Support
+To get this to work with perlbrew, add the following line close to the top:
+use Env qw($PERLBREW_PERL $PERLBREW_ROOT);
+And around line: 28
+Additions
+28
+29
+30
+31
+32
+33
+34
+my $perl;
+if ($PERLBREW_PERL) {
+    $perl = "$PERLBREW_ROOT/perls/$PERLBREW_PERL/bin/perl";
+} else {
+    $perl = 'perl';
+}
+my @lines = `"$perl" -Tcw "$file" 2>&1`;
+This is the complete version.
+modified checkmate.pl
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+#!/usr/bin/perl
+use strict;
+use Env qw($PERLBREW_PERL $PERLBREW_ROOT);
+# cwd should be $TM_DIRECTORY
+# filename to check is $ARGV[0]
+my $file = $ARGV[0];
+my %file_source;
+sub read_source {
+    require File::Spec;
+    require File::Basename;
+    my $file = shift;
+    my $file_source;
+    { local $/ = undef; open F, "<$ENV{TM_FILEPATH}"; $file_source = <F>; close F }
+    my @file_source = split /\r?\n/, $file_source;
+    my $path = $file;
+    if (!-f $path || !File::Spec->file_name_is_absolute($path)) {
+        $path = File::Spec->rel2abs($path, $ENV{TM_DIRECTORY});
+        if (!-e $path) {
+            $path = undef;
+            my $base = File::Basename::basename($path);
+            foreach (@INC) {
+                my $file = File::Spec->catfile($_, $base);
+                $path = $file, last if -e $file;
+            }
+        }
+    }
+    $file_source{$file} = { source => \@file_source, path => $path };
+}
+my $perl;
+if ($PERLBREW_PERL) {
+    $perl = "$PERLBREW_ROOT/perls/$PERLBREW_PERL/bin/perl";
+} else {
+    $perl = 'perl';
+}
+my @lines = `"$perl" -Tcw "$file" 2>&1`;
+my $lines = join '', @lines;
+if ((scalar(@lines) == 1) && ($lines =~ m/ syntax OK$/s)) {
+    exit 0;
+}
+$lines =~ s/&/&amp;/g;
+$lines =~ s/</&lt;/g;
+$lines =~ s/>/&gt;/g;
+# link line numbers to source
+$lines =~ s%^((?:.+)[ ]+at[ ]+(.+)[ ]+line[ ]+)(\d+)[.,]%
+    my $pre = $1;
+    my $file = $2;
+    my $lnum = $3;
+    my $col;
+    if ($pre =~ m/"([^"]+)"/) {
+        read_source($file)
+            unless exists $file_source{$file};
+        my $source_line = $file_source{$file}{source}[$lnum-1];
+        $file = $file_source{$file}{path};
+        $col = index($source_line, $1);
+        $col = $col != -1 ? $col + 1 : 0;
+    } else {
+        if ($file !~ m!^/!) {
+            read_source($file)
+                unless exists $file_source{$file};
+            $file = $file_source{$file}{path};
+        }
+    }
+    my $url = qq{txmt://open?url=file://$file&amp;line=$lnum};
+    $url .= "&amp;column=$col" if $col;
+    qq{$pre<a href="$url">$lnum</a>.};
+%gmex;
+my $output = '<pre style="word-wrap: break-word;">';
+$output .= $lines;
+$output .= '</pre>';
+print $output;
+The modified version is also available on Github.

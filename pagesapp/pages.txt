@@ -1,0 +1,19 @@
+Pages
+Skip to end of metadata
+Created by Jonas B. Nielsen, last modified on Aug 14, 2014 Go to start of metadata
+Howtos
+How do I delete a page in Pages 5?
+How do I insert a watermark in all Pages?
+Issues
+Columns in headers/footers overlap
+Howtos
+How do I delete a page in Pages 5?
+I did not know whether to list this under Issues or Howtos, it is close to be an issue due to it's counterintuitive behavior.
+http://ionfreshstart.com/1436/faq-how-do-i-delete-a-page-in-iwork-pages/
+How do I insert a watermark in all Pages?
+Please note that this recipe is for Pages earlier than 5, but it can be done using the same recipe, some of the menus are a bit different, but overall it is the same.
+http://www.macexpertguide.com/2012/11/22/tutorial-insert-watermarks-apple-pages-mac/
+Issues
+Columns in headers/footers overlap
+This is not a real resolution, but a hint on how to avoid this:
+http://apple.stackexchange.com/questions/112216/remove-header-columns-in-page-5-0
