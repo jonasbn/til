@@ -210,7 +210,7 @@
 
 ### Mojolicious
 
-- [Redirecting from one URL to another](mojolicous/redirecting_from_one_url_to_another.md)
+- [Redirecting from one URL to another](mojolicious/redirecting_from_one_url_to_another.md)
 - [Setting up a new application](mojolicious/setting_up_a_new_app.md)
 - [Enable logging](mojolicious/enable_logging.md)
 
