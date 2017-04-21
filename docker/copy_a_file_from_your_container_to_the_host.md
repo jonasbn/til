@@ -1,6 +1,6 @@
 # Copy a file from your container to the host operating system
 
-It is possible to copy files from your **Docker** container onto your host operating system, this is quite useful for `cpanfile.snapshot` files generated in the container etc.
+It is possible to copy files from your **Docker** container onto your host operating system, this is quite useful for `cpanfile.snapshot` files etc. generated in the container
 
 ```bash
 $ docker cp <containerId>:/file/path/within/container /host/path/target
