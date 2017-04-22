@@ -136,6 +136,9 @@
 - [Use ctop](docker/use_ctop.md)
 - [Define default network addresses used for containers](docker/define_default_network_addresses_used_for_containers.md)
 - [Copy a file from your container to the host operating system](docker/copy_a_file_from_your_container_to_the_host.md)
+- [Caching Docker build step](docker/caching_build_step.md)
+- [Show layers of Docker image](docker/show_layers_of_docker_image.md)
+
 
 ### Dropbox
 
