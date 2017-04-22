@@ -5,8 +5,7 @@ It can be useful to have dates default to _now_ when inserting records.
 ```sql
 CREATE TABLE test (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
-  t TIMESTAMP
-  DEFAULT CURRENT_TIMESTAMP
+  t TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
 
