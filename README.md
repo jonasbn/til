@@ -90,6 +90,8 @@
 - [Use carton](carton/use_carton.md)
 - [Pass flags to arguments to exec](carton/pass_flags_to_arguments_to_exec.md)
 - [Update snapshot cpanfile](carton/update_snapshot_cpanfile.md)
+- [Use PERL_CARTON_MIRROR](carton/use_perl_carton_mirror.md)
+
 
 ### chrome
 
@@ -359,4 +361,4 @@ I plan to migrate my earlier notes, so they are more easily accessible here as T
 
 &copy; 2016-2017 jonasbn
 
-This repository is licensed under the MIT license. See [LICENSE](LICENSE) file for details. Much is lifted from elsewhere and might by copyrighted under other licenses by the respective authors. I will mention this where applicable and I will link to original sources if possible.
+This repository is licensed under the MIT license. See [LICENSE](LICENSE) file for details. Much is lifted from elsewhere and might by copyrighted under other licenses by the respective authors. I will mention this where applicable and I will link to original sources if possible.s
