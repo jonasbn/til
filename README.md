@@ -218,6 +218,7 @@
 - [Redirecting from one URL to another](mojolicious/redirecting_from_one_url_to_another.md)
 - [Setting up a new application](mojolicious/setting_up_a_new_app.md)
 - [Enable logging](mojolicious/enable_logging.md)
+- [Mojolicious::Controller respond_to and template parameter](mojolicious/respond_to_and_template_parameter.md)
 
 
 ### MySQL
