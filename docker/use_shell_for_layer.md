@@ -20,7 +20,7 @@ If you want to run it yourself (a variation of the first tip)
 
 ```bash
 $ docker run -it --entrypoint /bin/bash <imagename>
-``
+```
 
 Do read the rest of the Stack Oveflow entry, it holds a lot of good information.
 
