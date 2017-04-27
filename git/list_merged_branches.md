@@ -24,4 +24,5 @@ Hence listing all branches on the remote:
 $ git branch -r
 ```
 
-[Source: Git Tips podcast by Chris Hunt](https://www.briefs.fm/git-tips/24)
+[Source: Git Tips podcast by Chris Hunt](https://www.briefs.fm/git-tips/24) / @chrishunt
+
