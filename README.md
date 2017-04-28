@@ -15,6 +15,7 @@
     - [Docker](#docker)
     - [Dropbox](#dropbox)
     - [httpie](#httpie)
+    - [irssi](#irssi)
     - [Jenkins](#jenkins)
     - [jq](#jq)
     - [FileMerge.app](#filemergeapp)
@@ -148,6 +149,12 @@
 ### httpie
 
 - [Use httpie](httpie/use_httpie.md)
+
+
+### irssi
+
+- [Use password authentication on Freenode](irssu/use_password_authentication_on_freenode.md)
+
 
 
 ### Jenkins
