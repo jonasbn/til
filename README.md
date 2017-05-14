@@ -84,6 +84,7 @@
 
 - [Stop brew from calling home](homebrew/stop_brew_from_calling_home.md)
 - [Cleaning your homebrew cellar](homebrew/clean.md)
+- [Installing bash](homebrew/installing_bash.md)
 
 
 ### carton
