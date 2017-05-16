@@ -13,6 +13,7 @@
 	- [Debian](#debian)
 	- [Docker](#docker)
 	- [Dropbox](#dropbox)
+	- [EditorConfig](#editorconfig)
 	- [Homebrew](#homebrew)
 	- [httpie](#httpie)
 	- [irssi](#irssi)
@@ -140,6 +141,12 @@
 - [Download instead of playing multimedia file from Dropbox](dropbox/download_multimedia.md)
 
 
+
+### EditorConfig
+
+- [Perl](editorconfig/perl.md)
+
+ 
 ### Homebrew
 
 - [Stop brew from calling home](homebrew/stop_brew_from_calling_home.md)
