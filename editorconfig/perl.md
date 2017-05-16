@@ -23,3 +23,4 @@ I have listed a single `charset`: `utf-8` since I have not observed much use for
 
 And finally I have set the `indent_size` to `4`. `4` being the one recommended in [the Perl style guide](https://perldoc.perl.org/perlstyle.html). You could go with `2` being the setting preferred by a lot of **Perl** programmers and I think is defined as the default setting for the Mojolicious web framework syntax plugin for **SublimeText**.
 
+Source: [EditorConfig](http://editorconfig.org/)
