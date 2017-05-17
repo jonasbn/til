@@ -355,7 +355,7 @@
 ### XML
 
 - [Avoid entity expansion](xml/avoid_entity_expansion.md)
-
+- [Fast XML/XSD validation on the command line](xml/fast_xml-xsd_validation_on_cli.md)
 
 ### YAML
 
