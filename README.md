@@ -234,6 +234,7 @@
 - [Setting up a new application](mojolicious/setting_up_a_new_app.md)
 - [Enable logging](mojolicious/enable_logging.md)
 - [Mojolicious::Controller respond_to and template parameter](mojolicious/respond_to_and_template_parameter.md)
+- [Enable syntax_highlighting for configuration files](mojolicious/enable_syntax_highlighting_for_configuration_files.md)
 
 
 ### MySQL
