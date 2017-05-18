@@ -15,7 +15,7 @@ indent_size = 4
 
 I also created a snippet for use with the **SublimeText** **EditorConfig** [snippet package](https://github.com/mfuentesg/EditorConfigSnippets).
 
-It supports the following suffixes: `pl` (scripts), `pm` (modules), `t` (test files) and `PL` (build files). I was considering `epl`, which is used for template files ((Mojo::Template)[https://metacpan.org/pod/Mojo::Template]) for the the Mojolicious web framework, but I decided to leave those out for now.
+It supports the following suffixes: `pl` (scripts), `pm` (modules), `t` (test files) and `PL` (build files). I was considering `epl`, which is used for template files ([Mojo::Template](https://metacpan.org/pod/Mojo::Template)) for the the Mojolicious web framework, but I decided to leave those out for now.
 
 `max_line_length` is set to `off`, `80` could be set since this balances with the default from [`perltidy`](http://perltidy.sourceforge.net/stylekey.html#line_length_setting) a **Perl** source code formatter.
 
