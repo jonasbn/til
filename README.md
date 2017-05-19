@@ -46,6 +46,7 @@
 	- [Swift](#swift)
 	- [Terminal.app](#terminalapp)
 	- [tmux](#tmux)
+	- [Ubuntu](#ubuntu)
 	- [VMware Fusion](#vmware-fusion)
 	- [XML](#xml)
 	- [YAML](#yaml)
@@ -344,6 +345,11 @@
 ### tmux
 
 - [Install tmux](tmux/install_tmux.md)
+
+
+### Ubuntu
+
+- [Install updates via command line](ubuntu/install_updates_via_cli.md)
 
 
 ### VMware Fusion
