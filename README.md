@@ -75,6 +75,7 @@
 - [Reading arguments from the command line](bash/reading_cli_arguments.md)
 - [Copy a file to multiple directories](bash/copy_a_file_to_multiple_directories.md)
 - [Replace a file in multiple directories](bash/replace_a_file_in_multiple_directories.md)
+- [Create directory for own bash completions](bash/create_dir_for_own_completions.md)
 
 
 ### Bootstrap
