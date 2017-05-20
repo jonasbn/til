@@ -19,7 +19,7 @@ $ mkdir ~/.bash_completion.d
 Copy your completions into the newly created directory:
 
 ```bash
-$ cp hist ~/.bash_completion.d/
+$ cp your_bash_completion ~/.bash_completion.d/
 ```
 
 Start a new shell and you should be good to go.
