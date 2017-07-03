@@ -13,6 +13,7 @@
 	- [Debian](#debian)
 	- [Docker](#docker)
 	- [Dropbox](#dropbox)
+	- [dzil](#dzil)
 	- [EditorConfig](#editorconfig)
 	- [Homebrew](#homebrew)
 	- [httpie](#httpie)
@@ -141,6 +142,12 @@
 ### Dropbox
 
 - [Download instead of playing multimedia file from Dropbox](dropbox/download_multimedia.md)
+
+
+### dzil
+
+- [Make coverage tests](dzil/use_cover.md)
+- [Use cpanfile](dzil/cpanfile.md)
 
 
 ### EditorConfig
