@@ -1,4 +1,6 @@
 
+## Table of Contents
+
 <!-- MarkdownTOC depth=3 bracket=round autoanchor=false autolink=true -->
 
 - [Categories](#categories)
