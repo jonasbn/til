@@ -287,6 +287,7 @@
 - [Eliminate compilation warnings on OSX](eliminate_compilation_warnings_on_osx.md)
 - [Uninstall perlbrew](uninstall_perlbrew.md)
 
+
 ### Postgresql
 
 - [Setting the prompt](postgresql/setting_the_prompt.md)
@@ -302,10 +303,12 @@
 - [Old-school string formatting](python/old-school_string_formatting.md)
 
 
-
 ### sed
 
 - [Test Command Using echo](sed/test_command_using_echo.md)
+- [Remove empty lines](sed/remove_empty_lines.md)
+- [Remove comments](sed/remove_comments.md)
+- [Chaining actions](sed/chaining_actions.md)
 
 
 ### smartcd
@@ -375,6 +378,7 @@
 
 - [Avoid entity expansion](xml/avoid_entity_expansion.md)
 - [Fast XML/XSD validation on the command line](xml/fast_xml-xsd_validation_on_cli.md)
+
 
 ### YAML
 
