@@ -53,3 +53,5 @@ Rendering (for open transaction):
 [Source: SQL-info](http://sql-info.de/postgresql/notes/transaction-status-in-the-psql-prompt.html)
 
 More information on `psql` can be found at: [http://www.postgresql.org/docs/current/static/app-psql.html](http://www.postgresql.org/docs/current/static/app-psql.html)
+
+More tips on how to get the most of the PostgreSQL shell and CLI, please see [this article](https://www.citusdata.com/blog/2017/07/16/customizing-my-postgres-shell-using-psqlrc/?utm_source=postgresweekly&utm_medium=email) by Craig Kerstiens.
