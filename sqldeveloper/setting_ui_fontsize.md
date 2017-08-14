@@ -9,6 +9,3 @@ Comment in the `Ide.FontSize` and set the size.
 Got the solution from an [Ubuntu hint](https://ubuntuforums.org/showthread.php?t=1174026).
 
 Found a [Windows equivalent](http://www.thatjeffsmith.com/archive/2013/12/how-to-change-the-ui-font-size-for-oracle-sql-developer/) Googling.
-
-
-
