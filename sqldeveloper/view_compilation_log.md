@@ -1,6 +1,6 @@
-# View Commit Log
+# View Compilation Log
 
-When you compile PL-SQL in SQLDeveloper, it often come handy to see the compilation log in case of error. SQLDeveloper emits the following message:
+When you compile **PL/SQL** in *SQL Developer**, it often come handy to see the compilation log in case of error. **SQL Developer** emits the following message:
 
 ```
 Errors: check compiler log
