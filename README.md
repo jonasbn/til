@@ -43,6 +43,7 @@
 	- [smartcd](#smartcd)
 	- [Sublime Text 3](#sublime-text-3)
 	- [Subversion](#subversion)
+	- [SQL](#sql)
 	- [SQL Developer](#sql-developer)
 	- [SQLite](#sqlite)
 	- [sqlplus](#sqlplus)
@@ -328,6 +329,12 @@
 - [See in what revision a branch was created](subversion/see_in_what_revision_was_a_branch_created.md)
 - [Use Filemerge as diff tool](subversion/use_filemerge_for_diff.md)
 - [Use commit message from file](subversion/use_commit_message_from_file.md)
+
+
+### SQL
+
+- [Counting NULL and non-NULL values in a single query](sql/counting_null_and_non_null_values_in_a_single_query.md)
+- [How to group by month in a year](sql/how_to_group_by_month_in_a_year.md)
 
 
 ### SQL Developer
