@@ -61,7 +61,7 @@
 			],
 			[
 				"test",
-				"testmethod	Function"
+				"testmethod\tFunction"
 			],
 			[
 				"perl",
@@ -77,7 +77,7 @@
 			],
 			[
 				"for",
-				"fore	Loop"
+				"fore\tLoop"
 			],
 			[
 				"use",
@@ -387,9 +387,16 @@
 	},
 	"expanded_folders":
 	[
+		"/Users/jonasbn/develop/github/til",
+		"/Users/jonasbn/develop/github/til/homebrew",
+		"/Users/jonasbn/develop/github/til/sql"
 	],
 	"file_history":
 	[
+		"/Users/jonasbn/develop/github/til/sql/how_to_group_by_month_in_a_year.md",
+		"/Users/jonasbn/develop/github/til/sql/counting_null_and_non_null_values_in_a_single_query.md",
+		"/Users/jonasbn/develop/github/til/README.md",
+		"/Users/jonasbn/develop/github/til/sql/using_having.md",
 		"/Users/jonasbn/Desktop/til_lotte.txt",
 		"/Users/jonasbn/develop/github/til/,",
 		"/Users/jonasbn/Desktop/helloworld.pl",
@@ -513,15 +520,11 @@
 		"/Users/jonasbn/develop/github/Date-Holidays/protos/ca.pl",
 		"/Users/jonasbn/develop/github/Date-Holidays/protos/au.pl",
 		"/Users/jonasbn/develop/github/Date-Holidays/t/Test/Class/Date/Holidays/Supered.pm",
-		"/Users/jonasbn/develop/github/Date-Holidays/t/Date/Holidays/STARWARS.pm",
-		"/Users/jonasbn/develop/github/Date-Holidays/t/is_holiday.t",
-		"/Users/jonasbn/develop/github/Date-Holidays/Changes",
-		"/Users/jonasbn/develop/github/Date-Holidays/t/Date/Holidays/MAYTHEFOURTH.pm",
-		"/Users/jonasbn/develop/github/mbb/t/Test/Class/Module/Build/Bundle.pm"
+		"/Users/jonasbn/develop/github/Date-Holidays/t/Date/Holidays/STARWARS.pm"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 48.0
 	},
 	"find_in_files":
 	{
@@ -539,6 +542,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"-",
 			"post_message",
 			"\\s+$",
 			"midnight",
@@ -669,7 +673,7 @@
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
-		"wrap": true
+		"wrap": false
 	},
 	"groups":
 	[
@@ -734,7 +738,7 @@
 	"project": "today_i_learned.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 92.0
 	},
 	"save_all_on_build": false,
 	"select_file":
@@ -743,6 +747,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"read",
+				"README.md"
+			],
 			[
 				"lib/dkhm/web/sb/actionrequest/acceptrole.pm",
 				"lib/DKHM/Web/SB/ActionRequest/AcceptRole.pm"
