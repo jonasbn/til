@@ -209,6 +209,7 @@
 - [List merged branches](git/list_merged_branches.md)
 - [Git Alias to Show Affected Files in Last N Commits](git/git_alias_to_show_files_affected_in_last_commits.md)
 - [Output your branches and tags as a tree on the command line](git/output_branches_and_tags_as_a_tree.md)
+- [Compare a single file between branches](git/compare_a_single_file_between_branches.md)
 
 
 ### Github
