@@ -371,6 +371,7 @@
 ### tmux
 
 - [Install tmux](tmux/install_tmux.md)
+- [Standard Layouts](tmux/standard_layouts.md)
 
 
 ### Ubuntu
