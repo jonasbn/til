@@ -12,6 +12,7 @@
 	- [CPAN](#cpan)
 	- [cpanm](#cpanm)
 	- [curl](#curl)
+	- [Date](#date)
 	- [Debian](#debian)
 	- [Docker](#docker)
 	- [Dropbox](#dropbox)
@@ -120,6 +121,11 @@
 
 - [More POST Parameters](curl/more_post_parameters.md)
 - [Handling shell sensitive characters in URL](curl/handling_shell_sensitive_characters_in_url.md)
+
+
+### Date
+
+- [Getting time in another timezone](date/getting_time_in_another_timezone.md)
 
 
 ### Debian
