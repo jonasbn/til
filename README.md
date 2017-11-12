@@ -290,6 +290,7 @@
 
 - [View generated SQL when using DBIx::Class](perl/view_generated_sql_when_using_dbix-class.md)
 - [Create Test Coverage Report Using Dist::Zilla](perl/create_test_coverage_report_uzing_dist-zilla.md)
+- [Avoid issues with META.yml with Module::Install](perl/avoid_issues_with_metayml_with_module_install.md)
 
 
 ### Perlbrew
