@@ -217,6 +217,7 @@
 - [Output your branches and tags as a tree on the command line](git/output_branches_and_tags_as_a_tree.md)
 - [Compare a single file between branches](git/compare_a_single_file_between_branches.md)
 - [Rollback a repository to a specific commit](git/rollback_a_repository_to_a_specific_commit.md)
+- [Avoid being prompted for password](git/avoid_being_prompted_for_password.md)
 
 ### Github
 
