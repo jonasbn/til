@@ -218,6 +218,8 @@
 - [Compare a single file between branches](git/compare_a_single_file_between_branches.md)
 - [Rollback a repository to a specific commit](git/rollback_a_repository_to_a_specific_commit.md)
 - [Avoid being prompted for password](git/avoid_being_prompted_for_password.md)
+- [Rename a tag](git/rename_a_tag.md)
+
 
 ### Github
 
