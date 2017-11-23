@@ -365,6 +365,7 @@
 ### sqlplus
 
 - [Output to a file](sqlplus/outputting_to_a_file.md)
+- [How to pass hostname and port parameters](sqlplus/how_pass_host_and_post_parameters.md)
 
 
 ### Swift
