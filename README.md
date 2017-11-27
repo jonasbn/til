@@ -219,6 +219,7 @@
 - [Rollback a repository to a specific commit](git/rollback_a_repository_to_a_specific_commit.md)
 - [Avoid being prompted for password](git/avoid_being_prompted_for_password.md)
 - [Rename a tag](git/rename_a_tag.md)
+- [Rewrite the last commit message](git/rewrite_last_commit_message.md)
 
 
 ### Github
