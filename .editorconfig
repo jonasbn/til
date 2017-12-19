@@ -1,0 +1,23 @@
+root = true
+
+# All file types
+[*]
+
+# Preferred characterset encoding
+charset = utf-8
+
+# Preferred indentation style
+indent_style = space
+indent_size = 4
+
+# Unix-style newlines with a newline ending the file
+end_of_line = lf
+insert_final_newline = true
+
+# Trim possible trailing whitespace
+trim_trailing_whitespace = true
+
+[*.md]
+trim_trailing_whitespace = false
+indent_style = tab
+insert_final_newline = true

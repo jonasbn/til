@@ -389,6 +389,7 @@
 - [Use tmux Resurrect](tmux/use_tmux_resurrect.md)
 - [Use tmux plugin manager](tmux/use_tmux_plugin_manager.md)
 
+
 ### Ubuntu
 
 - [Install updates via command line](ubuntu/install_updates_via_cli.md)
