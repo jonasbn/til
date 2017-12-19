@@ -386,7 +386,8 @@
 
 - [Install tmux](tmux/install_tmux.md)
 - [Standard Layouts](tmux/standard_layouts.md)
-
+- [Use tmux Resurrect](tmux/use_tmux_resurrect.md)
+- [Use tmux plugin manager](tmux/use_tmux_plugin_manager.md)
 
 ### Ubuntu
 
