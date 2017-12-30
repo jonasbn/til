@@ -147,6 +147,7 @@
 - [Caching Docker build step](docker/caching_build_step.md)
 - [Show layers of Docker image](docker/show_layers_of_docker_image.md)
 - [What is the difference between RUN and CMD](docker/What_is_the_difference_between_run_and_cmd.md)
+- [Automatically Clean up after Docker Daily](docker/automatically_clean_up_after_docker.md)
 
 
 ### Dropbox
@@ -287,7 +288,9 @@
 - [Access iCloud from the cli](osx/access_icloud_drive_from_cli.md)
 - [Install Homebrew](osx/install_homebrew.md)
 - [Debugging Issues with Dynamic Libraries](osx/debugging_issues_with_dynamic_libs.md)
-- [Uninstall MacPorts](OSX/uninstall_macports.md)
+- [Uninstall MacPorts](osx/uninstall_macports.md)
+-[Scheduling Timed Jobs](osx/scheduling_timed_jobs.md)
+
 
 ### Perl
 
