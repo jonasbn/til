@@ -34,6 +34,7 @@
 	- [Mojolicious](#mojolicious)
 	- [MySQL](#mysql)
 	- [Oracle](#oracle)
+	- [OpenSSL](#openssl)
 	- [OSX](#osx)
 	- [Perl](#perl)
 	- [Perlbrew](#perlbrew)
@@ -278,6 +279,11 @@
 - [Beware of force for creation](oracle/beware_of_force_for_creation.md)
 - [How to see Oracle version](oracle/howto_see_oracle_version.md)
 - [Executing a function or procedure](oracle/executing_a_function_or_procedure.md)
+
+
+### OpenSSL
+
+- [How to get information from a P12 file](openssl/how_to_get_information_from_a_p12_file.md)
 
 
 ### OSX
