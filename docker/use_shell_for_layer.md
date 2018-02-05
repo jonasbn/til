@@ -22,7 +22,7 @@ If you want to run it yourself (a variation of the first tip)
 $ docker run -it --entrypoint /bin/bash <imagename>
 ```
 
-Do read the rest of the Stack Oveflow entry, it holds a lot of good information.
+Do read the rest of the referenced **StackOverflow** entry, it holds a lot of good information.
 
-[Source: Stack Overflow](http://stackoverflow.com/questions/26220957/how-can-i-inspect-the-file-system-of-a-failed-docker-build)
+[Source: StackOverflow](http://stackoverflow.com/questions/26220957/how-can-i-inspect-the-file-system-of-a-failed-docker-build)
 
