@@ -179,6 +179,7 @@
 ### httpie
 
 - [Use httpie](httpie/use_httpie.md)
+- [Using httpie with Graphql server](httpie/using_httpie_with_graphql_server.md)
 
 
 ### irssi
