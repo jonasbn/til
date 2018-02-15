@@ -25,7 +25,7 @@
 	- [jq](#jq)
 	- [FileMerge.app](#filemergeapp)
 	- [Git](#git)
-	- [Github](#github)
+	- [GitHub](#github)
 	- [grep](#grep)
 	- [JSON](#json)
 	- [Liquid Prompt](#liquid-prompt)
@@ -229,11 +229,12 @@
 - [Use tig](git/use_tig.md)
 
 
-### Github
+### GitHub
 
 - [Ignore whitespace changes](github/ignore_whitespace_changes.md)
 - [Test Markdown rendering before making public](github/test_markdown_rendering_before_making_public.md)
 - [How to get the email address of a github user](github/get_email_of_github_user.md)
+- [Use hub](github/use_hub.md)
 
 
 ### grep
