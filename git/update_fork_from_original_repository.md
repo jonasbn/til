@@ -12,8 +12,8 @@ $ git remote add parent <parent-url>
 # pull from the parent
 $ git pull parent <branch>
 
-# commit the changes if you like them
-$ git commit -a
+# add the changes to your fork
+$ git push
 ```
 
 Source: [Stackoverflow](http://stackoverflow.com/questions/4169832/update-my-github-repo-which-is-forked-out-from-another-project)
