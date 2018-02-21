@@ -1,6 +1,6 @@
 # Copy a file to multiple directories
 
-Nifty little trick when you want to copy a single file to several directories.
+Nifty little trick when you want to copy a single file to multiple directories.
 
 ```bash
 $ xargs -m 1 cp file <<<"/dir1/ /dir2/"
