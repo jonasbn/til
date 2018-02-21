@@ -20,4 +20,4 @@ Provides results accross the above filetypes.
 
 `$ ack --mojo session --ignore-dir local`
 
-Provides results accross the above filetypes, ignoring the `local/` directory populated by `carton`.
+Provides results across the above filetypes, ignoring the `local/` directory populated by `carton`.
