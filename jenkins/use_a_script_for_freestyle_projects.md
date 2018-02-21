@@ -1,11 +1,11 @@
 # Use a script for __freestyle__ projects
 
-If you are using freestyle projects for Jenskins, you can gain a lot from isolating your implementation of the actual run in a basic shell script.
+If you are using freestyle projects for Jenkins, you can gain a lot from isolating your implementation of the actual run in a basic shell script.
 
 It holds the following benefits:
 
 1. You can keep it under version control
-2. You can generalize it a re-use it for other projects
+2. You can generalise it a re-use it for other projects
 3. It is easier to test
 4. It is easier to maintain
 
@@ -38,4 +38,3 @@ carton exec perlcritic --profile t/perlcriticrc --stern bin > perlcritic.txt
 ```
 
 The above example scripts no particular project dependencies and can be used access Perl projects based on the __freestyle__ project type.
-
