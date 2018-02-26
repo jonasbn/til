@@ -238,6 +238,7 @@
 - [Test Markdown rendering before making public](github/test_markdown_rendering_before_making_public.md)
 - [How to get the email address of a github user](github/get_email_of_github_user.md)
 - [Use hub](github/use_hub.md)
+- [Use emojis](github/use_emojis.md)
 
 
 ### grep
