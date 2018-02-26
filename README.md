@@ -84,6 +84,8 @@
 - [Create directory for own bash completions](bash/create_dir_for_own_completions.md)
 - [Edit Complex CLI in Editor](bash/edit_complex_cli_in_editor.md)
 - [Use fzf](bash/use_fzf.md)
+- [Use Colours In Terminal Output](bash/use_colours_in_terminal_output.md)
+
 
 ### Bootstrap
 
@@ -168,7 +170,7 @@
 
 - [Perl](editorconfig/perl.md)
 
- 
+
 ### Homebrew
 
 - [Stop brew from calling home](homebrew/stop_brew_from_calling_home.md)
@@ -213,7 +215,7 @@
 - [Correct a commit message](git/correct_a_commit_message.md)
 - [Update a branch from master](git/update_branch_from_master.md)
 - [Rename branch](git/rename_branch.md)
-- [Get a cheatsheet](git/get_a_cheatsheet.md) 
+- [Get a cheatsheet](git/get_a_cheatsheet.md)
 - [Update fork from original repository](git/update_fork_from_original_repository.md)
 - [Tag a specific revision](git/tag_a_specific_revision.md)
 - [Make a branch new master](git/make_a_branch_new_master.md)
@@ -430,7 +432,7 @@
 
 ## About
 
-I have for a long time maintained notes in a public wiki, finding the TIL of 
+I have for a long time maintained notes in a public wiki, finding the TIL of
 Josh Branchaud [jbranchaud/til](https://github.com/jbranchaud/til) was an eye-opener and I immiediately wanted to try it out, so after a few months I have finally set it up.
 
 I plan to migrate my earlier notes, so they are more easily accessible here as TIL snippets, this will be done when I have the time, one TIL at a time :-)
