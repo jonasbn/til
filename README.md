@@ -153,6 +153,7 @@
 - [What is the difference between RUN and CMD](docker/What_is_the_difference_between_run_and_cmd.md)
 - [Automatically Clean up after Docker Daily](docker/automatically_clean_up_after_docker.md)
 - [Customize your docker ps output](docker/customize_your_docker_ps_output.md)
+- [Use docker-compose-wait](docker/Use docker-compose-wait.md)
 
 
 ### Dropbox
