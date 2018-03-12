@@ -288,6 +288,7 @@
 - [Beware of force for creation](oracle/beware_of_force_for_creation.md)
 - [How to see Oracle version](oracle/howto_see_oracle_version.md)
 - [Executing a function or procedure](oracle/executing_a_function_or_procedure.md)
+- [Comments in tnsnames.ora](oracle/comments_in_tnsnamesora.md)
 
 
 ### OpenSSL
