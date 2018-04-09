@@ -1,7 +1,7 @@
 
 ## Table of Contents
 
-<!-- MarkdownTOC depth=3 bracket=round autoanchor=false autolink=true -->
+<!-- MarkdownTOC depth=3 bracket=round autoanchor=true autolink=true -->
 
 - [Categories](#categories)
 	- [ack](#ack)
