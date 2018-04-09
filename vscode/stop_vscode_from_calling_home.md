@@ -1,4 +1,4 @@
-# Stop Visual Studio Code from Calling Homebrew
+# Stop Visual Studio Code from Calling Home
 
 This tip is only for _telemetrics_, not 3rd. party plugin data or crash reports
 to Microsoft.
