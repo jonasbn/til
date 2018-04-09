@@ -418,6 +418,11 @@
 - [Install updates via command line](ubuntu/install_updates_via_cli.md)
 
 
+### Visual Studio
+
+- [Stop vscode from calling home](vscode/stop_vscode_from_calling_home.md)
+
+
 ### VMware Fusion
 
 - [Install VMware Tools](fusion/install_vmware_tools.md)
