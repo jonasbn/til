@@ -516,6 +516,6 @@ I plan to migrate my earlier notes, so they are more easily accessible here as T
 <a id="license"></a>
 ## License
 
-&copy; 2016-2017 jonasbn
+&copy; 2016-2018 jonasbn
 
 This repository is licensed under the MIT license. See [LICENSE](LICENSE) file for details. Much is lifted from elsewhere and might by copyrighted under other licenses by the respective authors. I will mention this where applicable and I will link to original sources when and if possible.
