@@ -1,7 +1,7 @@
 
 ## Table of Contents
 
-<!-- MarkdownTOC depth=3 bracket=round -->
+<!-- MarkdownTOC levels="1,2,3" bracket=round -->
 
 - [Categories](#categories)
 	- [ack](#ack)
@@ -27,6 +27,7 @@
 	- [Git](#git)
 	- [GitHub](#github)
 	- [grep](#grep)
+	- [JavaScript](#javascript)
 	- [JSON](#json)
 	- [Liquid Prompt](#liquid-prompt)
 	- [Mail.app](#mailapp)
@@ -269,6 +270,13 @@
 ### grep
 
 - [Add colour to grep output](grep/add_colour_to_grep.md)
+
+
+<a id="javascript"></a>
+### JavaScript
+
+- [Use a styleguide](javascript/use_a_style_guide.md)
+- [Beware of eval](javascript/beware_of_eval.md)
 
 
 <a id="json"></a>
