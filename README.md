@@ -440,6 +440,7 @@
 - [Setting UI fontsize](sqldeveloper/setting_ui_fontsize.md)
 - [Setting dateformat](sqldeveloper/setting_dateformat.md)
 - [View Compilation Log](sqldevelop/view_compilation_log.md)
+- [Creating folders](sqldeveloper/add_folders.md)
 
 
 <a id="sqlite"></a>
