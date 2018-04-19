@@ -21,6 +21,7 @@
 	- [Homebrew](#homebrew)
 	- [httpie](#httpie)
 	- [irssi](#irssi)
+	- [iTerm.app](#itermapp)
 	- [Jenkins](#jenkins)
 	- [jq](#jq)
 	- [FileMerge.app](#filemergeapp)
@@ -209,6 +210,11 @@
 
 - [Use password authentication on Freenode](irssu/use_password_authentication_on_freenode.md)
 
+
+<a id="itermapp"></a>
+### iTerm.app
+
+- [Use themes](itermapp/use_cool_themes.md)
 
 
 <a id="jenkins"></a>
