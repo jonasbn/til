@@ -182,6 +182,7 @@
 
 - [Make coverage tests](dzil/use_cover.md)
 - [Use cpanfile](dzil/cpanfile.md)
+- [Run a single test](dzil/run_a_single_test.md)
 
 
 <a id="editorconfig"></a>
