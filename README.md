@@ -52,6 +52,7 @@
 	- [SQLite](#sqlite)
 	- [sqlplus](#sqlplus)
 	- [Swift](#swift)
+	- [tar](#tar)
 	- [Terminal.app](#terminalapp)
 	- [tmux](#tmux)
 	- [Ubuntu](#ubuntu)
@@ -463,6 +464,12 @@
 ### Swift
 
 - [Learn Swift](swift/learn_swift.md)
+
+
+<a id="tar"></a>
+### tar
+
+- [Using tar](tar/using_tar.md)
 
 
 <a id="terminalapp"></a>
