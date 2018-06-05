@@ -491,7 +491,7 @@
 <a id="twitter"></a>
 ### Twitter
 
-- [View Bookmarks on Desktop/Web](twitter/view_booksmarks_on_desktop.md)
+- [View Bookmarks on Desktop/Web](twitter/view_bookmarks_on_desktop.md)
 
 
 <a id="ubuntu"></a>
