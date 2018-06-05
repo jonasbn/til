@@ -55,6 +55,7 @@
 	- [tar](#tar)
 	- [Terminal.app](#terminalapp)
 	- [tmux](#tmux)
+	- [Twitter](#twitter)
 	- [Ubuntu](#ubuntu)
 	- [Visual Studio](#visual-studio)
 	- [VMware Fusion](#vmware-fusion)
@@ -485,6 +486,12 @@
 - [Standard Layouts](tmux/standard_layouts.md)
 - [Use tmux Resurrect](tmux/use_tmux_resurrect.md)
 - [Use tmux plugin manager](tmux/use_tmux_plugin_manager.md)
+
+
+<a id="twitter"></a>
+### Twitter
+
+- [View Bookmarks on Desktop/Web](twitter/view_booksmarks_on_desktop.md)
 
 
 <a id="ubuntu"></a>
