@@ -6,11 +6,18 @@ Sometimes you end up on a situation where you forked from a repository, somethin
 # cd into your repository
 $ cd myfork
 
-# add an additional remote 
-$ git remote add parent <parent-url>
+# check of you have URL for the original repository
+$ git remote -v
+
+# this will list your remotes, this might look like
+origin	«remote url»
+
+# if you do not have a URL for the original repository, 
+# often referred to as parent
+$ git remote add parent «parent-url»
 
 # pull from the parent
-$ git pull parent <branch>
+$ git pull parent «branch»
 
 # add the changes to your fork
 $ git push
