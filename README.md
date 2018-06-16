@@ -361,6 +361,7 @@
 -[Scheduling Timed Jobs](osx/scheduling_timed_jobs.md)
 - [Enabling at](osx/enabling_at.md)
 - [Playing Sound from the Command Line](osx/play_sound_from_cli.md)
+- [Keyboard Symbols](osx/keyboard_symbols.md)
 
 
 <a id="perl"></a>
