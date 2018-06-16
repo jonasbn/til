@@ -264,6 +264,7 @@
 - [Rewrite the last commit message](git/rewrite_last_commit_message.md)
 - [Use Git Repository Viewer (grv)](git/use_grv.md)
 - [Use tig](git/use_tig.md)
+- [Update submodule](git/update_submodule.md)
 
 
 <a id="github"></a>
