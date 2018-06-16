@@ -265,6 +265,7 @@
 - [Use Git Repository Viewer (grv)](git/use_grv.md)
 - [Use tig](git/use_tig.md)
 - [Update submodule](git/update_submodule.md)
+- [Squash merge](git/squash_merge.md)
 
 
 <a id="github"></a>
