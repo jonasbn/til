@@ -25,5 +25,8 @@ Define the shortcuts you need. I use the convention `<shortcut>` and then replac
 
 `<cmd>` becomes `⌘` and so forth.
 
+![screenshot](mackeyboardsymbols.png)
+
+
 Source: [StackExchange](https://apple.stackexchange.com/questions/4074/what-do-i-type-to-produce-the-command-symbol-in-mac-os-x)
 
