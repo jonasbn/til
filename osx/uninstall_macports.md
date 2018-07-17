@@ -20,4 +20,26 @@ $ sudo rm -rf \
         ~/.macports
 ```
 
+And finally you have to remove the **MacPorts** user (`macports`) and group if present.
+
+Check for presence of `macports` user
+
+```bash
+$  dscl . list /Users | grep -v '^_'
+```
+
+Delete the user
+
+```bash
+$ sudo /usr/bin/dscl . -delete "/Users/macports"
+```
+
+Check for the presence of the `macports` group group
+
+```bash
+$ sudo dscl . -delete "/Groups/macports"
+```
+
 Source: [MacPorts](https://guide.macports.org/chunked/installing.macports.uninstalling.html)
+
+Source: [StackExchange](https://apple.stackexchange.com/questions/317576/how-to-delete-macports-user-after-using-the-migration-assistant)
