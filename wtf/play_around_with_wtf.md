@@ -23,9 +23,9 @@ In the config the parameters for placing modules are called `left` and `top`. Ju
 
 ## Indicating timezones
 
-None of [the examples](https://github.com/senorprogrammer/wtf/tree/master/_sample_configs) contain cities with multipart names.
+None of [the examples](https://github.com/senorprogrammer/wtf/tree/master/_sample_configs) contain cities with multipart names for the [clock module](https://wtfutil.com/posts/modules/clocks/).
 
-If you want to specify cities with multipart names, the timezone parameter has to use underscore instead of space.
+If you want to specify cities with multipart names, the timezone parameter has to use underscore (`_`) instead of space.
 
 ```yaml
 clocks:
