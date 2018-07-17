@@ -361,7 +361,7 @@
 - [Install Homebrew](osx/install_homebrew.md)
 - [Debugging Issues with Dynamic Libraries](osx/debugging_issues_with_dynamic_libs.md)
 - [Uninstall MacPorts](osx/uninstall_macports.md)
--[Scheduling Timed Jobs](osx/scheduling_timed_jobs.md)
+- [Scheduling Timed Jobs](osx/scheduling_timed_jobs.md)
 - [Enabling at](osx/enabling_at.md)
 - [Playing Sound from the Command Line](osx/play_sound_from_cli.md)
 - [Keyboard Symbols](osx/keyboard_symbols.md)
