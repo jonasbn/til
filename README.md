@@ -267,6 +267,7 @@
 - [Use tig](git/use_tig.md)
 - [Update submodule](git/update_submodule.md)
 - [Squash merge](git/squash_merge.md)
+- [Maintain Multiple Git Identities](git/maintain_multiple_git_ids.md)
 
 
 <a id="github"></a>
