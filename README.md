@@ -376,6 +376,7 @@
 - [Create Test Coverage Report Using Dist::Zilla](perl/create_test_coverage_report_uzing_dist-zilla.md)
 - [Avoid issues with META.yml with Module::Install](perl/avoid_issues_with_metayml_with_module_install.md)
 - [Install XML::LibXML on MacOS](perl/install_xml_libxml_on_macos.md)
+- [View generated SQL when using DBIx::Class](perl/view_generated_sql_when_using_dbix-class.md)
 
 
 <a id="perlbrew"></a>
