@@ -20,6 +20,6 @@ $ perl Makefile.PL --parilib=~/pari-2.1.7 LIB=~/dev/project/local/lib
 $ make && make test && make install
 ```
 
-And the product of your build should end up in the right place.
+And the product of your build should end up in the right place. Do note the `lib` and the end of the path, which is one of the standard directories in local maintained by `carton`.
 
 Source [MetaCPAN: ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker#PREFIX-and-LIB-attribute)
