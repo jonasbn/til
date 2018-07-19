@@ -60,7 +60,7 @@
 	- [Ubuntu](#ubuntu)
 	- [Visual Studio](#visual-studio)
 	- [VMware Fusion](#vmware-fusion)
-	- [wtf](#wtf)
+	- [wtf util](#wtf-util)
 	- [XML](#xml)
 	- [YAML](#yaml)
 - [About](#about)
@@ -521,8 +521,8 @@
 - [Configure Debian 7](fusion/mount_shared_folder.md)
 
 
-<a id="wtf"></a>
-### wtf
+<a id="wtf-util"></a>
+### wtf util
 
 - [Play around with wtf](wtf/play_around_with_wtf.md)
 
