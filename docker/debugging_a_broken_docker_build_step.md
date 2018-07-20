@@ -11,7 +11,7 @@ I am emulating this with the shell builtin command `false`, but it could any bui
 FROM       alpine:latest
 
 LABEL      maintainer="jonasbn"
-RUN        date > /tmp/date ; false
+RUN        echo "hello world" > /tmp/hello_world ; false
 ENTRYPOINT ["cat", "/tmp/hello_world"]
 ```
 
