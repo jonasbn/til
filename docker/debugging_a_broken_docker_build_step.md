@@ -7,6 +7,7 @@ This nifty little trick can be used to inspect an image where a layer is not pla
 I am emulating this with the shell builtin command `false`, but it could any build step, where the integrity of your container is relying on build steps to succeed
 
 ```Dockerfile
+# Dockerfile
 FROM       alpine:latest
 
 LABEL      maintainer="jonasbn"
@@ -21,6 +22,7 @@ $ docker build -t smelly_container .
 So in order to get past the bad step you append: `; exit 0` to the _difficult_ `RUN` step and will build not matter the return value of the previous shell command
 
 ```Dockerfile
+# Dockerfile
 FROM       alpine:latest
 
 LABEL      maintainer="jonasbn"
