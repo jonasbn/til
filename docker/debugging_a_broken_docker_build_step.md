@@ -15,6 +15,8 @@ RUN        date > /tmp/date ; false
 ENTRYPOINT ["cat", "/tmp/hello_world"]
 ```
 
+Build it
+
 ```bash
 $ docker build -t smelly_container .
 ```
