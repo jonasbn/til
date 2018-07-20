@@ -43,4 +43,4 @@ $ docker run -it  smelly_container
 hello world
 ```
 
-https://stackoverflow.com/questions/30716937/dockerfile-build-possible-to-ignore-error
+Source: [StackOverflow](https://stackoverflow.com/questions/30716937/dockerfile-build-possible-to-ignore-error)
