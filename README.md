@@ -173,6 +173,7 @@
 - [Customize your docker ps output](docker/customize_your_docker_ps_output.md)
 - [Use docker-compose-wait](docker/use_docker-compose-wait.md)
 - [Silence Warnings from Postgres](docker/silence_warnings_from_postgres.md)
+- [Debugging a b0rken Docker build step](docker/debugging_a_broken_docker_build_step.md)
 
 
 <a id="dropbox"></a>
