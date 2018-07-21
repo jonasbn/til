@@ -1,6 +1,6 @@
 # Standard Layouts of tmux
 
-I can never remember these, so here goes.
+I can never remember these, so here goes
 
 `PREFIX-"meta + 1"`
 
