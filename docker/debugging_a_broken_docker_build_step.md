@@ -40,7 +40,7 @@ $ docker run -it --entrypoint /bin/sh smelly_container
 hello world
 ```
 
-And you can of course run it, your mileage might vary depending on the severity of the b0rkeness of your __difficult_ build step, which we chose to ignore
+And you can of course run it, your mileage might vary depending on the severity of the _b0rkedness_ of your _difficult_ build step, which we chose to ignore
 
 ```bash
 $ docker run -it  smelly_container
