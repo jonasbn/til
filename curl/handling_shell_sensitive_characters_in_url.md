@@ -12,10 +12,9 @@ Simply quote the URL
 ```bash
 $ curl --header Accept:application/json \ 
 "https://USERID:funkyPassMo|)@eksempel.dk/dostuff"
--bash: syntax error near unexpected token '|'
 ```
 
-And if your special character is a quote, quote differently.
+And if your special character is a quote (`"`), quote differently, use  (`'`) for example
 
 ```bash
 $ curl --header Accept:application/json \
