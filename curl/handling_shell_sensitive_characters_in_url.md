@@ -10,11 +10,16 @@ $ curl --header Accept:application/json https://USERID:funkyPassMo|)@eksempel.dk
 Simply quote the URL
 
 ```bash
-$ curl --header Accept:application/json "https://USERID:funkyPassMo|)@eksempel.dk/dostuff"
+$ curl --header Accept:application/json \ 
+"https://USERID:funkyPassMo|)@eksempel.dk/dostuff"
 -bash: syntax error near unexpected token '|'
 ```
 
-And of you special character is a quote, quote differently.
+And if your special character is a quote, quote differently.
+
+```bash
+$ curl --header Accept:application/json \
+'https://USERID:funky"PassMo|)@eksempel.dk/dostuff'
+```
 
 See also: http://wiki.bash-hackers.org/syntax/quoting
-
