@@ -42,5 +42,7 @@ clocks:
     UTC: "Etc/UTC"
 ```
 
+Do note that [@senorprogrammer](https://twitter.com/senorprogrammer) has [adressed this issue](https://github.com/senorprogrammer/wtf/commit/111c2e1ae3369279edf0965b50a6bc986548c62c), as he [notified me via Twitter](https://twitter.com/senorprogrammer/status/1021437879518498816)
+
 Source: [wtf documentation](https://wtfutil.com/)
 Source: [GitHub](https://github.com/senorprogrammer/wtf)
