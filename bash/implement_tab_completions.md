@@ -21,7 +21,7 @@ An example `ackrc` based on [my TIL](https://github.com/jonasbn/til/blob/master/
 Would work as follows:
 
 ```
-$ ack <tab>
+$ ack --<tab>
 --mojo --conf
 ```
 
