@@ -10,13 +10,13 @@ requires 'Mojolicious';
 ```
 
 3. Run `carton`
-4. Setup your application as either application or lite_app
+4. Setup your application as either `app` (application) or `lite_app` (single file application)
 
 ```bash
 # Mojolicious app, defaults to my_app, specify name accordingly
 $ carton exec mojo generate app
 
-# Move local/ cpanfile and cpanfile.snapshot into your application folder, please note the below example is the defaultname
+# Move local/ cpanfile and cpanfile.snapshot into your application folder, please note the below example is the default name
 $ mv local/ cpanfile cpanfile.snapshot my_app/
 ```
 
