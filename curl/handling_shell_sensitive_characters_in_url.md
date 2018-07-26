@@ -14,7 +14,7 @@ $ curl --header Accept:application/json \
 "https://USERID:funkyPassMo|)@eksempel.dk/dostuff"
 ```
 
-And if your special character is a quote (`"`), quote differently, use  (`'`) for example
+And if your special character is a quote `"`, quote differently, use  `'` for example
 
 ```bash
 $ curl --header Accept:application/json \
