@@ -25,7 +25,7 @@ $ ack <tab>
 --mojo --conf
 ```
 
-The complete implementation lifed from (my github repository](https://github.com/jonasbn/bash_completion_ack).
+The complete implementation lifed from [my github repository](https://github.com/jonasbn/bash_completion_ack).
 
 ```bash
 _ack() 
