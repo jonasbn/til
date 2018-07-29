@@ -385,9 +385,9 @@
 <a id="perlbrew"></a>
 ### Perlbrew
 
-- [Install perlbrew](install_perlbrew.md)
-- [Eliminate compilation warnings on OSX](eliminate_compilation_warnings_on_osx.md)
-- [Uninstall perlbrew](uninstall_perlbrew.md)
+- [Install perlbrew](perlbrew/install_perlbrew.md)
+- [Eliminate compilation warnings on OSX](perlbrew/eliminate_compilation_warnings_on_osx.md)
+- [Uninstall perlbrew](perlbrew/uninstall_perlbrew.md)
 
 
 <a id="postgresql"></a>
