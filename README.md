@@ -12,6 +12,7 @@
 	- [chrome](#chrome)
 	- [CPAN](#cpan)
 	- [cpanm](#cpanm)
+	- [css](#css)
 	- [curl](#curl)
 	- [Date](#date)
 	- [Debian](#debian)
@@ -133,6 +134,12 @@
 - [Use cpanm with CPAN::Mini](cpanm/use_cpanm_with_cpan-mini.md)
 - [Use cpanm with carton](cpanm/use_cpanm_with_carton.md)
 - [Tailing cpanm build log file](cpanm/tailing_cpanm_build_logfile.md)
+
+
+<a id="css"></a>
+### css
+
+- [Making sure you are using alt tags](css/making_sure_you_are_using_alt_tags.md)
 
 
 <a id="curl"></a>
