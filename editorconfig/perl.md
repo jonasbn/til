@@ -2,7 +2,7 @@
 
 I have created this basic **EditorConfig** configuration for **Perl**.
 
-```
+```INI
 [*.{pl,pm,t,PL}]
 max_line_length = off
 end_of_line = lf
