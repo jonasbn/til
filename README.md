@@ -203,6 +203,7 @@
 - [Enforce EditorConfig using eclint](editorconfig/enforce_editorconfig_config_using_eclint.md)
 - [Perl](editorconfig/perl.md)
 - [XML](editorconfig/xml.md)
+- [Markdown](editorconfig/markdown.md)
 
 
 <a id="homebrew"></a>
