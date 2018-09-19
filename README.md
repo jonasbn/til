@@ -200,6 +200,7 @@
 <a id="editorconfig"></a>
 ### EditorConfig
 
+- [Enforce EditorConfig using eclint](editorconfig/enforce_editorconfig_config_using_eclint.md)
 - [Perl](editorconfig/perl.md)
 
 
