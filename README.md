@@ -45,6 +45,7 @@
   - [Postgresql](#postgresql)
   - [Prolog](#prolog)
   - [Python](#python)
+  - [Rust](#rust)
   - [sed](#sed)
   - [smartcd](#smartcd)
   - [Sublime Text 3](#sublime-text-3)
@@ -416,6 +417,12 @@
 ### Python
 
 - [Old-school string formatting](python/old-school_string_formatting.md)
+
+
+<a id="rust"></a>
+### Rust
+
+- [Learn Rust](rust/learn_rust.md)
 
 
 <a id="sed"></a>
