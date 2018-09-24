@@ -80,7 +80,6 @@
 - [Install ack](ack/install_ack.md)
 - [Define a custom search filetype scope](ack/define_a_custom_search_filetype_scope.md)
 
-
 <a id="bash"></a>
 ### Bash
 
@@ -103,7 +102,6 @@
 
 - [Prevent wrapping of contents of code tags](bootstrap/prevent_wrapping_of_contents_of_code_tags.md)
 
-
 <a id="carton"></a>
 ### carton
 
@@ -112,19 +110,16 @@
 - [Update snapshot cpanfile](carton/update_snapshot_cpanfile.md)
 - [Use PERL_CARTON_MIRROR](carton/use_perl_carton_mirror.md)
 
-
 <a id="chrome"></a>
 ### chrome
 
 - [Add search shortcuts](chrome/add_search_shortcuts.md)
-
 
 <a id="cpan"></a>
 ### CPAN
 
 - [Data::FormValidator](cpan/data-formvalidator.md)
 - [Test::Pretty](cpan/test-pretty.md)
-
 
 <a id="cpanm"></a>
 ### cpanm
@@ -136,12 +131,10 @@
 - [Use cpanm with carton](cpanm/use_cpanm_with_carton.md)
 - [Tailing cpanm build log file](cpanm/tailing_cpanm_build_logfile.md)
 
-
 <a id="css"></a>
 ### css
 
 - [Making sure you are using alt tags](css/making_sure_you_are_using_alt_tags.md)
-
 
 <a id="curl"></a>
 ### curl
@@ -149,12 +142,10 @@
 - [More POST Parameters](curl/more_post_parameters.md)
 - [Handling shell sensitive characters in URL](curl/handling_shell_sensitive_characters_in_url.md)
 
-
 <a id="date"></a>
 ### Date
 
 - [Getting time in another timezone](date/getting_time_in_another_timezone.md)
-
 
 <a id="debian"></a>
 ### Debian
@@ -163,7 +154,6 @@
 - [Add user to sudoers group](debian/add_user_to_sudoers.md)
 - [Resolve conflicting values in Debian package](debian/resolve_conflicting_values_in_package.md)
 - [Install unauthenticated package](debian/install_unauthenticated_package.md)
-
 
 <a id="docker"></a>
 ### Docker
@@ -183,12 +173,10 @@
 - [Silence Warnings from Postgres](docker/silence_warnings_from_postgres.md)
 - [Debugging a b0rken Docker build step](docker/debugging_a_broken_docker_build_step.md)
 
-
 <a id="dropbox"></a>
 ### Dropbox
 
 - [Download instead of playing multimedia file from Dropbox](dropbox/download_multimedia.md)
-
 
 <a id="dzil"></a>
 ### dzil
@@ -196,7 +184,6 @@
 - [Make coverage tests](dzil/use_cover.md)
 - [Use cpanfile](dzil/cpanfile.md)
 - [Run a single test](dzil/run_a_single_test.md)
-
 
 <a id="editorconfig"></a>
 ### EditorConfig
@@ -206,7 +193,6 @@
 - [XML](editorconfig/xml.md)
 - [Markdown](editorconfig/markdown.md)
 
-
 <a id="homebrew"></a>
 ### Homebrew
 
@@ -214,43 +200,36 @@
 - [Cleaning your homebrew cellar](homebrew/clean.md)
 - [Installing bash](homebrew/installing_bash.md)
 
-
 <a id="httpie"></a>
 ### httpie
 
 - [Use httpie](httpie/use_httpie.md)
 - [Using httpie with Graphql server](httpie/using_httpie_with_graphql_server.md)
 
-
 <a id="irssi"></a>
 ### irssi
 
 - [Use password authentication on Freenode](irssu/use_password_authentication_on_freenode.md)
-
 
 <a id="itermapp"></a>
 ### iTerm.app
 
 - [Use themes](itermapp/use_cool_themes.md)
 
-
 <a id="jenkins"></a>
 ### Jenkins
 
 - [Use a script for freestyle projects](jenkins/use_a_script_for_freestyle_projects.md)
-
 
 <a id="jq"></a>
 ### jq
 
 - [Use jq](jq/use_jq.md)
 
-
 <a id="filemergeapp"></a>
 ### FileMerge.app
 
 - [User Filemerge from the commandline](filemergeapp/use_filemerge_from_cli.md)
-
 
 <a id="git"></a>
 ### Git
@@ -281,7 +260,6 @@
 - [Squash merge](git/squash_merge.md)
 - [Maintain Multiple Git Identities](git/maintain_multiple_git_ids.md)
 
-
 <a id="github"></a>
 ### GitHub
 
@@ -291,12 +269,10 @@
 - [Use hub](github/use_hub.md)
 - [Use emojis](github/use_emojis.md)
 
-
 <a id="grep"></a>
 ### grep
 
 - [Add colour to grep output](grep/add_colour_to_grep.md)
-
 
 <a id="javascript"></a>
 ### JavaScript
@@ -304,31 +280,26 @@
 - [Use a styleguide](javascript/use_a_style_guide.md)
 - [Beware of eval](javascript/beware_of_eval.md)
 
-
 <a id="json"></a>
 ### JSON
 
 - [Beware of eval](json/beware_of_eval.md)
-
 
 <a id="liquid-prompt"></a>
 ### Liquid Prompt
 
 - [Install Liquid Prompt](liquidprompt/install_liquidprompt.md)
 
-
 <a id="mailapp"></a>
 ### Mail.app
 
 - [Mail file from the commandline](mailapp/mail_file_from_cli.md)
-
 
 <a id="markdown"></a>
 ### Markdown
 
 - [Use Markdown](markdown/use_markdown.md)
 - [How do I escape a backtick](markdown/how_do_i_escape_backtick.md)
-
 
 <a id="mojolicious"></a>
 ### Mojolicious
@@ -339,12 +310,10 @@
 - [Mojolicious::Controller respond_to and template parameter](mojolicious/respond_to_and_template_parameter.md)
 - [Enable syntax highlighting for configuration files](mojolicious/enable_syntax_highlighting_for_configuration_files.md)
 
-
 <a id="mysql"></a>
 ### MySQL
 
 - [Setting the prompt](mysql/setting_the_prompt.md)
-
 
 <a id="oracle"></a>
 ### Oracle
@@ -357,12 +326,10 @@
 - [Comments in tnsnames.ora](oracle/comments_in_tnsnamesora.md)
 - [See grants for a specific user](oracle/see_grants_for_spacific_user.md)
 
-
 <a id="openssl"></a>
 ### OpenSSL
 
 - [How to get information from a P12 file](openssl/how_to_get_information_from_a_p12_file.md)
-
 
 <a id="osx"></a>
 ### OSX
@@ -380,7 +347,6 @@
 - [Playing Sound from the Command Line](osx/play_sound_from_cli.md)
 - [Keyboard Symbols](osx/keyboard_symbols.md)
 
-
 <a id="perl"></a>
 ### Perl
 
@@ -392,7 +358,6 @@
 - [Get ExtUtils::MakeMaker to install in local/ like carton](perl/get_extutils-makemaker_to_install_in_local_like_carton.md)
 - [Mojolicious::Plugin::OpenAPI Tutorial](https://github.com/jonasbn/perl-mojolicious-plugin-openapi-tutorial-hello-world)
 
-
 <a id="perlbrew"></a>
 ### Perlbrew
 
@@ -400,30 +365,25 @@
 - [Eliminate compilation warnings on OSX](perlbrew/eliminate_compilation_warnings_on_osx.md)
 - [Uninstall perlbrew](perlbrew/uninstall_perlbrew.md)
 
-
 <a id="postgresql"></a>
 ### Postgresql
 
 - [Setting the prompt](postgresql/setting_the_prompt.md)
-
 
 <a id="prolog"></a>
 ### Prolog
 
 - [Prolog resources](prolog/prolog.md)
 
-
 <a id="python"></a>
 ### Python
 
 - [Old-school string formatting](python/old-school_string_formatting.md)
 
-
 <a id="rust"></a>
 ### Rust
 
 - [Learn Rust](rust/learn_rust.md)
-
 
 <a id="sed"></a>
 ### sed
@@ -433,7 +393,6 @@
 - [Remove comments](sed/remove_comments.md)
 - [Chaining actions](sed/chaining_actions.md)
 
-
 <a id="smartcd"></a>
 ### smartcd
 
@@ -441,12 +400,10 @@
 - [Use smartcd with tabs](smartcd/use_with_tabs.md)
 - [Silence smartcd](smartcd/slience_smartcd.md)
 
-
 <a id="sublime-text-3"></a>
 ### Sublime Text 3
 
 - [Set colour scheme per language](sublimetext3/set_colour_scheme_per_language.md)
-
 
 <a id="subversion"></a>
 ### Subversion
@@ -456,13 +413,11 @@
 - [Use Filemerge as diff tool](subversion/use_filemerge_for_diff.md)
 - [Use commit message from file](subversion/use_commit_message_from_file.md)
 
-
 <a id="sql"></a>
 ### SQL
 
 - [Counting NULL and non-NULL values in a single query](sql/counting_null_and_non_null_values_in_a_single_query.md)
 - [How to group by month in a year](sql/how_to_group_by_month_in_a_year.md)
-
 
 <a id="sql-developer"></a>
 ### SQL Developer
@@ -472,7 +427,6 @@
 - [View Compilation Log](sqldevelop/view_compilation_log.md)
 - [Creating folders](sqldeveloper/add_folders.md)
 
-
 <a id="sqlite"></a>
 ### SQLite
 
@@ -480,31 +434,26 @@
 - [Inserting dates](sqlite/insert_dates.md)
 - [Defaulting to now for date](sqlite/default_now_for_date.md)
 
-
 <a id="sqlplus"></a>
 ### sqlplus
 
 - [Output to a file](sqlplus/outputting_to_a_file.md)
 - [How to pass hostname and port parameters](sqlplus/how_pass_host_and_post_parameters.md)
 
-
 <a id="swift"></a>
 ### Swift
 
 - [Learn Swift](swift/learn_swift.md)
-
 
 <a id="tar"></a>
 ### tar
 
 - [Using tar](tar/using_tar.md)
 
-
 <a id="terminalapp"></a>
 ### Terminal.app
 
 - [Opening files in an application from the command line](terminal/opening_files_in_applications_from_the_cli.md)
-
 
 <a id="tmux"></a>
 ### tmux
@@ -514,24 +463,20 @@
 - [Use tmux Resurrect](tmux/use_tmux_resurrect.md)
 - [Use tmux plugin manager](tmux/use_tmux_plugin_manager.md)
 
-
 <a id="twitter"></a>
 ### Twitter
 
 - [View Bookmarks on Desktop/Web](twitter/view_bookmarks_on_desktop.md)
-
 
 <a id="ubuntu"></a>
 ### Ubuntu
 
 - [Install updates via command line](ubuntu/install_updates_via_cli.md)
 
-
 <a id="visual-studio"></a>
 ### Visual Studio
 
 - [Stop vscode from calling home](vscode/stop_vscode_from_calling_home.md)
-
 
 <a id="vmware-fusion"></a>
 ### VMware Fusion
@@ -539,12 +484,10 @@
 - [Install VMware Tools](fusion/install_vmware_tools.md)
 - [Configure Debian 7](fusion/mount_shared_folder.md)
 
-
 <a id="wtf-util"></a>
 ### wtf util
 
 - [Play around with wtf](wtf/play_around_with_wtf.md)
-
 
 <a id="xml"></a>
 ### XML
@@ -552,12 +495,10 @@
 - [Avoid entity expansion](xml/avoid_entity_expansion.md)
 - [Fast XML/XSD validation on the command line](xml/fast_xml-xsd_validation_on_cli.md)
 
-
 <a id="yaml"></a>
 ### YAML
 
 - [How to syntax check a YAML file](yaml/howto_syntax_check_a_yaml_file.md)
-
 
 <a id="about"></a>
 ## About
@@ -567,14 +508,12 @@ Josh Branchaud [jbranchaud/til](https://github.com/jbranchaud/til) was an eye-op
 
 I plan to migrate my earlier notes, so they are more easily accessible here as TIL snippets, this will be done when I have the time, one TIL at a time :-)
 
-
 <a id="additional-til-collections"></a>
 ## Additional TIL Collections
 
-* [Today I Learned by Hashrocket](https://til.hashrocket.com)
-* [jwworth/til](https://github.com/jwworth/til)
-* [thoughtbot/til](https://github.com/thoughtbot/til)
-
+- [Today I Learned by Hashrocket](https://til.hashrocket.com)
+- [jwworth/til](https://github.com/jwworth/til)
+- [thoughtbot/til](https://github.com/thoughtbot/til)
 
 <a id="license"></a>
 ## License
