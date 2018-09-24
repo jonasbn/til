@@ -346,6 +346,7 @@
 - [Enabling at](osx/enabling_at.md)
 - [Playing Sound from the Command Line](osx/play_sound_from_cli.md)
 - [Keyboard Symbols](osx/keyboard_symbols.md)
+- [Use Javascript](osx/use_javascript.md)
 
 <a id="perl"></a>
 ### Perl
