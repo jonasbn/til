@@ -22,7 +22,7 @@ This does however not really demonstrate the integration with **OSX**/**MacOS**.
 #!/usr/bin/osascript -l JavaScript
 
 currentApp = Application("Reminders");
-currentApp.includeStandardAdditions = true
+currentApp.includeStandardAdditions = true;
 
 currentApp.activate();
 
