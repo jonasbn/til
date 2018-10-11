@@ -9,4 +9,6 @@ CREATE TABLE test (
 );
 ```
 
-Source ['StackOverflow'](https://stackoverflow.com/questions/200309/sqlite-database-default-time-value-now#200329)
+## References
+
+- ['StackOverflow'](https://stackoverflow.com/questions/200309/sqlite-database-default-time-value-now#200329)

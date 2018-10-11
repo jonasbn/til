@@ -10,4 +10,6 @@ sudo mount -t vmhgfs .host:/ /mnt/hgfs
 
 Requires VMware Tools, see also [my til on installation](install_vmware_tools.md).
 
-[Source: SuperUser](http://superuser.com/questions/588304/no-mnt-hgfs-in-ubuntu-guest-under-vmware-fusion)
+## References
+
+- [SuperUser](http://superuser.com/questions/588304/no-mnt-hgfs-in-ubuntu-guest-under-vmware-fusion)

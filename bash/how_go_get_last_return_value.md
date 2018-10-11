@@ -6,4 +6,6 @@ If you want to get the last return value in `bash`, do the following:
 $ echo $?
 ```
 
+## References
+
 [Ask Ubuntu](https://askubuntu.com/questions/324423/how-to-access-the-last-return-value-in-bash)

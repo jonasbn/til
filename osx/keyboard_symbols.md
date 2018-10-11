@@ -27,6 +27,6 @@ Define the shortcuts you need. I use the convention `<shortcut>` and then replac
 
 ![screenshot](mackeyboardsymbols.png)
 
+## References
 
-Source: [StackExchange](https://apple.stackexchange.com/questions/4074/what-do-i-type-to-produce-the-command-symbol-in-mac-os-x)
-
+- [StackExchange](https://apple.stackexchange.com/questions/4074/what-do-i-type-to-produce-the-command-symbol-in-mac-os-x)

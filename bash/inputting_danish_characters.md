@@ -8,4 +8,6 @@ set convert-meta off
 set output-meta on
 ```
 
-[Source: TheLinuxDocumentationProject](http://www.tldp.org/HOWTO/Danish-HOWTO-3.html#ss3.4)
+## References
+
+- [TheLinuxDocumentationProject](http://www.tldp.org/HOWTO/Danish-HOWTO-3.html#ss3.4)

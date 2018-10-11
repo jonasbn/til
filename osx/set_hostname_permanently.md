@@ -4,4 +4,6 @@
 $ scutil --set HostName hal9000
 ```
 
-Source: [OSXDaily: Youtube](https://www.youtube.com/watch?v=j7BhXkKbfe0)
+## References
+
+- [OSXDaily: Youtube](https://www.youtube.com/watch?v=j7BhXkKbfe0)

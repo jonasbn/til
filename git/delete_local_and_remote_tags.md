@@ -10,4 +10,6 @@ $ git tag -d <tagname>
 $ git push --delete origin <tagname>
 ```
 
-[Source: duckduckgo](https://duckduckgo.com/?q=git+delete+tags&iax=1&ia=qa#)
+## References
+
+- [DuckDuckGo](https://duckduckgo.com/?q=git+delete+tags&iax=1&ia=qa#)

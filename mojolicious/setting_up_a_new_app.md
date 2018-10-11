@@ -36,7 +36,6 @@ $ carton exec morbo script/my_app
 $ carton exec morbo my_app
 ```
 
-
 Open your browser at:
 
 `http://localhost:3000`

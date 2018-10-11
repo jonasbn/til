@@ -10,4 +10,6 @@ This is accomplished by adding the directory: .author to inc/
 $ mkdir inc/.author
 ```
 
-Source [MetaCPAN: Module::Install](https://metacpan.org/pod/distribution/Module-Install/lib/Module/Install.pod)
+## References
+
+- [MetaCPAN: Module::Install](https://metacpan.org/pod/distribution/Module-Install/lib/Module/Install.pod)

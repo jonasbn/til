@@ -3,7 +3,7 @@
 Being prompted for password on every **Git** operation can get tiresome in the long run.
 
 ```bash
-$ ssh-add ~/.ssh/id_rsa 
+$ ssh-add ~/.ssh/id_rsa
 ```
 
 Enter your pasphrase and you should be good to go. If you want to automate even more, check out `ssh-agent`:
@@ -19,6 +19,7 @@ fi
 
 These are general `ssh` tricks, so they can be used in other cases where `ssh` is put to use.
 
-Source [StackOverflow: ssh-add](https://stackoverflow.com/questions/21095054/ssh-key-still-asking-for-password-and-passphrase)
+## References
 
-Source [StackOverflow: ssh-agent](https://unix.stackexchange.com/questions/90853/how-can-i-run-ssh-add-automatically-without-password-prompt)
+- [StackOverflow: ssh-add](https://stackoverflow.com/questions/21095054/ssh-key-still-asking-for-password-and-passphrase)
+- [StackOverflow: ssh-agent](https://unix.stackexchange.com/questions/90853/how-can-i-run-ssh-add-automatically-without-password-prompt)

@@ -30,4 +30,6 @@ A   xml/fast_xml-xsd_validation_on_cli.md
 
 Have fun exploiting the `git` command aliases
 
-Source: [CoderWall](https://coderwall.com/p/8rtfgg/git-alias-to-show-affected-files-in-last-n-commits)
+## References
+
+- [CoderWall](https://coderwall.com/p/8rtfgg/git-alias-to-show-affected-files-in-last-n-commits)

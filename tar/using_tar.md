@@ -7,4 +7,6 @@ The `tar` archiver is a useful tool, I have used it for your, but I could help m
 
 The idea is to think german pronounciation.
 
-Souce: [Twitter: @tessr](https://twitter.com/_tessr/status/626076327133577216)
+## References
+
+- [Twitter: @tessr](https://twitter.com/_tessr/status/626076327133577216)

@@ -8,4 +8,6 @@ Use your normal reverse history search and see `fzf` work it's _magic_.
 <ctrl>-r
 ```
 
-Source: [GitHub: fzf](https://github.com/junegunn/fzf)
+## References
+
+- [GitHub: fzf](https://github.com/junegunn/fzf)

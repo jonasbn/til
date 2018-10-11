@@ -21,6 +21,7 @@ healthcheck:
 This works for official PostgreSQL Docker images, where a `postgres` user is
 created, adjust to your own settings accordingly
 
-Source: [GitHub issue describing the symptom](https://github.com/peter-evans/docker-compose-healthcheck/issues/4)
+## References
 
-Source: [GitHub commit describing the remedy](https://github.com/peter-evans/docker-compose-healthcheck/pull/5/commits/4057d042cf5868f806f7fd967fcba65558eb3e50)
+-[GitHub issue describing the symptom](https://github.com/peter-evans/docker-compose-healthcheck/issues/4)
+-[GitHub commit describing the remedy](https://github.com/peter-evans/docker-compose-healthcheck/pull/5/commits/4057d042cf5868f806f7fd967fcba65558eb3e50)

@@ -18,7 +18,7 @@ To use constraint methods you need to add the constraints module (see below).
 
 ```perl
 use Data::FormValidator::Constraints qw(:closures);
- 
+
 my $profile = {
     optional => [qw()],
     required => [qw()],

@@ -18,4 +18,6 @@ This can be specified like this in your `~/.irssi/config`
 
 According to the source listed below, you could also try with a longer delay for your NickServ authentication. I have not tried that out, please refer to the listed source.
 
-[Source: Superuser.com](https://superuser.com/questions/374012/irssi-tries-to-join-python-before-sending-the-identify-message)
+## References
+
+- [SuperUser.com](https://superuser.com/questions/374012/irssi-tries-to-join-python-before-sending-the-identify-message)

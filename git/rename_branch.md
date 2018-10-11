@@ -10,4 +10,6 @@ $ git branch -m <newname>
 $ git branch -m <oldname> <newname>
 ```
 
-[Source: DuckDuckGo](https://duckduckgo.com/?q=git+rename+branch&ia=qa)
+## References
+
+- [DuckDuckGo](https://duckduckgo.com/?q=git+rename+branch&ia=qa)

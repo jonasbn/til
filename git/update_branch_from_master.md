@@ -13,4 +13,6 @@ $ git merge origin/master
 $ git push
 ```
 
-Source: [StackOverflow](http://stackoverflow.com/questions/3876977/update-git-branches-from-master#10241072)
+## References
+
+- [StackOverflow](http://stackoverflow.com/questions/3876977/update-git-branches-from-master#10241072)

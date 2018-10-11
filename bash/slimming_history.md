@@ -8,4 +8,6 @@ This is based on the example by Kenneth Geisshirt from [his slidedeck](http://ww
 $ export HISTIGNORE="pwd:ls:ls -l:cd:clear"
 ```
 
-[Source: SlideShare](http://www.slideshare.net/geisshirt/unleash-your-inner-console-cowboy-47244006)
+## References
+
+- [SlideShare](http://www.slideshare.net/geisshirt/unleash-your-inner-console-cowboy-47244006)

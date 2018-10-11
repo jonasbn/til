@@ -8,4 +8,6 @@ $ afplay /System/Library/Sounds/Funk.aiff
 
 `afplay` support AIFF, WAV and MP3.
 
-Source [Super User](https://superuser.com/questions/598783/play-sound-on-mac-terminal?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+## References
+
+- [Super User](https://superuser.com/questions/598783/play-sound-on-mac-terminal?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)

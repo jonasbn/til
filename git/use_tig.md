@@ -4,5 +4,6 @@
 
 `tig` is `git` in reverse, which says nothing about the usefullness of this tool.
 
-Source [GitHub: tig](https://jonas.github.io/tig/)
+## References
 
+- [GitHub: tig](https://jonas.github.io/tig/)

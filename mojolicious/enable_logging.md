@@ -6,4 +6,3 @@ Just add a directory named `log` to you application root folder
 $ cd my_app
 $ mkdir log
 ```
-

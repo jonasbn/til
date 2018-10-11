@@ -26,4 +26,6 @@ HTML output written to /Users/jonasbn/develop/github/Module-Info-File/.build/D9L
 done.
 ```
 
-Source: [MetaCPAN](https://github.com/doherty/Dist-Zilla-App-Command-cover)
+## References
+
+- [MetaCPAN](https://github.com/doherty/Dist-Zilla-App-Command-cover)

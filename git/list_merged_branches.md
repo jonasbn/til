@@ -12,7 +12,7 @@ Listing branches that have been merged
 $ git branch --merged
 ```
 
-Listing branches that have been merged on your remote: 
+Listing branches that have been merged on your remote:
 
 ```bash
 $ git branch -r --merged
@@ -24,5 +24,6 @@ Hence listing all branches on the remote:
 $ git branch -r
 ```
 
-[Source: Git Tips podcast by Chris Hunt](https://www.briefs.fm/git-tips/24) / [@chrishunt](https://github.com/chrishunt)
+## References
 
+- [Git Tips podcast by Chris Hunt](https://www.briefs.fm/git-tips/24) / [@chrishunt](https://github.com/chrishunt)

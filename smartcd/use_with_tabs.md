@@ -18,5 +18,7 @@ In essence, load **Liquid Prompt** prior to `smartcd`
 [ -r "$HOME/.smartcd_config" ] && ( [ -n $BASH_VERSION ] || [ -n $ZSH_VERSION ] ) && source ~/.smartcd_config
 ```
 
-Source: [Liquid Prompt](https://github.com/nojhan/liquidprompt)
-Source: [smartcd](https://github.com/cxreg/smartcd)
+## References
+
+- [Liquid Prompt](https://github.com/nojhan/liquidprompt)
+- [smartcd](https://github.com/cxreg/smartcd)

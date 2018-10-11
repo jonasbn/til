@@ -10,4 +10,6 @@ $ while true; do ls -l; sleep .5; done
 
 I use is for development/test environments at work, which are not completely set up, but I want to mimic the behaviour in the production environment.
 
-[Source: StackOverflow](http://stackoverflow.com/questions/13593771/linux-repeat-command-automatically)
+## References
+
+- [StackOverflow](http://stackoverflow.com/questions/13593771/linux-repeat-command-automatically)

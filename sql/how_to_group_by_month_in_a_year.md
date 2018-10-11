@@ -11,4 +11,6 @@ group by to_char(DATE_CREATED, 'YYYY-MM')
 order by 1
 ```
 
-Source: [StackOverflow](https://stackoverflow.com/questions/11531785/how-to-query-group-by-month-in-a-year)
+## References
+
+- [StackOverflow](https://stackoverflow.com/questions/11531785/how-to-query-group-by-month-in-a-year)

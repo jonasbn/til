@@ -65,7 +65,9 @@ To setup the database with the above script, you have to follow this guide:
 Since the example script above creates data on the fly, you have to do something along the lines of:
 
 ```bash
-rm -f db/example.db; sqlite db/example.db < example.sql; perl as_query.pl 
+rm -f db/example.db; sqlite db/example.db < example.sql; perl as_query.pl
 ```
 
-[Source: MetaCPAN](https://metacpan.org/pod/DBIx::Class::ResultSet#as_query)
+## References
+
+- [MetaCPAN: DBIx::Class::ResultSet](https://metacpan.org/pod/DBIx::Class::ResultSet#as_query)

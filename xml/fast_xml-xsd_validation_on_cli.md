@@ -10,7 +10,7 @@ $ xmllint --noout --schema my.xsd my.xml
 
 `--noout` show just the errors, if you want your XML outputted, do not use `--noout`
 
-Source: [xmllint](http://xmlsoft.org/xmllint.html) a part of LibXML.
+## References
 
-Source: [Blog](http://www.silverink.nl/validating-xml-xsd-mac/)
-
+- [xmllint](http://xmlsoft.org/xmllint.html) a part of LibXML.
+- [Blog](http://www.silverink.nl/validating-xml-xsd-mac/)

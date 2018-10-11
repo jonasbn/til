@@ -19,4 +19,6 @@ Colour schemes are located in different places, the one given in the examples wa
 
 `~/Library/Application Support/Sublime Text 3/Cache/Color\ Scheme\ -\ Default/`
 
-Ref: [Inspiration](https://www.granneman.com/webdev/editors/sublime-text/configuring-sublime-text/)
+## References
+
+- [Inspiration](https://www.granneman.com/webdev/editors/sublime-text/configuring-sublime-text/)

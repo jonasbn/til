@@ -8,4 +8,6 @@ word-break: normal;
 word-wrap: normal;
 ```
 
-[Source: StackOverflow](http://stackoverflow.com/questions/16445229/prevent-automatic-line-breaks-in-a-code-tag)
+## References
+
+- [StackOverflow](http://stackoverflow.com/questions/16445229/prevent-automatic-line-breaks-in-a-code-tag)

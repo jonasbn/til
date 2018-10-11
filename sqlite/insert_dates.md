@@ -8,4 +8,6 @@ insert into musicians (name, inactivedate) values ('Prince Rogers Nelson', '2016
 insert into musicians (name, inactivedate) values ('Elvis Presley', null);
 ```
 
-Source ['StackOverflow'](http://stackoverflow.com/questions/1933720/how-do-i-insert-datetime-value-into-a-sqlite-database/39171103)
+## References
+
+- ['StackOverflow'](http://stackoverflow.com/questions/1933720/how-do-i-insert-datetime-value-into-a-sqlite-database/39171103)

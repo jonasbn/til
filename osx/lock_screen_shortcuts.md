@@ -3,6 +3,7 @@
 Locking the screen in OSX is possible, the combinations however differ between models, examples are from the machines I have tried it on:
 
 Mac Pro standard Apple external keyboard:
+
 ```
 ⌃ + ⇧ + ⏏ (Control + Shift + Eject)
 ```
@@ -10,6 +11,7 @@ Mac Pro standard Apple external keyboard:
 [Source: MyMacOSX](http://www.mymacosx.com/snow-leopard/instant-screensaver-activation-keys.html4)
 
 MacBook Pro keyboard:
+
 ```
 ⌃ + ⇧ + <power> (Control + Shift + Power)
 ```

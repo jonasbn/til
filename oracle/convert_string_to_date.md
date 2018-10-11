@@ -6,4 +6,6 @@ It is quite handy to be able to convert strings to dates, when working with Orac
 TO_DATE('2003/07/09', 'yyyy/mm/dd')
 ```
 
-[Source](http://www.techonthenet.com/oracle/functions/to_date.php)
+## References
+
+- [Source](http://www.techonthenet.com/oracle/functions/to_date.php)

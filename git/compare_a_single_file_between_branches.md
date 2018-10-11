@@ -6,4 +6,6 @@ This is how you compare a single file between branches
 $ git diff branch1 branch2 -- /path/to/relevantfile
 ```
 
-Source: [Stackoverflow](https://stackoverflow.com/questions/4099742/how-to-compare-files-from-two-different-branches)
+## References
+
+- [Stackoverflow](https://stackoverflow.com/questions/4099742/how-to-compare-files-from-two-different-branches)

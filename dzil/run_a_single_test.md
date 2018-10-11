@@ -7,4 +7,6 @@ this can be accomplished the following way:
 $ dzil run --nobuild prove -lv t/my-test.t
 ```
 
-Source: [Blog of Olaf Alders](http://blogs.perl.org/users/olaf_alders/2014/06/how-to-run-a-single-test-via-distzilla.html)
+## References
+
+- [Blog of Olaf Alders](http://blogs.perl.org/users/olaf_alders/2014/06/how-to-run-a-single-test-via-distzilla.html)

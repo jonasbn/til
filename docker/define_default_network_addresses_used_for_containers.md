@@ -63,7 +63,8 @@ And you should see that you changes have been applied (I have _cut_ out my conta
 ]
 ```
 
-Source: [StackOverflow](https://stackoverflow.com/questions/27344282/how-can-i-change-the-default-assigned-ip-address-for-docker-containers)
-Source: [Github](https://github.com/docker/docker/issues/3812)
-Source: [Docker](https://docs.docker.com/engine/userguide/networking/work-with-networks/)
+## References
 
+- [StackOverflow](https://stackoverflow.com/questions/27344282/how-can-i-change-the-default-assigned-ip-address-for-docker-containers)
+- [Github](https://github.com/docker/docker/issues/3812)
+- [Docker](https://docs.docker.com/engine/userguide/networking/work-with-networks/)

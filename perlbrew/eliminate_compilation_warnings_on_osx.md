@@ -17,4 +17,6 @@ PERLBREW_CONFIGURE_FLAGS='-de -Dccflags="-mmacosx-version-min=10.12" \
 perlbrew install 5.22.3 --64all -j 2
 ```
 
-Source [Blog of Karl Kornel](http://karl.kornel.us/2015/12/perl-osx-1011-warnings/)
+## References
+
+- [Blog of Karl Kornel](http://karl.kornel.us/2015/12/perl-osx-1011-warnings/)

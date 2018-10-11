@@ -12,4 +12,6 @@ $ git commit
 
 >Omitting the -m parameter lets you modify a draft commit message containing every message from your squashed commits before finalizing your commit.
 
-Source: [Stack Overflow](https://stackoverflow.com/questions/5308816/how-to-use-git-merge-squash)
+## References
+
+- [Stack Overflow](https://stackoverflow.com/questions/5308816/how-to-use-git-merge-squash)

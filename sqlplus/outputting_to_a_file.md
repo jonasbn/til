@@ -7,4 +7,6 @@ If you want to want to extract data easily to a file `sqlplus` the commandline u
 > SPOOL OFF
 ```
 
-[Source: StackOverflow](http://stackoverflow.com/questions/15984946/writing-sqlplus-output-to-a-file)
+## References
+
+- [StackOverflow](http://stackoverflow.com/questions/15984946/writing-sqlplus-output-to-a-file)

@@ -10,4 +10,6 @@ $ git branch -d <branch_name>
 $ git push origin --delete <branch_name>
 ```
 
-[Source: StackOverflow](http://stackoverflow.com/questions/2003505/how-to-delete-a-git-branch-both-locally-and-remotely)
+## References
+
+- [StackOverflow](http://stackoverflow.com/questions/2003505/how-to-delete-a-git-branch-both-locally-and-remotely)

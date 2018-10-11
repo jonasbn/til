@@ -8,4 +8,6 @@ My screenshot above is for a designated terminal setup (with a _funky_ backgroun
 
 I started out using the **Docker** image, therefor you can see the `ctop` container listed. By now `ctop` is also available via **Homebrew**.
 
-[Source: Github](https://github.com/bcicen/ctop)
+## References
+
+- [GitHub](https://github.com/bcicen/ctop)

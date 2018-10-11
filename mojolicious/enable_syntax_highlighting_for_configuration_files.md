@@ -24,9 +24,10 @@ my $config = $self->plugin('Config');
 
 If you like me you simply add the suffix `pconf` to the settings for **Perl**. Open a **Perl** file or switch syntax highlighting to **Perl**.
 
-Sublime Text > Preferences > Settings > Syntax Specific 
+Sublime Text > Preferences > Settings > Syntax Specific
 
 Add `pconf` to list of extensions and you are good to go.
 
-Source: [Mojolicious::Plugin::Config](http://mojolicious.org/perldoc/Mojolicious/Plugin/Config)
+## References
 
+- [Mojolicious::Plugin::Config](http://mojolicious.org/perldoc/Mojolicious/Plugin/Config)

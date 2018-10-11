@@ -8,4 +8,6 @@ Sometime you come across applications or projects using *YAML* and you start _ha
 
 `ysh` can be installed from Perl's YAML::Shell distribution available on CPAN.
 
-Source [MetaCPAN: YAML::Shell](https://metacpan.org/pod/distribution/YAML-Shell/lib/YAML/Shell.pod)
+## References
+
+- [MetaCPAN: YAML::Shell](https://metacpan.org/pod/distribution/YAML-Shell/lib/YAML/Shell.pod)

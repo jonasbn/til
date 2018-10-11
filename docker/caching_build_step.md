@@ -36,5 +36,7 @@ COPY . /usr/src/app
 
 The step of installing dependencies are isolated and is no longer mixed with the actual staging of the application files.
 
-[Source: Blog: reducing size](https://blog.codeship.com/reduce-docker-image-size/)
-[Source: Blog: caching](https://blog.playmoweb.com/speed-up-your-builds-with-docker-cache-bfed14c051bf)
+## References
+
+- [Blog: reducing size](https://blog.codeship.com/reduce-docker-image-size/)
+- [Blog: caching](https://blog.playmoweb.com/speed-up-your-builds-with-docker-cache-bfed14c051bf)

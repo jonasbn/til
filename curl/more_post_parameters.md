@@ -2,7 +2,8 @@
 
 Using `curl` for fast assertion of some HTTP based services is nifty.
 
-One thing, which was not completely clear for me from the man-page is how to provide more than one parameter. 
+One thing, which was not completely clear for me from the man-page is how to provide more than one
+parameter.
 
 ```bash
 $ curl -F foo=bar https://someurl/

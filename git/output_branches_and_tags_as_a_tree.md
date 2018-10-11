@@ -12,29 +12,31 @@ Example based on [DK Hostmaster EPP Service Specification](https://github.com/DK
 > git log --graph --simplify-by-decoration --pretty=format:'%d' --all
 *  (HEAD -> master, origin/master, origin/HEAD)
 *  (origin/prerelease-2.0, prerelease-2.0)
-*   
+*
 |\  
 | *  (origin/epp_update_domain_v1, epp_update_domain_v1)
-* |   
+* |
 |\ \  
 | * |  (origin/epp_renew_domain_v1, epp_renew_domain_v1)
 | |/  
-* |   
-|\ \  
+* |
+|\ \
 | * |  (origin/epp_nameserver_admin_v1, epp_nameserver_admin_v1)
-| |/  
-* |   
-|\ \  
-| |/  
-|/|   
+| |/
+* |
+|\ \
+| |/
+|/|
 | *  (origin/epp_contact_admin_v1, epp_contact_admin_v1)
 * |  (tag: 1.10)
-|/  
+|/
 *  (tag: 1.9)
 *  (tag: 1.8)
 *  (tag: 1.7)
 *  (tag: 1.6)
-* 
+*
 ```
 
-Source [CoderWall](https://coderwall.com/p/mjy1lq/git-output-branches-and-tags-as-a-tree)
+## References
+
+- [CoderWall](https://coderwall.com/p/mjy1lq/git-output-branches-and-tags-as-a-tree)

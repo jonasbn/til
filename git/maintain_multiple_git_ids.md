@@ -66,5 +66,7 @@ You can then specify all the _conditional includes_ you want. My _conditional in
 
 You should of course set the default to your primary/dominant repositories and then overwrite for the special repositories.
 
-Source: [Blog post](https://dev.to/maxlmator/maintaining-different-git-identities) by Max Kleucker, @mkleucker
-Source: [Git documentation on conditional includes](https://git-scm.com/docs/git-config#_conditional_includes)
+## References
+
+- [Blog post](https://dev.to/maxlmator/maintaining-different-git-identities) by Max Kleucker, @mkleucker
+- [Git documentation on conditional includes](https://git-scm.com/docs/git-config#_conditional_includes)

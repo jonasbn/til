@@ -6,4 +6,6 @@ I have just started playing around with **GraphQL** and I really like using **ht
 $ http POST http://localhost:3000/graphql query="{user(id:2){id,name,knowledge{language,frameworks}}}"
 ```
 
-Source [GitHub example](https://github.com/guilouro/simple-graphql-server)
+## References
+
+- [GitHub example](https://github.com/guilouro/simple-graphql-server)

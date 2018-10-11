@@ -46,7 +46,7 @@ And you are good to go.
 
 Using the newly generated `cpanfile`, requires the installation of: [Dist::Zilla::Plugin::Prereqs::FromCPANfile](https://metacpan.org/pod/Dist::Zilla::Plugin::Prereqs::FromCPANfile)
 
-## Alternatively!
+## Alternatively
 
 You could also use the `mymeta-cpanfile` from [Module-CPANfile](http://search.cpan.org/~miyagawa/Module-CPANfile-1.1002/script/mymeta-cpanfile)
 
@@ -55,9 +55,11 @@ $ dzil build
 
 $ cd <distribution build dir>
 
-$ mymeta-cpanfile 
+$ mymeta-cpanfile
 ```
 
 Thanks @miyagawa
 
-Source: [Github](https://github.com/miyagawa/Dist-Zilla-Plugin-Prereqs-FromCPANfile/pull/4)
+## References
+
+- [Github](https://github.com/miyagawa/Dist-Zilla-Plugin-Prereqs-FromCPANfile/pull/4)

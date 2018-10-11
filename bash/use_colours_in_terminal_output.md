@@ -6,5 +6,6 @@ Outputting _hello world_ in red, followed by a reset.
 echo -e "\e[31mHello World\e[0m"
 ```
 
+## References
 
-Source: [FLOZz' MISC » bash:tip_colors_and_formatting](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
+- [FLOZz' MISC » bash:tip_colors_and_formatting](https://misc.flogisoft.com/bash/tip_colors_and_formatting)

@@ -3,6 +3,7 @@
 I always mix up how to executing functions versus a procedure on Oracle
 
 ## Function
+
 ```sql
 select <schema>.<function>(<params>) from dual;
 ```

@@ -15,5 +15,6 @@ $ git commit --amend
 git push --force
 ```
 
-Source [Github Help](https://help.github.com/articles/changing-a-commit-message/)
+## References
 
+- [GitHub Help](https://help.github.com/articles/changing-a-commit-message/)

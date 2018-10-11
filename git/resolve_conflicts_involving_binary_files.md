@@ -7,4 +7,6 @@ $ git checkout --ours <binaryfile>
 $ git checkout --theirs <binaryfile>
 ```
 
-[Source: Github](https://github.com/githubtraining/zzz_deprecated-feedback/issues/45)
+## References
+
+- [GitHub](https://github.com/githubtraining/zzz_deprecated-feedback/issues/45)

@@ -33,4 +33,6 @@ $c = $c->respond_to(
 );
 ```
 
-[Source: Mojolicious Docs](http://mojolicious.org/perldoc/Mojolicious/Controller#respond_to)
+## References
+
+- [Mojolicious Docs](http://mojolicious.org/perldoc/Mojolicious/Controller#respond_to)

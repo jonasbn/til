@@ -10,9 +10,9 @@ $ cd myfork
 $ git remote -v
 
 # this will list your remotes, this might look like
-origin	«remote url»
+origin  «remote url»
 
-# if you do not have a URL for the original repository, 
+# if you do not have a URL for the original repository,
 # often referred to as parent
 $ git remote add parent «parent-url»
 
@@ -23,4 +23,6 @@ $ git pull parent «branch»
 $ git push
 ```
 
-Source: [Stackoverflow](http://stackoverflow.com/questions/4169832/update-my-github-repo-which-is-forked-out-from-another-project)
+## References
+
+- [Stackoverflow](http://stackoverflow.com/questions/4169832/update-my-github-repo-which-is-forked-out-from-another-project)

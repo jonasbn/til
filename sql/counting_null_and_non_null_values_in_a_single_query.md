@@ -4,8 +4,10 @@ I do not know why I had to look this up recently, it seemed like a scenario you 
 
 ```sql
 select sum(case when a is null then 1 else 0 end) count_nulls
-     , count(a) count_not_nulls 
+     , count(a) count_not_nulls
   from table;
 ```
 
-Source: [StackOverflow](https://stackoverflow.com/questions/1271810/counting-null-and-non-null-values-in-a-single-query)
+## References
+
+- [StackOverflow](https://stackoverflow.com/questions/1271810/counting-null-and-non-null-values-in-a-single-query)

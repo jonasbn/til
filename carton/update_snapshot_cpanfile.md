@@ -8,4 +8,6 @@ $ carton install
 
 This updates the `cpanfile.snapshot` accordingly.
 
-[Source: MetaCPAN](https://metacpan.org/pod/distribution/Carton/lib/Carton/Doc/Check.pod)
+## References
+
+- [MetaCPAN](https://metacpan.org/pod/distribution/Carton/lib/Carton/Doc/Check.pod)

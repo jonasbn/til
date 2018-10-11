@@ -6,11 +6,13 @@ Add the following line to the `/etc/apt/sources.list` file.
 
 `deb http://ftp.debian.org/debian/ wheezy main contrib`
 
-Run the commands: 
+Run the commands:
 
 ```bash
-$ sudo apt-get update 
+$ sudo apt-get update
 $ sudo apt-get install open-vm-tools
 ```
 
-[Source: VMware](http://partnerweb.vmware.com/GOSIG/Debian_7.html)
+## References
+
+- [VMware](http://partnerweb.vmware.com/GOSIG/Debian_7.html)

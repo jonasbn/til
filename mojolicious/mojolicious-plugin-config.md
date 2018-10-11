@@ -10,4 +10,6 @@ So in order to differentiate and get my text editor to enforce a distinction for
 my $config = $self->plugin('Config', ext => 'pconf');
 ```
 
-Source: [MetaCPAN](https://metacpan.org/pod/Mojolicious::Plugin::Config#ext)
+## References
+
+- [MetaCPAN](https://metacpan.org/pod/Mojolicious::Plugin::Config#ext)

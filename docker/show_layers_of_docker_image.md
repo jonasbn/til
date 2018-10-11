@@ -14,4 +14,6 @@ Show layers of you chosen image:
 $ docker history
 ```
 
-[Source: Blog](http://blog.arungupta.me/show-layers-of-docker-image/)
+## References
+
+- [Blog](http://blog.arungupta.me/show-layers-of-docker-image/)

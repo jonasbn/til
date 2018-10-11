@@ -1,5 +1,10 @@
 # Use cool themes
 
-You can spice up your `iTerm.app` terminal with a lot of different themes, go and check them out: 
+You can spice up your `iTerm.app` terminal with a lot of [different themes][themes], go and check
+them out.
 
-Source: [GitHub](https://github.com/mbadolato/iTerm2-Color-Schemes)
+## References
+
+- [GitHub: mbadolato/iTerm2-Color-Schemes][themes]
+
+[themes]: https://github.com/mbadolato/iTerm2-Color-Schemes

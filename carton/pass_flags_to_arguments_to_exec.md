@@ -9,7 +9,7 @@ $ prove -v
 If you however run this command under `carton exec`
 
 ```bash
-$ carton exec prove -v 
+$ carton exec prove -v
 ```
 
 You get the version string from `carton`.
@@ -21,9 +21,11 @@ carton v1.0.22
 So you have to utilize the `--`  to terminate command-line argument passing for `carton` like so:
 
 ```bash
-$ carton exec -- prove -v 
+$ carton exec -- prove -v
 ```
 
 And your test output will be as verbose as you are used to.
 
-[Source: Github](https://github.com/perl-carton/carton/issues/151)
+## References
+
+- [Github](https://github.com/perl-carton/carton/issues/151)

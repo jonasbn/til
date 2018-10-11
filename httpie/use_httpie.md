@@ -24,11 +24,13 @@ Via: 1.1 vegur
 X-Content-Type-Options: nosniff
 X-Powered-By: Express
 ```
+
 ```json
 {
-    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto", 
-    "id": 1, 
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit", 
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit
+    molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
     "userId": 1
 }
 ```

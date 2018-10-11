@@ -18,4 +18,6 @@ Ideally, these three should match:
    - The name of the source package in the debian changelog
 ```
 
-Source: [Debian mailinglist](https://lists.debian.org/debian-mentors/1998/09/msg00052.html)
+## References
+
+- [Debian mailinglist](https://lists.debian.org/debian-mentors/1998/09/msg00052.html)

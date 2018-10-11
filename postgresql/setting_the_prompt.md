@@ -5,13 +5,13 @@ Tweaking the Postgresql commandline utility `psql` prompt can be quite useful.
 Experiment with in `psql`
 
 ```
-\set PROMPT1 '(%n@%m) [%/]> 
+\set PROMPT1 '(%n@%m) [%/]>
 ```
 
 Rendering:
 
 ```
-(jonasbn@[local]) [mydb]> 
+(jonasbn@[local]) [mydb]>
 ```
 
 When satisfied, put this in your `.psqlrc`.
@@ -47,8 +47,10 @@ So in combination you could do;
 Rendering (for open transaction):
 
 ```
-(jonasbn@[local]) [mydb]*> 
+(jonasbn@[local]) [mydb]*>
 ```
+
+## References
 
 [Source: SQL-info](http://sql-info.de/postgresql/notes/transaction-status-in-the-psql-prompt.html)
 

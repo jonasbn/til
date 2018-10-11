@@ -9,5 +9,5 @@ MYSQL_PS1="(\u@\h) [\d]> "
 Rendering:
 
 ```
-(jonasbn@[local]) [mydb]> 
+(jonasbn@[local]) [mydb]>
 ```

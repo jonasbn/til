@@ -18,7 +18,5 @@ insert_final_newline = true
 trim_trailing_whitespace = true
 
 [*.md]
-trim_trailing_whitespace = false
-indent_style = tab
-insert_final_newline = true
+indent_style = spaces
 max_line_length = 100

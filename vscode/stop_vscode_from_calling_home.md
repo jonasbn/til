@@ -10,4 +10,6 @@ following line:
 "telemetry.enableTelemetry": false
 ```
 
-Source: [Visual Studio Code FAQ](https://code.visualstudio.com/docs/supporting/faq#_how-to-disable-telemetry-reporting)
+## References
+
+- [Visual Studio Code FAQ](https://code.visualstudio.com/docs/supporting/faq#_how-to-disable-telemetry-reporting)

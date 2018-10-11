@@ -17,4 +17,6 @@ export PATH
 
 This makes sure the correct `xml2-config` is executed.
 
-Source: [Wiki of Alex Schroeder](https://alexschroeder.ch/wiki/2017-11-03_libxml2_and_Homebrew_and_Perl)
+## References
+
+- [Wiki of Alex Schroeder](https://alexschroeder.ch/wiki/2017-11-03_libxml2_and_Homebrew_and_Perl)

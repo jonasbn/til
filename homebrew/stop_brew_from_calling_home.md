@@ -14,4 +14,6 @@ Or you can disable it completely:
 brew analytics off
 ```
 
-Source: [Github](https://github.com/Homebrew/brew/blob/master/docs/Analytics.md)
+## References
+
+- [GitHub](https://github.com/Homebrew/brew/blob/master/docs/Analytics.md)

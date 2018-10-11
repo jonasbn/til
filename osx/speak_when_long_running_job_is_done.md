@@ -9,4 +9,4 @@
 # Usage: sleep 2 && hey wake up!
 ```
 
-Source: [Github: gist by Tara Gibbs](https://gist.github.com/tara-gibbs/cf91bc86c580f244de0ae9f5978edaac)
+- [Github: gist by Tara Gibbs](https://gist.github.com/tara-gibbs/cf91bc86c580f244de0ae9f5978edaac)

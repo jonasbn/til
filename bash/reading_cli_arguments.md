@@ -14,4 +14,6 @@ the dog eats a bone every time there is a moose
 bye:-)
 ```
 
-[Source: Wikia](http://how-to.wikia.com/wiki/How_to_read_command_line_arguments_in_a_bash_script)
+## References
+
+- [Wikia](http://how-to.wikia.com/wiki/How_to_read_command_line_arguments_in_a_bash_script)

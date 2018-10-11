@@ -24,5 +24,6 @@ $ docker run -it --entrypoint /bin/bash <imagename>
 
 Do read the rest of the referenced **StackOverflow** entry, it holds a lot of good information.
 
-[Source: StackOverflow](http://stackoverflow.com/questions/26220957/how-can-i-inspect-the-file-system-of-a-failed-docker-build)
+## References
 
+- [StackOverflow](http://stackoverflow.com/questions/26220957/how-can-i-inspect-the-file-system-of-a-failed-docker-build)

@@ -8,5 +8,6 @@ Luckily this can easily be addressed.
 $ brew cleanup
 ```
 
-Source: [StackOverflow](http://stackoverflow.com/questions/27508590/homebrew-size-of-cellar)
+## References
 
+- [StackOverflow](http://stackoverflow.com/questions/27508590/homebrew-size-of-cellar)

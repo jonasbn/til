@@ -26,4 +26,6 @@ local/lib/perl5/darwin-thread-multi-2level/auto/DBD/Oracle/Oracle.bundle:
     /usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1226.10.1)
 ```
 
-Source [StackoverFlow](http://stackoverflow.com/questions/17703510/dyld-library-not-loaded-reason-image-not-loaded)
+## References
+
+- [StackOverflow](http://stackoverflow.com/questions/17703510/dyld-library-not-loaded-reason-image-not-loaded)

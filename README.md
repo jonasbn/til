@@ -505,9 +505,12 @@
 ## About
 
 I have for a long time maintained notes in a public wiki, finding the TIL of
-Josh Branchaud [jbranchaud/til](https://github.com/jbranchaud/til) was an eye-opener and I immiediately wanted to try it out, so after a few months I have finally set it up.
+Josh Branchaud [jbranchaud/til](https://github.com/jbranchaud/til) was an
+eye-opener and I immiediately wanted to try it out, so after a few months I have
+finally set it up.
 
-I plan to migrate my earlier notes, so they are more easily accessible here as TIL snippets, this will be done when I have the time, one TIL at a time :-)
+I plan to migrate my earlier notes, so they are more easily accessible here as
+TIL snippets, this will be done when I have the time, one TIL at a time :-)
 
 <a id="additional-til-collections"></a>
 ## Additional TIL Collections
@@ -521,4 +524,7 @@ I plan to migrate my earlier notes, so they are more easily accessible here as T
 
 &copy; 2016-2018 jonasbn
 
-This repository is licensed under the MIT license. See [LICENSE](LICENSE) file for details. Much is lifted from elsewhere and might by copyrighted under other licenses by the respective authors. I will mention this where applicable and I will link to original sources when and if possible.
+This repository is licensed under the MIT license. See [LICENSE](LICENSE) file
+for details. Much is lifted from elsewhere and might by copyrighted under other
+licenses by the respective authors. I will mention this where applicable and I
+will link to original sources when and if possible.

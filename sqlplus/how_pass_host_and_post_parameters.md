@@ -14,6 +14,8 @@ Enter password: password@//hostname:port/SERVICENAME
 ```bash
 $ sqlplus /nolog
 SQL> connect username/password@hostname:port/SERVICENAME
-``
+```
 
-Source [Blog: Alex Lima](https://oraclespin.com/2008/10/07/how-to-pass-host-port-sidservice-name-to-connect-to-a-database/)
+## References
+
+- [Blog: Alex Lima](https://oraclespin.com/2008/10/07/how-to-pass-host-port-sidservice-name-to-connect-to-a-database/)

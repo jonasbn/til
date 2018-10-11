@@ -22,4 +22,6 @@ $ make && make test && make install
 
 And the product of your build should end up in the right place. Do note the `lib` and the end of the path, which is one of the standard directories in local maintained by `carton`.
 
-Source [MetaCPAN: ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker#PREFIX-and-LIB-attribute)
+## References
+
+- [MetaCPAN: ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker#PREFIX-and-LIB-attribute)

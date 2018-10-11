@@ -7,7 +7,7 @@
 - Enable [Markdownlint](https://github.com/markdownlint/markdownlint) in your favorite editor
 - Added a **Markdown** configuration to your **EditorConfig** configuration
 
-## Additional Resources
+## References
 
 - [Official Markdown Syntax by Daring Fireball](http://daringfireball.net/projects/markdown/syntax)
 - [GitHub: Markdown basics](https://help.github.com/articles/markdown-basics)

@@ -7,7 +7,8 @@ attach database 'sqlite.db' as MYOTHERSCHEMA;
 ```
 
 You can get an overview of your databases (schemas) using the command:
-```
+
+```sql
 .databases
 ```
 
@@ -21,4 +22,6 @@ You need to wrap the actual attaching in a transaction and it will work
 BEGIN; attach database 'othersqlite.db'; END;
 ```
 
-Source ['Working With Attached Databases in SQLite'](http://sqlite.awardspace.info/syntax/sqlitepg12.htm)
+## References
+
+- ['Working With Attached Databases in SQLite'](http://sqlite.awardspace.info/syntax/sqlitepg12.htm)

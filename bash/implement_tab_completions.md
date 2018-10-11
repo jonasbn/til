@@ -6,7 +6,7 @@ An example `ackrc` based on [my TIL](https://github.com/jonasbn/til/blob/master/
 
 This completion script, reads your `$HOME/.ackrc` files and offers tab completions for your custom types.
 
-```
+```bash
 $ ack <tab>
 --yourcustomtype
 ```
@@ -20,7 +20,7 @@ An example `ackrc` based on [my TIL](https://github.com/jonasbn/til/blob/master/
 
 Would work as follows:
 
-```
+```bash
 $ ack --<tab>
 --mojo --conf
 ```
@@ -28,14 +28,14 @@ $ ack --<tab>
 The complete implementation lifed from [my github repository](https://github.com/jonasbn/bash_completion_ack).
 
 ```bash
-_ack() 
+_ack()
 {
     local cur prev opts
     COMPREPLY=()
     cur="${COMP_WORDS[COMP_CWORD]}"
     prev="${COMP_WORDS[COMP_CWORD-1]}"
     local opts=$(sed -n "s/--type-set=\([^']*\)=.*/--\1/p" $HOME/.ackrc )
-    
+
     COMPREPLY=( $(compgen -W "${opts}" -- ${cur}) )
 }
 

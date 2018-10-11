@@ -8,4 +8,4 @@ You can with luck install `ack` via [Homebrew](http://brew.sh/) on your Mac.
 
 An alternative to `ack` worth mentioning could be:
 
-- _(the silver searcher)[https://github.com/ggreer/the_silver_searcher]_ `ag`
+- _[the silver searcher](https://github.com/ggreer/the_silver_searcher)_ `ag`

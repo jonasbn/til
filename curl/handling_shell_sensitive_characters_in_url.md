@@ -10,7 +10,7 @@ $ curl --header Accept:application/json https://USERID:funkyPassMo|)@eksempel.dk
 Simply quote the URL
 
 ```bash
-$ curl --header Accept:application/json \ 
+$ curl --header Accept:application/json \
 "https://USERID:funkyPassMo|)@eksempel.dk/dostuff"
 ```
 

@@ -4,4 +4,6 @@
 % svn log --stop-on-copy
 ```
 
-Source: http://www.sepcot.com/blog/2007/04/SVN-Merge-Branch-Trunk
+## References
+
+- http://www.sepcot.com/blog/2007/04/SVN-Merge-Branch-Trunk

@@ -5,4 +5,6 @@ $ cd
 $ ln -s ~/Library/Mobile Documents iCloud
 ```
 
-Source: [Blog post by Daniel Miessler](https://danielmiessler.com/blog/access-icloud-drive-terminal/)
+## References
+
+- [Blog post by Daniel Miessler](https://danielmiessler.com/blog/access-icloud-drive-terminal/)

@@ -36,7 +36,7 @@ Now you can inspect the container
 
 ```sh
 $ docker run -it --entrypoint /bin/sh smelly_container
-/ # cat /tmp/hello_world 
+/ # cat /tmp/hello_world
 hello world
 ```
 
@@ -47,4 +47,6 @@ $ docker run -it  smelly_container
 hello world
 ```
 
-Source: [StackOverflow](https://stackoverflow.com/questions/30716937/dockerfile-build-possible-to-ignore-error)
+## References
+
+- [StackOverflow](https://stackoverflow.com/questions/30716937/dockerfile-build-possible-to-ignore-error)

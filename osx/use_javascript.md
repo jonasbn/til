@@ -31,10 +31,10 @@ var str = '';
 
 for (i = 0; i < list.reminders.length; i++)
 {
-	var r = list.reminders[i];
-	if (r.completed() === false) {
-		str = str + ' ' + r.name() + "\n";
-	}
+    var r = list.reminders[i];
+    if (r.completed() === false) {
+        str = str + ' ' + r.name() + "\n";
+    }
 }
 
 console.log(str);

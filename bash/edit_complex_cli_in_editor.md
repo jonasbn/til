@@ -6,4 +6,6 @@ When you are writing or editing a particularly long command line in the shell, y
 
 When closing the editor the command line entered is executed.
 
-Source [CommandLineFu](https://www.commandlinefu.com/commands/view/1446/rapidly-invoke-an-editor-to-write-a-long-complex-or-tricky-command)
+## References
+
+- [CommandLineFu](https://www.commandlinefu.com/commands/view/1446/rapidly-invoke-an-editor-to-write-a-long-complex-or-tricky-command)

@@ -15,10 +15,12 @@ The output is defined in: `$HOME/.docker/config.json`, like so:
 
 ```json
 {
-	"psFormat": "table {{.Names}}\\t{{.ID}}\\t{{.Image}}\\t{{.Status}}\\t{{.Networks}}\\t{{.Ports}}",
+    "psFormat": "table {{.Names}}\\t{{.ID}}\\t{{.Image}}\\t{{.Status}}\\t{{.Networks}}\\t{{.Ports}}",
 }
 ```
 
 Please see the documentation for more information.
 
-Source [Docker](https://docs.docker.com/engine/reference/commandline/ps/)
+## References
+
+- [Docker](https://docs.docker.com/engine/reference/commandline/ps/)

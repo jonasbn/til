@@ -22,4 +22,6 @@ New York; 2017-10-29 13:24:50
 Copenhagen: 2017-10-29 18:24:50
 ```
 
-Source: [Man-page for date](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/date.1.html)
+## References
+
+- [Man-page for date](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/date.1.html)

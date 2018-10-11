@@ -26,14 +26,14 @@ Filename: `com.jonasbn.minicpan.plist`
         <integer>0</integer>
     </dict>
 </dict>
-</plist> 
+</plist>
 ```
 
 ## Sleep and Power
 
 All launchd jobs are skipped when the computer is turned off or asleep; they will not run until the next designated time occurs, if the computer is turned on or not asleep.
 
-Source: [Alvin Alexanders blog](https://alvinalexander.com/mac-os-x/mac-osx-startup-crontab-launchd-jobs)
+## References
 
-Source: [Apple Documentation](https://developer.apple.com/library/content/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/ScheduledJobs.html#//apple_ref/doc/uid/10000172i-CH1-SW2)
-
+- [Alvin Alexanders blog](https://alvinalexander.com/mac-os-x/mac-osx-startup-crontab-launchd-jobs)
+- [Apple Documentation](https://developer.apple.com/library/content/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/ScheduledJobs.html#//apple_ref/doc/uid/10000172i-CH1-SW2)

@@ -8,4 +8,6 @@ You can tweak your terminal use completely, checkout [Tmux Plugin Manager](https
 
 You can with luck install `tmux` via [Homebrew](http://brew.sh/) on your Mac.
 
-Source: [GitHub](https://github.com/tmux/tmux/wiki)
+## References
+
+- [GitHub](https://github.com/tmux/tmux/wiki)

@@ -39,4 +39,6 @@ You can always uninstall it again using:
 $ launchctl unload ~/Library/LaunchAgents/com.jonasbn.dockersystemprune.plist
 ```
 
-Source [Docker Tip 32](https://nickjanetakis.com/blog/docker-tip-32-automatically-clean-up-after-docker-daily)
+## References
+
+- [Docker Tip 32](https://nickjanetakis.com/blog/docker-tip-32-automatically-clean-up-after-docker-daily)

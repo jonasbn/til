@@ -9,4 +9,6 @@ git checkout master
 git merge better_branch             # fast-forward master up to the merge
 ```
 
-Source [StackOverflow](http://stackoverflow.com/questions/2763006/change-the-current-branch-to-master-in-git)
+## References
+
+- [StackOverflow](http://stackoverflow.com/questions/2763006/change-the-current-branch-to-master-in-git)

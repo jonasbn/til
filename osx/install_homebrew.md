@@ -24,4 +24,6 @@ It gives you easy and maintainable access to cool tools like:
 - `tree`
 - `wget`
 
-Source: http://brew.sh/
+## References
+
+- [http://brew.sh/](http://brew.sh/)

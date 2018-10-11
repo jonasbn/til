@@ -8,4 +8,6 @@ $ sudo apt-get upgrade       # Strictly upgrades the current packages
 $ sudo apt-get dist-upgrade  # Installs updates (new ones)
 ```
 
-Source [Ask Ubuntu](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line)
+## References
+
+- [Ask Ubuntu](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line)

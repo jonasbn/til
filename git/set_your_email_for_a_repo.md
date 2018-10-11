@@ -22,4 +22,6 @@ And when you find out after you have checked out a lot of repositories
 $ find . -type d -maxdepth 1 -exec bash -c "cd '{}' ; git config user.email 'your_email@example.com'"  \;
 ```
 
-[Source: StackExchange](http://unix.stackexchange.com/questions/187167/traverse-all-subdirectories-in-and-do-something-in-unix-shell-script)
+## References
+
+- [StackExchange](http://unix.stackexchange.com/questions/187167/traverse-all-subdirectories-in-and-do-something-in-unix-shell-script)

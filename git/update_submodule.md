@@ -27,4 +27,6 @@ $ cd ..
 $ git commit -am "Pulled down update to submodule: example (example_submodule_directory)"
 ```
 
-Source: [Stack Overflow](https://stackoverflow.com/questions/5828324/update-git-submodule-to-latest-commit-on-origin)
+## References
+
+- [Stack Overflow](https://stackoverflow.com/questions/5828324/update-git-submodule-to-latest-commit-on-origin)

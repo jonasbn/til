@@ -20,4 +20,6 @@ Change your personal login shell
 $ chsh -s /usr/local/bin/bash
 ```
 
-Source: [Github](https://github.com/mathiasbynens/dotfiles/issues/544)
+## References
+
+- [GitHub](https://github.com/mathiasbynens/dotfiles/issues/544)

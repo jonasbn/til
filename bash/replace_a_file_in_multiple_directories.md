@@ -8,4 +8,6 @@ $ find . -name README.txt -print0 | xargs -0 -I{} cp README.txt {}
 
 This is a variation over the following:
 
-Source: https://www.garron.me/en/linux/find-copy-files-exec-xargs-bash-linux-mac-osx.html
+## References
+
+- https://www.garron.me/en/linux/find-copy-files-exec-xargs-bash-linux-mac-osx.html

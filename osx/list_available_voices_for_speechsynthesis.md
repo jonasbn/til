@@ -53,4 +53,3 @@ Zuzana              cs_CZ    # Dobrý den, jmenuji se Zuzana. Jsem český hlas.
 ```
 
 Source: man-page for `say`
-

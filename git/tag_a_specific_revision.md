@@ -64,4 +64,6 @@ Date:   Sun Apr 27 20:43:35 2008 -0700
 
 And of course remember to push your tags
 
-Source: [Git Book](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+## References
+
+- [Git Book](https://git-scm.com/book/en/v2/Git-Basics-Tagging)

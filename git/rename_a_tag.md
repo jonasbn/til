@@ -23,7 +23,7 @@ $ git remote -v
 $ git push origin :refs/tags/old_tag_name
 ```
 
-And finally you need to add your new and shiny tag to the remote location. 
+And finally you need to add your new and shiny tag to the remote location.
 
 ```bash
 $ git push origin --tags
@@ -31,4 +31,6 @@ $ git push origin --tags
 
 Repeat this for every remote location.
 
-Source [StackOverflow](https://stackoverflow.com/questions/1028649/how-do-you-rename-a-git-tag)
+## References
+
+- [StackOverflow](https://stackoverflow.com/questions/1028649/how-do-you-rename-a-git-tag)

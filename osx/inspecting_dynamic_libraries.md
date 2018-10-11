@@ -6,8 +6,7 @@ If you want to see what symbols are exported by a dynamic library you can do so 
 $ otool -L wx/_core_.so
 ```
 
+## References
 
-
-Source: [Oracle.com](https://blogs.oracle.com/dipol/entry/)dynamic_libraries_rpath_and_mac
-
-Source: [StackOverflow](http://stackoverflow.com/questions/4506121/how-to-print-a-list-of-symbols-exported-from-a-dynamic-library#4506140)
+- [Oracle.com](https://blogs.oracle.com/dipol/entry/)dynamic_libraries_rpath_and_mac
+- [StackOverflow](http://stackoverflow.com/questions/4506121/how-to-print-a-list-of-symbols-exported-from-a-dynamic-library#4506140)

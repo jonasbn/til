@@ -20,4 +20,6 @@ $ git checkout tags/<tag_name>
 
 The latter can always be branched, if need be.
 
-[Source: StackOverflow](http://stackoverflow.com/questions/791959/download-a-specific-tag-with-git)
+## References
+
+- [StackOverflow](http://stackoverflow.com/questions/791959/download-a-specific-tag-with-git)

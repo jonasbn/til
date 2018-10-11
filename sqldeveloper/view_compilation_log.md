@@ -8,4 +8,6 @@ Errors: check compiler log
 
 Either you can go into the menu: `View` > `Log` or you can press: `<ctrl>-<cmd>-L` (on a Mac).
 
-Source [StackOverflow](https://stackoverflow.com/questions/3815289/how-to-check-compiler-log-in-sql-developer)
+## References
+
+- [StackOverflow](https://stackoverflow.com/questions/3815289/how-to-check-compiler-log-in-sql-developer)

@@ -7,4 +7,6 @@ $ su -
 $ adduser <existing userid> sudo
 ```
 
-[Source: Debian Wiki](https://wiki.debian.org/sudo)
+## References
+
+- [Debian Wiki](https://wiki.debian.org/sudo)

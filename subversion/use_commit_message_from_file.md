@@ -19,4 +19,6 @@ $ svn commit --force-log -F MIGRATED MIGRATED
 
 Please note the `--force-log`, which has to be used because the file is under revision control.
 
-Source: http://svnbook.red-bean.com/en/1.7/svn.ref.svn.c.commit.html
+## References
+
+- http://svnbook.red-bean.com/en/1.7/svn.ref.svn.c.commit.html

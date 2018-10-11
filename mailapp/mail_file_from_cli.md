@@ -5,4 +5,3 @@ You can mail files from the command line using Apples Mail.app, this sometimes c
 ```bash
 $ open -a Mail yourfile.ext
 ```
-

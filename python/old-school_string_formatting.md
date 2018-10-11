@@ -22,5 +22,6 @@ y = 'lemon'
 z = "The items in the basket are %s and %s" % (x,y)
 ```
 
-[Source: Python for Beginners](http://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python)
+## References
 
+- [Python for Beginners](http://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python)

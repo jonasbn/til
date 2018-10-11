@@ -24,4 +24,6 @@ Example:
 $ docker cp myapp.conf myapp:/usr/src/app/myapp.conf
 ```
 
-[Source: StackOverflow](https://stackoverflow.com/questions/22049212/docker-copy-file-from-container-to-host)
+## References
+
+- [StackOverflow](https://stackoverflow.com/questions/22049212/docker-copy-file-from-container-to-host)
