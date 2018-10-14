@@ -478,6 +478,7 @@
 ### Visual Studio
 
 - [Stop vscode from calling home](vscode/stop_vscode_from_calling_home.md)
+- [Integrate vscode with Shell / CLI](vscode/integrate_with_cli.md)
 
 <a id="vmware-fusion"></a>
 ### VMware Fusion
