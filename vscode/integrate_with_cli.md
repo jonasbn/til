@@ -42,6 +42,8 @@ export VISUAL EDITOR
 - [Git man page][git man page]
 - [Bash man page][bash man page]
 - [dev.to: TIL: Integrate Visual Studio Code with Shell / CLI](https://dev.to/jonasbn/til-integrate-visual-studio-code-with-shell--cli-2l1l), thanks to [tux0r](https://dev.to/tux0r).
+- [StackOverflow: Where do EDITOR, PAGER, BROWSER environment variables come from?](https://unix.stackexchange.com/questions/213367/where-do-editor-pager-browser-environment-variables-come-from/213369#213369)
+- [POSIX 8.1: Environment Variable Definition](http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap08.html#tag_08_01)
 
 [git man page]: https://git-scm.com/docs/git#git-codeGITEDITORcode
 
