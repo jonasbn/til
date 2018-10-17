@@ -15,7 +15,7 @@ export VISUAL="code --wait --new-window"
 This mean that for example can edit, complex command line constructs in **code** using the `CTRL-x`,
 `CTRL-e` combination.
 
-**code** has marvellous **Git** integration, but if you like me sometime work on the command line instead of the editor with your version control tasks, setting the `$GIT_EDITOR` environment variable can be quite useful.
+**code** has marvelous **Git** integration, but if you like me sometime work on the command line instead of the editor with your version control tasks, setting the `$GIT_EDITOR` environment variable can be quite useful.
 
 This is however not necessary, if you have set `$VISUAL` as described above (see also: the [Git man page][git man page]), but if you have special command line setting and would like to differenciate, this could be an option and therefor worth a mention.
 
@@ -23,7 +23,7 @@ This is however not necessary, if you have set `$VISUAL` as described above (see
 export GIT_EDITOR="code --wait --new-window"
 ```
 
-And now I can edit commit messages and command lines using **code** and all the other CLI relying on the `$VISUAL` defintion.
+And now I can edit commit messages and command lines using **code** and all the other CLI relying on the `$VISUAL` definition.
 
 Do note that `$VISUAL` is for GUI-capable environments, whereas you can define the `$EDITOR`
 environment variable for no-GUI pointing to another shell. The separation of the two makes your
