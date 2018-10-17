@@ -8,6 +8,8 @@ Normally I start **code** from the command line, but today I decided to go all t
 it as the editor to be executed when edits are initiated from other command line tools using the
 `$VISUAL` environment variable.
 
+Before we move on please follow [the official guide][code cli install] to install the **Visual Studio Code** CLI tool.
+
 ```bash
 export VISUAL="code --wait --new-window"
 ```
@@ -50,3 +52,5 @@ export VISUAL EDITOR
 [bash man page]: https://linux.die.net/man/1/bash
 
 [code cli doc]: https://code.visualstudio.com/docs/editor/command-line
+
+[code cli install]: https://code.visualstudio.com/docs/setup/mac
