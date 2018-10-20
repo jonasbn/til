@@ -383,7 +383,7 @@
 <a id="rust"></a>
 ### Rust
 
-- [Learn Rust](rust/learn_rust.md)
+- [Setting Up a Rust Development Environment](rust/setting_up_a_rust_dev_env.md)
 
 <a id="sed"></a>
 ### sed

@@ -234,6 +234,10 @@ Do checkout the [documentation section](https://www.rust-lang.org/en-US/document
 
 :bulb: And finally one last tip from me - when you find out what libraries you want to try out on [crates.io](https://crates.io/), they often have a documentation link, which can lead you to examples etc.
 
+This guide and some [video tutorials] was all that started my first "[Hacktoberfest Fairytale](https://dev.to/jonasbn/blog-post-a-little-hacktoberfest-fairytale-3k96)", so what are you waiting for.
+
+[This TIL]() was lifted from my [TIL collection](http://jonasbn.github.io/til/).
+
 ## Resources
 
 - [rustup.rs - The Rust toolchain installer](https://rustup.rs/)
