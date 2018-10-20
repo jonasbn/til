@@ -236,8 +236,6 @@ Do checkout the [documentation section](https://www.rust-lang.org/en-US/document
 
 This guide and some [video tutorials] was all that started my first "[Hacktoberfest Fairytale](https://dev.to/jonasbn/blog-post-a-little-hacktoberfest-fairytale-3k96)", so what are you waiting for.
 
-[This TIL]() was lifted from my [TIL collection](http://jonasbn.github.io/til/).
-
 ## Resources
 
 - [rustup.rs - The Rust toolchain installer](https://rustup.rs/)
