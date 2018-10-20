@@ -1,17 +1,33 @@
-# Learning Rust
+# Setting Up a Rust Development Environment
 
-My notes on **Rust** are based on the following version:
+I have just started to evaluate and learn **Rust**. I have some _problems_, where **Rust** might be a good fit for a solution, but in order to get there I have to get a development environment for **Rust** set up.
+
+This guide was written for **macOS** and aimed at using **Visual Studio Code**.
+
+Start by installing the fundamental **Rust** toolchain via: [https://rustup.rs/](https://rustup.rs/).
+
+ :warning: Since you should never be executing anything directly in a shell from a unverified URL, do yourself a favor of inspecting the source behind the URL.
 
 ```bash
-> rustc --version
-rustc 1.29.0 (aa3ca1994 2018-09-11)
+$ curl -vs https://sh.rustup.rs 2>&1 | less
 ```
 
-Install **Rust**, via `rustup`, see: https://rustup.rs/
+Now that we have that out of the way lets install **Rust**.
 
-Initiate a **Rust** application
+```bash
+$ curl https://sh.rustup.rs -sSf | sh
+```
 
-`cargo` is **Rust's** package manager, you use it for _everything_.
+Please check [https://rustup.rs/](https://rustup.rs/) for alternative ways of installing.
+
+The URL actually installs a tool named `rustup`, which is the recommended way of handling your **Rust** installation, `rustup` installs (among other things):
+
+- `rustc`, the **Rust** compiler
+- `cargo`, **Rust** package manager
+
+Now that we have **Rust** installed, we can start working on our first application.
+
+Initiate a **Rust** application with `cargo`. `cargo` is **Rust's** package manager, you use it for _everything_.
 
 ```bash
 $ cargo new -bin «application»
@@ -24,7 +40,7 @@ $ cargo new —bin helloworld
      Created library `helloworld` project
 ```
 
-The variation if you are creating a library
+The variation if you are creating a library:
 
 ```bash
 $ cargo new —lib helloworldlibrary
@@ -37,7 +53,7 @@ This generates the following files:
 - `Cargo.lock`, meta data on dependencies for our application/library
 - `src/`, our source directory
 
-Now we are ready to compile
+And we are ready to compile, which can be done using `cargo`
 
 ```bash
 $ cargo build
@@ -46,8 +62,8 @@ $ cargo build
 
 This generates the are directory named `target/`, with the following contents:
 
-```
-> tree target/
+```bash
+$ tree target/
 target/
 └── debug
     ├── build
@@ -80,16 +96,16 @@ target/
     └── native
 ```
 
-This build is not optimized as indicated by the compiler and is aimed at development and denbugging.
+This build is not optimized as indicated by the compiler and is aimed at development and debugging.
 
-The target can be run as:
+The _target_ can be run as:
 
 ```bash
 $ ./target/debug/helloworld
 Hello, world!
 ```
 
-If you want to build for release, you add an additional flag
+If you want to build for release, you add the additional flag: `--release`
 
 ```bash
 $ cargo build —release
@@ -98,7 +114,8 @@ $ cargo build —release
 
 This adds more files to `target/` directory:
 
-```
+```bash
+$ tree target/
 target/
 ├── debug
 │   ├── build
@@ -141,6 +158,12 @@ target/
     └── native
 ```
 
+The above tree shows both of our _targets_, you can do a clean up of the `target/` directory with the `cargo` command.
+
+```bash
+$ cargo clean
+```
+
 You can run the target executable, either like:
 
 ```bash
@@ -148,7 +171,7 @@ $ ./target/release/helloworld
 Hello, world!
 ```
 
-You can use `cargo` to run the executable too
+Or you can use `cargo` to run the executable, I could have mentioned this earlier since the same goes for the regular build, but I wanted to take things step by step.
 
 ```bash
 $ cargo run
@@ -166,141 +189,50 @@ $ cargo run --release
 Hello, world!
 ```
 
-`cargo run` builds automatically priori to executing if changes has been saved to the `src/` files.
+`cargo run` builds automatically prior to executing if changes has been saved to the `src/` files.
 
-If you use **Visual Studio Code** and the "rls" extension for **Rust**. Your `target/` directory is populated with even more data, see the `rls/` directory:
-
-```
-target/
-├── debug
-│   ├── build
-│   ├── deps
-│   │   ├── helloworld-e1702fb45f5d0052
-│   │   ├── helloworld-e1702fb45f5d0052.d
-│   │   └── helloworld-e1702fb45f5d0052.dSYM
-│   │       └── Contents
-│   │           ├── Info.plist
-│   │           └── Resources
-│   │               └── DWARF
-│   │                   └── helloworld-e1702fb45f5d0052
-│   ├── examples
-│   ├── helloworld
-│   ├── helloworld.d
-│   ├── helloworld.dSYM -> deps/helloworld-e1702fb45f5d0052.dSYM
-│   ├── incremental
-│   │   └── helloworld-15v45zkxrmyrm
-│   │       ├── s-f52pub8bwa-1t86tbf-23d93ip4735d7
-│   │       │   ├── 1y16o1qfye96o7m0.o
-│   │       │   ├── 37u9wm6hxf6h6j0m.o
-│   │       │   ├── 3rngp6bm2u2q5z0y.o
-│   │       │   ├── 4oc10dk278mpk1vy.o
-│   │       │   ├── 4xq48u46a1pwiqn7.o
-│   │       │   ├── dep-graph.bin
-│   │       │   ├── oa3rad818d8sgn4.o
-│   │       │   ├── query-cache.bin
-│   │       │   └── work-products.bin
-│   │       └── s-f52pub8bwa-1t86tbf.lock
-│   └── native
-├── release
-│   ├── build
-│   ├── deps
-│   │   ├── helloworld-599221bdb1c77978
-│   │   └── helloworld-599221bdb1c77978.d
-│   ├── examples
-│   ├── helloworld
-│   ├── helloworld.d
-│   ├── incremental
-│   └── native
+If you use **Visual Studio Code** and the [RLS extension](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) for **Rust**. Your `target/` directory is populated with even more data, see the `rls/` directory. Do note that this is the `target/` directory after a `cargo clean` and initialization from **Visual Studio Code**. And the set up is for the integration with **Visual Studio Code** via **RLS** (Rust Language Server).
+```bash
+$ tree target
+target
 └── rls
     └── debug
         ├── build
         ├── deps
-        │   ├── helloworld-289d5610102f414b.d
-        │   ├── helloworld-aa45ab6106dddb3e.d
-        │   ├── libhelloworld-289d5610102f414b.rmeta
-        │   └── libhelloworld-aa45ab6106dddb3e.rmeta
+        │   ├── helloworld-da127327fd97b6ec.d
+        │   ├── helloworld-fe97a0dcc4f47622.d
+        │   ├── libhelloworld-da127327fd97b6ec.rmeta
+        │   └── libhelloworld-fe97a0dcc4f47622.rmeta
         ├── examples
         ├── incremental
-        │   ├── helloworld-1m9gh3gg1tyn
-        │   │   ├── s-f52pv8pdvm-1frrb8d-8933j1pzv1sk
-        │   │   │   ├── dep-graph.bin
-        │   │   │   ├── query-cache.bin
-        │   │   │   └── work-products.bin
-        │   │   └── s-f52pv8pdvm-1frrb8d.lock
-        │   └── helloworld-xv6lvokmg1q9
-        │       ├── s-f52pv8mc43-qo1se0-2zfdiwbaz7xaf
-        │       │   ├── dep-graph.bin
-        │       │   ├── query-cache.bin
-        │       │   └── work-products.bin
-        │       └── s-f52pv8mc43-qo1se0.lock
-        ├── libhelloworld-aa45ab6106dddb3e.d
-        ├── libhelloworld-aa45ab6106dddb3e.rmeta
+        │   ├── helloworld-3cgahs8hwxsms
+        │   │   ├── s-f5woledziu-7esk1o-3jq9t7fc4fb3p
+        │   │   │   ├── dep-graph.bin
+        │   │   │   ├── query-cache.bin
+        │   │   │   └── work-products.bin
+        │   │   └── s-f5woledziu-7esk1o.lock
+        │   └── helloworld-uq5esv9yxxqk
+        │       ├── s-f5wolec88s-fleft9-1dg0efqmqtyu2
+        │       │   ├── dep-graph.bin
+        │       │   ├── query-cache.bin
+        │       │   └── work-products.bin
+        │       └── s-f5wolec88s-fleft9.lock
+        ├── libhelloworld-da127327fd97b6ec.d
+        ├── libhelloworld-da127327fd97b6ec.rmeta
         ├── libhelloworld.d
         ├── libhelloworld.rmeta
         └── native
 ```
 
-## Additional Notes
+**RLS** is designed to support other _front-ends_ (editors), so **RLS** is not specific to **Visual Studio Code**. If you would like to know more see the [RLS repository](https://github.com/rust-lang-nursery/rls).
 
-### main is a special function
+Now you are ready to try to play around with **Rust** or throw some **Rust** at your current problem.
 
-Like in **C** the function main is the entrypoint for the compiled executable.
+I now it is quite overwhelming to consume all of the guides, tutorials, articles and blogposts on **Rust**, just check the [Rust learning resources](https://github.com/ctjhoa/rust-learning).
 
-### Variables are immutable
+Do checkout the [documentation section](https://www.rust-lang.org/en-US/documentation.html) of the [main Rust site](https://www.rust-lang.org/en-US/).
 
-This will result in a compilation error:
-
-```rust
-fn main() {
-    let x = 2;
-    x += 2;
-    println!("x equals {}", x);
-}
-```
-
-Adding keyword `mut` to make our variable `x` mutable
-
-```rust
-fn main() {
-    let mut x = 2;
-    x += 2;
-    println!("x equals {}", x);
-}
-```
-
-### Types and Annotating types
-
-**Rust** will try to figure out types by itself. You can however annotate type decalations
-
-The following primitive simple types are available in **Rust**:
-
-- Boolean (`bool`), true or false
-- Integer (signed or unsigned), architecture dependent, defaults to `ì32`
-
-| signed | unsigned |
-| :------------: | :------------: |
-| `i8` | `u8` |
-|  `i16` | `u16` |
-| `i32` | `u32` |
-| `i64` | `u64`|
-
-- Floating point (`f32` or `f64`), defaults to `f64`
-
-- Character, single character [unicode](https://en.wikipedia.org/wiki/Unicode) [scalar](https://en.wikipedia.org/wiki/Variable_(computer_science)) value, expressed using single-quotes.
-
-And the following compound primitive data types:
-
-- Tuple, see also: [Wikipedia: tuple](https://en.wikipedia.org/wiki/Tuple), tuples in **Rust** does not have to be of the same type.
-- Array, arrays in **Rust** must be of the same type. Values in arrays can be changed if declared mutable, but not the size of array (number of elements), use the vector type (`vec`) instead
-- Slice, a reference to a subset of data from another data structure
-
-```rust
-fn main() {
-    let mut x: i32 = 2;
-    x += 2;
-    println!("x equals {}", x);
-}
-```
+:bulb: And finally one last tip from me - when you find out what libraries you want to try out on [crates.io](https://crates.io/), they often have a documentation link, which can lead you to examples etc.
 
 ## Resources
 
@@ -308,4 +240,5 @@ fn main() {
 - [The Rust Programming Language](https://www.rust-lang.org/en-US/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))
 - [Rust Playground](https://play.rust-lang.org/)
-- [Cargo: packages for Rust](https://crates.io/)
+- [crates.io: packages of software libraries for Rust](https://crates.io/)
+- [RLS](https://github.com/rust-lang-nursery/rls)
