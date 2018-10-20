@@ -192,6 +192,7 @@ Hello, world!
 `cargo run` builds automatically prior to executing if changes has been saved to the `src/` files.
 
 If you use **Visual Studio Code** and the [RLS extension](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) for **Rust**. Your `target/` directory is populated with even more data, see the `rls/` directory. Do note that this is the `target/` directory after a `cargo clean` and initialization from **Visual Studio Code**. And the set up is for the integration with **Visual Studio Code** via **RLS** (Rust Language Server).
+
 ```bash
 $ tree target
 target
