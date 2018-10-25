@@ -26,6 +26,8 @@ $ dash chmod
 
 Lists all pages mentioning `chmod`
 
+![Ruby result for chmod](dash-chmod.png)
+
 You can even use the configurable search profiles to limit your results set, like so:
 
 ```bash
@@ -33,6 +35,8 @@ $ dash ruby:chmod
 ```
 
 Lists all the **Ruby** pages mentioning `chmod`, well pages a part of the **Ruby** search profile, but you get the picture.
+
+![Ruby result for chmod](dash-ruby-chmod.png)
 
 ## References
 
