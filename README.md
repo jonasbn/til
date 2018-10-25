@@ -14,6 +14,7 @@
   - [cpanm](#cpanm)
   - [css](#css)
   - [curl](#curl)
+  - [Dash.app](#dashapp)
   - [Date](#date)
   - [Debian](#debian)
   - [Docker](#docker)
@@ -141,6 +142,11 @@
 - [More POST Parameters](curl/more_post_parameters.md)
 - [Handling shell sensitive characters in URL](curl/handling_shell_sensitive_characters_in_url.md)
 - [Pipe Output to less](curl/pipe_output_to_less.md)
+
+<a id="dashapp"></a>
+### Dash.app
+
+- [Query Dash from the CLI](dashapp/query_dash_from_the_cli.md)
 
 <a id="date"></a>
 ### Date
