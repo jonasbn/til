@@ -4,9 +4,9 @@
 
 It can integrate with a lot of tools like editors etc. but you can also integrate with the CLI.
 
-This example is for **Bash**, where I have added the following function to my `.bash_profile``
+This example is for **Bash**, where I have added the following function to my `.bash_profile`
 
-```bash_profile
+```bash
 function dash {
     open "dash://$1"
 }
