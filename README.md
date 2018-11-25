@@ -43,6 +43,7 @@
   - [OSX](#osx)
   - [Perl](#perl)
   - [Perlbrew](#perlbrew)
+  - [Perltidy](#perltidy)
   - [Postgresql](#postgresql)
   - [Prolog](#prolog)
   - [Python](#python)
@@ -372,6 +373,11 @@
 - [Install perlbrew](perlbrew/install_perlbrew.md)
 - [Eliminate compilation warnings on OSX](perlbrew/eliminate_compilation_warnings_on_osx.md)
 - [Uninstall perlbrew](perlbrew/uninstall_perlbrew.md)
+
+<a id="perltidy"></a>
+### Perltidy
+
+- [Tidy a file inline](perltidy/tidy_file_inline.md)
 
 <a id="postgresql"></a>
 ### Postgresql
