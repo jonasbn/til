@@ -47,6 +47,7 @@
   - [Postgresql](#postgresql)
   - [Prolog](#prolog)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [sed](#sed)
   - [smartcd](#smartcd)
@@ -394,6 +395,11 @@
 ### Python
 
 - [Old-school string formatting](python/old-school_string_formatting.md)
+
+<a id="ruby"></a>
+### Ruby
+
+- [Dump objects attributes](ruby/dump_object_attributes.md)
 
 <a id="rust"></a>
 ### Rust
