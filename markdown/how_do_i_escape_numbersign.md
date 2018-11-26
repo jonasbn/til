@@ -8,7 +8,11 @@ If you need to escape # (numbersign) in a Markdown title, if you want to write C
 
 Example rendered:
 
+<!-- markdownlint-disable MD003 -->
+
 ## C# #
+
+<!-- markdownlint-enable MD003 -->
 
 ## References
 
