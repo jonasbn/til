@@ -97,6 +97,7 @@
 - [Use Colours In Terminal Output](bash/use_colours_in_terminal_output.md)
 - [How to get last return value](bash/how_to_get_last_return_value.md)
 - [Getting Process-id of a Child Proces](bash/getting_process_id_of_child_process.md)
+- [Grep STDERR](bash/grep_stderr.md)
 
 <a id="bootstrap"></a>
 ### Bootstrap
