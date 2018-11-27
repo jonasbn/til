@@ -16,19 +16,17 @@ You simply add additional backticks to your markup.
 
 You can do this by indenting with spaces and fence it with a code fence with Markdown as language.
 
-I am not sure the Markdown indicator is needed.
-
 ```markdown
 
-   ```markdown
+    ```markdown
 
-      ```perl
+        ```perl
 
-       CODE
+        CODE
 
-       ```
+        ```
 
-   ```
+    ```
 
 ```
 
@@ -44,7 +42,7 @@ The above should render:
 
 ```
 
-This works for GitHub flavoured Markdown it seems.
+I am not sure the Markdown indicator is needed. This works for GitHub flavoured Markdown it seems.
 
 ## References
 
