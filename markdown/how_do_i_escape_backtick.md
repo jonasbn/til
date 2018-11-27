@@ -20,6 +20,22 @@ I am not sure the Markdown indicator is needed.
 
 ```markdown
 
+   ```markdown
+
+      ```perl
+
+       CODE
+
+       ```
+
+   ```
+
+```
+
+The above should render:
+
+```markdown
+
     ```perl
 
     CODE
@@ -28,6 +44,7 @@ I am not sure the Markdown indicator is needed.
 
 ```
 
+This works for GitHub flavoured Markdown it seems.
 
 ## References
 
