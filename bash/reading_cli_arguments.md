@@ -1,4 +1,4 @@
-# Repeating an executable continuously
+# Reading Command Line Arguments
 
 Reading arguments from the command line is quite useful:
 
