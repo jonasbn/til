@@ -1,3 +1,5 @@
+# Notes on Rust
+
 ## Additional Notes
 
 My notes on **Rust** are based on the following version:
@@ -6,7 +8,6 @@ My notes on **Rust** are based on the following version:
 > rustc --version
 rustc 1.29.0 (aa3ca1994 2018-09-11)
 ```
-
 
 ### main is a special function
 
