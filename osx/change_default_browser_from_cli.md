@@ -1,4 +1,4 @@
-# Change Default Browser From the Command Line
+# Set Default Browser From the Command Line
 
 This can be done using the tool: `defaultbrowser`
 
@@ -22,6 +22,8 @@ Setting it is simply by providing an argument, matching the list
 ```
 $ defaultbrowser chrome
 ```
+
+Do note that this [displays a GUI dialog](https://github.com/kerma/defaultbrowser/issues/3), currently there is no fix for this minor inexpediency, the dialog can be expedites with a swift `⇥` (tab) followed by a `␣` (space).
 
 ## References
 
