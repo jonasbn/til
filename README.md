@@ -358,7 +358,7 @@
 - [Playing Sound from the Command Line](osx/play_sound_from_cli.md)
 - [Keyboard Symbols](osx/keyboard_symbols.md)
 - [Use Javascript](osx/use_javascript.md)
-- [Change Default Browser From the Command Line](osx/change_default_browser_from_cli.md)
+- [Set Default Browser From the Command Line](osx/change_default_browser_from_cli.md)
 
 <a id="perl"></a>
 ### Perl
