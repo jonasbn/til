@@ -23,7 +23,11 @@ Setting it is simply by providing an argument, matching the list
 $ defaultbrowser chrome
 ```
 
-Do note that this [displays a GUI dialog](https://github.com/kerma/defaultbrowser/issues/3), currently there is no fix for this minor inexpediency, the dialog can be expedites with a swift `⇥` (tab) followed by a `␣` (space).
+Do note that this displays a GUI dialog,
+
+![GUI dialog](defaultbrowser.png)
+
+Currently there is no fix for this minor inexpediency, the dialog can be expedites with a swift `⇥` (tab) followed by a `␣` (space).
 
 ## References
 
