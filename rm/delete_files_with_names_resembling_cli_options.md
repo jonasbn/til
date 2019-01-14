@@ -2,7 +2,7 @@
 
 I have been accomplishing this by using **Perl's** `unlink`, but there is a much simpler solution as pointed out to me by @larsbalker via Twitter.
 
-Use: `--`, which terminates the interpretation of commandline flags/options
+Use: `--`, which terminates the interpretation of command line flags/options
 
 `$ rm -- -v`
 
