@@ -47,6 +47,7 @@
   - [Postgresql](#postgresql)
   - [Prolog](#prolog)
   - [Python](#python)
+  - [rm](#rm)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [sed](#sed)
@@ -396,6 +397,11 @@
 ### Python
 
 - [Old-school string formatting](python/old-school_string_formatting.md)
+
+<a id="rm"></a>
+### rm
+
+- [Delete files with_names resembling cli options](rm/delete_files_with_names_resembling_cli_options.md)
 
 <a id="ruby"></a>
 ### Ruby
