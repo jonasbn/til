@@ -8,6 +8,6 @@ Use: `--`, which terminates the interpretation of commandline flags/options
 
 Thanks @larsbalker
 
-## References:
+## References
 
 - [Twitter](https://twitter.com/jonasbn/status/966336534835269637)
