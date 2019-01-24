@@ -68,3 +68,30 @@ fn main() {
     println!("x equals {}", x);
 }
 ```
+
+### Debugging Macro
+
+This macro was introduced with Rust 1.32.0
+
+You regularly write code like:
+
+```rust
+let x = 5;
+
+println!("{:?}", x);
+
+// or maybe even this
+println!("{:#?}", x);
+```
+
+You can use the newly introduced macro like so:
+
+```rust
+fn main() {
+    let x = 5;
+
+    dbg!(x);
+}
+```
+
+Please see [the blogpost](https://blog.rust-lang.org/2019/01/17/Rust-1.32.0.html#the-dbg-macro)
