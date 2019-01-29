@@ -1,4 +1,4 @@
-#
+# What Ports are Listened On
 
 ```bash
 $ sudo lsof -iTCP -sTCP:LISTEN -n -P
