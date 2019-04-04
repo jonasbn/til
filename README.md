@@ -33,6 +33,7 @@
   - [GitHub](#github)
   - [grep](#grep)
   - [JavaScript](#javascript)
+  - [Jira](#jira)
   - [JSON](#json)
   - [Liquid Prompt](#liquid-prompt)
   - [Mail.app](#mailapp)
@@ -297,6 +298,11 @@
 
 - [Use a styleguide](javascript/use_a_style_guide.md)
 - [Beware of eval](javascript/beware_of_eval.md)
+
+<a id="jira"></a>
+### Jira
+
+- [Get a List of Linked Issues](jira/get_a_list_of_linked_issues.md)
 
 <a id="json"></a>
 ### JSON
