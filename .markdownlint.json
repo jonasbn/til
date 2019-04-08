@@ -9,5 +9,6 @@
     "ul-indent": false,
     "commands-show-output": false,
     "no-bare-urls": false,
-    "ol-prefix": false
+    "ol-prefix": false,
+    "no-trailing-punctuation": false
 }
