@@ -12,7 +12,7 @@ indent_size = 4
 
 # Unix-style newlines with a newline ending the file
 end_of_line = lf
-insert_final_newline = true
+insert_final_newline = false
 
 # Trim possible trailing whitespace
 trim_trailing_whitespace = true
