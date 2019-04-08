@@ -427,6 +427,9 @@
 ### Rust
 
 - [Setting Up a Rust Development Environment](rust/setting_up_a_rust_dev_env.md)
+- [What is an empty parens](rust/what_is_an_empty_parens.md)
+- [Get a Cheatsheet](rust/get_a_cheaatsheet.md)
+- [Installing Dependencies](rust/installing_dependencies.md)
 
 <a id="sed"></a>
 ### sed
