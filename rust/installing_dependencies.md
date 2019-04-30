@@ -6,7 +6,7 @@ The build tool `cargo` does not handle this, but you have to specify the require
 
 This example is lifted from a small project I was working on when trying to learn about _futures_
 
-```
+```toml
 [package]
 name = "hello_futures"
 version = "0.1.0"
