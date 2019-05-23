@@ -2,7 +2,7 @@
 
 **Dash** the documentation browser for MacOS and iOS is a nifty tool.
 
-It can integrate with a lot of tools like editors etc. but you can also integrate with the CLI.
+It can integrate with a lot of tools like editors etc. but you can also integrate with the CLI (MacOS-only, not iOS).
 
 This example is for **Bash**, where I have added the following function to my `.bash_profile`
 
