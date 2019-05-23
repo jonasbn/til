@@ -27,7 +27,9 @@ Do note that this displays a GUI dialog,
 
 ![GUI dialog](defaultbrowser.png)
 
-Currently there is no fix for this minor inexpediency, the dialog can be expedites with a swift `⇥` (tab) followed by a `␣` (space).
+Currently there is no fix for this minor inexpediency, the dialog can be expedited with a swift `⇥` (tab) followed by a `␣` (space).
+
+ :warning: this keyboard navigation seems to have been disabled in newer updates to **MacOS** :unamused:
 
 ## References
 
