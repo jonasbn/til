@@ -392,6 +392,7 @@
 - [Install perlbrew](perlbrew/install_perlbrew.md)
 - [Eliminate compilation warnings on OSX](perlbrew/eliminate_compilation_warnings_on_osx.md)
 - [Uninstall perlbrew](perlbrew/uninstall_perlbrew.md)
+- [Install a new perl and clone modules from an existing installation](perlbrew/install_a_new_perl_and_clone_modules_from_an_existing_installation.md)
 
 <a id="perltidy"></a>
 ### Perltidy
