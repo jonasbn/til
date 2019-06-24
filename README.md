@@ -308,6 +308,7 @@
 ### JSON
 
 - [Beware of eval](json/beware_of_eval.md)
+- [Check out JSON Schema](json/check_out_json_schema.md)
 
 <a id="liquid-prompt"></a>
 ### Liquid Prompt
@@ -385,6 +386,7 @@
 - [Install XML::LibXML on MacOS](perl/install_xml_libxml_on_macos.md)
 - [Get ExtUtils::MakeMaker to install in local/ like carton](perl/get_extutils-makemaker_to_install_in_local_like_carton.md)
 - [Mojolicious::Plugin::OpenAPI Tutorial](https://github.com/jonasbn/perl-mojolicious-plugin-openapi-tutorial-hello-world)
+- [Read Input via Pipe](perl/read_input_via_pipe.md)
 
 <a id="perlbrew"></a>
 ### Perlbrew
@@ -413,6 +415,13 @@
 ### Python
 
 - [Old-school string formatting](python/old-school_string_formatting.md)
+
+### REST
+
+- [Prototype with dummy APIs](rest/prototype_with_dummy_apis.md)
+- [Use proper headers](rest/use_proper_headers.md)
+- [Check out OpenAPI](rest/check_out_openapi.md)
+- [Use verbs](rest/use_verbs-md)
 
 <a id="rm"></a>
 ### rm
@@ -526,6 +535,10 @@
 
 - [Install VMware Tools](fusion/install_vmware_tools.md)
 - [Configure Debian 7](fusion/mount_shared_folder.md)
+
+### Vue
+
+- [Get Started with Vue](vue/get_started_with_vue.md)
 
 <a id="wtf-util"></a>
 ### wtf util
