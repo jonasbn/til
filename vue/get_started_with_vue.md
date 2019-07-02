@@ -15,5 +15,5 @@ Collection of *Vue* resources.
 
 ### Articles and Tutorials
 
-- Tutorial: "[Vue.js Login Component with Spinner]https://webdevchallenges.com/vue-js-login-component-with-spinner/)"
+- Tutorial: "[Vue.js Login Component with Spinner](https://webdevchallenges.com/vue-js-login-component-with-spinner/)"
 - Tutorial: "[Persist Access Token with Vue.js](https://webdevchallenges.com/persist-access-token-with-vue-js/)"
