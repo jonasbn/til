@@ -70,3 +70,4 @@ You should of course set the default to your primary/dominant repositories and t
 
 - [Blog post](https://dev.to/maxlmator/maintaining-different-git-identities) by Max Kleucker, @mkleucker
 - [Git documentation on conditional includes](https://git-scm.com/docs/git-config#_conditional_includes)
+- [My dotfiles repository](https://github.com/jonasbn/dotfiles)

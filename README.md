@@ -69,6 +69,7 @@
   - [Visual Studio](#visual-studio)
   - [VMware Fusion](#vmware-fusion)
   - [Vue](#vue)
+  - [WSL](#wsl)
   - [wtf util](#wtf-util)
   - [XML](#xml)
   - [YAML](#yaml)
@@ -478,6 +479,10 @@
 ### Vue
 
 - [Get Started with Vue](vue/get_started_with_vue.md)
+
+### WSL
+
+- [Configure Git](wsl/configure.git)
 
 ### wtf util
 

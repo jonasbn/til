@@ -10,5 +10,6 @@
     "commands-show-output": false,
     "no-bare-urls": false,
     "ol-prefix": false,
-    "no-trailing-punctuation": false
+    "no-trailing-punctuation": false,
+    "no-space-in-links": false
 }
