@@ -472,6 +472,7 @@
 - [Stop vscode from calling home](vscode/stop_vscode_from_calling_home.md)
 - [Integrate vscode with Shell / CLI](vscode/integrate_with_cli.md)
 - [Synchronize Setttings across machines](vscode/sync_settings.md)
+- [Use Markdownlint](vscode/use_markdownlint.md)
 
 ### VMware Fusion
 
