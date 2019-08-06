@@ -32,6 +32,10 @@ Suggested keyword: `cpan` and URL: `http://search.cpan.org/search?mode=module;qu
 
 Suggested keyword `pod` and URL: `http://search.cpan.org/perldoc/%s`
 
+Or as mentioned earlier using MetaCPAN:
+
+Suggested keyword: `meta` and URL: `http://metacpan.org/search?q=%s`
+
 ## Oracle Error Numbers
 
 For getting information fast on the Oracle error that bites you:
