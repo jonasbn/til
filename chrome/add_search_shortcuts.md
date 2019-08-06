@@ -28,13 +28,11 @@ Here are some of the shortcuts I use and have used regularly:
 
 You simply provide the package name of the Perl distribution:
 
-Suggested keyword: `cpan` and URL: `http://search.cpan.org/search?mode=module;query=%s`
+Suggested keyword `pod` and URL: `https://metacpan.org/pod/%s`
 
-Suggested keyword `pod` and URL: `http://search.cpan.org/perldoc/%s`
+Suggested keyword: `meta` or `cpan` and URL: `http://metacpan.org/search?q=%s`
 
-Or as mentioned earlier using MetaCPAN:
-
-Suggested keyword: `meta` and URL: `http://metacpan.org/search?q=%s`
+I previously distinguished between MetaCPAN and search.cpan.org, but since search.cpan.org has been decommissioned, the earlier suggestion of `cpan` can also be mapped to MetaCPAN.
 
 ## Oracle Error Numbers
 
