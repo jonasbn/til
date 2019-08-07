@@ -34,7 +34,7 @@ There are other resources like [Codewars.com](https://www.codewars.com/) and rec
 
 I have never seen anything like **Rustlings** before, it is a GitHub project organized as a chain of error prone pieces of code organized as build, every time you get a step to compile you move on to the text - it totally feels like a game. I can however offer a small tip without spoiling anything. Do READ the displayed error, since when you get a step to compile, it automatically moves on to the next assigment and sometimes you do not see that you have succeeded and should evaluate a new piece of code.
 
-If you run into some more _sticky_ **Rust** code [@Jake Goulding](https://twitter.com/JakeGoulding) has made [an online playground](https://play.rust-lang.org/) ([REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)).
+If you run into some more _sticky_ **Rust** code [@Jake Goulding](https://twitter.com/JakeGoulding) has made [an online playground](https://play.rust-lang.org/) ([REPL](https://en.wikipedia.org/wiki/REPL)).
 
 Finally I can recommend IRC for **Rust** assistance, but unfortunately [it is being decommissioned at some point in the future](https://blog.rust-lang.org/2019/04/26/Mozilla-IRC-Sunset-and-the-Rust-Channel.html). There are also **Rust** user groups, my local groups is [Copenhagen Rust Group](http://cph.rs/), I have not yet attended a meetup, but I would love to go to one of the hack nights to boost my **Rust** learning.
 
