@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-<!-- MarkdownTOC levels="1,2,3" autolink="true" bracket=round indent="  " -->
+<!-- MarkdownTOC levels="1,2,3" autoanchor="true" autolink="true" bracket=round indent="  " -->
 
 - [Categories](#categories)
   - [ack](#ack)
@@ -61,6 +61,7 @@
   - [SQL Developer](#sql-developer)
   - [SQLite](#sqlite)
   - [sqlplus](#sqlplus)
+  - [SSH](#ssh)
   - [Swift](#swift)
   - [tar](#tar)
   - [Terminal.app](#terminalapp)
@@ -79,13 +80,16 @@
 
 <!-- /MarkdownTOC -->
 
+<a id="categories"></a>
 ## Categories
 
+<a id="ack"></a>
 ### ack
 
 - [Install ack](ack/install_ack.md)
 - [Define a custom search filetype scope](ack/define_a_custom_search_filetype_scope.md)
 
+<a id="bash"></a>
 ### Bash
 
 - [Implement tab completions](bash/implement_tab_completions.md)
@@ -104,10 +108,12 @@
 - [Grep STDERR](bash/grep_stderr.md)
 - [Use bashmarks](bash/use_bashmarks.md)
 
+<a id="bootstrap"></a>
 ### Bootstrap
 
 - [Prevent wrapping of contents of code tags](bootstrap/prevent_wrapping_of_contents_of_code_tags.md)
 
+<a id="carton"></a>
 ### carton
 
 - [Use carton](carton/use_carton.md)
@@ -115,15 +121,18 @@
 - [Update snapshot cpanfile](carton/update_snapshot_cpanfile.md)
 - [Use PERL_CARTON_MIRROR](carton/use_perl_carton_mirror.md)
 
+<a id="chrome"></a>
 ### chrome
 
 - [Add search shortcuts](chrome/add_search_shortcuts.md)
 
+<a id="cpan"></a>
 ### CPAN
 
 - [Data::FormValidator](cpan/data-formvalidator.md)
 - [Test::Pretty](cpan/test-pretty.md)
 
+<a id="cpanm"></a>
 ### cpanm
 
 - [Use cpanm](cpanm/use_cpanm.md)
@@ -133,10 +142,12 @@
 - [Use cpanm with carton](cpanm/use_cpanm_with_carton.md)
 - [Tailing cpanm build log file](cpanm/tailing_cpanm_build_logfile.md)
 
+<a id="css"></a>
 ### css
 
 - [Making sure you are using alt tags](css/making_sure_you_are_using_alt_tags.md)
 
+<a id="curl"></a>
 ### curl
 
 - [More POST Parameters](curl/more_post_parameters.md)
@@ -144,14 +155,17 @@
 - [Pipe Output to less](curl/pipe_output_to_less.md)
 - [Use a cheatsheet](curl/use_a_cheatsheet.md)
 
+<a id="dashapp"></a>
 ### Dash.app
 
 - [Query Dash from the CLI](dashapp/query_dash_from_the_cli.md)
 
+<a id="date"></a>
 ### Date
 
 - [Getting time in another timezone](date/getting_time_in_another_timezone.md)
 
+<a id="debian"></a>
 ### Debian
 
 - [How to enquire version](debian/how_to_enquire_version.md)
@@ -159,10 +173,12 @@
 - [Resolve conflicting values in Debian package](debian/resolve_conflicting_values_in_package.md)
 - [Install unauthenticated package](debian/install_unauthenticated_package.md)
 
+<a id="diff-so-fancy"></a>
 ### diff-so-fancy
 
 - [One-time Disable of diff-so-fancy for Git](diff-so-fancy/one-time_disable_dsf_for_git.md)
 
+<a id="docker"></a>
 ### Docker
 
 - [Mount shared folder](docker/mount_shared_folder.md)
@@ -180,16 +196,19 @@
 - [Silence Warnings from Postgres](docker/silence_warnings_from_postgres.md)
 - [Debugging a b0rken Docker build step](docker/debugging_a_broken_docker_build_step.md)
 
+<a id="dropbox"></a>
 ### Dropbox
 
 - [Download instead of playing multimedia file from Dropbox](dropbox/download_multimedia.md)
 
+<a id="dzil"></a>
 ### dzil
 
 - [Make coverage tests](dzil/use_cover.md)
 - [Use cpanfile](dzil/cpanfile.md)
 - [Run a single test](dzil/run_a_single_test.md)
 
+<a id="editorconfig"></a>
 ### EditorConfig
 
 - [Enforce EditorConfig using eclint](editorconfig/enforce_editorconfig_config_using_eclint.md)
@@ -197,37 +216,45 @@
 - [XML](editorconfig/xml.md)
 - [Markdown](editorconfig/markdown.md)
 
+<a id="homebrew"></a>
 ### Homebrew
 
 - [Stop brew from calling home](homebrew/stop_brew_from_calling_home.md)
 - [Cleaning your homebrew cellar](homebrew/clean.md)
 - [Installing bash](homebrew/installing_bash.md)
 
+<a id="httpie"></a>
 ### httpie
 
 - [Use httpie](httpie/use_httpie.md)
 - [Using httpie with Graphql server](httpie/using_httpie_with_graphql_server.md)
 
+<a id="irssi"></a>
 ### irssi
 
 - [Use password authentication on Freenode](irssu/use_password_authentication_on_freenode.md)
 
+<a id="itermapp"></a>
 ### iTerm.app
 
 - [Use themes](itermapp/use_cool_themes.md)
 
+<a id="jenkins"></a>
 ### Jenkins
 
 - [Use a script for freestyle projects](jenkins/use_a_script_for_freestyle_projects.md)
 
+<a id="jq"></a>
 ### jq
 
 - [Use jq](jq/use_jq.md)
 
+<a id="filemergeapp"></a>
 ### FileMerge.app
 
 - [User Filemerge from the commandline](filemergeapp/use_filemerge_from_cli.md)
 
+<a id="git"></a>
 ### Git
 
 - [Resolve conflicts involving binary files](git/resolve_conflicts_involving_binary_files.md)
@@ -256,6 +283,7 @@
 - [Squash merge](git/squash_merge.md)
 - [Maintain Multiple Git Identities](git/maintain_multiple_git_ids.md)
 
+<a id="github"></a>
 ### GitHub
 
 - [Ignore whitespace changes](github/ignore_whitespace_changes.md)
@@ -264,38 +292,46 @@
 - [Use hub](github/use_hub.md)
 - [Use emojis](github/use_emojis.md)
 
+<a id="grep"></a>
 ### grep
 
 - [Add colour to grep output](grep/add_colour_to_grep.md)
 
+<a id="javascript"></a>
 ### JavaScript
 
 - [Use a styleguide](javascript/use_a_style_guide.md)
 - [Beware of eval](javascript/beware_of_eval.md)
 
+<a id="jira"></a>
 ### Jira
 
 - [Get a List of Linked Issues](jira/get_a_list_of_linked_issues.md)
 
+<a id="json"></a>
 ### JSON
 
 - [Beware of eval](json/beware_of_eval.md)
 - [Check out JSON Schema](json/check_out_json_schema.md)
 
+<a id="liquid-prompt"></a>
 ### Liquid Prompt
 
 - [Install Liquid Prompt](liquidprompt/install_liquidprompt.md)
 
+<a id="mailapp"></a>
 ### Mail.app
 
 - [Mail file from the commandline](mailapp/mail_file_from_cli.md)
 
+<a id="markdown"></a>
 ### Markdown
 
 - [Use Markdown](markdown/use_markdown.md)
 - [How do I escape a backtick](markdown/how_do_i_escape_backtick.md)
 - [How do I escape a numbersign](markdown/how_do_i_escape_numbersign.md)
 
+<a id="mojolicious"></a>
 ### Mojolicious
 
 - [Redirecting from one URL to another](mojolicious/redirecting_from_one_url_to_another.md)
@@ -304,10 +340,12 @@
 - [Mojolicious::Controller respond_to and template parameter](mojolicious/respond_to_and_template_parameter.md)
 - [Enable syntax highlighting for configuration files](mojolicious/enable_syntax_highlighting_for_configuration_files.md)
 
+<a id="mysql"></a>
 ### MySQL
 
 - [Setting the prompt](mysql/setting_the_prompt.md)
 
+<a id="oracle"></a>
 ### Oracle
 
 - [Convert string to date](oracle/convert_string_to_date.md)
@@ -318,10 +356,12 @@
 - [Comments in tnsnames.ora](oracle/comments_in_tnsnamesora.md)
 - [See grants for a specific user](oracle/see_grants_for_spacific_user.md)
 
+<a id="openssl"></a>
 ### OpenSSL
 
 - [How to get information from a P12 file](openssl/how_to_get_information_from_a_p12_file.md)
 
+<a id="osx"></a>
 ### OSX
 
 - [Lock screen shortcuts](osx/lock_screen_shortcuts.md)
@@ -342,6 +382,7 @@
 - [What ports are listened on](osx/what_ports_are_listened_on.md)
 - [Reset Bluetooth](osx/reset_bluetooth.md)
 
+<a id="perl"></a>
 ### Perl
 
 - [View generated SQL when using DBIx::Class](perl/view_generated_sql_when_using_dbix-class.md)
@@ -352,6 +393,7 @@
 - [Mojolicious::Plugin::OpenAPI Tutorial](https://github.com/jonasbn/perl-mojolicious-plugin-openapi-tutorial-hello-world)
 - [Read Input via Pipe](perl/read_input_via_pipe.md)
 
+<a id="perlbrew"></a>
 ### Perlbrew
 
 - [Install perlbrew](perlbrew/install_perlbrew.md)
@@ -359,22 +401,27 @@
 - [Uninstall perlbrew](perlbrew/uninstall_perlbrew.md)
 - [Install a new perl and clone modules from an existing installation](perlbrew/install_a_new_perl_and_clone_modules_from_an_existing_installation.md)
 
+<a id="perltidy"></a>
 ### Perltidy
 
 - [Tidy a file inline](perltidy/tidy_file_inline.md)
 
+<a id="postgresql"></a>
 ### Postgresql
 
 - [Setting the prompt](postgresql/setting_the_prompt.md)
 
+<a id="prolog"></a>
 ### Prolog
 
 - [Prolog resources](prolog/prolog.md)
 
+<a id="python"></a>
 ### Python
 
 - [Old-school string formatting](python/old-school_string_formatting.md)
 
+<a id="rest"></a>
 ### REST
 
 - [Prototype with dummy APIs](rest/prototype_with_dummy_apis.md)
@@ -382,14 +429,17 @@
 - [Check out OpenAPI](rest/check_out_openapi.md)
 - [Use verbs](rest/use_verbs-md)
 
+<a id="rm"></a>
 ### rm
 
 - [Delete files with_names resembling cli options](rm/delete_files_with_names_resembling_cli_options.md)
 
+<a id="ruby"></a>
 ### Ruby
 
 - [Dump objects attributes](ruby/dump_object_attributes.md)
 
+<a id="rust"></a>
 ### Rust
 
 - [Setting Up a Rust Development Environment](rust/setting_up_a_rust_dev_env.md)
@@ -397,6 +447,7 @@
 - [Get a Cheatsheet](rust/get_a_cheaatsheet.md)
 - [Installing Dependencies](rust/installing_dependencies.md)
 
+<a id="sed"></a>
 ### sed
 
 - [Test Command Using echo](sed/test_command_using_echo.md)
@@ -404,16 +455,19 @@
 - [Remove comments](sed/remove_comments.md)
 - [Chaining actions](sed/chaining_actions.md)
 
+<a id="smartcd"></a>
 ### smartcd
 
 - [Install smartcd](smartcd/install_smartcd.md)
 - [Use smartcd with tabs](smartcd/use_with_tabs.md)
 - [Silence smartcd](smartcd/slience_smartcd.md)
 
+<a id="sublime-text-3"></a>
 ### Sublime Text 3
 
 - [Set colour scheme per language](sublimetext3/set_colour_scheme_per_language.md)
 
+<a id="subversion"></a>
 ### Subversion
 
 - [Do something with every repository](subversion/do_something_every_repo.md)
@@ -421,11 +475,13 @@
 - [Use Filemerge as diff tool](subversion/use_filemerge_for_diff.md)
 - [Use commit message from file](subversion/use_commit_message_from_file.md)
 
+<a id="sql"></a>
 ### SQL
 
 - [Counting NULL and non-NULL values in a single query](sql/counting_null_and_non_null_values_in_a_single_query.md)
 - [How to group by month in a year](sql/how_to_group_by_month_in_a_year.md)
 
+<a id="sql-developer"></a>
 ### SQL Developer
 
 - [Setting UI fontsize](sqldeveloper/setting_ui_fontsize.md)
@@ -433,33 +489,40 @@
 - [View Compilation Log](sqldevelop/view_compilation_log.md)
 - [Creating folders](sqldeveloper/add_folders.md)
 
+<a id="sqlite"></a>
 ### SQLite
 
 - [Emulate schemas](sqlite/emulate_schemas.md)
 - [Inserting dates](sqlite/insert_dates.md)
 - [Defaulting to now for date](sqlite/default_now_for_date.md)
 
+<a id="sqlplus"></a>
 ### sqlplus
 
 - [Output to a file](sqlplus/outputting_to_a_file.md)
 - [How to pass hostname and port parameters](sqlplus/how_pass_host_and_post_parameters.md)
 
+<a id="ssh"></a>
 ### SSH
 
 - [Permissions on SSH folder and files](ssh/permissions_on_ssh_folder_and_files.md)
 
+<a id="swift"></a>
 ### Swift
 
 - [Learn Swift](swift/learn_swift.md)
 
+<a id="tar"></a>
 ### tar
 
 - [Using tar](tar/using_tar.md)
 
+<a id="terminalapp"></a>
 ### Terminal.app
 
 - [Opening files in an application from the command line](terminal/opening_files_in_applications_from_the_cli.md)
 
+<a id="tmux"></a>
 ### tmux
 
 - [Install tmux](tmux/install_tmux.md)
@@ -467,10 +530,12 @@
 - [Use tmux Resurrect](tmux/use_tmux_resurrect.md)
 - [Use tmux plugin manager](tmux/use_tmux_plugin_manager.md)
 
+<a id="ubuntu"></a>
 ### Ubuntu
 
 - [Install updates via command line](ubuntu/install_updates_via_cli.md)
 
+<a id="visual-studio"></a>
 ### Visual Studio
 
 - [Stop vscode from calling home](vscode/stop_vscode_from_calling_home.md)
@@ -478,32 +543,39 @@
 - [Synchronize Setttings across machines](vscode/sync_settings.md)
 - [Use Markdownlint](vscode/use_markdownlint.md)
 
+<a id="vmware-fusion"></a>
 ### VMware Fusion
 
 - [Install VMware Tools](fusion/install_vmware_tools.md)
 - [Configure Debian 7](fusion/mount_shared_folder.md)
 
+<a id="vue"></a>
 ### Vue
 
 - [Get Started with Vue](vue/get_started_with_vue.md)
 
+<a id="wsl"></a>
 ### WSL
 
 - [Configure Git](wsl/configure.git)
 
+<a id="wtf-util"></a>
 ### wtf util
 
 - [Play around with wtf](wtf/play_around_with_wtf.md)
 
+<a id="xml"></a>
 ### XML
 
 - [Avoid entity expansion](xml/avoid_entity_expansion.md)
 - [Fast XML/XSD validation on the command line](xml/fast_xml-xsd_validation_on_cli.md)
 
+<a id="yaml"></a>
 ### YAML
 
 - [How to syntax check a YAML file](yaml/howto_syntax_check_a_yaml_file.md)
 
+<a id="about"></a>
 ## About
 
 I have for a long time maintained notes in a public wiki, finding the TIL of
@@ -514,12 +586,14 @@ finally set it up.
 I plan to migrate my earlier notes, so they are more easily accessible here as
 TIL snippets, this will be done when I have the time, one TIL at a time :-)
 
+<a id="additional-til-collections"></a>
 ## Additional TIL Collections
 
 - [Today I Learned by Hashrocket](https://til.hashrocket.com)
 - [jwworth/til](https://github.com/jwworth/til)
 - [thoughtbot/til](https://github.com/thoughtbot/til)
 
+<a id="license"></a>
 ## License
 
 &copy; 2016-2019 jonasbn
