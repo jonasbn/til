@@ -446,6 +446,7 @@
 - [What is an empty parens](rust/what_is_an_empty_parens.md)
 - [Get a Cheatsheet](rust/get_a_cheaatsheet.md)
 - [Installing Dependencies](rust/installing_dependencies.md)
+- [Learn Rust](rust/learn_rust.md)
 
 <a id="sed"></a>
 ### sed
