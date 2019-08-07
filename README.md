@@ -444,6 +444,10 @@
 - [Output to a file](sqlplus/outputting_to_a_file.md)
 - [How to pass hostname and port parameters](sqlplus/how_pass_host_and_post_parameters.md)
 
+### SSH
+
+- [Permissions on SSH folder and files](ssh/permissions_on_ssh_folder_and_files.md)
+
 ### Swift
 
 - [Learn Swift](swift/learn_swift.md)
