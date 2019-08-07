@@ -432,7 +432,7 @@
 <a id="rm"></a>
 ### rm
 
-- [Delete files with_names resembling cli options](rm/delete_files_with_names_resembling_cli_options.md)
+- [Delete files with names resembling cli options](rm/delete_files_with_names_resembling_cli_options.md)
 
 <a id="ruby"></a>
 ### Ruby
