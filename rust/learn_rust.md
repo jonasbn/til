@@ -42,6 +42,8 @@ As a small extra bonus, I can present you to a resource just _rediscovered_ a [C
 
 Have fun with your **Rust** adventure and please send me recommendations for **Rust** learing resources if you have any you think would benefit my **Rust** endeavour.
 
+Good luck and stay _safe_ (intended Rust pun)...
+
 ## Resources
 
 - [The Rust Programming Language](https://www.rust-lang.org/en-US/)
