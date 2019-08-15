@@ -7,7 +7,7 @@ The recommendation is to set `autocrlf`
 ```bash
 $ git config --global core.autocrlf true
 # Configure Git on Windows to properly handle line endings
-``` 
+```
 
 ## Resources
 
