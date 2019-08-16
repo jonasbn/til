@@ -558,7 +558,7 @@
 <a id="wsl"></a>
 ### WSL
 
-- [Configure Git](wsl/configure.git)
+- [Configure Git](wsl/configure_git.md)
 
 <a id="wtf-util"></a>
 ### wtf util
