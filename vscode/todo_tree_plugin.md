@@ -1,6 +1,6 @@
 # Todo Tree Plugin
 
-This is a really nifty plugin for **vscode**
+This is a really nifty plugin for **vscode**.
 
 It lets you define tags in your code like `TODO` and `FIXME` (_the defaults_) which will then be highlighted in your code and will appear in a special sidebar section.
 
@@ -58,7 +58,7 @@ This is my configuration used for the above example.
 }
 ```
 
-You can define you own tags and can assign, icons and colour schemes.
+You can define you own tags and can assign, icons and colour schemes, based on your preferences.
 
 ## References:
 
