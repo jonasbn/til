@@ -60,6 +60,12 @@ This is my configuration used for the above example.
 
 You can define you own tags and can assign, icons and colour schemes, based on your preferences.
 
+For icons in the sidebar you can use the marvellous [octicons](https://octicons.github.com/)
+
+And for the foreground and background color in the editor you can use the colours: "red", "green", "blue", "yellow", "magenta", "cyan", "grey", "white" or "black". RGB values can also be used (e.g. "#80FF00").
+
+Do note that for the sidebar the string "orange" actually works (see my configuration above).
+
 ## References:
 
 - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
