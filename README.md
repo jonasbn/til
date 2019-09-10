@@ -544,6 +544,7 @@
 - [Integrate vscode with Shell / CLI](vscode/integrate_with_cli.md)
 - [Synchronize Setttings across machines](vscode/sync_settings.md)
 - [Use Markdownlint](vscode/use_markdownlint.md)
+- [Todo Tree Extension](vscode/todo_tree_extension.md)
 
 <a id="vmware-fusion"></a>
 ### VMware Fusion
