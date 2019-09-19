@@ -428,7 +428,7 @@
 - [Prototype with dummy APIs](rest/prototype_with_dummy_apis.md)
 - [Use proper headers](rest/use_proper_headers.md)
 - [Check out OpenAPI](rest/check_out_openapi.md)
-- [Use verbs](rest/use_verbs-md)
+- [Use verbs](rest/use_verbs.md)
 
 <a id="rm"></a>
 ### rm
