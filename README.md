@@ -302,6 +302,7 @@
 
 - [Use a styleguide](javascript/use_a_style_guide.md)
 - [Beware of eval](javascript/beware_of_eval.md)
+- [Default Parameters for Functions](javascript/function_default_parameters.md)
 
 <a id="jira"></a>
 ### Jira
