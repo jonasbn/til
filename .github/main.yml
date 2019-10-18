@@ -1,0 +1,10 @@
+name: Markdownlint Workflow
+on: push
+
+jobs:
+  build:
+    name: Markdownlint
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: ./github-action-markdownlint
