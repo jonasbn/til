@@ -1,4 +1,4 @@
-FROM debian:9.5-slim
+FROM node:10.16.0-alpine
 
 LABEL "com.github.actions.name"="Markdownlint"
 LABEL "com.github.actions.description"="Tests all Markdownfiles"
