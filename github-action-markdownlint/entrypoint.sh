@@ -2,6 +2,6 @@
 
 echo ""
 echo "Using Markdownlint on all Markdown files"
-echo "-----------------------------"
+echo "----------------------------------------"
 
 markdownlint *.md && markdownlint */*.md
