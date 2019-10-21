@@ -1,6 +1,8 @@
 # Learn JavaScript
 
-_TODO_
+This is (will be) a collection of JavaScript learning and reference resources.
+
+_TODO_ - more to come
 
 ## Resources
 
