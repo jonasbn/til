@@ -1,5 +1,7 @@
 # Today I Learned
 
+![GitHub Markdownlint action status](https://github.com/jonasbn/til/workflows/Markdownlint/badge.svg)
+
 ## Table of Contents
 
 <!-- MarkdownTOC levels="1,2,3" autoanchor="true" autolink="true" bracket=round indent="  " -->
