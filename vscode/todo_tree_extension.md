@@ -10,11 +10,11 @@ This is my configuration used for the above example.
 
 ```json
 {
-    "todo-tree.autoRefresh": true,
-    "todo-tree.defaultHighlight": {
+    "todo-tree.tree.autoRefresh": true,
+    "todo-tree.highlights.defaultHighlight": {
         "type": "text-and-comment"
     },
-    "todo-tree.customHighlight": {
+    "todo-tree.highlights.customHighlight": {
         "TODO": {
             "foreground": "black",
             "background": "green",
@@ -48,7 +48,7 @@ This is my configuration used for the above example.
             "type": "tag"
         }
     },
-    "todo-tree.tags": [
+    "todo-tree.general.tags": [
         "TODO",
         "FIXME",
         "REVIEW",
@@ -81,6 +81,53 @@ For icons in the sidebar you can use the marvellous [octicons](https://octicons.
 And for the foreground and background color in the editor you can use the colours: "red", "green", "blue", "yellow", "magenta", "cyan", "grey", "white" or "black". RGB values can also be used (e.g. "#FFA500").
 
 Do note that for the sidebar the string "orange" actually works (see my configuration above).
+
+You might also find these snippets useful:
+
+```json
+{
+	"todo": {
+		"scope": "", // all languages
+		"prefix": "todo",
+		"body": [
+			"TODO: $1"
+		],
+		"description": "TODO annotation"
+	},
+	"fixme": {
+		"scope": "", // all languages
+		"prefix": "fix",
+		"body": [
+			"FIXME: $1"
+		],
+		"description": "Bug/fixme warning"
+	},
+	"hack": {
+		"scope": "", // all languages
+		"prefix": "hack",
+		"body": [
+			"HACK: $1"
+		],
+		"description": "Hack warning"
+	}, 
+	"review": {
+		"scope": "", // all languages
+		"prefix": "review",
+		"body": [
+			"REVIEW: $1"
+		],
+		"description": "Review annontation"
+	},
+	"reference": {
+		"scope": "", // all languages
+		"prefix": "ref",
+		"body": [
+			"REF: $1"
+		],
+		"description": "Reference annontation"
+	}
+}
+```
 
 ## References:
 
