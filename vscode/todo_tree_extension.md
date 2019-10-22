@@ -109,7 +109,7 @@ You might also find these snippets useful:
             "HACK: $1"
         ],
         "description": "Hack warning"
-    }, 
+    },
     "review": {
         "scope": "", // all languages
         "prefix": "review",
