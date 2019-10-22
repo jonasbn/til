@@ -86,46 +86,46 @@ You might also find these snippets useful:
 
 ```json
 {
-	"todo": {
-		"scope": "", // all languages
-		"prefix": "todo",
-		"body": [
-			"TODO: $1"
-		],
-		"description": "TODO annotation"
-	},
-	"fixme": {
-		"scope": "", // all languages
-		"prefix": "fix",
-		"body": [
-			"FIXME: $1"
-		],
-		"description": "Bug/fixme warning"
-	},
-	"hack": {
-		"scope": "", // all languages
-		"prefix": "hack",
-		"body": [
-			"HACK: $1"
-		],
-		"description": "Hack warning"
-	}, 
-	"review": {
-		"scope": "", // all languages
-		"prefix": "review",
-		"body": [
-			"REVIEW: $1"
-		],
-		"description": "Review annontation"
-	},
-	"reference": {
-		"scope": "", // all languages
-		"prefix": "ref",
-		"body": [
-			"REF: $1"
-		],
-		"description": "Reference annontation"
-	}
+    "todo": {
+        "scope": "", // all languages
+        "prefix": "todo",
+        "body": [
+            "TODO: $1"
+        ],
+        "description": "TODO annotation"
+    },
+    "fixme": {
+        "scope": "", // all languages
+        "prefix": "fix",
+        "body": [
+            "FIXME: $1"
+        ],
+        "description": "Bug/fixme warning"
+    },
+    "hack": {
+        "scope": "", // all languages
+        "prefix": "hack",
+        "body": [
+            "HACK: $1"
+        ],
+        "description": "Hack warning"
+    }, 
+    "review": {
+        "scope": "", // all languages
+        "prefix": "review",
+        "body": [
+            "REVIEW: $1"
+        ],
+        "description": "Review annontation"
+    },
+    "reference": {
+        "scope": "", // all languages
+        "prefix": "ref",
+        "body": [
+            "REF: $1"
+        ],
+        "description": "Reference annontation"
+    }
 }
 ```
 
