@@ -24,18 +24,18 @@
   - [Dropbox](#dropbox)
   - [dzil](#dzil)
   - [EditorConfig](#editorconfig)
-  - [Homebrew](#homebrew)
-  - [httpie](#httpie)
-  - [irssi](#irssi)
-  - [iTerm.app](#itermapp)
-  - [Jenkins](#jenkins)
-  - [jq](#jq)
   - [FileMerge.app](#filemergeapp)
   - [Git](#git)
   - [GitHub](#github)
   - [grep](#grep)
+  - [Homebrew](#homebrew)
+  - [httpie](#httpie)
+  - [irssi](#irssi)
+  - [iTerm.app](#itermapp)
   - [JavaScript](#javascript)
+  - [Jenkins](#jenkins)
   - [Jira](#jira)
+  - [jq](#jq)
   - [JSON](#json)
   - [Liquid Prompt](#liquid-prompt)
   - [Mail.app](#mailapp)
@@ -218,39 +218,6 @@
 - [XML](editorconfig/xml.md)
 - [Markdown](editorconfig/markdown.md)
 
-<a id="homebrew"></a>
-### Homebrew
-
-- [Stop brew from calling home](homebrew/stop_brew_from_calling_home.md)
-- [Cleaning your homebrew cellar](homebrew/clean.md)
-- [Installing bash](homebrew/installing_bash.md)
-
-<a id="httpie"></a>
-### httpie
-
-- [Use httpie](httpie/use_httpie.md)
-- [Using httpie with Graphql server](httpie/using_httpie_with_graphql_server.md)
-
-<a id="irssi"></a>
-### irssi
-
-- [Use password authentication on Freenode](irssu/use_password_authentication_on_freenode.md)
-
-<a id="itermapp"></a>
-### iTerm.app
-
-- [Use themes](itermapp/use_cool_themes.md)
-
-<a id="jenkins"></a>
-### Jenkins
-
-- [Use a script for freestyle projects](jenkins/use_a_script_for_freestyle_projects.md)
-
-<a id="jq"></a>
-### jq
-
-- [Use jq](jq/use_jq.md)
-
 <a id="filemergeapp"></a>
 ### FileMerge.app
 
@@ -299,6 +266,29 @@
 
 - [Add colour to grep output](grep/add_colour_to_grep.md)
 
+<a id="homebrew"></a>
+### Homebrew
+
+- [Stop brew from calling home](homebrew/stop_brew_from_calling_home.md)
+- [Cleaning your homebrew cellar](homebrew/clean.md)
+- [Installing bash](homebrew/installing_bash.md)
+
+<a id="httpie"></a>
+### httpie
+
+- [Use httpie](httpie/use_httpie.md)
+- [Using httpie with Graphql server](httpie/using_httpie_with_graphql_server.md)
+
+<a id="irssi"></a>
+### irssi
+
+- [Use password authentication on Freenode](irssu/use_password_authentication_on_freenode.md)
+
+<a id="itermapp"></a>
+### iTerm.app
+
+- [Use themes](itermapp/use_cool_themes.md)
+
 <a id="javascript"></a>
 ### JavaScript
 
@@ -307,10 +297,20 @@
 - [Default Parameters for Functions](javascript/function_default_parameters.md)
 - [Learn JavaScript](javascript/learn_javascript.md)
 
+<a id="jenkins"></a>
+### Jenkins
+
+- [Use a script for freestyle projects](jenkins/use_a_script_for_freestyle_projects.md)
+
 <a id="jira"></a>
 ### Jira
 
 - [Get a List of Linked Issues](jira/get_a_list_of_linked_issues.md)
+
+<a id="jq"></a>
+### jq
+
+- [Use jq](jq/use_jq.md)
 
 <a id="json"></a>
 ### JSON
