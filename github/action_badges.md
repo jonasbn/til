@@ -2,15 +2,17 @@
 
 If you want to show the GitHub Actions badge on your repository, be aware that the URL has to reflect the name of a given action.
 
-Like this badge for this repository:
+Do note [GitHub actions are still in beta](https://github.com/features/actions).
+
+Like for example this badge for one of my repositories:
 
 ![GitHub Workflow build status badge](https://github.com/jonasbn/til/workflows/Markdownlint%20Workflow/badge.svg)
 
-1. The URL points to GitHub: `https://github,com`
+1. The URL points to GitHub: `https://github.com`
 2. My account: `jonasbn`
 3. The relevant (this) repository: `til`
 4. The workflows directory: `workflows` and this is the `workflows` directory located in the directory `.github`
-5. Now the most _tricky_ part - the `name` fields from the `main.yml` file from the above directory ():
+5. Now the most _tricky_ part - the `name` fields from the `main.yml` file from the above directory (`github/workflows/`):
 
 ```yml
 name: Markdownlint Workflow
@@ -38,6 +40,8 @@ So the complete URL for the badge displayes look as follows:
 `https://github.com/jonasbn/til/workflows/Markdownlint%20Workflow/badge.svg`
 
 Do yourself the favor of testing the URL before making commits containing it, it took me several attempts to get right.
+
+Thanks to the nice supporter from GitHub who helped me out.
 
 ## References
 
