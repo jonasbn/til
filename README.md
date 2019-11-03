@@ -495,6 +495,7 @@
 - [Setting dateformat](sqldeveloper/setting_dateformat.md)
 - [View Compilation Log](sqldevelop/view_compilation_log.md)
 - [Creating folders](sqldeveloper/add_folders.md)
+- [View text instead of Worksheet](sqldeveloper/view_text_instead_of_worksheet.md)
 
 <a id="sqlite"></a>
 ### SQLite
