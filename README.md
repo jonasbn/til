@@ -69,7 +69,7 @@
   - [Terminal.app](#terminalapp)
   - [tmux](#tmux)
   - [Ubuntu](#ubuntu)
-  - [Visual Studio](#visual-studio)
+  - [Visual Studio Code](#visual-studio-code)
   - [VMware Fusion](#vmware-fusion)
   - [Vue](#vue)
   - [WSL](#wsl)
@@ -542,8 +542,8 @@
 
 - [Install updates via command line](ubuntu/install_updates_via_cli.md)
 
-<a id="visual-studio"></a>
-### Visual Studio
+<a id="visual-studio-code"></a>
+### Visual Studio Code
 
 - [Stop vscode from calling home](vscode/stop_vscode_from_calling_home.md)
 - [Integrate vscode with Shell / CLI](vscode/integrate_with_cli.md)
