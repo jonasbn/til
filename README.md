@@ -82,6 +82,8 @@
 
 <!-- /MarkdownTOC -->
 
+<div id="tils">
+
 <a id="categories"></a>
 ## Categories
 
@@ -584,6 +586,8 @@
 ### YAML
 
 - [How to syntax check a YAML file](yaml/howto_syntax_check_a_yaml_file.md)
+
+</div>
 
 <a id="about"></a>
 ## About
