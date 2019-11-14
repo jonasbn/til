@@ -18,6 +18,8 @@ function count_tils(element) {
     }
 }
 
-var total = document.getElementById('header-1');
-text_content = total.textContent + ' (' + total_tils + ' tils)';
-total.textContent = text_content;
+const count = document.createElement('p');
+count.textContent = 'A collection of ' + total_tils + ' in total.';
+
+var sidebar = document.getElementById('sidebar');
+sidebar.appendChild(count);
