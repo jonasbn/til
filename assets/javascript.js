@@ -19,7 +19,7 @@ function count_tils(element) {
 }
 
 const count = document.createElement('p');
-count.textContent = 'A collection of ' + total_tils + ' in total.';
+count.textContent = 'A collection of ' + total_tils + ' tils in total.';
 
 var sidebar = document.getElementById('sidebar');
 sidebar.appendChild(count);
