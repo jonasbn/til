@@ -10,7 +10,12 @@ function count_tils(element) {
     if (sibling = element.nextElementSibling) {
         var list = sibling.querySelectorAll('li');
         if (list.length > 0) {
-            var text_content = element.textContent + ' (' + list.length + ' tils)';
+            var descriptor = 'tils';
+            if (list.length == 1) {
+                descriptor = 'til';
+            }
+
+            var text_content = element.textContent + ' (' + list.length + ' ' + descriptor + ')';
             element.textContent = text_content;
 
             total_tils += list.length;
