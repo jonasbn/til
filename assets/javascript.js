@@ -26,8 +26,11 @@ function count_tils(element) {
 var category_count = 0;
 
 document.querySelectorAll('a[href="#categories"]').forEach(element => {
-    categories = element.querySelectorAll('ul > li');
-    category_count = categories.length;
+    var sibling;
+    if (sibling = element.nextElementSibling) {
+        categories = sibling.querySelectorAll('ul > li');
+        category_count = categories.length;
+    }
 });
 
 const count = document.createElement('p');
