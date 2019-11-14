@@ -23,14 +23,15 @@ function count_tils(element) {
     }
 }
 
-var categories = 0;
+var category_count = 0;
 
-document.querySelectorAll('a[href="#categories"] > ul > li').forEach(element => {
-    categories += categories + 1;
+document.querySelectorAll('a[href="#categories"]').forEach(element => {
+    categories = element.querySelectorAll('ul > li');
+    category_count = categories.length;
 });
 
 const count = document.createElement('p');
-count.textContent = 'A collection of ' + total_tils + ' tils in total, divided on ' + categories + ' categories';
+count.textContent = 'A collection of ' + total_tils + ' tils in total, divided on ' + category_count + ' categories';
 
 var sidebar = document.getElementById('sidebar');
 sidebar.appendChild(count);
