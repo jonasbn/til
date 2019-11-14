@@ -26,7 +26,7 @@ function count_tils(element) {
 var categories = 0;
 
 document.querySelectorAll('a[href="#categories"] > ul > li').forEach(element => {
-    categories++;
+    categories += categories + 1;
 });
 
 const count = document.createElement('p');
