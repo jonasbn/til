@@ -23,8 +23,14 @@ function count_tils(element) {
     }
 }
 
+var categories = 0;
+
+document.querySelectorAll('a[href="#categories"] > ul > li').forEach(element => {
+    categories++;
+});
+
 const count = document.createElement('p');
-count.textContent = 'A collection of ' + total_tils + ' tils in total.';
+count.textContent = 'A collection of ' + total_tils + ' tils in total, divided on ' + categories + ' categories';
 
 var sidebar = document.getElementById('sidebar');
 sidebar.appendChild(count);
