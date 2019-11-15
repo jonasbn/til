@@ -34,7 +34,7 @@ document.querySelectorAll('a[href="#categories"]').forEach(element => {
 });
 
 const count = document.createElement('p');
-count.textContent = 'A collection of ' + total_tils + ' tils in total, divided on ' + category_count + ' categories';
+count.textContent = 'A collection of ' + total_tils + ' tils in total, split on ' + category_count + ' categories';
 
 var sidebar = document.getElementById('sidebar');
 sidebar.appendChild(count);
