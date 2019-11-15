@@ -567,7 +567,7 @@
 ### WSL
 
 - [Configure Git](wsl/configure_git.md)
-- [Develop in Visual Studio Code])(wsl/develop_in_vscode.md)
+- [Develop in Visual Studio Code](wsl/develop_in_vscode.md)
 
 <a id="wtf-util"></a>
 ### wtf util
