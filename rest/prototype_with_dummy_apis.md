@@ -1,6 +1,6 @@
 # Prototype with dummy APIs
 
-For getting going with example/dummy APIs [the Req  Res service][regres.in] is awesome.
+For getting going with example/dummy APIs [the Req  Res service][reqres.in] is awesome.
 
 It offers a RESTful interface support the verbs:
 
@@ -19,5 +19,5 @@ Another interesting alternative is: [JSONPlaceholder][jsonplaceholder].
 - [Req  Res][regres.in]
 - [JSONPlaceholder][jsonplaceholder]
 
-[regres.in]: https://reqres.in/
+[reqres.in]: https://reqres.in/
 [jsonplaceholder]: https://jsonplaceholder.typicode.com/
