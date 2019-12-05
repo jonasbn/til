@@ -131,4 +131,4 @@ You might also find these snippets useful:
 
 ## References:
 
-- [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [Visual Studio Marketplace: Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
