@@ -252,6 +252,7 @@
 - [Update submodule](git/update_submodule.md)
 - [Squash merge](git/squash_merge.md)
 - [Maintain Multiple Git Identities](git/maintain_multiple_git_ids.md)
+- [Find Out Who Created a Branch](git/find_out_who_created_a_branch.md)
 
 <a id="github"></a>
 ### GitHub
