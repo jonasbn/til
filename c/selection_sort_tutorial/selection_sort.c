@@ -38,7 +38,7 @@ int main () {
 
     sort(a, 4);
 
-    printf("Sorted:\n");
+    printf("\nSorted:\n");
     for (int i = 0; i < 4; i++) {
         printf("%d position %d\n", a[i], i);
     }
