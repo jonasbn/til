@@ -10,6 +10,8 @@ Check [the official documentation](https://iterm2.com/documentation-triggers.htm
 
 For now I have created triggers for my project directories so they change the title when I enter and leave.
 
+The author of the piece I first mentioned, does neat trick with Jira issues. I do however not work with Jira in my **iTerm**, but the concept is neat and resembles what I do with a shortcut in my browser.
+
 ## References
 
 - [iTerm documentation on Triggers](https://iterm2.com/documentation-triggers.html)
