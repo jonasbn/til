@@ -1,3 +1,6 @@
 .vscode
 .ruby-version
 a.out
+
+_site
+.jekyll-cache
