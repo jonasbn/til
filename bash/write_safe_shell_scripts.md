@@ -28,6 +28,10 @@ set -o pipefail
 
 > set -o pipefail causes a pipeline (for example, curl -s https://sipb.mit.edu/ | grep foo) to produce a failure return code if any command errors.
 
+In addition `echo` should be avoided using `printf` instead.
+
+Read [this insightful post](https://dev.to/victoria/how-to-print-newlines-in-command-line-output-3bjh) and [the POSIX recommendation](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/echo.html#tag_20_37_16).
+
 ## Resources
 
 - [Article from MIT Student Information Processing Board (SIPB)](https://sipb.mit.edu/doc/safe-shell/)
