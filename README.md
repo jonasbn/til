@@ -51,6 +51,7 @@
   - [Perltidy](#perltidy)
   - [Postgresql](#postgresql)
   - [Prolog](#prolog)
+  - [Programming](#programming)
   - [Python](#python)
   - [REST](#rest)
   - [rm](#rm)
@@ -423,6 +424,11 @@
 ### Postgresql
 
 - [Setting the prompt](postgresql/setting_the_prompt.md)
+
+<a id="programming">
+### Programming
+
+- [Round float to 2 decimals](programming/round_float_to_2_decimals.md)
 
 <a id="prolog"></a>
 ### Prolog
