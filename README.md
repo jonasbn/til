@@ -193,7 +193,7 @@
 - [Copy a file from your container to the host operating system](docker/copy_a_file_from_your_container_to_the_host.md)
 - [Caching Docker build step](docker/caching_build_step.md)
 - [Show layers of Docker image](docker/show_layers_of_docker_image.md)
-- [What is the difference between RUN and CMD](docker/What_is_the_difference_between_run_and_cmd.md)
+- [What is the difference between RUN and CMD](docker/what_is_the_difference_between_run_and_cmd.md)
 - [Automatically Clean up after Docker Daily](docker/automatically_clean_up_after_docker.md)
 - [Customize your docker ps output](docker/customize_your_docker_ps_output.md)
 - [Use docker-compose-wait](docker/use_docker-compose-wait.md)
