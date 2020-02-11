@@ -22,7 +22,7 @@ test $EXITCODE -eq 0 && printf "Success: %d\n", $EXITCODE || printf "Error: %d\n
 exit $EXITCODE
 ```
 
-See also: ["Write Safe Shell Scripts"](../write_safe_shell_scripts.md)
+See also: ["Write Safe Shell Scripts"](write_safe_shell_scripts.md)
 
 ## References
 
