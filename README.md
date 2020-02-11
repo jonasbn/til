@@ -111,6 +111,7 @@
 - [Getting Process-id of a Child Proces](bash/getting_process_id_of_child_process.md)
 - [Grep STDERR](bash/grep_stderr.md)
 - [Use bashmarks](bash/use_bashmarks.md)
+- [Write safe shell scripts](bash/write_safe_shell_scripts.md)
 
 <a id="bootstrap"></a>
 ### Bootstrap
