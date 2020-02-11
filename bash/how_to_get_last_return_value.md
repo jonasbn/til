@@ -14,6 +14,16 @@ test $EXITCODE -eq 0 && echo "something good happened" || echo "something bad ha
 exit $EXITCODE
 ```
 
+However `echo` is not recommended, but `printf` is:
+
+```bash
+EXITCODE=0
+test $EXITCODE -eq 0 && printf "Success: %d\n", $EXITCODE || printf "Error: %d\n", $EXITCODE;
+exit $EXITCODE
+```
+
+See also: ["Write Safe Shell Scripts"](../write_safe_shell_scripts.md)
+
 ## References
 
 - [Ask Ubuntu](https://askubuntu.com/questions/324423/how-to-access-the-last-return-value-in-bash)
