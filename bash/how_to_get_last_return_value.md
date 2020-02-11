@@ -10,7 +10,9 @@ For doing something a tad more elegang in scripts etc. The following suggestion 
 
 ```bash
 EXITCODE=$?
-test $EXITCODE -eq 0 && echo "something good happened" || echo "something bad happened";
+test $EXITCODE -eq 0 \
+    && echo "something good happened" \
+    || echo "something bad happened";
 exit $EXITCODE
 ```
 
@@ -18,7 +20,9 @@ However `echo` is not recommended, but `printf` is:
 
 ```bash
 EXITCODE=0
-test $EXITCODE -eq 0 && printf "Success: %d\n", $EXITCODE || printf "Error: %d\n", $EXITCODE;
+test $EXITCODE -eq 0 \
+    && printf "Success: %d\n", $EXITCODE \
+    || printf "Error: %d\n", $EXITCODE;
 exit $EXITCODE
 ```
 
