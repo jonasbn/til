@@ -255,6 +255,8 @@
 - [Squash merge](git/squash_merge.md)
 - [Maintain Multiple Git Identities](git/maintain_multiple_git_ids.md)
 - [Find Out Who Created a Branch](git/find_out_who_created_a_branch.md)
+- [See a given file at a given commit](git/see_a_given_file_at_a_given_commit.md)
+- [Create a branch from an older commit](git/create_a_branch_from_an_older_commit.md)
 
 <a id="github"></a>
 ### GitHub
