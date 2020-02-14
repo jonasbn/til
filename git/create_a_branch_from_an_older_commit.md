@@ -1,6 +1,6 @@
 # Create a new branch from an older commit
 
-When you want to create a branch
+When you want to create a branch from a older commit.
 
 ```bash
 $ git checkout -b hotfix 61ce44a
