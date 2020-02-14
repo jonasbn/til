@@ -53,7 +53,11 @@ Actually tools like `golint` will help you out with this automatically, but let 
 
 **Line 6**: This is function declaration
 
+TODO: Add note on main function
+
 The `main` function, is indication of where there executable should start.
+
+TODO: Add notes on function signatures
 
 No parameters:
 
@@ -86,6 +90,8 @@ Anyway to set us back a bit, some would say that we did this the wrong way aroun
 So lets add some tests, so make sure our "hello world" implementation works as expected.
 
 This requires that we dwelve into Go modules and Go testing.
+
+TODO: Add notes on testing in Go
 
 Now that you somewhat up and running with Go, some next steps could be:
 

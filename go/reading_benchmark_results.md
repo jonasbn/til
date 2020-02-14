@@ -20,6 +20,8 @@ _NB: I have condensed the output a bit for readability, by collapsing excessive 
 
 It does require that the test suite has a benchmarking function.
 
+TODO: Add details on benchmarking test
+
 This runs our test suite and benchmarks it, with 3 iterations, specified by the `-count` parameter.
 
 As you can read from the example output.
@@ -60,6 +62,8 @@ _Since I was unable to understand the output, I had to ask around and I received
 > made. (per iteration)
 
 The first 3 columns are the ones from the basic benchmark. So with the `--benchmem` flag, two more columns are added:
+
+REVIEW: is this description correct?
 
 - Fourth column is the number of _extra_ bytes allocated per iteration
 - Fifth column is the number of _extra_ allocations made per iteration
