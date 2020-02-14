@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-# TODO: Fix this, it is still buggy
+/* TODO: Fix this, it is still buggy */
 
 void sort (
     int a[],
