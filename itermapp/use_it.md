@@ -9,7 +9,6 @@ pointing the plist file located under Dropbox (see line: 8). If you have your pl
 ```bash
 #!/bin/bash
 
-# REF: http://www.macosxhints.com/article.php?story=20070409141256538
 arg=$1;
 if [[ "$#" = "0" ]]; then
     echo "Usage: 'it bookmarkname' or 'it list'" && exit 1
