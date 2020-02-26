@@ -1,0 +1,5 @@
+# REF: https://github.com/JasonEtco/todo#configuring-for-your-project
+todo:
+  reopenClosed: false
+  keyword: ["REVIEW", "TODO"]
+  caseSensitive: true
