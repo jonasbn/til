@@ -15,3 +15,4 @@ $ cargo clippy --all-targets
 ## References
 
 - [GitHub](https://github.com/rust-lang/rust-clippy#clippy)
+- [Wikipedia: Static program analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
