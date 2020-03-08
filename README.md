@@ -27,6 +27,7 @@
   - [FileMerge.app](#filemergeapp)
   - [Git](#git)
   - [GitHub](#github)
+  - [Go](#go)
   - [grep](#grep)
   - [Homebrew](#homebrew)
   - [httpie](#httpie)
@@ -267,6 +268,11 @@
 - [Use hub](github/use_hub.md)
 - [Use emojis](github/use_emojis.md)
 - [GitHub Action Badges](github/action_badges.md)
+
+<a id="grep"></a>
+### Go
+
+- [Reading benchmark results](go/reading_benchmark_results.md)
 
 <a id="grep"></a>
 ### grep
