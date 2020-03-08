@@ -18,11 +18,29 @@ ok      twofer    3.769s
 
 _NB: I have condensed the output a bit for readability, by collapsing excessive whitespace_.
 
-It does require that the test suite has a benchmarking function.
+The above example is lifted from [Exercism.io][exercism.io] and [the *two-fer* exercise](https://github.com/exercism/go/tree/master/exercises/two-fer).
 
-TODO: Add details on benchmarking test
+_NB: All examples from Exercism.io are under copyright and are available under the MIT License_.
 
-This runs our test suite and benchmarks it, with 3 iterations, specified by the `-count` parameter.
+In order to do benchmarking, it requires that the test suite has a benchmarking function, which is just a variation of a test.
+
+I can recommend [this older piece][benchmarkshowto] on writing benchmark tests. In essence benchmark. So you write execution scenarios as you would tests. For Go you put these with your tests but name them with the prefix `Benchmark` instead of `Test`.
+
+This is based on the example lifted from the Exercism.io exercise mentioned above:
+
+```go
+func BenchmarkShareWith(b *testing.B) {
+        for i := 0; i < b.N; i++ {
+
+                for _, test := range tests {
+                        ShareWith(test.name)
+                }
+
+        }
+}
+```
+
+Lets break down the invocation, it runs our test suite and benchmarks it, with 3 iterations, specified by the `-count` parameter.
 
 As you can read from the example output.
 
@@ -54,19 +72,21 @@ ok      twofer    3.873s
 
 _NB: I have condensed the output a bit for readability, by collapsing excessive whitespace_.
 
-This runs our test suite again and benchmarks it, with 3 iterations, but outputs more information.
+This runs our test suite again and benchmarks it, with 3 iterations, but outputs even more information.
 
-_Since I was unable to understand the output, I had to ask around and I received the following explanation_. Thanks to **mzi** from the Gopher slack for the explanation.
+_Since I was unable to understand the output, I had to ask around and I received the following explanation_. Thanks to **mzi** from the Gopher Slack for the explanation.
 
 > B/op is how many bytes were allocated per iteration, and allocs/op is how many allocations were
 > made. (per iteration)
 
 The first 3 columns are the ones from the basic benchmark. So with the `--benchmem` flag, two more columns are added:
 
-REVIEW: is this description correct?
+- Fourth column is the number of _additional_ bytes allocated per iteration
+- Fifth column is the number of _addtional_ allocations made per iteration
 
-- Fourth column is the number of _extra_ bytes allocated per iteration
-- Fifth column is the number of _extra_ allocations made per iteration
+My interpretation of this is a that these are the additional allocations made by running the executable, providing the user with information on memory consumption in addition to the time consumption reported first.
+
+Do note this is my understanding of the numbers, I have not been able to confirm this completely, so any additional pointers would be most welcome.
 
 And finally thanks to **superstas** at Exercism.io for pushing me into benchmarking my first real Go solution.
 
@@ -128,11 +148,14 @@ With Go benchmarking at the tip of your fingers, you can gain insights on your c
 
 ## References
 
-- [Exercism.io](https://exercism.io/)
+- [Exercism.io][exercism.io]
 - [My exercism.io "two-fer" solution](https://exercism.io/tracks/go/exercises/two-fer/solutions/670e02e265634d3ab83821b0649f83c7)
 - [Gophers Slack](https://invite.slack.golangbridge.org/)
 - [Go package: "testing"][pkgtesting]
 - [Go command: Testing flags][testingflags]
+- [Article: "How to write benchmarks in Go", by Dave Cheney][benchmarkshowto]
 
 [pkgtesting]: https://golang.org/pkg/testing/
 [testingflags]: https://golang.org/cmd/go/#hdr-Testing_flags
+[benchmarkshowto]: https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go
+[exercism.io]: https://exercism.io/
