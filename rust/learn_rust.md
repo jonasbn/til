@@ -42,6 +42,8 @@ As a small extra bonus, I can present you to a resource just _rediscovered_ a [C
 
 Have fun with your **Rust** adventure and please send me recommendations for **Rust** learing resources if you have any you think would benefit my **Rust** endeavour.
 
+As an _extra-extra bonus_, I can recommend the article ["A half-hour to learn Rust"][halfhour] getting to learn to **read Rust** is _hard_, this article is a pearl.
+
 Good luck and stay _safe_ (intended Rust pun)...
 
 ## Resources
@@ -57,3 +59,6 @@ Good luck and stay _safe_ (intended Rust pun)...
 - [Rust Standard Documentation](https://doc.rust-lang.org/std/)
 - [Rust Cheat Sheet](https://cheats.rs/)
 - [Rustlings](https://github.com/rust-lang/rustlings/)
+- ["A half-hour to learn Rust"][halfhour]
+
+[halfhour]: https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/
