@@ -41,3 +41,4 @@ Finally, https://github.com/golang/go/wiki#learning-more-about-go will give a li
 - [Gopher Slack][gopherslack]
 
 [gopherslack]: https://invite.slack.golangbridge.org/
+["50 Shades of Go: Traps, Gotchas and Common Mistakes for New Golang Devs"](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
