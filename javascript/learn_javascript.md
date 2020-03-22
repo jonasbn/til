@@ -2,7 +2,7 @@
 
 This is (will be) a collection of JavaScript learning and reference resources.
 
-_TODO_ - more to come
+TODO: more to come
 
 ## Resources
 
