@@ -1,6 +1,7 @@
 # Today I Learned
 
-![GitHub Workflow build status badge](https://github.com/jonasbn/til/workflows/Markdownlint%20Workflow/badge.svg)
+![Markdownlint Action](https://github.com/jonasbn/til/workflows/Markdownlint%20Action/badge.svg)
+![Spellcheck Action](https://github.com/jonasbn/til/workflows/Spellcheck%20Action/badge.svg)
 
 ## Table of Contents
 
