@@ -1,0 +1,12 @@
+name: Spellcheck Action
+on: push
+
+jobs:
+  build:
+    name: Spellcheck
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    # This step references the directory that contains the action.
+    - uses: ./.github/actions/spellcheck
+
