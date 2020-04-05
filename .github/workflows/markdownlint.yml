@@ -1,4 +1,4 @@
-name: Markdownlint Workflow
+name: Markdownlint Action
 on: push
 
 jobs:
