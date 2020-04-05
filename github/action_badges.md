@@ -48,6 +48,7 @@ Thanks to the nice supporter from GitHub who helped me out.
 - [Wikipedia: URI-encoding][uri_encoding]
 - [GitHub: "Setting up continuous integration using GitHub Actions"][github_actions]
 - [GitHub: "Adding a workflow status badge to your repository"][github_badges]
+- [Dev.to: "Blog post: Getting to Know GitHub Actions with Markdownlint"](https://dev.to/jonasbn/blog-post-getting-to-know-github-actions-3m61)
 
 [uri_encoding]: https://en.wikipedia.org/wiki/Percent-encoding
 [github_actions]: https://help.github.com/en/github/automating-your-workflow-with-github-actions/setting-up-continuous-integration-using-github-actions
