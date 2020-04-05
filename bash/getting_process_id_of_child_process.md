@@ -1,8 +1,8 @@
-# Getting Process-id of a Child Proces
+# Getting Process-id of a Child Process
 
-Implementing parallel processing is possible in `bash`. You can put a job in the background with the `&` on the commandline and in your script.
+Implementing parallel processing is possible in `bash`. You can put a job in the background with the `&` on the command line and in your script.
 
-You can obtain the id of the child proces, by referring to `$!` and the parent proces id using `$$`.
+You can obtain the id of the child process, by referring to `$!` and the parent process id using `$$`.
 
 I use this simple trick to play sounds for log running jobs providing [audible feedback](https://lastmover.wordpress.com/2018/08/26/audible-feedback/).
 
@@ -38,7 +38,7 @@ kill $!
 exit 0
 ```
 
-Do note that the scope of the `$!` has to be watched closely, since forking more that one child results on more than one proces-id, yes it sounds logical, but can be _confusing_ and not quite obvious, when you are experimenting.
+Do note that the scope of the `$!` has to be watched closely, since forking more that one child results on more than one process-id, yes it sounds logical, but can be _confusing_ and not quite obvious, when you are experimenting.
 
 ## References
 

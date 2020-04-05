@@ -6,7 +6,7 @@ If you want to get the last return value in `bash`, do the following:
 $ echo $?
 ```
 
-For doing something a tad more elegang in scripts etc. The following suggestion from StackOverflow looks pretty nifty:
+For doing something a tad more elegant in scripts etc. The following suggestion from StackOverflow looks pretty nifty:
 
 ```bash
 EXITCODE=$?

@@ -1,6 +1,6 @@
 # Implement tab completions
 
-You can implement your own bash completions for commands you use alot to save on typing.
+You can implement your own bash completions for commands you use a lot to save on typing.
 
 An example `ackrc` based on [my TIL](https://github.com/jonasbn/til/blob/master/ack/define_a_custom_search_filetype_scope.md)
 
@@ -25,7 +25,7 @@ $ ack --<tab>
 --mojo --conf
 ```
 
-The complete implementation lifed from [my github repository](https://github.com/jonasbn/bash_completion_ack).
+The complete implementation lifted from [my github repository](https://github.com/jonasbn/bash_completion_ack).
 
 ```bash
 _ack()

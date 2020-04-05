@@ -10,7 +10,7 @@ for bcfile in ~/.bash_completion.d/* ; do
 done
 ```
 
-Create a directiory for your completions:
+Create a directory for your completions:
 
 ```bash
 $ mkdir ~/.bash_completion.d

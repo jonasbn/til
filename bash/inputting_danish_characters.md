@@ -10,4 +10,4 @@ set output-meta on
 
 ## References
 
-- [TheLinuxDocumentationProject](http://www.tldp.org/HOWTO/Danish-HOWTO-3.html#ss3.4)
+- [The Linux Documentation Project](http://www.tldp.org/HOWTO/Danish-HOWTO-3.html#ss3.4)

@@ -2,7 +2,7 @@
 
 **Bashmarks** a nifty too for cool shortcuts for directories you often use.
 
-Firstly you can save bookmarks, you proably has some Shell aliases or symbolic links for accomplishing the same thing.
+Firstly you can save bookmarks, you probably has some Shell aliases or symbolic links for accomplishing the same thing.
 
 ```bash
 $ cd develop
@@ -24,7 +24,7 @@ $ pwd
 /Users/jonasbn/develop
 ```
 
-This is the offical manual lifted from the [GitHub page][github]
+This is the official manual lifted from the [GitHub page][github]
 
 ```
 s <bookmark_name> - Saves the current directory as "bookmark_name"
