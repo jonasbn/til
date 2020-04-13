@@ -37,5 +37,5 @@ REF: [Exercism.io "ETL", solution](https://exercism.io/my/solutions/3e464ea7cdd4
 
 ## Resources and References
 
--[StackOverflow: "Is it possible to add dynamically named properties to JavaScript object?"](https://stackoverflow.com/questions/1184123/is-it-possible-to-add-dynamically-named-properties-to-javascript-object)
+- [StackOverflow: "Is it possible to add dynamically named properties to JavaScript object?"](https://stackoverflow.com/questions/1184123/is-it-possible-to-add-dynamically-named-properties-to-javascript-object)
 - [MDN: "Object"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
