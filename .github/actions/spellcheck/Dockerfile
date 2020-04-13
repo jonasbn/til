@@ -5,7 +5,7 @@ LABEL "com.github.actions.description"="Check spelling of files in repository"
 LABEL "com.github.actions.icon"="mic"
 LABEL "com.github.actions.color"="purple"
 
-LABEL "repository"="https://github.com/DK-Hostmaster/DKHM-RFC-Delete-Domain"
+LABEL "repository"="https://github.com/jonasbn/til"
 
 RUN apt-get update && apt-get install -y \
     aspell \
