@@ -2,8 +2,8 @@
 
 SPELLCHECK_CONFIG_FILE=''
 
-if [ -f ./.spellcheck.yaml ]; then
-    SPELLCHECK_CONFIG_FILE='.spellcheck.yaml'
+if [ -f ./spellcheck.yaml ]; then
+    SPELLCHECK_CONFIG_FILE='spellcheck.yaml'
 fi
 
 if [ -f ./.spellcheck.yml ]; then
