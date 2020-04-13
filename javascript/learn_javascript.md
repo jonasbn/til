@@ -23,6 +23,14 @@ REF: [MDN: `parseFloat()`](https://developer.mozilla.org/en-US/docs/Web/JavaScri
 REF: [MDN: `toString()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toString)
 REF: [StackOverflow: "What's the best way to convert a number to a string in JavaScript?"](https://stackoverflow.com/questions/5765398/whats-the-best-way-to-convert-a-number-to-a-string-in-javascript)
 
+### Use a REPL
+
+Using a REPL can oftentimes speed things up when unsure on or experimenting with some JavaScript construct.
+
+I have used: repl.it
+
+REF: [repl.it](https://repl.it/languages/JavaScript)
+
 ## Resources
 
 - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
