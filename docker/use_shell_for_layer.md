@@ -8,7 +8,7 @@ $ docker run --rm -it <id_last_working_layer> bash -il
 
 This can also help to see what and where components are actually staged, by the docker build proces.
 
-You can access containers using `bash`, do remember that you container should offer the shell specified.
+You can access containers using `bash`, do remember that your container should offer the shell specified.
 
 For a already running container:
 
