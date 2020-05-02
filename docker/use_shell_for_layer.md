@@ -1,4 +1,4 @@
-# Use shell for layer
+# Use shell to inspect filesystem of layer
 
 If you have a build that somehow fails you can with luck log in and inspect the file system of the last known working layer:
 
