@@ -18,6 +18,6 @@ The shell should pick the appropriate one.
 
 An alternative to `<ctrl>`-`x`-`e` is `fc` it takes the last command from your history. Do note that is does not respect `$VISUAL` and uses `$EDITOR`.
 
-## References
+## Resources and References
 
 - [CommandLineFu](https://www.commandlinefu.com/commands/view/1446/rapidly-invoke-an-editor-to-write-a-long-complex-or-tricky-command)
