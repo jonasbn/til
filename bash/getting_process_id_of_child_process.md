@@ -40,7 +40,7 @@ exit 0
 
 Do note that the scope of the `$!` has to be watched closely, since forking more that one child results on more than one process-id, yes it sounds logical, but can be _confusing_ and not quite obvious, when you are experimenting.
 
-## References
+## Resources and References
 
 - [StackOverflow](https://stackoverflow.com/questions/17356591/how-to-get-process-idpid-from-forked-child-process-in-shell-script)
 - [Blog post: Audible Feedback](https://lastmover.wordpress.com/2018/08/26/audible-feedback/)
