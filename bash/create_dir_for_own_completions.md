@@ -24,6 +24,6 @@ $ cp your_bash_completion ~/.bash_completion.d/
 
 Start a new shell and you should be good to go.
 
-## References
+## Resources and References
 
 - [ServerFault: Standard place for user defined bash_completion.d scripts?](https://serverfault.com/questions/506612/standard-place-for-user-defined-bash-completion-d-scripts)
