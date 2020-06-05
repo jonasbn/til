@@ -1,6 +1,6 @@
 # Use dzil
 
-# Resources and References
+## Resources and References
 
 - Dist::Zilla
 - Ebirah
