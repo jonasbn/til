@@ -1,6 +1,6 @@
 # Git Alias to Show Affected Files in Last N commits
 
-I never heard about **Git** aliases before. Apparantly you can define `git` command aliases, so here goes a cool tip for getting started with aliases and of course a nice way to see what files where involved a specific number of commits back
+I never heard about **Git** aliases before. Apparently you can define `git` command aliases, so here goes a cool tip for getting started with aliases and of course a nice way to see what files where involved a specific number of commits back
 
 Edit your `~/.gitconfig` and a alias section
 
