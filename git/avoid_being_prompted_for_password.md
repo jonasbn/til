@@ -6,7 +6,7 @@ Being prompted for password on every **Git** operation can get tiresome in the l
 $ ssh-add ~/.ssh/id_rsa
 ```
 
-Enter your pasphrase and you should be good to go. If you want to automate even more, check out `ssh-agent`:
+Enter your passphrase and you should be good to go. If you want to automate even more, check out `ssh-agent`:
 
 Add the following smippet to your `.bash_profile`.
 
