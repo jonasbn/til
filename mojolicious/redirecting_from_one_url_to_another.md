@@ -54,4 +54,4 @@ get '/' => sub {
 };
 ```
 
-It calls a subroutine taking a controller as argumen and controllers have the nifty method `redirect_to`.
+It calls a subroutine taking a controller as argument and controllers have the nifty method `redirect_to`.
