@@ -3,6 +3,7 @@ on: push
 
 jobs:
   build:
+    name: Markdownlint
     runs-on: ubuntu-latest
     steps:
       - name: Markdownlint
