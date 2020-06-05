@@ -45,7 +45,7 @@ To learn more, you can browse through the documentation
 </html>
 ```
 
-This is the nify code:
+This is the _nifty_ code:
 
 ```perl
 get '/' => sub {
