@@ -4,7 +4,7 @@ The pager `diff_so_fancy` is very nice and renders beautiful diffs to your termi
 
 The below tip works if you have `diff-so-fancy` configured as your pager in  your **Git** config.
 
-Sometimes you have to communicate the diff via some other medium, where the coloring and layout is lost when the diff is converted to basic text. So just _pasting_ `diff-so-fancy` output is not always so fancy and important information is lost in the proces.
+Sometimes you have to communicate the diff via some other medium, where the coloring and layout is lost when the diff is converted to basic text. So just _pasting_ `diff-so-fancy` output is not always so fancy and important information is lost in the process.
 
 You can disable the use of the pager for **Git** quite easily and return to regular diff formatting on the command line by using **Git's** command line option: `--no-pager`
 
