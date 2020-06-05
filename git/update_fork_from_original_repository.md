@@ -38,4 +38,4 @@ The more up to date you are and the smaller that gap of changes are minimizing t
 
 ## References
 
-- [Stackoverflow](http://stackoverflow.com/questions/4169832/update-my-github-repo-which-is-forked-out-from-another-project)
+- [StackOverflow](http://stackoverflow.com/questions/4169832/update-my-github-repo-which-is-forked-out-from-another-project)
