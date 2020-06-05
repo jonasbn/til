@@ -271,6 +271,7 @@
 - [Use hub](github/use_hub.md)
 - [Use emojis](github/use_emojis.md)
 - [GitHub Action Badges](github/action_badges.md)
+- [Use dependabot](github/use_dependabot.md)
 
 <a id="grep"></a>
 ### Go
