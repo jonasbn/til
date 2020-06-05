@@ -573,7 +573,6 @@
 
 - [use tokei](tokei/use_tokei.md)
 
-
 <a id="ubuntu"></a>
 ### Ubuntu
 
