@@ -6,7 +6,7 @@ The configuration files are actually containing a basic **Perl** data structure 
 
 You could tweak your editor to just regard `.conf` as Perl files, but as stated the name is pretty generic, so it might clash with other non-Perlish formats.
 
-Luckily [Mojolicious::Plugin::Config](http://mojolicious.org/perldoc/Mojolicious/Plugin/Config) has a emminent future letting you define the default suffix to be used.
+Luckily [Mojolicious::Plugin::Config](http://mojolicious.org/perldoc/Mojolicious/Plugin/Config) has a eminent future letting you define the default suffix to be used.
 
 I have tweaked my editor to recognise `.pconf` (the `p` is for **Perl**).
 
