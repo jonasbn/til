@@ -8,4 +8,4 @@ $ git diff branch1 branch2 -- /path/to/relevant/file
 
 ## References
 
-- [Stackoverflow](https://stackoverflow.com/questions/4099742/how-to-compare-files-from-two-different-branches)
+- [StackOverflow](https://stackoverflow.com/questions/4099742/how-to-compare-files-from-two-different-branches)
