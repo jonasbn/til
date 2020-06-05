@@ -71,7 +71,9 @@
   - [Swift](#swift)
   - [tar](#tar)
   - [Terminal.app](#terminalapp)
+  - [tldr](#tldr)
   - [tmux](#tmux)
+  - [tokei](#tokei)
   - [Ubuntu](#ubuntu)
   - [Visual Studio Code](#visual-studio-code)
   - [VMware Fusion](#vmware-fusion)
@@ -553,6 +555,11 @@
 
 - [Opening files in an application from the command line](terminal/opening_files_in_applications_from_the_cli.md)
 
+<a id="tldr"></a>
+### tldr
+
+- [use tldr](tldr/use_tldr.md)
+
 <a id="tmux"></a>
 ### tmux
 
@@ -560,6 +567,12 @@
 - [Standard Layouts](tmux/standard_layouts.md)
 - [Use tmux Resurrect](tmux/use_tmux_resurrect.md)
 - [Use tmux plugin manager](tmux/use_tmux_plugin_manager.md)
+
+<a id="tokei"></a>
+### tokei
+
+- [use tokei](tokei/use_tokei.md)
+
 
 <a id="ubuntu"></a>
 ### Ubuntu
