@@ -8,7 +8,7 @@ Normally you would have something along the lines of:
 # ~/.gitconfig
 
 [user]
-    name = Firstname Lastname
+    name = <first name> <last name>
     email = <private email address>
 ```
 
@@ -25,7 +25,7 @@ So insert the above snippet into: `~/.gitconfig` and create the file: `~/.gitcon
 # ~/.gitconfig-work
 
 [user]
-    name = Firstname Lastname
+    name = <first name> <last name>
     email = <work email address>
 ```
 
@@ -35,7 +35,7 @@ Do note the order of things, so `[user]` should be before the overwrite specifie
 # ~/.gitconfig
 
 [user]
-    name = Firstname Lastname
+    name = <first name> <last name>
     email = <private email address>
 [includeIf "gitdir:~/develop/git-work/"]
     path = .gitconfig-work
