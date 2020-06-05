@@ -1,6 +1,6 @@
 # Use commit message from file
 
-In the proces of cleaning and migrating a large set of SVN repositories I would put a file in the root  of a repository to indicate the status of the repository. These files would either be called:
+In the process of cleaning and migrating a large set of SVN repositories I would put a file in the root  of a repository to indicate the status of the repository. These files would either be called:
 
 - MIGRATED
 - DECOMMISSIONED
