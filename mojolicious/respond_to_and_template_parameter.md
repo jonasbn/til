@@ -1,6 +1,6 @@
 # Mojolicious::Controller respond_to and template parameter
 
-**Mojolicious** is incredibly helpful and invites to fast development. Please note that the `respond_to` method for the `Mojolicious::Controller` class can help you to support several mediatypes easily.
+**Mojolicious** is incredibly helpful and invites to fast development. Please note that the `respond_to` method for the `Mojolicious::Controller` class can help you to support several media types easily.
 
 Example lifted from the documentation:
 
