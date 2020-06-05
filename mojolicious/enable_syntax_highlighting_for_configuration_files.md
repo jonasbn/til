@@ -1,6 +1,6 @@
 # Enable syntax highlighting for configuration files
 
-Using the defacto standard **Mojolicious** plugin for configuration files [Mojolicious::Plugin::Config](http://mojolicious.org/perldoc/Mojolicious/Plugin/Config) you get the standard files ending in the suffix `.conf` - this is a very generic name.
+Using the _de facto_ standard **Mojolicious** plugin for configuration files [Mojolicious::Plugin::Config](http://mojolicious.org/perldoc/Mojolicious/Plugin/Config) you get the standard files ending in the suffix `.conf` - this is a very generic name.
 
 The configuration files are actually containing a basic **Perl** data structure and since this is a basic **Perl** data structure, you could utilize you favorite editor to do syntax highlighting of the contents, making it easier to spot stupid mistakes and _fat-fingering_.
 
