@@ -1,6 +1,6 @@
 # Publish an image to DockerHub
 
-Publishing a Docker image to DockerHub is very easy. Unfortunately there are a few variations, so when you are reading up on this process, you might get a bit confused.
+Publishing a Docker image to [DockerHub][dockerhub] is very easy. Unfortunately there are a few variations, so when you are reading up on this process, you might get a bit confused.
 
 So to add to that confusion, here is my take.
 
@@ -32,4 +32,7 @@ $ docker push jonasbn/myimage:0.1.0
 
 ## Resources and References
 
+- [DockerHub][dockerhub]
 - [Hackernoon: "Publish your first Docker Image to Docker Hub"](https://hackernoon.com/publish-your-docker-image-to-docker-hub-10b826793faf)
+
+[dockerhub]: https://hub.docker.com/
