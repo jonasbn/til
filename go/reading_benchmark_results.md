@@ -82,7 +82,7 @@ _Since I was unable to understand the output, I had to ask around and I received
 The first 3 columns are the ones from the basic benchmark. So with the `--benchmem` flag, two more columns are added:
 
 - Fourth column is the number of _additional_ bytes allocated per iteration
-- Fifth column is the number of _addtional_ allocations made per iteration
+- Fifth column is the number of _additional_ allocations made per iteration
 
 My interpretation of this is a that these are the additional allocations made by running the executable, providing the user with information on memory consumption in addition to the time consumption reported first.
 
