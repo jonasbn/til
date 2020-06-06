@@ -8,5 +8,5 @@ nc -vz <ip address> <port number>
 
 ## References
 
-- [Blogpost on netcat on macos](https://www.igorkromin.net/index.php/2018/07/12/macos-has-a-much-better-tool-than-telnet-for-testing-remote-server-connectivity/)
+- [Blog post on netcat on macos](https://www.igorkromin.net/index.php/2018/07/12/macos-has-a-much-better-tool-than-telnet-for-testing-remote-server-connectivity/)
 - [macos man-page nc](https://ss64.com/osx/nc.html)
