@@ -32,7 +32,7 @@ $ rustc --explain E0200
 
 There are other resources like [Codewars.com](https://www.codewars.com/) and recommendations are most welcome, But if you are not so much into the Kata things and displaying your solutions publicly I can recommend [@Carol Nichols](https://twitter.com/carols10cents) "[Rustlings](https://github.com/rust-lang/rustlings/)".
 
-I have never seen anything like **Rustlings** before, it is a GitHub project organized as a chain of error prone pieces of code organized as build, every time you get a step to compile you move on to the text - it totally feels like a game. I can however offer a small tip without spoiling anything. Do READ the displayed error, since when you get a step to compile, it automatically moves on to the next assigment and sometimes you do not see that you have succeeded and should evaluate a new piece of code.
+I have never seen anything like **Rustlings** before, it is a GitHub project organized as a chain of error prone pieces of code organized as build, every time you get a step to compile you move on to the text - it totally feels like a game. I can however offer a small tip without spoiling anything. Do READ the displayed error, since when you get a step to compile, it automatically moves on to the next assignment and sometimes you do not see that you have succeeded and should evaluate a new piece of code.
 
 If you run into some more _sticky_ **Rust** code [@Jake Goulding](https://twitter.com/JakeGoulding) has made [an online playground](https://play.rust-lang.org/) ([REPL](https://en.wikipedia.org/wiki/REPL)).
 
