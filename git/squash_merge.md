@@ -6,7 +6,7 @@ In order to get a clean history, squashing merges, result in a more readable com
 
 ```bash
 $ git checkout master
-$ git merge --squash bugfix_branch
+$ git merge --squash bug_fix_branch
 $ git commit
 ```
 
