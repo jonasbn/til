@@ -26,7 +26,7 @@ $ ./helloworld
 Hello, World!
 ```
 
-A variantion of this implementation of [hello world](https://en.wikipedia.org/wiki/%22Hello%2C_World!%22_program), can be found at [the official Go website][goorg].
+A variation of this implementation of [hello world](https://en.wikipedia.org/wiki/%22Hello%2C_World!%22_program), can be found at [the official Go website][goorg].
 
 I can recommend taking [the tour of Go][gotour], which gives a brief overview of the Go language and this brief introduction on [how to write Go code][gohowto] will really get you going.
 
