@@ -1,4 +1,4 @@
-# Lexican vs. Dynamic Scope
+# Lexical vs. Dynamic Scope
 
 ## References
 
