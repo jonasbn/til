@@ -1,6 +1,6 @@
 # Opening files in applications from the command line
 
-Editors SublimeText and Textmate come with nice CLI integration, Komodo by ActiveState does not, but it is not hard to achieve some level of integration.
+Editors SublimeText and TextMate come with nice CLI integration, Komodo by ActiveState does not, but it is not hard to achieve some level of integration.
 
 The `open` command is great, you can actually open files or directories like so for the Komodo IDE:
 
