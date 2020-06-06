@@ -16,7 +16,7 @@ This mean you can `ack` across your complete project in the above file types avo
 
 `$ ack --mojo session`
 
-Provides results accross the above filetypes.
+Provides results across the above filetypes.
 
 `$ ack --mojo session --ignore-dir local`
 
