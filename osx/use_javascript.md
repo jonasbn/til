@@ -1,6 +1,6 @@
-# Use Javascript
+# Use JavaScript
 
-You can use **Javascript** for automating tasks on **OSX**/**MacOS**, like you used to be able to do with **AppleScript**.
+You can use **JavaScript** for automating tasks on **OSX**/**MacOS**, like you used to be able to do with **AppleScript**.
 
 Here is a basic example:
 
@@ -42,7 +42,7 @@ console.log(str);
 
 This script list all unfinished reminders from the default list.
 
-Do note that this script is _incredibly slow_, I have no idea, whether this is my implementation, since I am a **Javascript** n00b, or whether it is the integration.
+Do note that this script is _incredibly slow_, I have no idea, whether this is my implementation, since I am a **JavaScript** n00b, or whether it is the integration.
 
 ## References
 
