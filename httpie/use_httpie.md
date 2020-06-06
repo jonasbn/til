@@ -1,6 +1,6 @@
 # Use httpie
 
-`httpie` is an alternative to utililities like `curl`
+`httpie` is an alternative to utilities like `curl`
 
 ```bash
 $ http  http://jsonplaceholder.typicode.com/posts/1
