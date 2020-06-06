@@ -32,7 +32,7 @@ If you prefer books, you can try these:
 - https://www.manning.com/books/go-in-action (if you e-mail @wkennedy at bill@ardanlabs.com you can get a free copy for being part of this Slack)
 
 If you want to learn how to organize your Go project, make sure to read: https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1#.ds38va3pp.
-Once you are accustomed to the language and syntax, you can read this series of articles for a walkthrough the various standard library packages: https://medium.com/go-walkthrough.
+Once you are accustomed to the language and syntax, you can read this series of articles for a walk-through the various standard library packages: https://medium.com/go-walkthrough.
 Finally, https://github.com/golang/go/wiki#learning-more-about-go will give a list of even more resources to learn Go
 ```
 
