@@ -12,7 +12,7 @@ $ docker build -t jonasbn/myimage .
 
 Normally you would propably build, without your namespacing, but since out goal is to publish to DockerHub, the namespace is quite important.
 
-Log in to DockerHub. This requries credentials. This step can often be skipped, not initially of course, but the `docker` command is quite friendly when it comes to remembering you.
+Log in to DockerHub. This requires credentials. This step can often be skipped, not initially of course, but the `docker` command is quite friendly when it comes to remembering you.
 
 ```bash
 $ docker login
