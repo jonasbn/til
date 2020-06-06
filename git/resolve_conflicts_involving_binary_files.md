@@ -1,4 +1,4 @@
-# Resolve conlicts in binary files
+# Resolve conflicts in binary files
 
 Sometimes you get caught in the dilemma of a conflict in a binary file.
 
