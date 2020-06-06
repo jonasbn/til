@@ -35,7 +35,7 @@ Okay, but since the specified name contains spaces, the have to be explicitly de
 
 6. Last but not least the hard-coded value: `badge.svg`
 
-So the complete URL for the badge displayes look as follows:
+So the complete URL for the badge displays look as follows:
 
 `https://github.com/jonasbn/til/workflows/Markdownlint%20Workflow/badge.svg`
 
