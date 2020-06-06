@@ -2,7 +2,7 @@
 
 When you are trying to interconnect and assemble a set of issues (_bugs, tasks, stories_) it can be hard to gather them for bulk operations, like assigning them to the same _EPIC_ or similar.
 
-Well in **Jira's** issue search field you can provide the following query:
+Well in **Jira** issue search field you can provide the following query:
 
 ```
 issue in linkedIssues(issueKey)
