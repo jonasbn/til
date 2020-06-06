@@ -19,6 +19,6 @@ $ node helloworld.js
 Hello, World!
 ```
 
-## Refernces
+## Resources and References
 
 - [Blog post by Dmitri Pavlutin: "Let's Master JavaScript Function Parameters"](https://dmitripavlutin.com/javascript-function-parameters/)
