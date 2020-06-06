@@ -1,6 +1,6 @@
 # Rewrite the last commit message
 
-I often fat-finger or misspell stuff in commit messages, luckily **Git** lets you correct these things without too much hazzle.
+I often fat-finger or misspell stuff in commit messages, luckily **Git** lets you correct these things without too much _hassle_.
 
 If you have just made the commit locally and have not yet pushed
 
