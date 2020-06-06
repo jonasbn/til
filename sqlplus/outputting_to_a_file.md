@@ -1,6 +1,6 @@
 # Outputting to a file
 
-If you want to want to extract data easily to a file `sqlplus` the commandline utility from Oracle can come quite handy.
+If you want to want to extract data easily to a file `sqlplus` the command line utility from Oracle can come quite handy.
 
 ```sql
 > SPOOL filename
