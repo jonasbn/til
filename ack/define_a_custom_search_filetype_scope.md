@@ -5,7 +5,7 @@ For `ack` you can defined custom filetype scopes for your projects.
 If you for have a **Mojolicious** project consisting of:
 
 - Perl files: `.pm`, `.pl`, `.t`,
-- Javascript files: `.js`
+- JavaScript files: `.js`
 - CSS files: `.css`
 - Template files: `.ep`
 - Configuration files: `.conf`
