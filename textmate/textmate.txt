@@ -1,4 +1,4 @@
-Textmate has a marvelous Perl bundle, also available on Github.
+TextMate has a marvelous Perl bundle, also available on Github.
 One of the interesting functions is a hook where your Perl code is evaluated when you save your Perl file. This is done using a script named perlcheckmate.pl.
 
 So if I save this half-finished file, I get the following warning:
