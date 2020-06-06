@@ -1,6 +1,6 @@
 # Dump objects attributes
 
-You can dump a objects attributes using `ìnspect` and you can even extend it.
+You can dump a objects attributes using `inspect` and you can even extend it.
 
 > Adding an inspect method to your class allows you to define how the class' attributes are
 > displayed, rather than rely on default output. A lot of classes don't implement it well, but it
