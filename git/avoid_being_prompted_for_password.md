@@ -8,7 +8,7 @@ $ ssh-add ~/.ssh/id_rsa
 
 Enter your passphrase and you should be good to go. If you want to automate even more, check out `ssh-agent`:
 
-Add the following smippet to your `.bash_profile`.
+Add the following snippet to your `.bash_profile`.
 
 ```bash
 if [ -z "$SSH_AUTH_SOCK" ] ; then
