@@ -229,7 +229,7 @@ target
 
 Now you are ready to try to play around with **Rust** or throw some **Rust** at your current problem.
 
-I now it is quite overwhelming to consume all of the guides, tutorials, articles and blogposts on **Rust**, just check the [Rust learning resources](https://github.com/ctjhoa/rust-learning).
+I now it is quite overwhelming to consume all of the guides, tutorials, articles and blog posts on **Rust**, just check the [Rust learning resources](https://github.com/ctjhoa/rust-learning).
 
 Do checkout the [documentation section](https://www.rust-lang.org/en-US/documentation.html) of the [main Rust site](https://www.rust-lang.org/en-US/).
 
