@@ -2,7 +2,7 @@
 
 TODO: Write up notes on learning kubernetes
 
-This guide will in first round be focussed on **Minikube**
+This guide will in first round be focused on **Minikube**
 
 ## Installing Minikube
 
