@@ -1,5 +1,5 @@
-# Use a cheatsheet
+# Use a cheat sheet
 
-Cheatsheets are awesome, I found this one for `curl`
+Cheat sheets are awesome, I found this one for `curl`
 
 - https://devhints.io/curl

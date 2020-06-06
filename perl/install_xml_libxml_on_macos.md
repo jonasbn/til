@@ -1,6 +1,6 @@
 # Install XML::LibXML on MacOS
 
-This assumes that you have `libxml2` installed via **HomeBrew**
+This assumes that you have `libxml2` installed via **Homebrew**
 
 ```bash
 $ brew install libxml2

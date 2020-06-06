@@ -8,7 +8,7 @@ Well in **Jira** issue search field you can provide the following query:
 issue in linkedIssues(issueKey)
 ```
 
-This will give you a result listing all of the issues linked to the `ìssueKey` you provide.
+This will give you a result listing all of the issues linked to the `issueKey` you provide.
 
 In addition you can, do the following to refine the query, by providing an additional `linkType`, like so:
 
