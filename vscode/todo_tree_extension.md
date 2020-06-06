@@ -116,7 +116,7 @@ You might also find these snippets useful:
         "body": [
             "REVIEW: $1"
         ],
-        "description": "Review annontation"
+        "description": "Review annotation"
     },
     "reference": {
         "scope": "", // all languages
@@ -124,7 +124,7 @@ You might also find these snippets useful:
         "body": [
             "REF: $1"
         ],
-        "description": "Reference annontation"
+        "description": "Reference annotation"
     }
 }
 ```
