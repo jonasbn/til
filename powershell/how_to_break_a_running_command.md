@@ -2,7 +2,7 @@
 
 Getting used to not using good ol' `<CTRL>`-`C`
 
-In Powershell use: `<CTRL>`-`<BREAK>`
+In PowerShell use: `<CTRL>`-`<BREAK>`
 
 It took some time for me to locate `<BREAK>` on the keyboard, but it was actually there
 
