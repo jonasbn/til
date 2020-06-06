@@ -409,7 +409,7 @@
 - [Enabling at](osx/enabling_at.md)
 - [Playing Sound from the Command Line](osx/play_sound_from_cli.md)
 - [Keyboard Symbols](osx/keyboard_symbols.md)
-- [Use Javascript](osx/use_javascript.md)
+- [Use JavaScript](osx/use_javascript.md)
 - [Set Default Browser From the Command Line](osx/change_default_browser_from_cli.md)
 - [No telnet use netcat](osx/no_telnet_use_netcat.md)
 - [What ports are listened on](osx/what_ports_are_listened_on.md)
