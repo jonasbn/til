@@ -94,4 +94,4 @@ fn main() {
 }
 ```
 
-Please see [the blogpost](https://blog.rust-lang.org/2019/01/17/Rust-1.32.0.html#the-dbg-macro)
+Please see [the blog post](https://blog.rust-lang.org/2019/01/17/Rust-1.32.0.html#the-dbg-macro)
