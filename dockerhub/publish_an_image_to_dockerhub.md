@@ -10,7 +10,7 @@ Build the Docker image you want to publish, based on your `Dockerfile`
 $ docker build -t jonasbn/myimage .
 ```
 
-Normally you would propably build, without your namespacing, but since out goal is to publish to DockerHub, the namespace is quite important.
+Normally you would probably build, without your namespacing, but since out goal is to publish to DockerHub, the namespace is quite important.
 
 Log in to DockerHub. This requires credentials. This step can often be skipped, not initially of course, but the `docker` command is quite friendly when it comes to remembering you.
 
