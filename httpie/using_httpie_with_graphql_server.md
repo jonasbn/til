@@ -1,4 +1,4 @@
-# Using httpie with Graphql server
+# Using httpie with GraphQL server
 
 I have just started playing around with **GraphQL** and I really like using **httpie** for testing **REST**, testing **GraphQL** using **httpie** works out of the box.
 
