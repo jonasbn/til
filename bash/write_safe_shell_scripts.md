@@ -36,3 +36,4 @@ Read [this insightful post](https://dev.to/victoria/how-to-print-newlines-in-com
 
 - [Article from MIT Student Information Processing Board (SIPB)](https://sipb.mit.edu/doc/safe-shell/)
 - [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+- [Bash man-page](https://man7.org/linux/man-pages/man1/bash.1.html)
