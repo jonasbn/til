@@ -12,16 +12,17 @@ Both implementations implement a set of rules [Ruby implementation][markdownlint
 
 This documentation is nice to have close at hand when you get started.
 
-On getting started, the
+I wrote up [a blog post][devtojonasbn] where I compare the rulesets of the two.
 
 ## References
 
 - [EditorConfig.org](https://editorconfig.org/)
-- [Markdownlint (Ruby)](markdownlint_ruby)
-- [Markdownlint Rules (Ruby)](markdownlint_rules_ruby)
-- [Markdownlint (Node)](markdownlint_node)
-- [Markdownlint Rules (Node)](markdownlint_rules_node)
-- [Markdownlint CLI (Node)](markdownlint_cli)
+- [Markdownlint (Ruby)][markdownlint_ruby]
+- [Markdownlint Rules (Ruby)][markdownlint_rules_ruby]
+- [Markdownlint (Node)][markdownlint_node]
+- [Markdownlint Rules (Node)][markdownlint_rules_node]
+- [Markdownlint CLI (Node)][markdownlint_cli]
+- [Blog post: "Markdownlint"][devtojonasbn]
 
 [markdownlint_rules_ruby]: https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md
 
@@ -32,3 +33,5 @@ On getting started, the
 [markdownlint_node]: https://github.com/DavidAnson/markdownlint
 
 [markdownlint_ruby]: https://github.com/markdownlint/markdownlint
+
+[devtojonasbn]: https://dev.to/jonasbn/blog-post-markdownlint-24ig
