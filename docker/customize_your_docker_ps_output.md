@@ -19,8 +19,14 @@ The output is defined in: `$HOME/.docker/config.json`, like so:
 }
 ```
 
+You can also specify this on the fly:
+
+```bash
+$ docker ps --format "{{.Names}}"
+```
+
 Please see the documentation for more information.
 
 ## References
 
-- [Docker](https://docs.docker.com/engine/reference/commandline/ps/)
+- [Docker.com: ps](https://docs.docker.com/engine/reference/commandline/ps/)
