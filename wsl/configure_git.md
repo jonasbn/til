@@ -22,4 +22,5 @@ file:/home/jonasbn/.gitconfig   core.autocrlf=false
 - [First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 - [my .gitconfig](https://github.com/jonasbn/dotfiles/blob/master/.gitconfig) from my [dotfiles](https://github.com/jonasbn/dotfiles) repository
 - [Blog post by Pete O'Shea: Setup Git in WSL](https://peteoshea.co.uk/setup-git-in-wsl/)
+- [GitHub Community](https://github.community/t/git-config-core-autocrlf-should-default-to-false/16140)
 - [GitHub: help](https://help.github.com/en/articles/configuring-git-to-handle-line-endings)
