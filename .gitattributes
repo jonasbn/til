@@ -1,1 +1,3 @@
 *.md linguist-language=Markdown
+*.t linguist-language=Perl
+*.pm linguist-language=Perl
