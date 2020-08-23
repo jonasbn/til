@@ -34,6 +34,6 @@ You can get the name of the container
 
 ## References
 
-- [StackOverflow](https://stackoverflow.com/questions/22049212/docker-copy-file-from-container-to-host)
+- [StackOverflow: "Copying files from Docker container to host"](https://stackoverflow.com/questions/22049212/copying-files-from-docker-container-to-host)
 - [Docker.com: cp](https://docs.docker.com/engine/reference/commandline/cp/)
 - [Docker.com: ps](https://docs.docker.com/engine/reference/commandline/ps/)
