@@ -2,13 +2,13 @@
 
 When building packages you sometime run into issues, like the one below
 
-```
-> dpkg-gencontrol: error: source package has two conflicting values - foo and bar
+```text
+dpkg-gencontrol: error: source package has two conflicting values - foo and bar
 ```
 
 One problem could be conflict between package name and the directory of the package.
 
-```
+```text
 Why do you call the directory bar if the source package is foo?
 
 Ideally, these three should match:
