@@ -329,6 +329,7 @@
 ### Jira
 
 - [Get a List of Linked Issues](jira/get_a_list_of_linked_issues.md)
+- [How to escape curly brackets within code tags](jira/gehow_to_escape_curlys_within_code_tags.md)
 
 <a id="jq"></a>
 ### jq
