@@ -1,6 +1,6 @@
 # How to escape curly brackets within code tags
 
-When you describe RESTful endpoints, it can be useful to describe dynamic parameters embedded in the URL, like so: 
+When you describe RESTful endpoints, it can be useful to describe dynamic parameters embedded in the URL, like so:
 
 `https://service/{version}/customer/{customerid}`
 
