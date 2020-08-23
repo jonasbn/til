@@ -23,6 +23,7 @@ There are some awesome websites as well:
 - https://divan.github.io/posts/avoid_gotchas will help you avoid gotchas in Go
 - https://golangbot.com tutorials to help you get started in Go
 
+
 There's also an exhaustive list of videos http://gophervids.appspot.com related to Go from various authors.
 
 If you prefer books, you can try these:
@@ -36,9 +37,14 @@ Once you are accustomed to the language and syntax, you can read this series of 
 Finally, https://github.com/golang/go/wiki#learning-more-about-go will give a list of even more resources to learn Go
 ```
 
+I have added some  additional resources:
+
+- ["50 Shades of Go: Traps, Gotchas and Common Mistakes for New Golang Devs"](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+- [Online Go REPL][goplayground]
+
 ## References
 
 - [Gopher Slack][gopherslack]
 
 [gopherslack]: https://invite.slack.golangbridge.org/
-["50 Shades of Go: Traps, Gotchas and Common Mistakes for New Golang Devs"](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+[goplayground]: https://play.golang.org/
