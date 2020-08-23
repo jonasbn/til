@@ -2,6 +2,8 @@
 
 Let's _go_
 
+You can try this out at the [Go playground][goplayground] or install the Go compiler on your local machine, I assume and prefer the latter.
+
 ```go
 // helloworld.go
 package main
@@ -119,3 +121,4 @@ I will continue my journey and added more TILs on different aspects of Go progra
 [gohowto]: https://golang.org/doc/code.html
 [algo]: https://algorithmswithgo.com/
 [godevroadmap2020]: https://github.com/Alikhll/golang-developer-roadmap
+[goplayground]: https://play.golang.org/
