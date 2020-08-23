@@ -5,7 +5,7 @@
 My notes on **Rust** are based on the following version:
 
 ```bash
-> rustc --version
+$ rustc --version
 rustc 1.29.0 (aa3ca1994 2018-09-11)
 ```
 
