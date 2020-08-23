@@ -8,17 +8,17 @@ $ git log --graph --simplify-by-decoration --pretty=format:'%d' --all
 
 Example based on [DK Hostmaster EPP Service Specification](https://github.com/DK-Hostmaster/epp-service-specification).
 
-```
-> git log --graph --simplify-by-decoration --pretty=format:'%d' --all
+```bash
+$ git log --graph --simplify-by-decoration --pretty=format:'%d' --all
 *  (HEAD -> master, origin/master, origin/HEAD)
 *  (origin/prerelease-2.0, prerelease-2.0)
 *
-|\  
+|\
 | *  (origin/epp_update_domain_v1, epp_update_domain_v1)
 * |
-|\ \  
+|\ \
 | * |  (origin/epp_renew_domain_v1, epp_renew_domain_v1)
-| |/  
+| |/
 * |
 |\ \
 | * |  (origin/epp_nameserver_admin_v1, epp_nameserver_admin_v1)
