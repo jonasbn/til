@@ -6,6 +6,8 @@ When you describe RESTful endpoints, it can be useful to describe dynamic parame
 
 When you then want to communicate this in a Jira issue (User Story) or in the Confluence, you run into issues, since the curly brackets are reserved for macros - so we need to escape.
 
+We use slash ('`\`') for this.
+
 So the above example should be written as follows, escaped with slashes:
 
 `https://service/\{version\}/customer/\{customerid\}`
