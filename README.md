@@ -426,6 +426,8 @@
 - [Get ExtUtils::MakeMaker to install in local/ like carton](perl/get_extutils-makemaker_to_install_in_local_like_carton.md)
 - [Mojolicious::Plugin::OpenAPI Tutorial](https://github.com/jonasbn/perl-mojolicious-plugin-openapi-tutorial-hello-world)
 - [Read Input via Pipe](perl/read_input_via_pipe.md)
+- [Find out if a given Perl distribution is included in core](perl/find_out_if_a_given_perl_distribution_is_included_in_core.md)
+- [Find out what your perl minimum version requirement is](perl/find_out_what_your_perl_minimum_version_requirement_is.md)
 
 <a id="perlbrew"></a>
 ### Perlbrew
