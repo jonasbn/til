@@ -9,13 +9,10 @@ matrix:
   pipeline:
   - pyspelling.filters.markdown:
   - pyspelling.filters.html:
-    comments: false
-    ignores:
-    - 'blockquote > p'
-    - code
-    - pre
-    - 'html > body > p'
+      comments: false
+      ignores:
+      - code
+      - pre
   sources:
   - '!_site/*.md|*/*.md'
-  ##- 'go/reading_benchmark_results.md'
   default_encoding: utf-8
