@@ -893,3 +893,17 @@ zh
 Üdvözlöm
 är
 ääni
+Bună
+DK
+EPP
+Hostmaster
+Markdownlint
+XSD
+cheamă
+dkhm
+imię
+języka
+markdownlint
+m’appelle
+românească
+český
