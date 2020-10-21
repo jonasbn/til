@@ -907,3 +907,10 @@ markdownlint
 m’appelle
 românească
 český
+DTDs
+PropertyList
+dtd
+ttp
+DockerSystemPrue
+StartCalendarInterval
+
