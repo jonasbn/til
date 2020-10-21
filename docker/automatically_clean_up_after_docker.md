@@ -13,7 +13,7 @@ Insert the following contents:
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>DockerSystemPrue</string>
+    <string>DockerSystemPrune</string>
     <key>Program</key>
     <string>/usr/local/bin/docker system prune -f</string>
     <key>StartCalendarInterval</key>
