@@ -911,6 +911,6 @@ DTDs
 PropertyList
 dtd
 ttp
-DockerSystemPrue
+DockerSystemPrune
 StartCalendarInterval
 minicpan
