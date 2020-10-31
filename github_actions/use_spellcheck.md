@@ -50,6 +50,10 @@ Suppresses the message emitted when a spelling check fails.
 
 Suppresses the message emitted when a spelling check passes.
 
+Do note that if you use PySpelling's verbosity flags, more output will be emitted and additional suppressions will have to be put in place.
+
+But you get the picture from the original example, which should be easy to extend.
+
 ## Resources and References
 
 - [GitHub Marketplace: Spellcheck][marketplace]
