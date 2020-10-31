@@ -29,6 +29,7 @@
   - [FileMerge.app](#filemergeapp)
   - [Git](#git)
   - [GitHub](#github)
+  - [GitHub Actions](#github_actions)
   - [Go](#go)
   - [grep](#grep)
   - [Homebrew](#homebrew)
@@ -278,6 +279,11 @@
 - [Use emojis](github/use_emojis.md)
 - [GitHub Action Badges](github/action_badges.md)
 - [Use dependabot](github/use_dependabot.md)
+
+<a id="github_actions"></a>
+### GitHub Actions
+
+- [Use spellcheck](github_actions/use_spellcheck.md)
 
 <a id="grep"></a>
 ### Go
