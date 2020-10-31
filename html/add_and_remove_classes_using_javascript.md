@@ -8,7 +8,7 @@ div.className = 'foo';
 
 // use the classList API to remove and add classes
 div.classList.remove("foo");
-div.classList.add("bar", #baz");
+div.classList.add("bar", "#baz");
 
 div.classList.remove("bar", "baz");
 ```
