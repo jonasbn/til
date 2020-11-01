@@ -18,7 +18,7 @@ $ pyspelling --config .spellcheck.yaml \
 | grep -v -e '^Misspelled words' \
 | grep -v -e '\-\-\-\-' \
 | grep -v -e '^<htmlcontent>' \
-| grep -v -e '^$' \
+| grep -v -e '^[[:space:]]*$' \
 | grep -v -e '^!!!Spelling check failed!!!' \
 | grep -v -e '^Spelling check passed :)' \
 | sort -u > .wordlist.txt
@@ -38,7 +38,7 @@ Suppresses some information on the DOM whereabouts of the word.
 
 Suppresses a separator, used between the above indicator and the actual works
 
-`grep -v -e '^$'`
+`grep -v -e '^[[:space:]]*$'`
 
 Suppresses empty lines, also used as a separator.
 
