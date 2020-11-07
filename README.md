@@ -366,6 +366,7 @@
 - [How do I escape a numbersign](markdown/how_do_i_escape_numbersign.md)
 - [How do I escape asterisk and other characters](markdown/how_do_i_escape.md)
 - [Read Markdown in terminal](markdown/read_markdown_in_terminal.md)
+- [Use Markdownlint](markdown/use_markdownlint.md)
 
 <a id="markdownlint"></a>
 ### markdownlint
