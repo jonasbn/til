@@ -1,7 +1,5 @@
 # Read Markdown in Terminal
 
-# Use mdless
-
 I often have the need for quickly reading Markdown on the command line.
 
 Luckily there are tools like `mdless`.
