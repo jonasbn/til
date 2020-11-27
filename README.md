@@ -118,6 +118,7 @@
 - [Grep STDERR](bash/grep_stderr.md)
 - [Use bashmarks](bash/use_bashmarks.md)
 - [Write safe shell scripts](bash/write_safe_shell_scripts.md)
+- [Glob expanding to all files in current directory recursively](bash/glob_expanding_to_all_files_in_current_directory_recursively.md)
 
 <a id="bootstrap"></a>
 ### Bootstrap
