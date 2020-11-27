@@ -26,6 +26,8 @@ I use the globbing trick when processing a deep structure of XML files using `xm
 $ xmllint --noout --schema my.xsd xml/{,**/}*.xml
 ```
 
+Another explanation [is available here from unix.stackexchange.com](https://unix.stackexchange.com/questions/49913/recursive-glob).
+
 ## Resources and References
 
 1. [StackOverflow: "What expands to all files in current directory recursively?"][StackOverflow]
