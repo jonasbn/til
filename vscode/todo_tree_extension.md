@@ -80,6 +80,8 @@ HACK: Be warned this is indeed a hack
 REF: https://github.com/jonasbn/til/tree/master/vscode/todo_tree_plugin.md
 ```
 
+![Second Todo Tree screenshot example](todo-tree-2.png)
+
 As you can see the type for REF (reference) has it's type defined differently.
 
 You can define you own tags and can assign, icons and colour schemes, based on your preferences.
