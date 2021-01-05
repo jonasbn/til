@@ -144,6 +144,7 @@
 - [Data::FormValidator](cpan/data-formvalidator.md)
 - [File::Find](cpan/file-find.md)
 - [Test::Pretty](cpan/test-pretty.md)
+- [Parsing Gitignore](cpan/parsing_gitignore.md)
 
 <a id="cpanm"></a>
 ### cpanm
