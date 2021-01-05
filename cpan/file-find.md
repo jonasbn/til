@@ -64,7 +64,7 @@ sub _proces {
 
 ## Resources and References
 
-1. [StackOverflow: "Find::File preprocess"][StackOveflow]
+1. [StackOverflow: "Find::File preprocess"][StackOverflow]
 1. [Perldoc.org: File::Find][File::Find]
 
 [File::Find]: https://perldoc.perl.org/File::Find

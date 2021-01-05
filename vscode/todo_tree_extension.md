@@ -9,12 +9,15 @@ It lets you define tags in your code like `TODO` and `FIXME` (_the defaults_) wh
 This is my configuration used for the above example.
 
 ```json
-{
     "todo-tree.tree.autoRefresh": true,
-    "todo-tree.highlights.defaultHighlight": {
-        "type": "text-and-comment"
-    },
     "todo-tree.highlights.customHighlight": {
+        "WARN": {
+            "foreground": "white",
+            "background": "red",
+            "iconColour": "red",
+            "icon": "alert",
+            "type": "text"
+        },
         "TODO": {
             "foreground": "black",
             "background": "green",
@@ -48,19 +51,24 @@ This is my configuration used for the above example.
             "type": "tag"
         }
     },
+    "todo-tree.highlights.defaultHighlight": {
+        "type": "text-and-comment"
+    },
     "todo-tree.general.tags": [
         "TODO",
         "FIXME",
         "REVIEW",
         "HACK",
-        "REF"
+        "REF",
+        "WARN"
     ]
-}
 ```
 
 And this is the example:
 
 ```
+WARN: This is a warning, be aware
+
 TODO: At some point this should be done
 
 FIXME: This is clearly a bug, please fix
@@ -72,11 +80,22 @@ HACK: Be warned this is indeed a hack
 REF: https://github.com/jonasbn/til/tree/master/vscode/todo_tree_plugin.md
 ```
 
+![Second Todo Tree screenshot example](todo-tree-2.png)
+
 As you can see the type for REF (reference) has it's type defined differently.
 
 You can define you own tags and can assign, icons and colour schemes, based on your preferences.
 
 For icons in the sidebar you can use the marvellous [octicons](https://octicons.github.com/)
+
+I use:
+
+- ⚠️ `:alert:` for WARN
+- ✅ `:check:` for TODO
+- 🐞 `:bug:` for FIXME
+- 👁 `:eye:` for review
+- ⚠️ `:alert:` for HACK
+- 🏷 `:tag:` for REF
 
 And for the foreground and background color in the editor you can use the colours: "red", "green", "blue", "yellow", "magenta", "cyan", "grey", "white" or "black". RGB values can also be used (e.g. "#FFA500").
 
