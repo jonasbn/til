@@ -26,6 +26,7 @@
   - [Dropbox](#dropbox)
   - [dzil](#dzil)
   - [EditorConfig](#editorconfig)
+  - [exa](#exa)
   - [FileMerge.app](#filemergeapp)
   - [Git](#git)
   - [git-delta](#git-delta)
@@ -236,6 +237,11 @@
 - [Perl](editorconfig/perl.md)
 - [XML](editorconfig/xml.md)
 - [Markdown](editorconfig/markdown.md)
+
+<a id="exa"></a>
+### exa
+
+- [Use exa](exa/use_exa.md)
 
 <a id="filemergeapp"></a>
 ### FileMerge.app
