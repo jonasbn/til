@@ -191,6 +191,7 @@
 <a id="diff-so-fancy"></a>
 ### diff-so-fancy
 
+- [use diff-so-fancy](diff-so-fancy/use_diff_so_fancy.md)
 - [One-time Disable of diff-so-fancy for Git](diff-so-fancy/one-time_disable_dsf_for_git.md)
 
 <a id="docker"></a>
