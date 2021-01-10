@@ -28,6 +28,7 @@
   - [EditorConfig](#editorconfig)
   - [FileMerge.app](#filemergeapp)
   - [Git](#git)
+  - [git-delta](#git-delta)
   - [GitHub](#github)
   - [GitHub Actions](#github_actions)
   - [Go](#go)
@@ -271,6 +272,11 @@
 - [Find Out Who Created a Branch](git/find_out_who_created_a_branch.md)
 - [See a given file at a given commit](git/see_a_given_file_at_a_given_commit.md)
 - [Create a branch from an older commit](git/create_a_branch_from_an_older_commit.md)
+
+<a id="git-delta"></a>
+## git-delta
+
+- [Use git-delta](git-delta/use_git-delta.md)
 
 <a id="github"></a>
 ### GitHub
