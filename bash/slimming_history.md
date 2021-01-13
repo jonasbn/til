@@ -8,6 +8,7 @@ This is based on the example by Kenneth Geisshirt from [his slidedeck](http://ww
 $ export HISTIGNORE="pwd:ls:ls -l:cd:clear"
 ```
 
-## References
+## Resources and References
 
-- [SlideShare](http://www.slideshare.net/geisshirt/unleash-your-inner-console-cowboy-47244006)
+1. [SlideShare](http://www.slideshare.net/geisshirt/unleash-your-inner-console-cowboy-47244006)
+1. [Bash History Facilities](https://www.gnu.org/software/bash/manual/html_node/Bash-History-Facilities.html)
