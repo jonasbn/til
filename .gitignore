@@ -4,6 +4,7 @@ a.out
 
 _site
 .jekyll-cache
+.jekyll-metadata
 c/selection_sort_tutorial/selection_sort
 
 wordlist.dic
