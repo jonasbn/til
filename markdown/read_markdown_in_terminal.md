@@ -6,11 +6,11 @@ Luckily there are tools like `mdless`.
 
 BUT! there are several implementations.
 
-1. [`mdless` written in Ruby][mdlessruby] by Brett Terpstra, which can be installed via `npm`, does not particularly beautifully, have testet in the README of this repository
+1. [`mdless` written in Ruby][mdlessruby] by Brett Terpstra, which can be installed via `npm`, does not particularly beautifully, have tested in the README of this repository
 1. [`mdless` written in JavaScript][mdlessjs] by Michael Burkman, which can be installed as a Gem, does not render code snippets
-1. [`mdr`][mdr] testet with the README of this repository, did not render fast enough for my ... patience
+1. [`mdr`][mdr] tested with the README of this repository, did not render fast enough for my ... patience
 
-And there are propably plenty of other alternatives out there
+And there are probably plenty of other alternatives out there
 
 None of the ones I have tested have been completely _satisfying_
 
