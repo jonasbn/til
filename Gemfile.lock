@@ -255,6 +255,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jemoji
 
 BUNDLED WITH
    2.1.4
