@@ -14,5 +14,5 @@ matrix:
       - code
       - pre
   sources:
-  - '!_site/*.md|*/*.md'
+  - '!_site/*.md|!osx/list_available_voices_for_speechsynthesis.md|*/*.md'
   default_encoding: utf-8
