@@ -9,6 +9,7 @@
 
 - [Categories](#categories)
   - [ack](#ack)
+  - [ag](#ag)
   - [Bash](#bash)
   - [Bootstrap](#bootstrap)
   - [carton](#carton)
@@ -72,6 +73,7 @@
   - [SQLite](#sqlite)
   - [sqlplus](#sqlplus)
   - [SSH](#ssh)
+  - [Starship](#starship)
   - [Swift](#swift)
   - [tar](#tar)
   - [Terminal.app](#terminalapp)
@@ -82,7 +84,7 @@
   - [Visual Studio Code](#visual-studio-code)
   - [VMware Fusion](#vmware-fusion)
   - [Vue](#vue)
-  - [WSL](#wsl)
+  - [WSL 1/2](#wsl)
   - [wtf util](#wtf-util)
   - [XML](#xml)
   - [YAML](#yaml)
@@ -101,6 +103,11 @@
 - [Install ack](ack/install_ack.md)
 - [Define a custom search filetype scope](ack/define_a_custom_search_filetype_scope.md)
 
+<a id="ag"></a>
+### ag also known as the Silversurfer - fast alternative to ack and grep
+
+- [Use ag](ag/use_ag.md)
+
 <a id="bash"></a>
 ### Bash
 
@@ -118,7 +125,8 @@
 - [How to get last return value](bash/how_to_get_last_return_value.md)
 - [Getting Process-id of a Child Proces](bash/getting_process_id_of_child_process.md)
 - [Grep STDERR](bash/grep_stderr.md)
-- [Use bashmarks](bash/use_bashmarks.md)
+- [Use Bashmarks](bash/use_bashmarks.md)
+- [Use z](bash/use_z.md)
 - [Write safe shell scripts](bash/write_safe_shell_scripts.md)
 - [Glob expanding to all files in current directory recursively](bash/glob_expanding_to_all_files_in_current_directory_recursively.md)
 
@@ -239,7 +247,7 @@
 - [Markdown](editorconfig/markdown.md)
 
 <a id="exa"></a>
-### exa
+### exa - an alternative to the ls command
 
 - [Use exa](exa/use_exa.md)
 
@@ -281,7 +289,7 @@
 - [Create a branch from an older commit](git/create_a_branch_from_an_older_commit.md)
 
 <a id="git-delta"></a>
-## git-delta
+## git-delta - an commandline diff tool, also known as delta
 
 - [Use git-delta](git-delta/use_git-delta.md)
 
@@ -297,7 +305,7 @@
 - [Use dependabot](github/use_dependabot.md)
 
 <a id="github_actions"></a>
-### GitHub Actions
+### GitHub Actions - automate your GitHub work and repositories
 
 - [Use spellcheck](github_actions/use_spellcheck.md)
 
@@ -307,7 +315,7 @@
 - [Reading benchmark results](go/reading_benchmark_results.md)
 
 <a id="grep"></a>
-### grep
+### grep - see also ag also known as silversurfer
 
 - [Add colour to grep output](grep/add_colour_to_grep.md)
 
@@ -319,18 +327,18 @@
 - [Installing bash](homebrew/installing_bash.md)
 
 <a id="httpie"></a>
-### httpie
+### httpie - an alternative to jq and curl
 
 - [Use httpie](httpie/use_httpie.md)
 - [Using httpie with Graphql server](httpie/using_httpie_with_graphql_server.md)
 
 <a id="irssi"></a>
-### irssi
+### irssi - for all your IRC needs
 
 - [Use password authentication on Freenode](irssu/use_password_authentication_on_freenode.md)
 
 <a id="itermapp"></a>
-### iTerm.app
+### iTerm.app - an alternative to Terminal.app
 
 - [Use themes](itermapp/use_cool_themes.md)
 
@@ -354,18 +362,18 @@
 - [How to escape curly brackets within code tags](jira/gehow_to_escape_curlys_within_code_tags.md)
 
 <a id="jq"></a>
-### jq
+### jq - see also httpie
 
 - [Use jq](jq/use_jq.md)
 
 <a id="json"></a>
-### JSON
+### JSON - see also XML and YAML
 
 - [Beware of eval](json/beware_of_eval.md)
 - [Check out JSON Schema](json/check_out_json_schema.md)
 
 <a id="liquid-prompt"></a>
-### Liquid Prompt
+### Liquid Prompt - see also Starship
 
 - [Install Liquid Prompt](liquidprompt/install_liquidprompt.md)
 
@@ -462,7 +470,7 @@
 - [Install a new perl and clone modules from an existing installation](perlbrew/install_a_new_perl_and_clone_modules_from_an_existing_installation.md)
 
 <a id="perltidy"></a>
-### Perltidy
+### Perltidy - tidy all your Perl
 
 - [Tidy a file inline](perltidy/tidy_file_inline.md)
 
@@ -529,12 +537,12 @@
 - [Silence smartcd](smartcd/slience_smartcd.md)
 
 <a id="sublime-text-3"></a>
-### Sublime Text 3
+### Sublime Text 3 - see also VSCode
 
 - [Set colour scheme per language](sublimetext3/set_colour_scheme_per_language.md)
 
 <a id="subversion"></a>
-### Subversion
+### Subversion - do see Git
 
 - [Do something with every repository](subversion/do_something_every_repo.md)
 - [See in what revision a branch was created](subversion/see_in_what_revision_was_a_branch_created.md)
@@ -564,7 +572,7 @@
 - [Defaulting to now for date](sqlite/default_now_for_date.md)
 
 <a id="sqlplus"></a>
-### sqlplus
+### sqlplus - the CLI tool for Oracle
 
 - [Output to a file](sqlplus/outputting_to_a_file.md)
 - [How to pass hostname and port parameters](sqlplus/how_pass_host_and_post_parameters.md)
@@ -573,6 +581,11 @@
 ### SSH
 
 - [Permissions on SSH folder and files](ssh/permissions_on_ssh_folder_and_files.md)
+
+<a id="starship"></a>
+### Starship - nifty prompt and an alternative to Liquid Prompt
+
+- [Use Starship](starship/use_starship.md)
 
 <a id="swift"></a>
 ### Swift
@@ -585,17 +598,17 @@
 - [Using tar](tar/using_tar.md)
 
 <a id="terminalapp"></a>
-### Terminal.app
+### Terminal.app - do see iTerm.app
 
 - [Opening files in an application from the command line](terminal/opening_files_in_applications_from_the_cli.md)
 
 <a id="tldr"></a>
-### tldr
+### tldr - Too Long; Didn't Read, so use tldr
 
 - [use tldr](tldr/use_tldr.md)
 
 <a id="tmux"></a>
-### tmux
+### tmux - an alternative to screen
 
 - [Install tmux](tmux/install_tmux.md)
 - [Standard Layouts](tmux/standard_layouts.md)
@@ -603,7 +616,7 @@
 - [Use tmux plugin manager](tmux/use_tmux_plugin_manager.md)
 
 <a id="tokei"></a>
-### tokei
+### tokei - language statistics - fast
 
 - [use tokei](tokei/use_tokei.md)
 
@@ -613,7 +626,7 @@
 - [Install updates via command line](ubuntu/install_updates_via_cli.md)
 
 <a id="visual-studio-code"></a>
-### Visual Studio Code
+### VSCode / Visual Studio Code
 
 - [Stop vscode from calling home](vscode/stop_vscode_from_calling_home.md)
 - [Integrate vscode with Shell / CLI](vscode/integrate_with_cli.md)
@@ -633,7 +646,7 @@
 - [Get Started with Vue](vue/get_started_with_vue.md)
 
 <a id="wsl"></a>
-### WSL
+### WSL 1/2
 
 - [Configure Git](wsl/configure_git.md)
 - [Develop in Visual Studio Code](wsl/develop_in_vscode.md)
@@ -644,13 +657,13 @@
 - [Play around with wtf](wtf/play_around_with_wtf.md)
 
 <a id="xml"></a>
-### XML
+### XML - see also YAML and JSON
 
 - [Avoid entity expansion](xml/avoid_entity_expansion.md)
 - [Fast XML/XSD validation on the command line](xml/fast_xml-xsd_validation_on_cli.md)
 
 <a id="yaml"></a>
-### YAML
+### YAML - see also XML and JSON
 
 - [How to syntax check a YAML file](yaml/howto_syntax_check_a_yaml_file.md)
 

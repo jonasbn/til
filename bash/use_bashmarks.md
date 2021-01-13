@@ -44,7 +44,9 @@ $ bat ~/.sdirs
    1   │ export DIR_dev="$HOME/develop"
 ```
 
-## References
+An alternative is `z`, check [my til on `z`](http://jonasbn.github.io/til/bash/use_z.html)
+
+## Resources and References
 
 - [GitHub: Bashmarks][github]
 
