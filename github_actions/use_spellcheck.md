@@ -20,7 +20,6 @@ $ pyspelling --config .spellcheck.yaml \
 | grep -v -e '^<htmlcontent>' \
 | grep -v -e '^[[:space:]]*$' \
 | grep -v -e '^!!!Spelling check failed!!!' \
-| grep -v -e '^Spelling check passed :)' \
 | sort -u > .wordlist.txt
 ```
 
@@ -45,10 +44,6 @@ Suppresses empty lines, also used as a separator.
 `grep -v -e '^!!!Spelling check failed!!!'`
 
 Suppresses the message emitted when a spelling check fails.
-
-`grep -v -e '^Spelling check passed :)'`
-
-Suppresses the message emitted when a spelling check passes.
 
 Do note that if you use PySpelling's verbosity flags, more output will be emitted and additional suppressions will have to be put in place.
 
