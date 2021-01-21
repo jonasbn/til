@@ -33,13 +33,13 @@ This mean that you cannot see the result locally, when testing your GitHub pages
 $ bundle exec jekyll serve --incremental
 ```
 
-Luckily there is a remedy as hinted at in the [jemoji documentation][gh_jemoji], using another package called [gemoji][gh_emoji].
+Luckily there is a remedy as hinted at in the [jemoji documentation][gh_jemoji], using another package called [gemoji][gh_gemoji].
 
 ## Local Use
 
-As hinted at in the [jemoji documentation][gh_jemoji], via using [gemoji][gh_emoji].
+As hinted at in the [jemoji documentation][gh_jemoji], via using [gemoji][gh_gemoji].
 
-Do note that this is not included in the [gemoji][gh_emoji] on GitHub, but on [Rubydocs][rubydoc].
+Do note that this is not included in the [gemoji][gh_gemoji] on GitHub, but on [Rubydocs][rubydoc].
 
 ```bash
 $ gem install gemoji
