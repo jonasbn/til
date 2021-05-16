@@ -1,7 +1,15 @@
 # Probot TODO bot
 
-TODO
+This _bot_ scans your code for keywords and create issues.
+
+```yaml
+todo:
+  reopenClosed: false
+  keyword: ["REVIEW", "TODO"]
+  caseSensitive: true
+```
 
 ## Resources and References
 
-- [Website](https://probot.github.io/apps/todo/)
+- [Probot Website](https://probot.github.io/apps/todo/)
+- [GitHub Repository](https://github.com/JasonEtco/todo#configuring-for-your-project)
