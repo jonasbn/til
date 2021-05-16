@@ -57,6 +57,7 @@
   - [Perlbrew](#perlbrew)
   - [Perltidy](#perltidy)
   - [Postgresql](#postgresql)
+  - [Probot](#probot)
   - [Prolog](#prolog)
   - [Programming](#programming)
   - [Python](#python)
@@ -483,6 +484,13 @@
 ### Programming
 
 - [Round float to 2 decimals](programming/round_float_to_2_decimals.md)
+
+<a id="probot"></a>
+### Probot
+
+- [Probot: auto-assign](prolog/auto-assign.md)
+- [Probot: delete merged branch](prolog/delete_merged_branch.md)
+- [Probot: todo](prolog/todo.md)
 
 <a id="prolog"></a>
 ### Prolog
