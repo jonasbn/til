@@ -29,7 +29,7 @@ updates:
       interval: "weekly"
 ```
 
-And example with two package managers:
+And example with two configurations:
 
 ```yaml
 # Basic dependabot.yml file with
@@ -55,7 +55,19 @@ updates:
       interval: "weekly"
 ```
 
-The `dependabot.yml` file should be saved in the `-github/` directory, please consult the documentation.
+In addition I can recommend, the configuration for GitHub Actions:
+
+```yaml
+  # Enable version updates for Actions
+  - package-ecosystem: "github-actions"
+    # Look for `.github/workflows` in the `root` directory
+    directory: "/"
+    # Check for updates once a week
+    schedule:
+      interval: "weekly"
+```
+
+The `dependabot.yml` file should be saved in the `.github/` directory, please consult the documentation.
 
 ## Resources and References
 
