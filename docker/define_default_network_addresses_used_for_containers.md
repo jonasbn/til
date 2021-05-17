@@ -1,6 +1,6 @@
 # Define default network addresses used for containers
 
-If you are using **Docker** in a private network and your network clashes with the IP adresses assigned by default (`172.17.0.0/16`) by **Docker**, you can change it easily.
+If you are using **Docker** in a private network and your network clashes with the IP addresses assigned by default (`172.17.0.0/16`) by **Docker**, you can change it easily.
 
 In "Docker for Mac" you go to Preferences -> Daemon -> Advanced
 

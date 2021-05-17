@@ -4,8 +4,6 @@ aaab
 abbc
 abefhkmnptuvxBCHP
 acbb
-accidently
-accross
 ack
 Ack
 ackrc
@@ -15,8 +13,6 @@ ActiveStates
 adam
 AddressFamily
 adduser
-adressed
-adresses
 ae
 af
 afplay
@@ -1695,3 +1691,10 @@ CDN
 gemoji
 Rubydocs
 RubyDoc
+assignees
+addReviewers
+addAssignees
+skipKeywords
+wip
+numberOfReviewers
+numberOfAssignees

@@ -1,6 +1,6 @@
 # Delete local and remote tags
 
-Sometimes you accidently create a _bAd_ tag
+Sometimes you accidentally create a _bAd_ tag
 
 ```bash
 # local

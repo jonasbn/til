@@ -2,7 +2,7 @@
 
 This is a really helpful _bot_, it deletes branches when merged.
 
-Yes, you can restore them, but most often you forget to delete them so this is really helpfull with cleaning out the things that crop up.
+Yes, you can restore them, but most often you forget to delete them so this is really helpful with cleaning out the things that crop up.
 
 ## Resources and References
 
