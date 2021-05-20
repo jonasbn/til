@@ -152,6 +152,7 @@
 <a id="cpan"></a>
 ### CPAN
 
+- [Use CPAN](cpan/use_cpan.md)
 - [Data::FormValidator](cpan/data-formvalidator.md)
 - [File::Find](cpan/file-find.md)
 - [Test::Pretty](cpan/test-pretty.md)
