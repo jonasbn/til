@@ -11,6 +11,6 @@ command_timeout = 1000
 
 The default timeout is 500 milliseconds and you have to specify the interval in milliseconds.
 
-## Reources and References
+## Resources and References
 
 1. [starship: configuration](https://starship.rs/config/#prompt)
