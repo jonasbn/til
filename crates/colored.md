@@ -10,7 +10,7 @@ But how would that work? - which setting wins.
 - `CLICOLOR` enabled and enforces coloring
 - `NO_COLOR` disables coloring
 
-I made a quick experiement based on the example from the `colored` documentation.
+I made a quick experiment based on the example from the `colored` documentation.
 
 ```bash
 $ mkdir colored
