@@ -16,6 +16,7 @@
   - [chrome](#chrome)
   - [CPAN](#cpan)
   - [cpanm](#cpanm)
+  - [crates](#crates)
   - [css](#css)
   - [curl](#curl)
   - [Dash.app](#dashapp)
@@ -150,7 +151,7 @@
 - [Add search shortcuts](chrome/add_search_shortcuts.md)
 
 <a id="cpan"></a>
-### CPAN
+### CPAN - Perl Packages
 
 - [Use CPAN](cpan/use_cpan.md)
 - [Data::FormValidator](cpan/data-formvalidator.md)
@@ -167,6 +168,11 @@
 - [Use cpanm with CPAN::Mini](cpanm/use_cpanm_with_cpan-mini.md)
 - [Use cpanm with carton](cpanm/use_cpanm_with_carton.md)
 - [Tailing cpanm build log file](cpanm/tailing_cpanm_build_logfile.md)
+
+<a id="crates"></a>
+### crates - Rust packages
+
+- [colored](crates/colored.md)
 
 <a id="css"></a>
 ### css
@@ -697,7 +703,7 @@ TIL snippets, this will be done when I have the time, one TIL at a time :-)
 <a id="license"></a>
 ## License
 
-&copy; 2016-2020 jonasbn
+&copy; 2016-2021 jonasbn
 
 This repository is licensed under the MIT license. See [LICENSE](LICENSE) file
 for details. Much is lifted from elsewhere and might by copyrighted under other
