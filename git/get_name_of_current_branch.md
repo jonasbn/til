@@ -8,4 +8,4 @@ $ git branch --show-current
 
 ## Resources and References
 
-1. [StackOverflow: "How to get the current branch name in Git?"]()
+1. [StackOverflow: "How to get the current branch name in Git?"](https://stackoverflow.com/questions/6245570/how-to-get-the-current-branch-name-in-git)
