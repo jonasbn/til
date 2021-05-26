@@ -4,6 +4,7 @@ This has not been _pretty_ in the past, but from Git 2.22 you can simply do:
 
 ```bash
 $ git branch --show-current
+main
 ```
 
 ## Resources and References
