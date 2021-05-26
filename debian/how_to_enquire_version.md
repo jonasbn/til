@@ -1,10 +1,10 @@
-# How to enquire Debian/Ubuntu version
+# How to enquire Ubuntu version
 
 ```bash
 $ cat /etc/issue
 Debian GNU/Linux \7 \l
 ```
 
-## References
+## Resources and References
 
-- [Debian Admin](http://www.debianadmin.com/find-your-debian-or-ubuntu-linux-version-you-are-running.html)
+1. [Debian Admin](http://www.debianadmin.com/find-your-debian-or-ubuntu-linux-version-you-are-running.html)
