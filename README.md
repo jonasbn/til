@@ -430,6 +430,7 @@
 - [Executing a function or procedure](oracle/executing_a_function_or_procedure.md)
 - [Comments in tnsnames.ora](oracle/comments_in_tnsnamesora.md)
 - [See grants for a specific user](oracle/see_grants_for_spacific_user.md)
+- [See What a Record Looked Like](oracle/see_what_a_record_looked_like.md)
 
 <a id="openssl"></a>
 ### OpenSSL
