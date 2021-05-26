@@ -1698,3 +1698,4 @@ skipKeywords
 wip
 numberOfReviewers
 numberOfAssignees
+Howtogeek
