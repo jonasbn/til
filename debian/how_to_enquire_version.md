@@ -1,4 +1,4 @@
-# How to enquire Ubuntu version
+# How to enquire Debian version
 
 ```bash
 $ cat /etc/issue
