@@ -18,6 +18,12 @@ The above list is copied from the [delta documentation][github].
 
 I `.gitconfig` has been updated to use `delta`, it can be found in my [dotfiles repository][dotfiles].
 
+If you want to show the diff the default way, you can just instruct `git` to not use a pager:
+
+```bash
+$ git --no-pager diff
+```
+
 ## Resources and References
 
 1. [GitHub: delta][github]
