@@ -295,7 +295,8 @@
 - [Find Out Who Created a Branch](git/find_out_who_created_a_branch.md)
 - [See a given file at a given commit](git/see_a_given_file_at_a_given_commit.md)
 - [Create a branch from an older commit](git/create_a_branch_from_an_older_commit.md)
-- [Get Name of Current Branch](git/get_name_of_current_branch)
+- [Get Name of Current Branch](git/get_name_of_current_branch.md)
+- [Use pre-commit](git/use_pre-commit.md)
 
 <a id="git-delta"></a>
 ## git-delta - an commandline diff tool, also known as delta
