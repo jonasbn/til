@@ -179,8 +179,8 @@ Have fun and keep committing, now in style and hopefully with fewer stupid mista
 1. [Test & Code Podcast: Episode 157][EPISODE157]
 1. [jonasbn/pre-commit-hooks][MYHOOKS]
 
-WEBSITE: https://pre-commit.com/
-HOOKS: https://pre-commit.com/hooks.html
-TESTANDCODE: https://testandcode.com/
-EPISODE157: https://testandcode.com/157
-MYHOOKS: https://github.com/jonasbn/pre-commit-hooks
+[WEBSITE]: https://pre-commit.com/
+[HOOKS]: https://pre-commit.com/hooks.html
+[TESTANDCODE]: https://testandcode.com/
+[EPISODE157]: https://testandcode.com/157
+[MYHOOKS]: https://github.com/jonasbn/pre-commit-hooks
