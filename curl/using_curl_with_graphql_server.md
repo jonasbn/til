@@ -1,11 +1,16 @@
 # Using curl with GraphQL server
 
-I have just started playing around with **GraphQL** and I really like using **httpie** for testing **REST**, testing **GraphQL** using **httpie** works out of the box.
+I have just started playing around with **GraphQL** and I just wanted to find out how you could use `curl` for testing **GraphQL** APIs.
 
 ```bash
-$ http POST http://localhost:3000/graphql query="{user(id:2){id,name,knowledge{language,frameworks}}}"
+curl 'https://countries.trevorblades.com/' \
+  -X POST \
+  -H 'content-type: application/json' \
+  --data '{ "query": "{ continents { code name } }" }'
 ```
 
-## References
+## Resources and References
 
-- [GitHub example](https://github.com/guilouro/simple-graphql-server)
+1. [Blog post by MAx Ivanov](https://www.maxivanov.io/make-graphql-requests-with-curl/)
+1. [GitHub example](https://github.com/guilouro/simple-graphql-server)
+1. [Example GraphQL APIs](https://apis.guru/graphql-apis/)
