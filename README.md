@@ -186,6 +186,7 @@
 - [Handling shell sensitive characters in URL](curl/handling_shell_sensitive_characters_in_url.md)
 - [Pipe Output to less](curl/pipe_output_to_less.md)
 - [Use a cheatsheet](curl/use_a_cheatsheet.md)
+- [Using curl with Graphql server](httpie/using_curl_with_graphql_server.md)
 
 <a id="dashapp"></a>
 ### Dash.app
