@@ -11,6 +11,6 @@ curl 'https://countries.trevorblades.com/' \
 
 ## Resources and References
 
-1. [Blog post by MAx Ivanov](https://www.maxivanov.io/make-graphql-requests-with-curl/)
+1. [Blog post by Max Ivanov](https://www.maxivanov.io/make-graphql-requests-with-curl/)
 1. [GitHub example](https://github.com/guilouro/simple-graphql-server)
 1. [Example GraphQL APIs](https://apis.guru/graphql-apis/)
