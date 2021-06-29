@@ -323,6 +323,7 @@
 <a id="grep"></a>
 ### Go
 
+- [Learn Go](go/learn_go.md)
 - [Reading benchmark results](go/reading_benchmark_results.md)
 
 <a id="grep"></a>

@@ -1,5 +1,7 @@
 # Learn Go
 
+This is my initial TIL on learning Go, it provides some basic notes and a lot of links to great Go resources to get your started, so if you are past the "Hello World" introduction, just skip to the end of not please read the through the implementation, where I will cover some basic Go details.
+
 Let's _go_
 
 You can try this out at the [Go playground][goplayground] or install the Go compiler on your local machine, I assume and prefer the latter.
@@ -129,13 +131,13 @@ func TestHelloWorld(t *testing.T) {
 
 Now lets go over the test _suite_ in this file.
 
-Line 1: defineds the same package as our `helloworld.go` (above)
+Line 1: defines the same package as our `helloworld.go` (above)
 
 Line 3: imports the package [`testing`][gopkgtesting]
 
 Line 5-10: implements a test function, just as the function I described and implemented for the main body of our program.
 
-The funtion is named `TestHelloWord` and it tahes the following arguments:
+The function is named `TestHelloWord` and it takes the following arguments:
 
 - `t`. which is a pointer of the type: `testing.T`
 
