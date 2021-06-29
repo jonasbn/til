@@ -320,11 +320,13 @@
 
 - [Use spellcheck](github_actions/use_spellcheck.md)
 
-<a id="grep"></a>
+<a id="go"></a>
 ### Go
 
 - [Learn Go](go/learn_go.md)
 - [Reading benchmark results](go/reading_benchmark_results.md)
+- [Skipping tests](go/skipping_tests.md)
+- [Colorful test output](go/colorful_test_output.md)
 
 <a id="grep"></a>
 ### grep - see also ag also known as silversurfer
