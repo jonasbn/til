@@ -196,7 +196,7 @@ I will continue my journey and added more TILs on different aspects of Go progra
 1. [Go go-to guide](https://yourbasic.org/golang/)
 1. [Official Go Website][goorg]
 
-1. [Go Developer Roadmap 2020](godevroadmap2020)
+1. [Go Developer Roadmap 2020][godevroadmap2020]
 1. [Algorithms with Go][algo]
 1. [Go Standard Packages][gostdpkg]
 
