@@ -1729,3 +1729,4 @@ uint
 gotest
 rakyll
 gnupg
+cURL
