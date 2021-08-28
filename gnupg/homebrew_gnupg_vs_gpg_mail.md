@@ -25,7 +25,7 @@ $ brew link --overwrite gnupg
 Linking /usr/local/Cellar/gnupg/2.3.2... 73 symlinks created.
 ```
 
-I am unsure of this causes any additional trouble, but I have not experienced any just yet and I have not tried out the installtion/upgrade in the opposite order.
+I am unsure of this causes any additional trouble, but I have not experienced any just yet and I have not tried out the installation/upgrade in the opposite order.
 
 ## Resources and References
 
