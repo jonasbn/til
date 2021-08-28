@@ -34,6 +34,7 @@
   - [git-delta](#git-delta)
   - [GitHub](#github)
   - [GitHub Actions](#github_actions)
+  - [GnuPG](#gnupg)
   - [Go](#go)
   - [grep](#grep)
   - [Homebrew](#homebrew)
@@ -319,6 +320,11 @@
 ### GitHub Actions - automate your GitHub work and repositories
 
 - [Use spellcheck](github_actions/use_spellcheck.md)
+
+<a id="gnupg"></a>
+### GnuPG
+
+- [Homebrew GnuPG vs. GPG Mail](gnupg/gnupg/homebrew_gnupg_vs_gpg_mail.md)
 
 <a id="go"></a>
 ### Go
