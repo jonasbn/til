@@ -15,4 +15,4 @@ $ perlbrew init
 
 ## References
 
-- [https://perlbrew.pl/][https://perlbrew.pl/]
+- [https://perlbrew.pl/](https://perlbrew.pl/)

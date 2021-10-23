@@ -251,6 +251,7 @@
 <a id="editorconfig"></a>
 ### EditorConfig
 
+- [Use EditorConfig](editorconfig/use_editorconfig.md)
 - [Enforce EditorConfig using eclint](editorconfig/enforce_editorconfig_config_using_eclint.md)
 - [Perl](editorconfig/perl.md)
 - [XML](editorconfig/xml.md)
