@@ -4,7 +4,7 @@ The concept of `.gitignore` is great.
 
 For one of my projects I needed something similar and of course there was an implementation on CPAN.
 
-I started out using [Parse::Gitignore][metacpan_pg]. Unfortunately it did not really _solve_ my problem. Luckily there was an alternative, which suited my needs better: [Text::Gitignore].
+I started out using [Parse::Gitignore][metacpan_pg]. Unfortunately it did not really _solve_ my problem. Luckily there was an alternative, which suited my needs better: [Text::Gitignore][metacpan_tg].
 
 If you want to see my implementation using it in action, check [my Yak project][yak] [implementation in Perl][perl-app-yak].
 
