@@ -1730,3 +1730,6 @@ gotest
 rakyll
 gnupg
 cURL
+doctl
+gocritic
+DigitalOcean
