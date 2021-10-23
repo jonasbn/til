@@ -18,7 +18,7 @@ In addition to following the course and using the resources mentioned above I us
 
 My process with the Katas is currently doing one at a time. I then use the above mentioned resources to get an understanding to come up with a working solution in **Rust**. I am still at the 8th. kyo (the lowest) on **Rust**, but I am having a lot of fun.
 
-Earlier I wrote up a TIL/blog post on [setting up a **Rust** development environment](rust/setting_up_a_rust_dev_env.md) ([dev.to](https://dev.to/jonasbn/til-setting-up-a-rust-development-environment-2f95)). So when I go over the Katas (or other programming assignments for that matter), I get extensive feedback from my development environment, this leads me to looking up extensively in the **Rust** [standard documentation](https://doc.rust-lang.org/std/) and my own repository of completed Katas and **Rust** examples, no matter where you get your assignments from the process is somewhat the same.
+Earlier I wrote up a TIL/blog post on [setting up a **Rust** development environment](setting_up_a_rust_dev_env.md) ([dev.to](https://dev.to/jonasbn/til-setting-up-a-rust-development-environment-2f95)). So when I go over the Katas (or other programming assignments for that matter), I get extensive feedback from my development environment, this leads me to looking up extensively in the **Rust** [standard documentation](https://doc.rust-lang.org/std/) and my own repository of completed Katas and **Rust** examples, no matter where you get your assignments from the process is somewhat the same.
 
 When I occassionally run into a challenge, which is taking too much time or it requires additional _thinking_/_showering_/_sleeping_, I skip to another and then return _wiser_ and more _experienced_ in **Rust**.
 

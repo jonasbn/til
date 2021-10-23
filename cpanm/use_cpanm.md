@@ -8,7 +8,7 @@ $ cpan App::cpanminus
 
 If you want to keep a clean install, consider using **local::lib**
 
-If you are [using perlbrew](perlbrew/use_perlbrew.md) you get cpanm installed with `perlbrew`.
+If you are [using perlbrew](../perlbrew/install_perlbrew.md) you get cpanm installed with `perlbrew`.
 
 The author of App::cpanminus, Miyagawa, also made [an introduction video](http://weblog.bulknews.net/post/44086130029/introducing-cpanm-1-6-by-miyagawa).
 
