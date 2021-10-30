@@ -1733,3 +1733,5 @@ cURL
 doctl
 gocritic
 DigitalOcean
+entr
+manpage

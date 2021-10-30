@@ -257,6 +257,11 @@
 - [XML](editorconfig/xml.md)
 - [Markdown](editorconfig/markdown.md)
 
+<a id="entr"></a>
+### entr - run arbitrary commands when files change
+
+- [Run arbitrary commands when files change using entry](entr/run_arbitrary_commands_when_files_change_using_entr.md)
+
 <a id="exa"></a>
 ### exa - an alternative to the ls command
 
@@ -583,6 +588,7 @@
 
 - [Counting NULL and non-NULL values in a single query](sql/counting_null_and_non_null_values_in_a_single_query.md)
 - [How to group by month in a year](sql/how_to_group_by_month_in_a_year.md)
+- [How to query data where you are unsure of the casing](sql/how_to_query_data_where_you_are_unsure_of_the_casing.md)
 
 <a id="sql-developer"></a>
 ### SQL Developer
