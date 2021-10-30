@@ -50,4 +50,4 @@ An alternative is `z`, check [my til on `z`](http://jonasbn.github.io/til/bash/u
 
 - [GitHub: Bashmarks][github]
 
-github: https://github.com/huyng/bashmarks
+[github]: https://github.com/huyng/bashmarks

@@ -2,7 +2,7 @@
 
 You can implement your own bash completions for commands you use a lot to save on typing.
 
-An example `ackrc` based on [my TIL](https://github.com/jonasbn/til/blob/master/ack/define_a_custom_search_filetype_scope.md)
+An example `ackrc` based on [my TIL](../ack/define_a_custom_search_filetype_scope.md)
 
 This completion script, reads your `$HOME/.ackrc` files and offers tab completions for your custom types.
 
@@ -11,7 +11,7 @@ $ ack <tab>
 --yourcustomtype
 ```
 
-An example `ackrc` based on [my TIL](https://github.com/jonasbn/til/blob/master/ack/define_a_custom_search_filetype_scope.md)
+An example `ackrc` based on [my TIL](../ack/define_a_custom_search_filetype_scope.md)
 
 ```
 --type-set=mojo=.css,.pl,.pm,.html,.js,.tt,.ep,.conf
