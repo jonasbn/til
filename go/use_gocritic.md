@@ -46,5 +46,6 @@ This is a very basic and caricatured example, but you get the picture.
 
 1. [GitHub: go-critic](https://github.com/go-critic/go-critic)
 1. [go-critic.com][gocritic.com]
+1. [Go documentation on "Add dependencies to current module and install them"](https://pkg.go.dev/cmd/go#hdr-Add_dependencies_to_current_module_and_install_them)
 
 [gocritic.com]: https://go-critic.com/
