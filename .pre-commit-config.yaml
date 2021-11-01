@@ -6,10 +6,10 @@ repos:
         name: Checking YAML
     -   id: trailing-whitespace
 -   repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.27.1
+    rev: v0.29.0
     hooks:
     -   id: markdownlint
 -   repo: https://github.com/jonasbn/pre-commit-hooks
-    rev: v0.4.0
+    rev: v0.6.0
     hooks:
     -   id: spellcheck
