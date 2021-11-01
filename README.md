@@ -687,6 +687,7 @@
 - [Configure Git](wsl/configure_git.md)
 - [Develop in Visual Studio Code](wsl/develop_in_vscode.md)
 - [Up and Downgrade WSL](wsl/up_and_downgrade_wsl.md)
+- [bashrc not being sourced](wsl/bashrc_not_being_sourced.md)
 
 <a id="wtf-util"></a>
 ### wtf util
