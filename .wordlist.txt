@@ -1735,3 +1735,5 @@ gocritic
 DigitalOcean
 entr
 manpage
+Hiho
+Hullo
