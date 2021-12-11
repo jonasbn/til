@@ -461,7 +461,16 @@ Perl.xs:225:39: note: in expansion of macro ‘SvPV’
 make: *** [Makefile:330: Perl.o] Error 1
 ```
 
+Fortunately the [Perl FAQ][perlfaq] proposes a solution, so we can rely on `cpan`, `perl` and `cpanm`
+
+```bash
+cpan -l | perl -p -e 's/^([\w:]+)\W+.*/$1/' | xargs cpanm
+```
+
 ## Resources and References
 
 1. [Twitter: @chromatic](https://twitter.com/chromatic_x/status/1131285517511692288)
 1. [MetaCPAN: perlbrew documentation](https://metacpan.org/pod/distribution/App-perlbrew/script/perlbrew#COMMAND:-CLONE-MODULES)
+1. [Perlfaq 3: "How do I find which modules are installed on my system?"][perlfaq]
+
+[perlfaq]: https://perldoc.perl.org/perlfaq3#How-do-I-find-which-modules-are-installed-on-my-system%3f

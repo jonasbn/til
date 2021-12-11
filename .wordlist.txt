@@ -1737,3 +1737,5 @@ entr
 manpage
 Hiho
 Hullo
+IonFreshStart
+Perlfaq
