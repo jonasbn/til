@@ -206,6 +206,7 @@
 - [Add user to sudoers group](debian/add_user_to_sudoers.md)
 - [Resolve conflicting values in Debian package](debian/resolve_conflicting_values_in_package.md)
 - [Install unauthenticated package](debian/install_unauthenticated_package.md)
+- [Translate release names](debian/translate_release_names.md)
 
 <a id="diff-so-fancy"></a>
 ### diff-so-fancy
