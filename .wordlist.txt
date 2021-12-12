@@ -1739,3 +1739,5 @@ Hiho
 Hullo
 IonFreshStart
 Perlfaq
+ProhibitInterpolationOfLiterals
+ValuesAndExpressions
