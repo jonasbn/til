@@ -71,4 +71,6 @@ The `dependabot.yml` file should be saved in the `.github/` directory, please co
 
 ## Resources and References
 
-- [GitHub Documentation: dependabot](https://help.github.com/en/github/administering-a-repository/keeping-your-dependencies-updated-automatically)
+- [GitHub Documentation: Dependabot](https://help.github.com/en/github/administering-a-repository/keeping-your-dependencies-updated-automatically)
+- [GitHub Documentation: Dependabot alerts for vulnerable dependencies](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/about-alerts-for-vulnerable-dependencies)
+- [GitHub Documentation: Automating Dependabot with GitHub Actions](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/automating-dependabot-with-github-actions#enable-auto-merge-on-a-pull-request)
