@@ -68,6 +68,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [sed](#sed)
+  - [Slack](#slack)
   - [smartcd](#smartcd)
   - [Sublime Text 3](#sublime-text-3)
   - [Subversion](#subversion)
@@ -328,6 +329,8 @@
 ### GitHub Actions - automate your GitHub work and repositories
 
 - [Use spellcheck](github_actions/use_spellcheck.md)
+- [Use macOS](github_actions/use_macos.md)
+- [Use EditorConfig](github_actions/use_editorconfig.md)
 
 <a id="gnupg"></a>
 ### GnuPG
@@ -565,12 +568,17 @@
 - [Remove comments](sed/remove_comments.md)
 - [Chaining actions](sed/chaining_actions.md)
 
+<a id="slack"></a>
+### Slack
+
+- [Mark all as read](slack/mark_all_as_read.md)
+
 <a id="smartcd"></a>
 ### smartcd
 
 - [Install smartcd](smartcd/install_smartcd.md)
 - [Use smartcd with tabs](smartcd/use_with_tabs.md)
-- [Silence smartcd](smartcd/slience_smartcd.md)
+- [Silence smartcd](smartcd/silence_smartcd.md)
 
 <a id="sublime-text-3"></a>
 ### Sublime Text 3 - see also VSCode
