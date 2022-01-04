@@ -11,7 +11,7 @@ It lets you control aspect of file types such as:
 - Indentation style (`indent_style`)
 - Indentation size (`indent_size`)
 
- :point_right: Do note that all implementations might not support [all properties](https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties).
+ :point_right: Do note that all implementations might not support [all properties][properties].
 
 The properties can be specified for file types:
 
@@ -40,13 +40,20 @@ root = true
 
 And you can then add the global definition (`.editorconfig`) to your `$HOME` directory.
 
-It integrates with most Editors like **Visual Studio Code**, **Sublime Text**, **Atom** or **Vim**, check the list on the [EditorConfig site](https://editorconfig.org/).
+It integrates with most editors like **Visual Studio Code**, **Sublime Text**, **Atom** or **Vim**, check the list on the [EditorConfig site][editorconfig].
 
 Do note that the rule of thumb is not to change everything, but just the new adjustments, when you change or add a property, because this could cause misleading file _diffs_ and hence commits.
 
-If you want to change everything according to your **EditorConfig** property settings, check out eclint` (Editor Config Linter), see [my TIL on eclint](enforce_editorconfig_config_using_eclint.md).
+If you want to change everything according to your **EditorConfig** property settings, check out `eclint` (Editor Config Linter), see [my TIL on eclint](enforce_editorconfig_config_using_eclint.md). Do note `eclint` is no longer actively maintained so alternatives like `ec` (**editorconfig-checker**).
+
+You can also enable use of **EditorConfig** for GitHub Actions, see [my TIL on EditorConfig GitHub Action](../github_actions/use_editorconfig.md)
 
 ## References
 
-- [EditorConfig.org](https://editorconfig.org/)
+- [EditorConfig.org][editorconfig]
+- [EditorConfig Properties][properties]
 - [eclint GitHub repository](https://github.com/jedmao/eclint)
+- [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker)
+
+[editorconfig]: https://editorconfig.org/
+[properties]: https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
