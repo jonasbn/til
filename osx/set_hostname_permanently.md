@@ -24,7 +24,7 @@ scutil --set LocalHostName hal9000
 
 > 4. If you also want to change the computer name, type the following command:
 > This is the user-friendly computer name you see in Finder, for example myMac.
-> 
+>
 > sudo scutil --set ComputerName <new name>
 
 ```bash
