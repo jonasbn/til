@@ -1,4 +1,4 @@
-# Jump Around
+# Jumping Around Using z
 
 Navigating a large file system can be cumbersome and often you go to the same directories, so you need `z`
 
