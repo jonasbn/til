@@ -721,6 +721,11 @@
 
 - [Jumping Around Using z](z/jump_around.md)
 
+<a id="zsh"></a>
+### zsh - another shell than bash
+
+- [Use zsh](zsh/use_zsh.md)
+
 <a id="about"></a>
 ## About
 
