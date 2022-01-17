@@ -192,15 +192,16 @@ I will continue my journey and added more TILs on different aspects of Go progra
 1. [A tour of Go][gotour]
 1. [How to write Go code](https://golang.org/doc/code.html)
 1. [Learn Go with Tests][gotdd]
+1. [Go by Example][goexample]
 1. [Effective Go][gohowto]
 1. [Go go-to guide](https://yourbasic.org/golang/)
 1. [Official Go Website][goorg]
 
 1. [Go Developer Roadmap 2020][godevroadmap2020]
-1. [Algorithms with Go][algo]
-1. [Go Standard Packages][gostdpkg]
+7. [Algorithms with Go][algo]
+8. [Go Standard Packages][gostdpkg]
 
-1. [StackOverflow: "Go: Meaning of the 'fmt' package acronym"](https://stackoverflow.com/questions/23597165/go-meaning-of-the-fmt-package-acronym)
+9. [StackOverflow: "Go: Meaning of the 'fmt' package acronym"](https://stackoverflow.com/questions/23597165/go-meaning-of-the-fmt-package-acronym)
 
 [goorg]: https://golang.org/
 [gotour]: https://tour.golang.org/welcome/1
@@ -216,3 +217,4 @@ I will continue my journey and added more TILs on different aspects of Go progra
 [tdd]: https://en.wikipedia.org/wiki/Test-driven_development
 [gopkgfmt]: https://golang.org/pkg/fmt/
 [gopkgtesting]: https://golang.org/pkg/testing/
+[goexample]: https://gobyexample.com/
