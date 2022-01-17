@@ -1751,3 +1751,6 @@ LocalHostName
 ComputerName
 DNS
 flushcache
+dscacheutil
+frecent
+regexes
