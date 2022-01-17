@@ -1746,3 +1746,8 @@ rjbs
 RJBS
 kb
 zsh
+myMac
+LocalHostName
+ComputerName
+DNS
+flushcache

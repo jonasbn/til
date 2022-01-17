@@ -39,7 +39,7 @@ scutil --set ComputerName hal9000
 
 Done
 
-## Resources and sReferences
+## Resources and References
 
 - [StackExchange](https://apple.stackexchange.com/questions/287760/set-the-hostname-computer-name-for-macos)
 - [OSXDaily: Youtube](https://www.youtube.com/watch?v=j7BhXkKbfe0)
