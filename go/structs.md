@@ -17,7 +17,7 @@ You can initialize it easily like so:
 fmt.Println(person{"Bob", 20})
 ```
 
-If you however change your struct or reorder the fields, for example to be alhabetical:
+If you however change your struct or reorder the fields, for example to be alphabetical:
 
 ```go
 type person struct {
@@ -26,15 +26,15 @@ type person struct {
 }
 ```
 
-The shortform for initialization will render unexpected results.
+The short-form for initialization will render unexpected results.
 
-So it is recommended to use longform:
+So it is recommended to use long-form:
 
 ```go
 fmt.Println(person{name: "Alice", age: 30})
 ```
 
-This does not get influence by reordering the fields or the addition of new fiels, the latter since non-specified fields will simply be set to the defaults:
+This does not get influence by reordering the fields or the addition of new fields, the latter since non-specified fields will simply be set to the defaults:
 
 - `0` for numbers, meaning `0` for integers and `0.000000` for floats
 - empty string (`""`) for strings
@@ -44,7 +44,7 @@ This does not get influence by reordering the fields or the addition of new fiel
 type person struct {
     age  int
     name string
-    gender string
+    height float32
 }
 ```
 
