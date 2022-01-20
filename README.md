@@ -92,6 +92,7 @@
   - [wtf util](#wtf-util)
   - [XML](#xml)
   - [YAML](#yaml)
+  - [z](#z)
 - [About](#about)
 - [Additional TIL Collections](#additional-til-collections)
 - [License](#license)
@@ -714,6 +715,16 @@
 ### YAML - see also XML and JSON
 
 - [How to syntax check a YAML file](yaml/howto_syntax_check_a_yaml_file.md)
+
+<a id="z"></a>
+### z - for jumping around in the commandline
+
+- [Jumping Around Using z](z/jump_around.md)
+
+<a id="zsh"></a>
+### zsh - another shell than bash
+
+- [Use zsh](zsh/use_zsh.md)
 
 <a id="about"></a>
 ## About

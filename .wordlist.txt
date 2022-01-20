@@ -1746,3 +1746,14 @@ rjbs
 RJBS
 kb
 zsh
+myMac
+LocalHostName
+ComputerName
+DNS
+flushcache
+dscacheutil
+frecent
+regexes
+structs
+struct
+booleans
