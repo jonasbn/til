@@ -1757,3 +1757,6 @@ regexes
 structs
 struct
 booleans
+denvercoder
+enablement
+Brewfile
