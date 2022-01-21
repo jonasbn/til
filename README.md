@@ -41,6 +41,7 @@
     - [Go](#go)
     - [grep - see also ag also known as silversurfer](#grep---see-also-ag-also-known-as-silversurfer)
     - [Homebrew](#homebrew)
+    - [HTML](#html)
     - [httpie - an alternative to jq and curl](#httpie---an-alternative-to-jq-and-curl)
     - [irssi - for all your IRC needs](#irssi---for-all-your-irc-needs)
     - [iTerm.app - an alternative to Terminal.app](#itermapp---an-alternative-to-terminalapp)
@@ -66,6 +67,7 @@
     - [Probot](#probot)
     - [Prolog](#prolog)
     - [Python](#python)
+    - [qalc - an easy to use command line calculator](#qalc---an-easy-to-use-command-line-calculator)
     - [REST](#rest)
     - [rm](#rm)
     - [Ruby](#ruby)
@@ -194,6 +196,7 @@
 - [Pipe output to less](curl/pipe_output_to_less.md)
 - [Use a cheatsheet](curl/use_a_cheatsheet.md)
 - [Using curl with Graphql server](curl/using_curl_with_graphql_server.md)
+- [Specify method](curl/specify_method.md)
 
 <a id="dashapp"></a>
 ### Dash.app
@@ -237,6 +240,7 @@
 - [Use docker-compose-wait](docker/use_docker-compose-wait.md)
 - [Silence Warnings from Postgres](docker/silence_warnings_from_postgres.md)
 - [Debugging a b0rken Docker build step](docker/debugging_a_broken_docker_build_step.md)
+- [exec error](docker/exec_error.md)
 
 <a id="dockerhub"></a>
 ### DockerHub
@@ -361,6 +365,15 @@
 - [Stop brew from calling home](homebrew/stop_brew_from_calling_home.md)
 - [Cleaning your homebrew cellar](homebrew/clean.md)
 - [Installing bash](homebrew/installing_bash.md)
+- [Migrate installation](homebrew/migrate_installation.md)
+
+<a id="html"></a>
+
+### HTML
+
+- [Add and Remove classes using JavaScript](html/add_and_remove_classes_using_javascript.md)
+- [Execute JavaScript from a button](html/execute_javascript_from_button.md)
+- [How Can I Get HTML value using JavaScript](html/how_can_i_get_html_value_using_js.md)
 
 <a id="httpie"></a>
 ### httpie - an alternative to jq and curl
@@ -537,6 +550,12 @@
 ### Python
 
 - [Old-school string formatting](python/old-school_string_formatting.md)
+- [What is wheel](python/what_is_wheel.md)
+  
+<a id="qalc"></a>
+### qalc - an easy to use command line calculator
+
+- [Calculate Download Time](qalc/calculate_download_time.md)
 
 <a id="rest"></a>
 ### REST
@@ -564,6 +583,8 @@
 - [Get a Cheatsheet](rust/get_a_cheatsheet.md)
 - [Installing Dependencies](rust/installing_dependencies.md)
 - [Learn Rust](rust/learn_rust.md)
+- [Formatting code](rust/formatting_code.md)
+- [Declaring a constant](rust/declaring_a_constant.md)
 
 <a id="sed"></a>
 ### sed
@@ -660,6 +681,7 @@
 <a id="tmux"></a>
 ### tmux - an alternative to screen
 
+- [Use tmux](tmux/use_tmux.md)
 - [Install tmux](tmux/install_tmux.md)
 - [Standard Layouts](tmux/standard_layouts.md)
 - [Use tmux Resurrect](tmux/use_tmux_resurrect.md)
