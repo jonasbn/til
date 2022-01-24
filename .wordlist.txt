@@ -1832,4 +1832,4 @@ startupMessage
 executables
 Precompiled
 goreleaser
-Goreleaser
+GoReleaser
