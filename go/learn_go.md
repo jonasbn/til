@@ -196,12 +196,13 @@ I will continue my journey and added more TILs on different aspects of Go progra
 1. [Effective Go][gohowto]
 1. [Go go-to guide](https://yourbasic.org/golang/)
 1. [Official Go Website][goorg]
+1. [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 
 1. [Go Developer Roadmap 2020][godevroadmap2020]
-7. [Algorithms with Go][algo]
-8. [Go Standard Packages][gostdpkg]
+1. [Algorithms with Go][algo]
+1. [Go Standard Packages][gostdpkg]
 
-9. [StackOverflow: "Go: Meaning of the 'fmt' package acronym"](https://stackoverflow.com/questions/23597165/go-meaning-of-the-fmt-package-acronym)
+1. [StackOverflow: "Go: Meaning of the 'fmt' package acronym"](https://stackoverflow.com/questions/23597165/go-meaning-of-the-fmt-package-acronym)
 
 [goorg]: https://golang.org/
 [gotour]: https://tour.golang.org/welcome/1
