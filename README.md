@@ -359,6 +359,7 @@
 - [Colorful test output](go/colorful_test_output.md)
 - [How to sleep](go/how_to_sleep.md)
 - [Test Main Function](go/test_main_function.md)
+- [Get to know the standard library](go/get_to_know_the_standard_library.md)
 
 <a id="grep"></a>
 ### grep - see also ag also known as silversurfer
