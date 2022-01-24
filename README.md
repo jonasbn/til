@@ -358,6 +358,7 @@
 - [Skipping tests](go/skipping_tests.md)
 - [Colorful test output](go/colorful_test_output.md)
 - [How to sleep](go/how_to_sleep.md)
+- [Test Main Function](go/test_main_function.md)
 
 <a id="grep"></a>
 ### grep - see also ag also known as silversurfer
