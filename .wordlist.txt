@@ -1793,3 +1793,10 @@ rbc
 InstalledFiles
 cheatset
 Yehuda
+dotfile
+snapcraft
+chezmoi
+silverrocket
+Tahr
+Xenial
+Xerus
