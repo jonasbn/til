@@ -2,7 +2,7 @@
 
 When you are a consumer of base images from DockerHub, do yourself the favor of using the long names.
 
-In your `Dockerfile` if you just specify the shortname:
+In your `Dockerfile` if you just specify the short name:
 
 ```Dockerfile
 FROM perl:5.34.0
@@ -10,7 +10,7 @@ FROM perl:5.34.0
 
 REF: [GitHub: jonasbn/ebirah](https://github.com/jonasbn/ebirah/blob/master/Dockerfile)
 
-You cannot see what base image, this is based on, so when you can to investigte potential security issues etc. you first have to find out what operating system and version you are based on.
+You cannot see what base image, this is based on, so when you can to investigate potential security issues etc. you first have to find out what operating system and version you are based on.
 
 `perl:5.34.0` is the equivalent of: `5.34.0-bullseye`
 

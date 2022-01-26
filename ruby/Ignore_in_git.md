@@ -1,6 +1,6 @@
 # Ignore in Git
 
-If you like me do not work with Ruby on a daily basis it can be hard to remember what is recommende to go under version control and what is not.
+If you like me do not work with Ruby on a daily basis it can be hard to remember what is recommended to go under version control and what is not.
 
 This is the canonical `gitignore` used by GitHub when setting up a new repository:
 
