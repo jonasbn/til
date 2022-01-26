@@ -12,3 +12,4 @@ I use the `Gemfile.lock` file for: `snyk` security code audit, meaning I monitor
 ## Resources and References
 
 - [Bundler.io: "How to manage application dependencies with Bundler"](https://bundler.io/v2.2/guides/using_bundler_in_applications.html)
+- [Blog post by Yehuda Katz: "Clarifying the Roles of the .gemspec and Gemfile"](https://yehudakatz.com/2010/12/16/clarifying-the-roles-of-the-gemspec-and-gemfile/)
