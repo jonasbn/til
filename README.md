@@ -246,6 +246,7 @@
 ### DockerHub
 
 - [Publish an image to DockerHub](dockerhub/publish_an_image_to_dockerhub.md)
+- [Use Long Names for Your Base Images](dockerhub/use_long_names_for_your_base_images.md)
 
 <a id="dropbox"></a>
 ### Dropbox
@@ -551,7 +552,7 @@
 
 - [Old-school string formatting](python/old-school_string_formatting.md)
 - [What is wheel](python/what_is_wheel.md)
-  
+
 <a id="qalc"></a>
 ### qalc - an easy to use command line calculator
 
