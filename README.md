@@ -34,7 +34,7 @@
     - [exa - an alternative to the ls command](#exa---an-alternative-to-the-ls-command)
     - [FileMerge.app](#filemergeapp)
     - [Git](#git)
-  - [git-delta - an commandline diff tool, also known as delta](#git-delta---an-commandline-diff-tool-also-known-as-delta)
+    - [git-delta - an commandline diff tool, also known as delta](#git-delta---an-commandline-diff-tool-also-known-as-delta)
     - [GitHub](#github)
     - [GitHub Actions - automate your GitHub work and repositories](#github-actions---automate-your-github-work-and-repositories)
     - [GnuPG](#gnupg)
@@ -318,7 +318,7 @@
 - [Use pre-commit](git/use_pre-commit.md)
 
 <a id="git-delta"></a>
-## git-delta - an commandline diff tool, also known as delta
+### git-delta - an commandline diff tool, also known as delta
 
 - [Use git-delta](git-delta/use_git-delta.md)
 
