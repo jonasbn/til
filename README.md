@@ -334,6 +334,7 @@
 - [GitHub Action Badges](github/action_badges.md)
 - [Use dependabot](github/use_dependabot.md)
 - [Providing Suggestions in Reviews](github/providing_suggestions_in_reviews.md)
+- [Use CLI](github/use_cli.md)
 
 <a id="github_actions"></a>
 ### GitHub Actions - automate your GitHub work and repositories
