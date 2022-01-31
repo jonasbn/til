@@ -558,6 +558,7 @@
 ### qalc - an easy to use command line calculator
 
 - [Calculate Download Time](qalc/calculate_download_time.md)
+- [Eliminate Locale Warnings](qalc/eliminate_locale_warnings.md)
 
 <a id="rest"></a>
 ### REST
