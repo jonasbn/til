@@ -1,12 +1,34 @@
 # Use CLI
 
-GitHub has release [an official command line tool](https://cli.github.com/) _in beta_, limited in functionality is looks promising.
+For easy abd fast GitHub interaction use the official GitHub command line tool `[gh](https://cli.github.com/)`.
 
-Is does however not replace `hub` yet.
+`gh` lets you do about everything you can do in the UI at least for the day to day work.
 
-Unfortunately the GitHub CLI client `gh` clashes with [the Ruby tool](https://rubygems.org/gems/gh) of the same name.
+I can also be extended using [_extensions_][GHEXTLIST]
+
+Install an extension:
+
+```bash
+gh extension install dlvhdr/gh-prs
+```
+
+You can list your installed extensions:
+
+```bash
+$ gh extension list
+gh prs  dlvhdr/gh-prs
+```
+
+And then you can use the extension:
+
+```bash
+gh prs
+```
 
 ## Installation documentation
 
-- [Installing on Linux](https://github.com/cli/cli/blob/trunk/docs/install_linux.md)
+- [GitHub CLI manual](https://cli.github.com/manual/)
 - [GitHub repository](https://github.com/cli/cli)
+- [GitHub CLI extensions listing][GHEXTLIST]
+
+[GHEXTLIST]: https://github.com/topics/gh-extension
