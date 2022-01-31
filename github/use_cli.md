@@ -1,6 +1,6 @@
 # Use CLI
 
-For easy abd fast GitHub interaction use the official GitHub command line tool `[gh](https://cli.github.com/)`.
+For easy and fast GitHub interaction use the official GitHub command line tool `[gh](https://cli.github.com/)`.
 
 `gh` lets you do about everything you can do in the UI at least for the day to day work.
 
