@@ -710,6 +710,7 @@
 - [Use Markdownlint](vscode/use_markdownlint.md)
 - [Todo Tree Extension](vscode/todo_tree_extension.md)
 - [Issue with integrated terminal on macOS](vscode/issue_with_integrated_terminal_on_macos.md)
+- [Themes](vscode/themes.md)
 
 <a id="vmware-fusion"></a>
 ### VMware Fusion
