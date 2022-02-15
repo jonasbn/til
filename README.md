@@ -40,6 +40,7 @@
     - [GnuPG](#gnupg)
     - [Go](#go)
     - [grep - see also ag also known as silversurfer](#grep---see-also-ag-also-known-as-silversurfer)
+    - [Hacking](#hacking)
     - [Homebrew](#homebrew)
     - [HTML](#html)
     - [httpie - an alternative to jq and curl](#httpie---an-alternative-to-jq-and-curl)
@@ -362,6 +363,11 @@
 ### grep - see also ag also known as silversurfer
 
 - [Add colour to grep output](grep/add_colour_to_grep.md)
+
+<a id="hacking"></a>
+### Hacking
+
+- [Change password on Window 7 Using Kali Linux](hacking/change_password_on_window7_using_kali.md)
 
 <a id="homebrew"></a>
 ### Homebrew
