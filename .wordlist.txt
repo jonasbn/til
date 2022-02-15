@@ -1813,3 +1813,4 @@ oldArgs
 testcases
 punyencode
 punycode
+punydecode
