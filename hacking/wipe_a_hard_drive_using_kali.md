@@ -23,6 +23,6 @@ Alternatively you can [do it from Windows][microsoft], but doing from **Kali Lin
 
 1. [Computerhope: shred](https://www.computerhope.com/unix/shred.htm)
 1. [Howtoforge: How to Securely Destroy/Wipe Data on Hard Drives with shred on Linux](https://www.howtoforge.com/how-to-securely-destroy-wipe-data-on-hard-drives-with-shred)
-2. [Microsoft: how can i wipe out a hard drive in windows 7?][microsoft]
+1. [Microsoft: how can i wipe out a hard drive in windows 7?][microsoft]
 
 [microsoft]: https://answers.microsoft.com/en-us/windows/forum/all/how-can-i-wipe-out-a-hard-drive-in-windows-7/d52af648-92c5-4ceb-873b-542e7d6bf02d
