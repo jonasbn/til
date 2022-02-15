@@ -1800,3 +1800,7 @@ silverrocket
 Tahr
 Xenial
 Xerus
+Howtoforge
+Computerhope
+chntpw
+samdump

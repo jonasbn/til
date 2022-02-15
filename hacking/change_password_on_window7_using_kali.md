@@ -4,13 +4,13 @@ Over time my family has accumulated a heap of old computers, so in order to clea
 
 I found out that a **Kali Linux** live USB is a great tool.
 
-I followed [this guide][GUIDE], it is however a tad _crappy_ since it is drowning in ads and the original blog post refererenced is _gone_.
+I followed [this guide][GUIDE], it is however a tad _crappy_ since it is drowning in ads and the original blog post referenced is _gone_.
 
 Here follows my write-up with own notes.
 
 Boot with the **Kali Linux** USB, open a terminal/console.
 
-Mount the Window harddrive.
+Mount the Window hard drive.
 
 ```zsh
 mount /dev/sda3 /mnt
@@ -24,7 +24,7 @@ Then go to the `config/` directory:
 cd /mnt/Windows//System32/config/
 ```
 
-You can list the entries in the PAM file, using the tool [`chntpw`][chntpw]. [`samdump2`][samdump2] is another intereting tool for inspecting SAM files.
+You can list the entries in the PAM file, using the tool [`chntpw`][chntpw]. [`samdump2`][samdump2] is another interesting tool for inspecting SAM files.
 
 ```
 chntpw -l SAM

@@ -368,6 +368,7 @@
 ### Hacking
 
 - [Change password on Window 7 Using Kali Linux](hacking/change_password_on_window7_using_kali.md)
+- [Wipe a Hard Drive Using Kali Linux](hacking/wipe_a_hard_drive_using_kali.md)
 
 <a id="homebrew"></a>
 ### Homebrew
