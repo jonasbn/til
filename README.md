@@ -50,6 +50,7 @@
     - [Jira](#jira)
     - [jq - see also httpie](#jq---see-also-httpie)
     - [JSON - see also XML and YAML](#json---see-also-xml-and-yaml)
+    - [Kali](#kali)
     - [Liquid Prompt - see also Starship](#liquid-prompt---see-also-starship)
     - [Mail.app](#mailapp)
     - [Markdown](#markdown)
@@ -423,6 +424,11 @@
 
 - [Beware of eval](json/beware_of_eval.md)
 - [Check out JSON Schema](json/check_out_json_schema.md)
+
+<a id="kali"></a>
+### Kali
+
+- [Set Keyboard Layout](kali/set_keyboard_layout.md)
 
 <a id="liquid-prompt"></a>
 ### Liquid Prompt - see also Starship
