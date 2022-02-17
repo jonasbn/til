@@ -35,6 +35,8 @@ sequenceDiagram
     local repo-->>$HOME: exit
 ```
 
+When fetching the version from **chezmoi** I found out it was also **Mermaid** well I just needed a reference diagram for my experiment.
+
 But I ran into another problem. **Mermaid** is supported for Markdown on GitHub, which is marvelous, but it does not seem to be supported for pages, you can compare, these two versions:
 
 - [GitHub][TIL]
