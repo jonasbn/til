@@ -56,6 +56,7 @@
     - [Mail.app](#mailapp)
     - [Markdown](#markdown)
     - [markdownlint](#markdownlint)
+    - [Mermaid](#mermaid)
     - [Mojolicious](#mojolicious)
     - [MySQL](#mysql)
     - [Oracle](#oracle)
@@ -463,6 +464,11 @@
 ### markdownlint
 
 - [Issue with enabledrules](markdownlint/issue_with_enabledrules.md)
+
+<a id="mermaid"></a>
+### Mermaid
+
+- [Diagram with Mermaid](mermaid/diagram_with_mermaid.md)
 
 <a id="mojolicious"></a>
 ### Mojolicious

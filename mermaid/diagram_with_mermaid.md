@@ -1,6 +1,6 @@
 # Diagram With Mermaid
 
-**Mermaid** is a JavaScript utility to create beautiful diagrams from text. I have read about it before, but it had been parked on the _check out - eventually_ list. 
+**Mermaid** is a JavaScript utility to create beautiful diagrams from text. I have read about it before, but it had been parked on the _check out - eventually_ list.
 
 On February 14th. GitHub [announced][ANNOUNCE] support for **Mermaid** in GitHub Markdown. I decided to check it out right away, so I went to the **Mermaid** [website][WEBSITE], I found the [online editor][EDITOR]- which is truly _awesome_ and started thinking about what to diagram.
 
