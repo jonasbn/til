@@ -7,7 +7,7 @@ Power tip by @rjbs via Twitter: `<shift>`-`<esc>`
 Thanks @RJBS
 
 - Do note it is per Slack, so you might have to repeat
-- It will warn, but use with caution in the begining, because you could loose track of things
+- It will warn, but use with caution in the beginning, because you could loose track of things
 
 ## Resource and References
 
