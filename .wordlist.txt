@@ -1823,3 +1823,9 @@ stdin
 prepend
 snyk
 Etcovitch
+rebase
+issuecomment
+oalders
+Multiline
+multiline
+startupMessage
