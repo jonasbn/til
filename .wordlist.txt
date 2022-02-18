@@ -1814,3 +1814,9 @@ testcases
 punyencode
 punycode
 punydecode
+STDIN
+NewScanner
+Stdin
+bufio
+argsWithoutProg
+stdin
