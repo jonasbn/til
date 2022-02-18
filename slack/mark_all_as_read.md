@@ -9,6 +9,6 @@ Thanks @RJBS
 - Do note it is per Slack, so you might have to repeat
 - It will warn, but use with caution in the beginning, because you could loose track of things
 
-## Resource and References
+## Resources and References
 
 1. [@rjbs on Twitter](https://twitter.com/rjbs/status/1361685633014640645?s=20)
