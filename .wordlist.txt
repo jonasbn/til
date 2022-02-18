@@ -1821,3 +1821,4 @@ bufio
 argsWithoutProg
 stdin
 prepend
+snyk
