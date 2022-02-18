@@ -553,7 +553,7 @@
 
 - [Setting the prompt](postgresql/setting_the_prompt.md)
 
-<a id="programming">
+<a id="programming"></a>
 ### Programming
 
 - [Round float to 2 decimals](programming/round_float_to_2_decimals.md)
