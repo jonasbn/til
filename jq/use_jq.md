@@ -31,7 +31,7 @@ Source used in example: `http://jsonplaceholder.typicode.com/`
 
 You can with luck install `jq` via [Homebrew](http://brew.sh/).
 
-`jq` however can do so much more, one of my colleagues requested a list of all of the postal codes in Denmark, these are availble in a quite extensive data structure, but since we just needed the postal code, we needed to parse the data - `jq` to the rescue - inspired by this [blog post][JGALVAN] by Jesus Galvan, I knew I could get `jq` to do what I needed.
+`jq` however can do so much more, one of my colleagues requested a list of all of the postal codes in Denmark, these are available in a quite extensive data structure, but since we just needed the postal code, we needed to parse the data - `jq` to the rescue - inspired by this [blog post][JGALVAN] by Jesus Galvan, I knew I could get `jq` to do what I needed.
 
 Example snippet of data structure:
 

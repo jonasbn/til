@@ -1833,3 +1833,4 @@ executables
 Precompiled
 goreleaser
 GoReleaser
+Galvan
