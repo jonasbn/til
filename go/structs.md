@@ -75,6 +75,33 @@ zsh> ./default
 height of ><: >0.000000< aged >0< and parent: >false<
 ```
 
+Making structs pretty for printingg is easy:
+
+```
+package main
+
+import "fmt"
+
+type User struct {
+    FirstName string
+    LastName  string
+}
+
+func (u User) String() string {
+    return fmt.Sprintf("First name: %s\nLast name: %s\n", u.FirstName, u.LastName)
+}
+
+func main() {
+    me := User{
+        FirstName: "Jonas",
+        LastName:  "Brømsø",
+    }
+    fmt.Printf("%s\n", me)
+}
+```
+
+The suggestion for the String interface came from the good people from the Gopher Slack.
+
 ## Resources and References
 
 1. [Go By Example: structs](https://gobyexample.com/structs)
