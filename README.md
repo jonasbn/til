@@ -22,7 +22,7 @@
     - [css](#css)
     - [curl](#curl)
     - [Dash.app](#dashapp)
-    - [Date](#date)
+    - [date](#date)
     - [Debian](#debian)
     - [diff-so-fancy](#diff-so-fancy)
     - [Docker](#docker)
@@ -207,7 +207,7 @@
 - [Query Dash from the CLI](dashapp/query_dash_from_the_cli.md)
 
 <a id="date"></a>
-### Date
+### date
 
 - [Getting time in another timezone](date/getting_time_in_another_timezone.md)
 
@@ -320,6 +320,7 @@
 - [Create a branch from an older commit](git/create_a_branch_from_an_older_commit.md)
 - [Get Name of Current Branch](git/get_name_of_current_branch.md)
 - [Use pre-commit](git/use_pre-commit.md)
+- [Ignore Git](git/ignore_git.md)
 
 <a id="git-delta"></a>
 ### git-delta - an commandline diff tool, also known as delta
@@ -345,6 +346,11 @@
 - [Use spellcheck](github_actions/use_spellcheck.md)
 - [Use macOS](github_actions/use_macos.md)
 - [Use EditorConfig](github_actions/use_editorconfig.md)
+- [Schedule runs](github_actions/schedule_runs.md)
+- [Use Dependabot for GitHub Actions](github_actions/use_dependabot_for_github_actions.md)
+- [Use Dependabot for Docker](github_actions/use_dependabot_for_docker.md)
+- [Use Dependabot for Ruby](github_actions/use_dependabot_for_ruby.md)
+- [Use Dependabot for Python](github_actions/use_dependabot_for_python.md)
 
 <a id="gnupg"></a>
 ### GnuPG
@@ -682,6 +688,7 @@
 ### Starship - nifty prompt and an alternative to Liquid Prompt
 
 - [Use Starship](starship/use_starship.md)
+- [Increase Interval for Slow Commands](starship/increase_interval_for_slow_commands.md)
 
 <a id="swift"></a>
 ### Swift
