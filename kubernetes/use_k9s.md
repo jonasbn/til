@@ -14,7 +14,7 @@ Mine is changed to match my default terminal look of _solarized dark_.
 
 To change the looks, you can create a file named: `skin.yml` and place it in `$XDG_CONFIG_HOME/k9s/`, you might need to define: `$XDG_CONFIG_HOME`.
 
-You can specify a theme per `context`, so I have made defined: `docker-desktop_skin.yml`, not that I have any other contexts at this time, but in order just tu try it out.
+You can specify a theme per `context`, so I have made defined: `docker-desktop_skin.yml`, not that I have any other contexts at this time, but in order just to try it out.
 
 The contents of this _skin files_ can be adjusted several examples for inspiration are [available][skins].
 

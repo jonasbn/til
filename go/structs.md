@@ -75,7 +75,7 @@ zsh> ./default
 height of ><: >0.000000< aged >0< and parent: >false<
 ```
 
-Making structs pretty for printingg is easy:
+Making structs pretty for printing is easy:
 
 ```
 package main
