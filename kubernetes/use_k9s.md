@@ -6,7 +6,7 @@ It can be installed via **Homebrew**.
 
 In conjuction with Docker for Desktop on macOS, upon invocation it would render something along the lines of:
 
-![Screendump of k9s with Solarized Dark skin](docker-desktop_skin.png)
+![Screendump of k9s with Solarized Dark skin](k9s.png)
 
 If you invoke `k9s` on your machine it will have the default look (skin).
 
@@ -91,6 +91,10 @@ Using symbolic links, we can now switch between the themes, by having our contex
 ```
 ln -sf solarized_dark.yml docker-desktop_skin.yml
 ```
+
+So this is my `k9s` look.
+
+![Screendump of k9s with Solarized Dark skin](docker-desktop_skin.png)
 
 Suggestions to improvements to this most welcome.
 
