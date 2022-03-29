@@ -2,7 +2,7 @@
 
 `tmux` is an awesome tool. I will try to get some of my bookmarked resources collected here. To begin with a nifty [cheatsheet][[cheatsheet]].
 
-I found this greaet [article][statusbar] on how to customize the `tmux` status bar.
+I found this great [article][statusbar] on how to customize the `tmux` status bar.
 
 And then there is of course always the [man page][manpage].
 
