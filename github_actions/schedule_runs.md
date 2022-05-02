@@ -17,7 +17,7 @@ I have some repositories where much do not happen, so in order to make sure they
 ```yaml
 on:
   schedule:
-  - cron: '0 10 * * */30'
+  - cron: '0 10 */30 * *'
 ```
 
 This schedules builds, tests and emits a coverage report for this particular repository every 30 days (around every month), so even though I do not commit anything, I make sure that things are still working.
