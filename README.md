@@ -11,6 +11,7 @@
   - [Table of Contents](#table-of-contents)
   - [Categories](#categories)
     - [ack](#ack)
+    - [afplay](#afplay)
     - [ag also known as the Silversurfer - fast alternative to ack and grep](#ag-also-known-as-the-silversurfer---fast-alternative-to-ack-and-grep)
     - [Bash](#bash)
     - [Bootstrap](#bootstrap)
@@ -116,6 +117,11 @@
 
 - [Install ack](ack/install_ack.md)
 - [Define a custom search filetype scope](ack/define_a_custom_search_filetype_scope.md)
+
+<a id="afplay"></a>
+### afplay
+
+- [RTFM](afplay/RTFM.md)
 
 <a id="ag"></a>
 ### ag also known as the Silversurfer - fast alternative to ack and grep
