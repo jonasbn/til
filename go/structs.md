@@ -77,7 +77,7 @@ height of ><: >0.000000< aged >0< and parent: >false<
 
 Making structs pretty for printing is easy:
 
-```
+```go
 package main
 
 import "fmt"
@@ -106,3 +106,4 @@ The suggestion for the String interface came from the good people from the Gophe
 
 1. [Go By Example: structs](https://gobyexample.com/structs)
 2. [Yourbasic Go: fmt.Printf formatting tutorial and cheat sheet](https://yourbasic.org/golang/fmt-printf-reference-cheat-sheet/)
+3. [Stackoverflow: "unknown field in struct literal"](https://stackoverflow.com/questions/37780520/unknown-field-in-struct-literal)
