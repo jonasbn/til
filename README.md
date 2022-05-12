@@ -44,13 +44,13 @@
     - [Hacking](#hacking)
     - [Homebrew](#homebrew)
     - [HTML](#html)
-    - [httpie - an alternative to jq and curl](#httpie---an-alternative-to-jq-and-curl)
+    - [httpie - an alternative to curl](#httpie---an-alternative-to-curl)
     - [irssi - for all your IRC needs](#irssi---for-all-your-irc-needs)
     - [iTerm.app - an alternative to Terminal.app](#itermapp---an-alternative-to-terminalapp)
     - [JavaScript](#javascript)
     - [Jenkins](#jenkins)
     - [Jira](#jira)
-    - [jq - see also httpie](#jq---see-also-httpie)
+    - [jq - a lightweight and flexible command-line JSON processor](#jq---a-lightweight-and-flexible-command-line-json-processor)
     - [JSON - see also XML and YAML](#json---see-also-xml-and-yaml)
     - [Kali](#kali)
     - [Liquid Prompt - see also Starship](#liquid-prompt---see-also-starship)
@@ -402,7 +402,7 @@
 - [How Can I Get HTML value using JavaScript](html/how_can_i_get_html_value_using_js.md)
 
 <a id="httpie"></a>
-### httpie - an alternative to jq and curl
+### httpie - an alternative to curl
 
 - [Use httpie](httpie/use_httpie.md)
 - [Using httpie with Graphql server](httpie/using_httpie_with_graphql_server.md)
@@ -437,7 +437,7 @@
 - [How to escape curly brackets within code tags](jira/how_to_escape_curlys_within_code_tags.md)
 
 <a id="jq"></a>
-### jq - see also httpie
+### jq - a lightweight and flexible command-line JSON processor
 
 - [Use jq](jq/use_jq.md)
 
