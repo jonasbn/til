@@ -10,4 +10,4 @@
 
 ## Resources and References
 
-- [](https://dev.to/yukikimoto/cpanm-installation-of-perl-modules-on-user-directories-2022-2f60)
+- [Dev.to: "cpanm - Installation of Perl Modules on User Directories 2022"](https://dev.to/yukikimoto/cpanm-installation-of-perl-modules-on-user-directories-2022-2f60) by Yuki Kimoto
