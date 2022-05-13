@@ -121,7 +121,7 @@
 <a id="afplay"></a>
 ### afplay
 
-- [RTFM](afplay/RTFM.md)
+- [RTFM](afplay/rtfm.md)
 
 <a id="ag"></a>
 ### ag also known as the Silversurfer - fast alternative to ack and grep
