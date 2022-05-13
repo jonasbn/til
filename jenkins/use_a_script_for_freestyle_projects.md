@@ -1,4 +1,4 @@
-# Use a script for __freestyle__ projects
+# Use a script for _freestyle_ projects
 
 If you are using freestyle projects for Jenkins, you can gain a lot from isolating your implementation of the actual run in a basic shell script.
 
@@ -37,4 +37,4 @@ carton exec cover -silent -no-summary -report clover
 carton exec perlcritic --profile t/perlcriticrc --stern bin > perlcritic.txt
 ```
 
-The above example scripts no particular project dependencies and can be used access Perl projects based on the __freestyle__ project type.
+The above example scripts no particular project dependencies and can be used access Perl projects based on the _freestyle_ project type.

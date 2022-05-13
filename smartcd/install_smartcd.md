@@ -1,6 +1,6 @@
 # Install smartcd
 
-`smartcd` is a funky gimmick
+`smartcd` is a _funky_ gimmick
 
 Check: https://github.com/cxreg/smartcd
 

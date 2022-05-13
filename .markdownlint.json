@@ -12,5 +12,7 @@
     "ol-prefix": false,
     "no-trailing-punctuation": false,
     "no-space-in-links": false,
-    "no-space-in-emphasis": false
+    "no-space-in-emphasis": false,
+    "emphasis-style": { "style": "underscore" },
+    "strong-style": { "style": "asterisk" }
 }

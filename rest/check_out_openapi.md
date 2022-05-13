@@ -1,6 +1,6 @@
 # Check out OpenAPI
 
-*OpenAPI* was formerly called *Swagger*, the name still clings to the toolchain.
+**OpenAPI** was formerly called **Swagger**, the name still _clings_ to the toolchain.
 
 ## Resources
 

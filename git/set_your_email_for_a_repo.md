@@ -1,6 +1,6 @@
 # Set your email for a repository
 
-If you use `git` for both work and play, but not necessarily the all on *github* or the like, it is nice to separate user data like email
+If you use `git` for both work and play, but not necessarily the all on **GitHub** or the like, it is nice to separate user data like email
 
 Globally:
 

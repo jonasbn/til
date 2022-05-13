@@ -18,7 +18,7 @@ ok      twofer    3.769s
 
 _NB: I have condensed the output a bit for readability, by collapsing excessive whitespace_.
 
-The above example is lifted from [Exercism.io][exercism.io] and [the *two-fer* exercise](https://github.com/exercism/go/tree/master/exercises/two-fer).
+The above example is lifted from [Exercism.io][exercism.io] and [the **two-fer** exercise](https://github.com/exercism/go/tree/master/exercises/two-fer).
 
 _NB: All examples from Exercism.io are under copyright and are available under the MIT License_.
 

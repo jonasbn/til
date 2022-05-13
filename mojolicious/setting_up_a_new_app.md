@@ -1,6 +1,6 @@
 # Setting up a new Mojolicious app
 
-Do you want to get of to a good start on your new *Mojolicious* application, follow these steps:
+Do you want to get of to a good start on your new **Mojolicious** application, follow these steps:
 
 1. Install `carton`
 2. Create a `cpanfile`

@@ -1,6 +1,6 @@
 # Install Homebrew
 
-Install *Homebrew*, this missing package manager for *OSX*.
+Install **Homebrew**, this missing package manager for **macOS** (OSX).
 
 It gives you easy and maintainable access to cool tools like:
 

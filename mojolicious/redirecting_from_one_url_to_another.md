@@ -2,7 +2,7 @@
 
 Sometimes you are in a situation where you do want to show another URL to the user not, just have several routes to the same controller and action.
 
-This example is based on a *Mojolicious* app, generated using:
+This example is based on a **Mojolicious** app, generated using:
 
 ```bash
 $ mojo generate lite_app

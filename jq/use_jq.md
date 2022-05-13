@@ -4,7 +4,7 @@
 
 Check: [jq GitHub repository][GITHUB]
 
-You can use it to prettify your *JSON*
+You can use it to prettify your **JSON**
 
 ```shell
 jq '.' < foo-ugly.json > foo-pretty.json
@@ -89,7 +89,7 @@ So what we want to accomplish is to:
 
 1. Extract data from an online resource
 1. Extract only the postal codes, no JSON
-1. And finally *teach my colleague to fish*
+1. And finally _teach my colleague to fish_
 
 Result:
 

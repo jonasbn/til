@@ -1,6 +1,6 @@
 # How to syntax check a YAML file
 
-Sometime you come across applications or projects using *YAML* and you start _hacking away_ and things go awry, `ysh` is your friend.
+Sometime you come across applications or projects using **YAML** and you start _hacking away_ and things go awry, `ysh` is your friend.
 
 ```bash
 % cat giving_me_headache.yml | ysh

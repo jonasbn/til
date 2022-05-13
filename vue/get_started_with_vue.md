@@ -1,6 +1,6 @@
 # Get Started with Vue
 
-Collection of *Vue* resources.
+Collection of **Vue** resources.
 
 ## Resources
 

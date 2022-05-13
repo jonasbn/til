@@ -1,6 +1,6 @@
 # Use tokei
 
-`tokei` is a *blazing fast* source code line counter. It supports a lot of different languages.
+`tokei` is a _blazing fast_ source code line counter. It supports a lot of different languages.
 
 If I did a count in my TIL repository it would output the following:
 
@@ -21,7 +21,7 @@ $ tokei
 -------------------------------------------------------------------------------
 ```
 
-And to underline the **blazing fast** part:
+And to underline the _blazing fast_ part:
 
 ```bash
 $ time tokei

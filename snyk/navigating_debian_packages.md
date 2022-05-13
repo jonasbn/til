@@ -123,7 +123,7 @@ Licenses:          enabled
 Tested 2 projects, 1 contained vulnerable paths.
 ```
 
-_Oh no, oh no, oh no no no no no_
+> _Oh no, oh no, oh no no no no no_
 
 As you can see it detected 5 issues or _vulnerable paths_.
 
@@ -144,7 +144,6 @@ If we inspect that report, we can see that we have 3 critical Common Vulnerabili
 - [CVE-2021-33574](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-33574)
 - [CVE-2022-23218](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23218)
 - [CVE-2022-23219](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23219)
-
 
 ## Resources and References
 

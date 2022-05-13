@@ -1,6 +1,6 @@
 # Add user to sudoers
 
-On Debian it is quite easy to add a user to the __sudoers__ group.
+On Debian it is quite easy to add a user to the **sudoers** group.
 
 ```bash
 $ su -

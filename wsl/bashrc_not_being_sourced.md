@@ -7,7 +7,7 @@
 > As a defensive measure, you can write your own .bash_profile that explicitly loads .
 > bashrc. This avoids ambiguity and offers a consistent, straightforward setup every time.
 
-NB *The above quote has a spelling error corrected*
+NB _The above quote has a spelling error corrected_
 
 ## Resources and References
 
