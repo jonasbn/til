@@ -1,6 +1,6 @@
 # Use filemerge from the command line
 
-Useful commandline tools for **[FileMerge]** a part of XCode.
+Useful commandline tools for **[FileMerge]** a part of **Xcode**.
 
 ```bash
 % fmdiff <file1> <file2>
