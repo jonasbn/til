@@ -34,6 +34,7 @@
     - [entr - run arbitrary commands when files change](#entr---run-arbitrary-commands-when-files-change)
     - [exa - an alternative to the ls command](#exa---an-alternative-to-the-ls-command)
     - [FileMerge.app](#filemergeapp)
+    - [find](#find)
     - [Git](#git)
     - [git-delta - an commandline diff tool, also known as delta](#git-delta---an-commandline-diff-tool-also-known-as-delta)
     - [GitHub](#github)
@@ -292,6 +293,10 @@
 ### FileMerge.app
 
 - [User Filemerge from the commandline](filemergeapp/use_filemerge_from_cli.md)
+
+### find
+
+- [Searching Found Files in Found Directories](find/searching_found_files_in_found_directories.md)
 
 <a id="git"></a>
 ### Git
