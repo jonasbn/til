@@ -1,3 +1,7 @@
 # Define ls colours
 
-$ export LSCOLORS=dxdxdxdxhxdxdxhxhxdxdx
+TODO
+
+```shell
+export LSCOLORS=dxdxdxdxhxdxdxhxhxdxdx
+```
