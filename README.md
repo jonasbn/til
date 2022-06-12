@@ -16,6 +16,7 @@
     - [Bash](#bash)
     - [Bootstrap](#bootstrap)
     - [carton](#carton)
+    - [chezmoi - dot filer manager](#chezmoi---dot-filer-manager)
     - [chrome](#chrome)
     - [colortail - colorfull variation of tail](#colortail---colorfull-variation-of-tail)
     - [CPAN - Perl Packages](#cpan---perl-packages)
@@ -165,6 +166,12 @@
 - [Pass flags to arguments to exec](carton/pass_flags_to_arguments_to_exec.md)
 - [Update snapshot cpanfile](carton/update_snapshot_cpanfile.md)
 - [Use PERL_CARTON_MIRROR](carton/use_perl_carton_mirror.md)
+
+<a id="chezmoi"></a>
+### chezmoi - dot filer manager
+
+- [Install chezmoi](chezmoi/install_chezmoi.md)
+- [Use chezmoi](chezmoi/use_chezmoi.md)
 
 <a id="chrome"></a>
 ### chrome
