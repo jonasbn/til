@@ -379,6 +379,7 @@
 - [Test Main Function](go/test_main_function.md)
 - [Get to know the standard library](go/get_to_know_the_standard_library.md)
 - [structs](go/structs.md)
+- [Running specific tests](go/running_specific_test.md)
 
 <a id="grep"></a>
 ### grep - see also ag also known as silversurfer
