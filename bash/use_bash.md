@@ -1,5 +1,7 @@
 # Use bash
 
+These might need to be broken into separate TILs for ease of navigation
+
 ## Find Substrings in Bash
 
 https://linuxize.com/post/how-to-check-if-string-contains-substring-in-bash/

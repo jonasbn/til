@@ -133,6 +133,7 @@
 <a id="bash"></a>
 ### Bash
 
+- [Use bash](bash/use_bash.md)
 - [Implement tab completions](bash/implement_tab_completions.md)
 - [Inputting danish characters](bash/inputting_danish_characters.md)
 - [Repeating an executable continuously](bash/repeating_an_executable_continuously.md)
