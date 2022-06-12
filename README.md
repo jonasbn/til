@@ -572,6 +572,7 @@
 - [What ports are listened on](osx/what_ports_are_listened_on.md)
 - [Reset Bluetooth](osx/reset_bluetooth.md)
 - [Inspecting dynamic libraries](osx/inspecting_dynamic_libraries.md)
+- [Install OpenSSL using MacPorts](osx/install_openssl.md)
 
 <a id="perl"></a>
 ### Perl
