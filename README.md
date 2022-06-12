@@ -741,6 +741,7 @@
 
 - [Install updates via command line](ubuntu/install_updates_via_cli.md)
 - [How to enquire version](ubuntu/how_to_enquire_version.md)
+- [Translate release names](ubuntu/translate_release_names.md)
 
 <a id="visual-studio-code"></a>
 ### VSCode / Visual Studio Code
