@@ -3,7 +3,7 @@
 If you want to see what symbols are exported by a dynamic library you can do so using `otool`:
 
 ```bash
-$ otool -L wx/_core_.so
+otool -L wx/_core_.so
 ```
 
 ## References

@@ -571,6 +571,7 @@
 - [No telnet use netcat](osx/no_telnet_use_netcat.md)
 - [What ports are listened on](osx/what_ports_are_listened_on.md)
 - [Reset Bluetooth](osx/reset_bluetooth.md)
+- [Inspecting dynamic libraries](osx/inspecting_dynamic_libraries.md)
 
 <a id="perl"></a>
 ### Perl
