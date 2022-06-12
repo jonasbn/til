@@ -42,7 +42,7 @@ i   perl-5.8.9
 Since I am not interested in the `*.bz2` listings, I want to filter listing matching this pattern:
 
 ```bash
-$ perlbrew available | grep --regexp="\.tar.bz2" --invert-match
+$ perlbrew available | grep --regexp="\.tar\.bz2" --invert-match
 
   perl-5.32.0-RC1
    perl-5.30.3
