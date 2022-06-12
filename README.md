@@ -211,6 +211,7 @@
 ### css
 
 - [Making sure you are using alt tags](css/making_sure_you_are_using_alt_tags.md)
+- [CSS Properties](css/properties.md)
 
 <a id="curl"></a>
 ### curl
