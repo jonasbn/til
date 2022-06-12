@@ -213,6 +213,7 @@
 - [Use a cheatsheet](curl/use_a_cheatsheet.md)
 - [Using curl with Graphql server](curl/using_curl_with_graphql_server.md)
 - [Specify method](curl/specify_method.md)
+- [Get statuscode](curl/get_status_code.md)
 
 <a id="dashapp"></a>
 ### Dash.app
