@@ -17,6 +17,7 @@
     - [Bootstrap](#bootstrap)
     - [carton](#carton)
     - [chrome](#chrome)
+    - [colortail - colorfull variation of tail](#colortail---colorfull-variation-of-tail)
     - [CPAN - Perl Packages](#cpan---perl-packages)
     - [cpanm](#cpanm)
     - [crates - Rust packages](#crates---rust-packages)
@@ -168,6 +169,11 @@
 ### chrome
 
 - [Add search shortcuts](chrome/add_search_shortcuts.md)
+
+<a id="colortail"></a>
+### colortail - colorfull variation of tail
+
+- [use colortail](colortail/use_colortail.md)
 
 <a id="cpan"></a>
 ### CPAN - Perl Packages
