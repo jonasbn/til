@@ -275,12 +275,14 @@
 - [Silence Warnings from Postgres](docker/silence_warnings_from_postgres.md)
 - [Debugging a b0rken Docker build step](docker/debugging_a_broken_docker_build_step.md)
 - [exec error](docker/exec_error.md)
+- [Docker on Windows](docker/docker_on_windows.md)
 
 <a id="dockerhub"></a>
 ### DockerHub
 
 - [Publish an image to DockerHub](dockerhub/publish_an_image_to_dockerhub.md)
 - [Use Long Names for Your Base Images](dockerhub/use_long_names_for_your_base_images.md)
+- [Use hub-tool](dockerhub/use_hub-tool.md)
 
 <a id="dropbox"></a>
 ### Dropbox
