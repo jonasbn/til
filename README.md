@@ -388,6 +388,7 @@
 
 - [Learn Go](go/learn_go.md)
 - [Go Resources](go/resources.md)
+- [Reading Documentation](go/reading_documentation.md)
 - [Reading benchmark results](go/reading_benchmark_results.md)
 - [Skipping tests](go/skipping_tests.md)
 - [Colorful test output](go/colorful_test_output.md)
@@ -397,6 +398,8 @@
 - [structs](go/structs.md)
 - [Running specific tests](go/running_specific_test.md)
 - [Read from STDIN](go/read_from_stdin.md)
+- [Use gocritic](go/use_gocritic.md)
+- [Working with local packages](go/working_with_local_packages.md)
 
 <a id="grep"></a>
 ### grep - see also ag also known as silversurfer
