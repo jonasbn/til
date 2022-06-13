@@ -2,6 +2,8 @@
 
 These might need to be broken into separate TILs for ease of navigation
 
+A good _cheat sheet_ can be found in [this blog post](https://dev.to/bobbyiliev/the-only-bash-scripting-cheat-sheet-that-you-will-ever-need-55c7)
+
 ## Find Substrings in Bash
 
 https://linuxize.com/post/how-to-check-if-string-contains-substring-in-bash/
