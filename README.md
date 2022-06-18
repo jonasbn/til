@@ -81,6 +81,7 @@
     - [Ruby](#ruby)
     - [Rust](#rust)
     - [sed](#sed)
+    - [shellcheck](#shellcheck)
     - [Slack](#slack)
     - [smartcd](#smartcd)
     - [Sublime Text 3 - see also VSCode](#sublime-text-3---see-also-vscode)
@@ -670,6 +671,11 @@
 - [Remove empty lines](sed/remove_empty_lines.md)
 - [Remove comments](sed/remove_comments.md)
 - [Chaining actions](sed/chaining_actions.md)
+
+<a id="shellcheck"></a>
+### shellcheck
+
+- [Use shellcheck](shellcheck/use_shellcheck.md)
 
 <a id="slack"></a>
 ### Slack
