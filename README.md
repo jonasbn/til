@@ -289,6 +289,7 @@
 ### Dropbox
 
 - [Download instead of playing multimedia file from Dropbox](dropbox/download_multimedia.md)
+- [Ignore certain files](dropbox/ignore_certain_files.md)
 
 <a id="dzil"></a>
 ### dzil
