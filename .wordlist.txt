@@ -1918,3 +1918,14 @@ humourous
 libsystem
 pid
 bcf
+brianwisti
+xattr
+basename
+twotests
+doSomeOperation
+doTimeConsumingOperation
+TestDoSomeOperation
+TestDoTimeConsumingOperation
+doTimeConsumingOperation
+doAnotherOperation
+shellcheck

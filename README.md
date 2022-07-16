@@ -677,6 +677,7 @@
 ### shellcheck
 
 - [Use shellcheck](shellcheck/use_shellcheck.md)
+- [Ignore shellcheck error](shellcheck/ignore_error.md)
 
 <a id="slack"></a>
 ### Slack
