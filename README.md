@@ -18,6 +18,7 @@
     - [carton](#carton)
     - [chezmoi - dot filer manager](#chezmoi---dot-filer-manager)
     - [chrome](#chrome)
+    - [clang](#clang)
     - [colortail - colorfull variation of tail](#colortail---colorfull-variation-of-tail)
     - [CPAN - Perl Packages](#cpan---perl-packages)
     - [cpanm](#cpanm)
@@ -179,6 +180,11 @@
 ### chrome
 
 - [Add search shortcuts](chrome/add_search_shortcuts.md)
+
+<a id="clang"></a>
+### clang
+
+- [Diagnostic flags in Clang](clang/diagnostic_flags.md)
 
 <a id="colortail"></a>
 ### colortail - colorfull variation of tail
