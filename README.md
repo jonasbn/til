@@ -438,6 +438,7 @@
 - [Cleaning your homebrew cellar](homebrew/clean.md)
 - [Installing bash](homebrew/installing_bash.md)
 - [Migrate installation](homebrew/migrate_installation.md)
+- [Remove tap](homebrew/remove_tap.md)
 
 <a id="html"></a>
 
