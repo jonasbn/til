@@ -419,6 +419,7 @@
 - [Read from STDIN](go/read_from_stdin.md)
 - [Use gocritic](go/use_gocritic.md)
 - [Working with local packages](go/working_with_local_packages.md)
+- [Panic: Flag redefined](go/flag_redefined.md)
 
 <a id="grep"></a>
 ### grep - see also ag also known as silversurfer
