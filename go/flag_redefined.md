@@ -12,7 +12,7 @@ The solution is to add:
 flag.CommandLine = flag.NewFlagSet(os.Args[0], flag.ExitOnError)
 ```
 
-Do see the post by Max for a more explicit explantion.
+Do see the post by Max for a more explicit explanation.
 
 ## Resources and References
 
