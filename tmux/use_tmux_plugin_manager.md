@@ -10,7 +10,7 @@ $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 Add the following to your `~/.tmux.config`:
 
-````
+```text
 # List of plugins
 set -g @plugin 'tmux-plugins/tpm'
 set -g @plugin 'tmux-plugins/tmux-sensible'
@@ -38,17 +38,17 @@ And later to update from `tmux` do:
 
 `prefix` + <kbd>U</kbd>
 
-Of noticable plugins I can mention:
+Of noticable [plugins] I can mention:
 
 - [Tmux Resurrect](https://github.com/tmux-plugins/tmux-resurrect) or [my til](use_tmux_resurrect.md)
 - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
 
-Or check [this repository of plugins][tmuxplugins]
+Or check this [repository of plugins][plugins]
 
 ## Resources and References
 
 1. [GitHub repository for tpm][tpm]
-1. [GitHub plugin repository][tmuxplugins]
+1. [GitHub plugin repository][plugins]
 
-[tpm]: (https://github.com/tmux-plugins/tpm)
-[tmuxplugins]: (https://github.com/tmux-plugins)
+[tpm]: https://github.com/tmux-plugins/tpm
+[plugins]: https://github.com/tmux-plugins

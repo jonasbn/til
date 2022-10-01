@@ -10,4 +10,4 @@ Read [the article on ZDNet][ZDNet].
 
 - [Article on ZDNet][ZDNet]
 
-ZDNet: https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/
+[ZDNet]: https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/

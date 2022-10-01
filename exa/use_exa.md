@@ -28,6 +28,7 @@ alias lla='exa --long --all --color auto --icons --sort=type'
 
 1. [the.exa.website][website]
 1. [dev.to: "My terminal became more Rusty 🦀" by Mahmoud Ashraf](https://dev.to/22mahmoud/my-terminal-became-more-rusty-4g8l)
+2. [Install Nerd fonts on Linux][installfonts]
 
 [website]: https://the.exa.website/
 [fontissue]: https://github.com/ogham/exa/issues/765
