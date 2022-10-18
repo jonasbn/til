@@ -494,6 +494,7 @@
 
 - [Beware of eval](json/beware_of_eval.md)
 - [Check out JSON Schema](json/check_out_json_schema.md)
+- [Prettify JSON on the command line](json/prettify_json_on_the_command_line.md)
 
 <a id="kali"></a>
 ### Kali
