@@ -29,7 +29,7 @@
     - [date](#date)
     - [Debian](#debian)
     - [diff-so-fancy](#diff-so-fancy)
-    - [DigitalOcean](#digitalocean)
+    - [DigitalOcean - a hosting provider, caring about open source](#digitalocean---a-hosting-provider-caring-about-open-source)
     - [Docker](#docker)
     - [DockerHub](#dockerhub)
     - [Dropbox](#dropbox)
@@ -257,8 +257,8 @@
 - [use diff-so-fancy](diff-so-fancy/use_diff_so_fancy.md)
 - [One-time Disable of diff-so-fancy for Git](diff-so-fancy/one-time_disable_dsf_for_git.md)
 
-<a href="digitalocean"></a> - a hosting provider, caring about open source
-### DigitalOcean
+<a href="digitalocean"></a>
+### DigitalOcean - a hosting provider, caring about open source
 
 - [Monitor billing](digitalocean/monitor_billing.md)
 - [Use doctl](digitalocean/use_doctl.md)
