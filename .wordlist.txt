@@ -1929,3 +1929,8 @@ TestDoTimeConsumingOperation
 doTimeConsumingOperation
 doAnotherOperation
 shellcheck
+pxy
+subdirectory
+ServeFile
+favicon
+ico
