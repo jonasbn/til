@@ -125,7 +125,7 @@ This led to the question:
 
 I found the answer on StackOverflow
 
-Apparently a wheel is a prebuilt version of the distribution. So if you go to pypi.org and searhc for `lxml` you can under [files][lxmlfiles] find a listing of available wheels.
+Apparently a wheel is a prebuilt version of the distribution. So if you go to pypi.org and search for `lxml` you can under [files][lxmlfiles] find a listing of available wheels.
 
 Luckily my issue was solved by the addition of a wheel to the repository at pypi.org so I did not have to dig into building dependencies based on C libraries in Python.
 
