@@ -6,4 +6,8 @@ You can either specify: `macOS-latest`, which currently (at the time of writing)
 
 ## Resources and References
 
-- [macOS virtual environments](https://github.com/actions/virtual-environments/tree/main/images/macos)
+- [GitHub: macOS virtual environments][VIRTUALENVS]
+- [GitHub Action Runner Images][IMAGES]
+
+[IMAGES]: https://github.com/actions/runner-images#available-images
+[VIRTUALENVS]: https://github.com/actions/virtual-environments/tree/main/images/macos
