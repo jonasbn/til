@@ -4,6 +4,7 @@ The Ubuntu release names are probably easy to remember for people working with t
 
 I located [this resource][ubuntureleases], so I can look up the releases and their in order in particular
 
+- Ubuntu 22 _Jammy_ (Jammy Jellyfish)
 - Ubuntu 20 _Focal_ (Focal Fossa)
 - Ubuntu 18 _Bionic_ (Bionic Beaver)
 - Ubuntu 16 _Xenial_ (Xenial Xerus)
@@ -12,6 +13,7 @@ I located [this resource][ubuntureleases], so I can look up the releases and the
 ## Resources and References
 
 - [Ubuntu.com][ubuntureleases]
-- [Ubuntu.com Wiki](https://wiki.ubuntu.com/Releases)
+- [Ubuntu.com Wiki][ubuntuwiki]
 
 [ubuntureleases]: https://releases.ubuntu.com/
+[ubuntuwiki]: https://wiki.ubuntu.com/Releases
