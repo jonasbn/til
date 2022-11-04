@@ -52,4 +52,4 @@ Now I just need to be able to _redo_ this my toolchain, like GitHub Actions etc.
 [CN]: https://metacpan.org/pod/Date::Holidays::CN
 [GMP]: https://gmplib.org/
 [MPFR]: https://www.mpfr.org/
-[CALENDAR]: DateTime::Calendar::Chinese
+[CALENDAR]: https://metacpan.org/pod/DateTime::Calendar::Chinese
