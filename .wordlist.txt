@@ -1934,3 +1934,11 @@ subdirectory
 ServeFile
 favicon
 ico
+DateTime
+Astro
+Sur
+Kudu
+Indri
+autosuggestions
+GMP
+MPFR
