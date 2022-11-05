@@ -6,6 +6,12 @@
 ls *.go | entr -c sh -c 'go build && go test'
 ```
 
+Another example for `perlcritic`
+
+```bash
+ls t/*.rc |entr -c sh -c 'perlcritic --profile t/perlcritic.rc lib'
+```
+
 ## Resources and References
 
 - [entr manpage](https://manpages.ubuntu.com/manpages/xenial/man1/entr.1.html)
