@@ -1942,3 +1942,4 @@ Indri
 autosuggestions
 GMP
 MPFR
+choco
