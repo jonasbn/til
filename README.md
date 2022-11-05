@@ -1,7 +1,7 @@
 # Today I Learned
 
-![Markdownlint Action](https://github.com/jonasbn/til/actions/workflows/markdownlint.yml/badge.svg)
-![Spellcheck Action](https://github.com/jonasbn/til/actions/workflows/spellcheck.yml/badge.svg)
+![Markdownlint Action Status Badge](https://github.com/jonasbn/til/actions/workflows/markdownlint.yml/badge.svg)
+![Spellcheck Action Status Badge](https://github.com/jonasbn/til/actions/workflows/spellcheck.yml/badge.svg)
 
 ## Table of Contents
 
