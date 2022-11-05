@@ -2,7 +2,6 @@
 
 If you want to show the GitHub Actions status badge for one of your workflow, be aware that the URL has to reflect the action.
 
-
 An GitHub action configuration file located in:
 
 - `.github/workflow/markdownlint.yml`
