@@ -199,6 +199,7 @@
 - [File::Find](cpan/file-find.md)
 - [Test::Pretty](cpan/test-pretty.md)
 - [Parsing Gitignore](cpan/parsing_gitignore.md)
+- [Install DateTime::Astro](cpan/install_datetime_astro.md)
 
 <a id="cpanm"></a>
 ### cpanm
