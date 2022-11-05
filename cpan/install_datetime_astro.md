@@ -12,7 +12,7 @@ Both can be installed via **Homebrew**
 - `brew install gmp`
 - `brew install mpfr`
 
-In addition I need to set the following two environement variables, which [DateTime::Astro][ASTRO] is looking for: `$MPFR_HOME` and `$GMP_HOME`.
+In addition I need to set the following two environment variables, which [DateTime::Astro][ASTRO] is looking for: `$MPFR_HOME` and `$GMP_HOME`.
 
 These can be set like this:
 
