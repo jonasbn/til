@@ -586,6 +586,7 @@
 - [Reset Bluetooth](osx/reset_bluetooth.md)
 - [Inspecting dynamic libraries](osx/inspecting_dynamic_libraries.md)
 - [Install OpenSSL using MacPorts](osx/install_openssl.md)
+- [Translate Release Names](osx/translate_release_names.md)
 
 <a id="perl"></a>
 ### Perl
