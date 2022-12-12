@@ -1943,3 +1943,5 @@ autosuggestions
 GMP
 MPFR
 choco
+Ventura
+Monterey
