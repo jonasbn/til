@@ -9,7 +9,7 @@ find(\&wanted, '.');
 my %files;
 my %links;
 
-sub wanted { 
+sub wanted {
     if ($_ =~ m/\.md$/) {
         my ($key) = $File::Find::name =~ m/\.?\/?(.*\.md)/;
         $files{$key}++;
@@ -35,6 +35,9 @@ sub compare_hashes {
     my ($files, $links) = @_;
     my @report;
     foreach my $k (keys %{ $files }) {
+        if ($k eq 'README.md') {
+            next;
+        }
         if (not exists $links->{$k}) {
             push @report, "The file '$k' is not linked";
         }
