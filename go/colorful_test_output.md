@@ -30,6 +30,8 @@ To find the colors in for example **iTerm.app** open the Preferences, your profi
 
 Use the names for the colors in the environment variables
 
+And interesting alternative is `richgo` which has even more options (see: [Enriched Test Output](http://jonasbn.github.io/til/go/enriched.html)).
+
 ## Resources and References
 
 1. [GitHub: rakyll/gotest][gotest]

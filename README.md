@@ -413,6 +413,7 @@
 - [Reading benchmark results](go/reading_benchmark_results.md)
 - [Skipping tests](go/skipping_tests.md)
 - [Colorful test output](go/colorful_test_output.md)
+- [Enriched test output](go/enriched_test_output.md)
 - [How to sleep](go/how_to_sleep.md)
 - [Test Main Function](go/test_main_function.md)
 - [Get to know the standard library](go/get_to_know_the_standard_library.md)
