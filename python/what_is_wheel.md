@@ -135,9 +135,13 @@ Luckily my issue was solved by the addition of a wheel to the repository at pypi
 - [PyPi: lxml][lxml] and [PyPi: lxml files][lxmlfiles]
 - [GitHub: pyspelling][pyspelling]
 - [StackOverflow: "What is the meaning of “Failed building wheel for X” in pip install?"](https://stackoverflow.com/questions/53204916/what-is-the-meaning-of-failed-building-wheel-for-x-in-pip-install)
+- [pythonwheels.com][wheels]
+- [PyPi: wheel][wheel]
 
 [dependabot]: https://dependabot.com/
 [pyspelling]: https://github.com/facelessuser/pyspelling
 [lxml]: https://pypi.org/project/lxml/#description
 [lxmlfiles]: https://pypi.org/project/lxml/#files
 [spellcheck]: https://github.com/rojopolis/spellcheck-github-actions
+[wheels]: https://pythonwheels.com/
+[wheel]: https://pypi.org/project/wheel/
