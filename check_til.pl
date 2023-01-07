@@ -25,9 +25,22 @@ while(<FIN>) {
 }
 close(FIN);
 
+my ($unlinked, $linked, $deadlinks, $ignored_files) = (0, 0, 0, 0);
+
 my @report = compare_hashes(\%files, \%links);
+
+my $total_files = keys %files;
+my $total_links = keys %links;
+
 print join "\n", @report;
-print "\n";
+print "\n\n";
+printf "Unlinked files: %d\n", $unlinked;
+printf "Linked files: %d\n", $linked;
+printf "Ignored files: %d\n\n", $ignored_files;
+printf "Total files: %d\n\n", $total_files;
+
+printf "Dead links: %d\n", $deadlinks;
+printf "Total links: %d\n", $total_links;
 
 exit 0;
 
@@ -36,15 +49,20 @@ sub compare_hashes {
     my @report;
     foreach my $k (keys %{ $files }) {
         if ($k eq 'README.md') {
+            $ignored_files++;
             next;
         }
         if (not exists $links->{$k}) {
             push @report, "The file '$k' is not linked";
+            $unlinked++;
+        } else {
+            $linked++;
         }
     }
     foreach my $k (keys %{ $links }) {
         if (not exists $files->{$k}) {
             push @report, "The link '$k' target does not match a file";
+            $deadlinks++;
         }
     }
     return @report;
