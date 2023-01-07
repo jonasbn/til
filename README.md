@@ -750,6 +750,7 @@
 ### SSH
 
 - [Permissions on SSH folder and files](ssh/permissions_on_ssh_folder_and_files.md)
+- [Hardening SSH server](ssh/hardening_ssh_server.md)
 
 <a id="starship"></a>
 ### Starship - nifty prompt and an alternative to Liquid Prompt
