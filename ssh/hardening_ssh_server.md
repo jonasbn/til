@@ -9,3 +9,5 @@
 ## Resources and References
 
 - ["SSH server hardening" from IT Tavern](https://ittavern.com/ssh-server-hardening/)
+- ["sshd_config - How to Configure the OpenSSH Server?"](https://www.ssh.com/academy/ssh/sshd_config)
+- ["How to set preferred authentication method for SSH"](https://www.simplified.guide/ssh/specify-authentication-method)
