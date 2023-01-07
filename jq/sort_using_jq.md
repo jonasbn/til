@@ -1,6 +1,8 @@
 # Sort Using jq
 
-TODO
+Some of the online tools you use emit a lot of data. `jq` is a true powertool for supporting your `curl`, ´http` (httpie) and dedicated ones.
+
+Below is an example of `jq` use where the output is from `hub-tool` is sorted by last pulled date.
 
 ```shell
 zsh> hub-tool tag ls jonasbn/github-action-spellcheck --format json | jq 'sort_by(.LastPulled)| reverse' | jq -S --raw-output '.[] | [.Name, .LastPulled] | @tsv'
