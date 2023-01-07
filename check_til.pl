@@ -47,7 +47,7 @@ exit 0;
 sub compare_hashes {
     my ($files, $links) = @_;
     my @report;
-    foreach my $k (keys %{ $files }) {
+    foreach my $k (sort keys %{ $files }) {
         if ($k eq 'README.md') {
             $ignored_files++;
             next;
@@ -59,7 +59,7 @@ sub compare_hashes {
             $linked++;
         }
     }
-    foreach my $k (keys %{ $links }) {
+    foreach my $k (sort keys %{ $links }) {
         if (not exists $files->{$k}) {
             push @report, "The link '$k' target does not match a file";
             $deadlinks++;
