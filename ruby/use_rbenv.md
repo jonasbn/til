@@ -1,5 +1,10 @@
 # Use rbenv
 
-## References
+Alternative to rvm
 
-https://github.com/rbenv/rbenv
+TODO
+
+## Resources and References
+
+- [rvm](use_rvm.md)
+- [GitHub repository](https://github.com/rbenv/rbenv)
