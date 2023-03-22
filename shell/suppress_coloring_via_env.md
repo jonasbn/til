@@ -47,6 +47,8 @@ Compared to the `$CLICOLOR` approach, this is a very basic approach. And the `NO
 
 If `$CLI_COLOR` is different from `0`, then the output be colorized, if supported by the application and the terminal.
 
+If the input is piped, then the output should not contain color.
+
 If `$CLI_COLOR` is set to `0`, then the output should not contain color.
 
 If `$CLI_COLOR_FORCE` is different from `0`, then the output should contain color, , if supported by the application and the terminal.
@@ -141,7 +143,7 @@ func clicolor() bool {
     fi, _ := os.Stdin.Stat()
 
     if fi.Mode()&os.ModeCharDevice == 0 {
-        fmt.Println("STDIN is not a terminal")
+        fmt.Println("STDIN is from a pipe")
         return false
     } else {
         fmt.Println("STDIN is a terminal")
@@ -169,6 +171,8 @@ func clicolor() bool {
 
 - [NO_COLOR website][NO_COLOR]
 - [CLICOLOR website][CLI_COLOR]
+- [stackoverflow.com: Detect if a command is piped or not][stackoverflow.com]
 
+[stackoverflow.com]: https://stackoverflow.com/questions/43947363/detect-if-a-command-is-piped-or-not
 [NO_COLOR]: https://no-color.org/
 [CLI_COLOR]: https://bixense.com/clicolors/
