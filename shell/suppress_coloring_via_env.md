@@ -1,6 +1,6 @@
 # Suppress Coloring via Environment Variables
 
-On several occassions I have stumpled on to different ways to suppress coloring in the terminal.
+On several occasions I have stumbled on to different ways to suppress coloring in the terminal.
 
 Two _competing_ ways to handle coloring in the terminal is to use the `NO_COLOR` environment variable or the `CLICOLOR` and associated environment variables.
 
