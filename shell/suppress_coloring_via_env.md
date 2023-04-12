@@ -53,7 +53,7 @@ If `$CLI_COLOR` is set to `0`, then the output should not contain color.
 
 If `$CLI_COLOR_FORCE` is different from `0`, then the output should contain color, , if supported by the application and the terminal.
 
-This is the aproach taken by the [CLICOLOR website][CLI_COLOR]. The website does not specify command line flags and configuration parameters that are intended to control color.
+This is the approach taken by the [CLICOLOR website][CLI_COLOR]. The website does not specify command line flags and configuration parameters that are intended to control color.
 
 It does however specify that the `$CLICOLOR_FORCE` environment variable should override `$CLICOLOR` and piped output, should not be colorized.
 
