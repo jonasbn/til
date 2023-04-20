@@ -2,7 +2,7 @@
 
 For my [pxy.fi](https://pxy.fi) site, I want to serve static pages and proxy requests to DigitalOcean serverless functions.
 
-I use [Nginx](https://nginx.org/en/) to serve static pages and as a reverse proxy and requests not mathing static pages are sent to a serverless function hosted on DigitalOcean.
+I use [Nginx](https://nginx.org/en/) to serve static pages and as a reverse proxy and requests not matching static pages are sent to a serverless function hosted on DigitalOcean.
 
 I found the following snippet in the Nginx documentation:
 
@@ -47,7 +47,7 @@ server {
 }
 ```
 
-So now I can access a static page at [https://pxy.fi/health.html](https://pxy.fi/health.html) and a proxied others request at [https://pxy.fi/](https://pxy.fi/), which is the main purpose of this site.
+So now I can access a static page at [https://pxy.fi/health.html](https://pxy.fi/health.html) and a proxy other requests at [https://pxy.fi/](https://pxy.fi/), which is the main feature of this site.
 
 The URL: `health.html` is used for monitoring. See this [article from Better Stack][betterstack] on the topic.
 
