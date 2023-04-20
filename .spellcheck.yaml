@@ -8,11 +8,13 @@ matrix:
     encoding: utf-8
   pipeline:
   - pyspelling.filters.markdown:
+      markdown_extensions:
+      - pymdownx.superfences:
   - pyspelling.filters.html:
       comments: false
       ignores:
       - code
       - pre
   sources:
-  - '!_site/*.md|!osx/list_available_voices_for_speechsynthesis.md|*/*.md'
+  - '!_site/*.md|!osx/list_available_voices_for_speechsynthesis.md|!clang/diagnostic_flags.md|*/*.md'
   default_encoding: utf-8
