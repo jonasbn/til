@@ -1979,3 +1979,9 @@ digitalocean
 passthrough
 ssl
 serverless
+ClickHouse
+Grafana
+Logtail
+TLS
+unencrypted
+icanhazip

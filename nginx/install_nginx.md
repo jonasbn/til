@@ -1,8 +1,8 @@
-# Installing Nginx on Ubuntu, combined with ufw
+# Installing Nginx on Ubuntu, combined with UFW
 
 Installing Nginx on a newer Ubuntu is easy. Just follow the steps below. The guide indicates version 20.04. I used it on 22.10.
 
-If you are not aware on your exact version of Ubuntu, see my TIl: [How to enquire Ubuntu version](../ubuntu/how_to_enquire_version.md).
+If you are not aware on your exact version of Ubuntu, see my TIL: [How to enquire Ubuntu version](../ubuntu/how_to_enquire_version.md).
 
 ```bash
 sudo apt update

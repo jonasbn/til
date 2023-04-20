@@ -6,7 +6,7 @@ I need these to make some Grafana dashboards, so it is nice to get an overview o
 
 All available information was gathers based on pointers from an article and using the `describe table` command in the ClickHouse client.
 
-## table
+## `$table`
 
 | Field | Type | Null | Key | Default | Extra |
 | --- | --- | --- | --- | --- | --- |
@@ -25,7 +25,7 @@ All available information was gathers based on pointers from an article and usin
 | `level` | `String` | | | | |
 | `nginx.host` | `String` | | | | |
 
-## geoip_city_ipv4
+## `geoip_city_ipv4`
 
 | Field | Type | Null | Key | Default | Extra |
 | --- | --- | --- | --- | --- | --- |
@@ -37,7 +37,7 @@ All available information was gathers based on pointers from an article and usin
 | `longitude` | `Float32` | | | | |
 | `accuracy_radius` | `UInt32` | | | | |
 
-## geoip_city_ipv4_dictionary
+## `geoip_city_ipv4_dictionary`
 
 | Field | Type | Null | Key | Default | Extra |
 | --- | --- | --- | --- | --- | --- |
@@ -52,7 +52,7 @@ All available information was gathers based on pointers from an article and usin
 | `longitude` | `Float32` | | | | |
 | `accuracy_radius` | `UInt32` | | | | |
 
-## geoip_city_locations
+## `geoip_city_locations`
 
 | Field | Type | Null | Key | Default | Extra |
 | --- | --- | --- | --- | --- | --- |
