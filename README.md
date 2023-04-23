@@ -66,6 +66,7 @@
     - [Mojolicious](#mojolicious)
     - [MySQL](#mysql)
     - [Oracle](#oracle)
+    - [Nginx](#nginx)
     - [OpenSSL](#openssl)
     - [OSX](#osx)
     - [Perl](#perl)
@@ -560,6 +561,13 @@
 - [See grants for a specific user](oracle/see_grants_for_specific_user.md)
 - [See What a Record Looked Like](oracle/see_what_a_record_looked_like.md)
 
+<a id="nginx"></a>
+### Nginx
+
+- [Install Nginx](nginx/install_nginx.md)
+- [Listen on both IPv4 and IPv6](nginx/listen_on_both_ipv4_and_ipv6.md)
+- [Serve static files and proxy](nginx/serve_static_pages_and_proxy.md)
+
 <a id="openssl"></a>
 ### OpenSSL
 
@@ -833,6 +841,7 @@
 ### wtf util
 
 - [Play around with wtf](wtf/play_around_with_wtf.md)
+- [Placing elements](wtf/placing_elements.md)
 
 <a id="xml"></a>
 ### XML - see also YAML and JSON
@@ -843,6 +852,7 @@
 <a id="yaml"></a>
 ### YAML - see also XML and JSON
 
+- [Learning YAML](yaml/learning_yaml.md)
 - [How to syntax check a YAML file](yaml/howto_syntax_check_a_yaml_file.md)
 
 <a id="z"></a>
