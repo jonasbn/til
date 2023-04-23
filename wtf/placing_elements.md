@@ -4,7 +4,7 @@ The wtfutil uses a grid when placing elements. This is a visual representation o
 
 |   |   |   |   |   |   |   |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|
-|   |   |   |top|   |   |   |
+|   |   |   |TOP|   |   |   |
 |   |   | 0 | 1 | 2 | 3 | 4 |
 | L | 0 |   |   |   |   |   |
 | E | 1 |   |   |   |   |   |
