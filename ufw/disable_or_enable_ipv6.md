@@ -2,7 +2,7 @@
 
 You have to edit: `/etc/default/ufw` and set `IPV6=yes` or `IPV6=no`. The first to enable IPv6, the latter to disable it.
 
-Changing the value with a running instance, will require that you disable and reenable.
+Changing the value with a running instance, will require that you disable and re-enable.
 
 ```bash
 sudo ufw disable
