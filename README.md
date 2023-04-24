@@ -812,7 +812,7 @@
 ### ufw - Uncomplicated Firewall
 
 - [How to set up ufw](ufw/how_to_set_up_ufw.md)
-- [Enable or disable IPv6](ufw/enable_or_disable_ipv6.md)
+- [Enable or disable IPv6](ufw/disable_or_enable_ipv6.md)
 - [Allow HTTPS](ufw/allow_https.md)
 
 <a id="visual-studio-code"></a>
