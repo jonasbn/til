@@ -12,3 +12,7 @@ The wtfutil uses a grid when placing elements. This is a visual representation o
 | T | 3 |   |   |   |   |   |
 
 This resembles the 4th. quadrant in the cartesian coordinate system, but all the numbers are positive, 0,0 is the top-left corner.
+
+## Resources and References
+
+- [wtfutil: Grid Layout](https://wtfutil.com/configuration/grid_layout/)
