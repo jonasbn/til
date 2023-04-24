@@ -101,6 +101,7 @@
     - [tmux - an alternative to screen](#tmux---an-alternative-to-screen)
     - [tokei - language statistics - fast](#tokei---language-statistics---fast)
     - [Ubuntu](#ubuntu)
+    - [ufw - Uncomplicated Firewall](#ufw---uncomplicated-firewall)
     - [VSCode / Visual Studio Code](#vscode--visual-studio-code)
     - [VMware Fusion](#vmware-fusion)
     - [Vue](#vue)
@@ -806,6 +807,13 @@
 - [Install updates via command line](ubuntu/install_updates_via_cli.md)
 - [How to enquire version](ubuntu/how_to_enquire_version.md)
 - [Translate release names](ubuntu/translate_release_names.md)
+
+<a id="ufw"></a>
+### ufw - Uncomplicated Firewall
+
+- [How to set up ufw](ufw/how_to_set_up_ufw.md)
+- [Enable or disable IPv6](ufw/enable_or_disable_ipv6.md)
+- [Allow HTTPS](ufw/allow_https.md)
 
 <a id="visual-studio-code"></a>
 ### VSCode / Visual Studio Code
