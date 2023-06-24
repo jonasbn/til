@@ -80,12 +80,14 @@
     - [Prolog](#prolog)
     - [Python](#python)
     - [qalc - an easy to use command line calculator](#qalc---an-easy-to-use-command-line-calculator)
+    - [Regexp](#regexp)
     - [Renovate](#renovate)
     - [REST](#rest)
     - [rm](#rm)
     - [Ruby](#ruby)
     - [Rust](#rust)
     - [sed](#sed)
+    - [Shell](#shell)
     - [shellcheck](#shellcheck)
     - [Slack](#slack)
     - [smartcd](#smartcd)
@@ -477,6 +479,8 @@
 ### iTerm.app - an alternative to Terminal.app
 
 - [Use themes](itermapp/use_cool_themes.md)
+- [Use it](itermapp/use_it.md)
+- [Use triggers](itermapp/use_triggers.md)
 
 <a id="javascript"></a>
 ### JavaScript
@@ -679,6 +683,11 @@
 - [Calculate Download Time](qalc/calculate_download_time.md)
 - [Eliminate Locale Warnings](qalc/eliminate_locale_warnings.md)
 
+<a id="regexp></a>
+### Regexp
+
+- [Regex Posix](regexp/regex_posix.md)
+
 <a id="renovate"></a>
 ### Renovate
 
@@ -722,6 +731,11 @@
 - [Remove empty lines](sed/remove_empty_lines.md)
 - [Remove comments](sed/remove_comments.md)
 - [Chaining actions](sed/chaining_actions.md)
+
+<a id="shell"></a>
+### Shell
+
+- [Suppress Colouring via env](shell/suppress_colouring_via_env.md)
 
 <a id="shellcheck"></a>
 ### shellcheck
@@ -776,6 +790,7 @@
 - [Emulate schemas](sqlite/emulate_schemas.md)
 - [Inserting dates](sqlite/insert_dates.md)
 - [Defaulting to now for date](sqlite/default_now_for_date.md)
+- [VARCHAR is just text](lsqlite/varchar_is_just_text.md)
 
 <a id="sqlplus"></a>
 ### sqlplus - the CLI tool for Oracle
