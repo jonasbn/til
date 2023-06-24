@@ -79,6 +79,7 @@
     - [Prolog](#prolog)
     - [Python](#python)
     - [qalc - an easy to use command line calculator](#qalc---an-easy-to-use-command-line-calculator)
+    - [Renovate](#renovate)
     - [REST](#rest)
     - [rm](#rm)
     - [Ruby](#ruby)
@@ -666,6 +667,13 @@
 
 - [Calculate Download Time](qalc/calculate_download_time.md)
 - [Eliminate Locale Warnings](qalc/eliminate_locale_warnings.md)
+
+<a id="renovate"></a>
+### Renovate
+
+- [Use Renovate](renovate/use_renovate.md)
+- [Use Renovate for Perl](renovate/use_renovate_for_perl.md)
+- [Hide the config](renovate/hide_the_config.md)
 
 <a id="rest"></a>
 ### REST
