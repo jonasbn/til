@@ -571,7 +571,7 @@
 <a id="npm"></a>
 ### npm
 
-- [Install dependencies from package-lock.json](npm/install_dependencies_from_package-lock.json.md)
+- [Install dependencies from package-lock.json](npm/install_dependencies_from_package-lock_file.md)
 
 <a id="openapi"></a> - See also Swagger
 ### OpenAPI
