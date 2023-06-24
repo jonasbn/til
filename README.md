@@ -67,6 +67,7 @@
     - [MySQL](#mysql)
     - [Oracle](#oracle)
     - [Nginx](#nginx)
+    - [npm](#npm)
     - [OpenSSL](#openssl)
     - [OSX](#osx)
     - [Perl](#perl)
@@ -493,6 +494,8 @@
 ### jq - a lightweight and flexible command-line JSON processor
 
 - [Use jq](jq/use_jq.md)
+- [Concatenate two fields](jq/concatenate_two_fields.md)
+- [Sort using jq](jq/sort_using_jq.md)
 
 <a id="json"></a>
 ### JSON - see also XML and YAML
@@ -568,6 +571,11 @@
 - [Install Nginx](nginx/install_nginx.md)
 - [Listen on both IPv4 and IPv6](nginx/listen_on_both_ipv4_and_ipv6.md)
 - [Serve static files and proxy](nginx/serve_static_pages_and_proxy.md)
+
+<a id="npm"></a>
+### npm
+
+- [Install dependencies from package-lock.json](npm/install_dependencies_from_package-lock.json.md)
 
 <a id="openssl"></a>
 ### OpenSSL
