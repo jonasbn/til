@@ -1,6 +1,6 @@
 # Edit and Validate
 
-The marvallous [Swagger Editor][SWAGGEREDITOR] can be used to edit and validate Swagger files.
+The marvellous [Swagger Editor][SWAGGEREDITOR] can be used to edit and validate Swagger files.
 
 I do prefer to work on the CLI for speed and convenience, but the Swagger Editor is a great tool.
 
