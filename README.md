@@ -65,10 +65,11 @@
     - [Mermaid](#mermaid)
     - [Mojolicious](#mojolicious)
     - [MySQL](#mysql)
-    - [Oracle](#oracle)
     - [Nginx](#nginx)
     - [npm](#npm)
+    - [OpenAPI](#openapi)
     - [OpenSSL](#openssl)
+    - [Oracle](#oracle)
     - [OSX](#osx)
     - [Perl](#perl)
     - [Perlbrew](#perlbrew)
@@ -96,6 +97,7 @@
     - [sqlplus - the CLI tool for Oracle](#sqlplus---the-cli-tool-for-oracle)
     - [SSH](#ssh)
     - [Starship - nifty prompt and an alternative to Liquid Prompt](#starship---nifty-prompt-and-an-alternative-to-liquid-prompt)
+    - [Swagger - see also OpenAPI](#swagger---see-also-openapi)
     - [Swift](#swift)
     - [tar](#tar)
     - [Terminal.app - do see iTerm.app](#terminalapp---do-see-itermapp)
@@ -388,6 +390,7 @@
 - [Use emojis](github/use_emojis.md)
 - [GitHub Action Badges](github/action_badges.md)
 - [Use dependabot](github/use_dependabot.md)
+- [Use renovate bot](github/use_renovate.md)
 - [Providing Suggestions in Reviews](github/providing_suggestions_in_reviews.md)
 - [Use CLI](github/use_cli.md)
 
@@ -555,18 +558,6 @@
 
 - [Setting the prompt](mysql/setting_the_prompt.md)
 
-<a id="oracle"></a>
-### Oracle
-
-- [Convert string to date](oracle/convert_string_to_date.md)
-- [ORA-21561: OID generation failed](oracle/ora-21561.md)
-- [Beware of force for creation](oracle/beware_of_force_for_creation.md)
-- [How to see Oracle version](oracle/howto_see_oracle_version.md)
-- [Executing a function or procedure](oracle/executing_a_function_or_procedure.md)
-- [Comments in tnsnames.ora](oracle/comments_in_tnsnamesora.md)
-- [See grants for a specific user](oracle/see_grants_for_specific_user.md)
-- [See What a Record Looked Like](oracle/see_what_a_record_looked_like.md)
-
 <a id="nginx"></a>
 ### Nginx
 
@@ -579,10 +570,27 @@
 
 - [Install dependencies from package-lock.json](npm/install_dependencies_from_package-lock.json.md)
 
+<a id="openapi"></a> - See also Swagger
+### OpenAPI
+
+- [OpenAPI](openapi/validating_openapi_definition.md)
+
 <a id="openssl"></a>
 ### OpenSSL
 
 - [How to get information from a P12 file](openssl/how_to_get_information_from_a_p12_file.md)
+
+<a id="oracle"></a>
+### Oracle
+
+- [Convert string to date](oracle/convert_string_to_date.md)
+- [ORA-21561: OID generation failed](oracle/ora-21561.md)
+- [Beware of force for creation](oracle/beware_of_force_for_creation.md)
+- [How to see Oracle version](oracle/howto_see_oracle_version.md)
+- [Executing a function or procedure](oracle/executing_a_function_or_procedure.md)
+- [Comments in tnsnames.ora](oracle/comments_in_tnsnamesora.md)
+- [See grants for a specific user](oracle/see_grants_for_specific_user.md)
+- [See What a Record Looked Like](oracle/see_what_a_record_looked_like.md)
 
 <a id="osx"></a>
 ### OSX
@@ -783,6 +791,11 @@
 
 - [Use Starship](starship/use_starship.md)
 - [Increase Interval for Slow Commands](starship/increase_interval_for_slow_commands.md)
+
+<a id="#swagger---see-also-openapi"></a>
+### Swagger - see also OpenAPI
+
+- [Swagger](swagger/edit_and_validate.md)
 
 <a id="swift"></a>
 ### Swift
