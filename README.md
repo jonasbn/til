@@ -238,6 +238,9 @@
 - [Using curl with Graphql server](curl/using_curl_with_graphql_server.md)
 - [Specify method](curl/specify_method.md)
 - [Get statuscode](curl/get_status_code.md)
+- [Handle gzip](curl/handle_gzip.md)
+- [How to handle location header](curl/how_to_handle_location_header.md)
+- [Ignore self signed certificates](curl/ignore_self_signed_certificates.md)
 
 <a id="dashapp"></a>
 ### Dash.app
