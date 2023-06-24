@@ -5,8 +5,11 @@ Do you want to get of to a good start on your new **Mojolicious** application, f
 1. Install `carton`
 2. Create a `cpanfile`
 
-```perl
-requires 'Mojolicious';
+```bash
+echo "requires 'Mojolicious';" > cpanfile
+```
+
+```perl;
 ```
 
 3. Run `carton`
