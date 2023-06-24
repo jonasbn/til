@@ -1,6 +1,6 @@
 # Hide the config
 
-Oftentimes you see you root of you repository becomming cluttered with configuration files for various tools and services.
+Oftentimes you see you root of you repository becoming cluttered with configuration files for various tools and services.
 
 I have started to move these files into a `.github` directory, which is a convention for GitHub.
 

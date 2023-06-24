@@ -68,7 +68,7 @@ There are more **Renovate** options, I have however not dug into these at this t
 | fvm                 |            | ✓        |      |
 | homebrew            |            | ✓        |      |
 
-Do not the list above might be severily outdated, please consult the [Renovate: Supported Managers](https://docs.renovatebot.com/modules/manager/#supported-managers) for the latest information.
+Do not the list above might be severely outdated, please consult the [Renovate: Supported Managers](https://docs.renovatebot.com/modules/manager/#supported-managers) for the latest information.
 Renovate is an alternative to Dependabot.
 
 Do note Renovate is not bound to GitHub and you can host it yourself.

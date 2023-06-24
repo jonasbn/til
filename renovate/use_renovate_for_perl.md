@@ -12,7 +12,7 @@ See the [examples](https://github.com/jonasbn/perl-critic-policy-builtinfunction
 
 I have processed most of them and I am quite happy with the result.
 
-Renovate also creates [an issue](https://github.com/jonasbn/perl-critic-policy-builtinfunctions-prohibitshelldispatch/issues/9), which is sort of a Dashboard for the PRs, which is good, eventhough I hate the idea of having an issue open for _all eternity_. Anyway from the Dashboard issue you can control Renovate.
+Renovate also creates [an issue](https://github.com/jonasbn/perl-critic-policy-builtinfunctions-prohibitshelldispatch/issues/9), which is sort of a Dashboard for the PRs, which is good, even though I hate the idea of having an issue open for _all eternity_. Anyway from the Dashboard issue you can control Renovate.
 
 The [documentation](https://docs.renovatebot.com/modules/manager/cpanfile/) is not much to write home about.
 
@@ -40,7 +40,7 @@ Lifted from: [jonasbn/perl-critic-policy-builtinfunctions-prohibitshelldispatch:
 
 Next thing up is to work out how to work with core modules.
 
-An item for the wishlist could be to have Renovate support `cpanfile.snapshot` as well, perhaps it does not make sense, because it is auto-generated, but at the same time that is how it works for other languages like Go for example.
+An item for the wish list could be to have Renovate support `cpanfile.snapshot` as well, perhaps it does not make sense, because it is auto-generated, but at the same time that is how it works for other languages like Go for example.
 
 ## Resources and References
 

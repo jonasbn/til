@@ -1,6 +1,6 @@
 # Use cpanfile
 
-TODO
+The `cpanfile` is a file that contains a list of dependencies for a given Perl project. It is placed in the root and it can used by tools like `cpanm`, `carton`, `dzil` to install the dependencies.
 
 | Description | Format | Example |
 |---|---|---|
