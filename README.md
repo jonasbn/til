@@ -547,6 +547,7 @@
 - [Enable logging](mojolicious/enable_logging.md)
 - [Mojolicious::Controller respond_to and template parameter](mojolicious/respond_to_and_template_parameter.md)
 - [Enable syntax highlighting for configuration files](mojolicious/enable_syntax_highlighting_for_configuration_files.md)
+- [Mojolicious::Plugin::Config](mojolicious/mojolicious-plugin-config.md)
 
 <a id="mysql"></a>
 ### MySQL
