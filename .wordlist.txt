@@ -2018,3 +2018,6 @@ postMessage
 slackbot
 SwaggerUI
 Cybercitizen
+shogo
+ANSIScreen
+Getopt

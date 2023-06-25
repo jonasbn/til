@@ -1,7 +1,5 @@
 # Use rbenv
 
-Alternative to `rvm`.
-
 List all available versions
 
 ```shell
@@ -37,6 +35,8 @@ Set local version
 ```shell
 rbenv local 2.2.1
 ```
+
+An alternative is `rvm`.
 
 ## Resources and References
 

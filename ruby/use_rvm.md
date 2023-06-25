@@ -1,10 +1,10 @@
 # Use rvm
 
-Alternative to rbenv
+Alternative to **rbenv**.
 
-TODO
+Currently I use **rbenv**, but this is worth a look.
 
-## References
+## Resources and References
 
 - [use rbenv](use_rbenv.md)
 - [rvm.io](https://rvm.io/)

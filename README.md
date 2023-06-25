@@ -60,6 +60,7 @@
     - [JSON - see also XML and YAML](#json---see-also-xml-and-yaml)
     - [Kali](#kali)
     - [Liquid Prompt - see also Starship](#liquid-prompt---see-also-starship)
+    - [macOS - see OSX](#macos---see-osx)
     - [Mail.app](#mailapp)
     - [Markdown](#markdown)
     - [markdownlint](#markdownlint)
@@ -492,10 +493,13 @@
 <a id="javascript"></a>
 ### JavaScript
 
+- [Use JavaScript](javascript/use_javascript.md)
+- [Learn JavaScript](javascript/learn_javascript.md)
 - [Use a styleguide](javascript/use_a_style_guide.md)
 - [Beware of eval](javascript/beware_of_eval.md)
 - [Default Parameters for Functions](javascript/function_default_parameters.md)
-- [Learn JavaScript](javascript/learn_javascript.md)
+- [Console.log](javascript/console_log.md)
+- [Dynamic properties](javascript/dynamic_properties.md)
 
 <a id="jenkins"></a>
 ### Jenkins
@@ -531,6 +535,9 @@
 ### Liquid Prompt - see also Starship
 
 - [Install Liquid Prompt](liquidprompt/install_liquidprompt.md)
+
+<a id="macos"></a>
+### macOS - see OSX
 
 <a id="mailapp"></a>
 ### Mail.app
@@ -633,6 +640,7 @@
 <a id="perl"></a>
 ### Perl
 
+- [Use Perl](perl/use_perl.md)
 - [View generated SQL when using DBIx::Class](perl/view_generated_sql_when_using_dbix-class.md)
 - [Create Test Coverage Report Using Dist::Zilla](perl/create_test_coverage_report_uzing_dist-zilla.md)
 - [Avoid issues with META.yml with Module::Install](perl/avoid_issues_with_metayml_with_module_install.md)
@@ -642,6 +650,7 @@
 - [Read Input via Pipe](perl/read_input_via_pipe.md)
 - [Find out if a given Perl distribution is included in core](perl/find_out_if_a_given_perl_distribution_is_included_in_core.md)
 - [Find out what your perl minimum version requirement is](perl/find_out_what_your_perl_minimum_version_requirement_is.md)
+- [Use cpm](perl/use_cpm.md)
 
 <a id="perlbrew"></a>
 ### Perlbrew
@@ -693,7 +702,7 @@
 <a id="regexp></a>
 ### Regexp
 
-- [Regex Posix](regexp/regex_posix.md)
+- [Regex Posix](regexp/posix.md)
 
 <a id="renovate"></a>
 ### Renovate
@@ -719,6 +728,10 @@
 ### Ruby
 
 - [Dump objects attributes](ruby/dump_object_attributes.md)
+- [Use rbenv](ruby/use_rbenv.md)
+- [Use rvm](ruby/use_rvm.md)
+- [Use bundler](ruby/use_bundler.md)
+- [ignore in Git](ruby/ignore_in_git.md)
 
 <a id="rust"></a>
 ### Rust

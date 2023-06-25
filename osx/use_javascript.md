@@ -44,7 +44,7 @@ This script list all unfinished reminders from the default list.
 
 Do note that this script is _incredibly slow_, I have no idea, whether this is my implementation, since I am a **JavaScript** n00b, or whether it is the integration.
 
-## References
+## Resources and References
 
 - [Apple: Introduction to JavaScript for Automation Release Notes](https://developer.apple.com/library/archive/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/Articles/Introduction.html)
 - [Ars Technica: "OS X 10.10 Yosemite: The Ars Technica Review"](https://arstechnica.com/gadgets/2014/10/os-x-10-10/24/#javascript-automation)
