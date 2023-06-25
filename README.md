@@ -22,6 +22,7 @@
     - [colortail - colorfull variation of tail](#colortail---colorfull-variation-of-tail)
     - [CPAN - Perl Packages](#cpan---perl-packages)
     - [cpanm](#cpanm)
+    - [cpm](#cpm)
     - [crates - Rust packages](#crates---rust-packages)
     - [css](#css)
     - [curl](#curl)
@@ -218,6 +219,12 @@
 - [Use cpanm with CPAN::Mini](cpanm/use_cpanm_with_cpan-mini.md)
 - [Use cpanm with carton](cpanm/use_cpanm_with_carton.md)
 - [Tailing cpanm build log file](cpanm/tailing_cpanm_build_logfile.md)
+
+<a id="cpm"></a>
+### cpm
+
+- [Use cpm](cpm/use_cpm.md)
+- [Use cpm with cpanfile](cpm/use_cpm_with_cpanfile.md)
 
 <a id="crates"></a>
 ### crates - Rust packages
@@ -735,7 +742,7 @@
 <a id="shell"></a>
 ### Shell
 
-- [Suppress Colouring via env](shell/suppress_colouring_via_env.md)
+- [Suppress Coloring via env](shell/suppress_coloring_via_env.md)
 
 <a id="shellcheck"></a>
 ### shellcheck
@@ -790,7 +797,7 @@
 - [Emulate schemas](sqlite/emulate_schemas.md)
 - [Inserting dates](sqlite/insert_dates.md)
 - [Defaulting to now for date](sqlite/default_now_for_date.md)
-- [VARCHAR is just text](lsqlite/varchar_is_just_text.md)
+- [VARCHAR is just text](sqlite/varchar_is_just_text.md)
 
 <a id="sqlplus"></a>
 ### sqlplus - the CLI tool for Oracle
