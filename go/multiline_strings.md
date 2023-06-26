@@ -47,8 +47,8 @@ String literal example lifted from: [Digital Oceans Go sample][SHARK] for their 
 
 1. [Yourbasic.org][YOURBASIC]
 2. [Go Documentation on String Literal][GODOC]
-3. [Digital Ocean Go Sample][SHARK]
+3. [DigitalOcean Go Sample][SHARK]
 
 [GODOC]: https://go.dev/ref/spec#String_literals
 [YOURBASIC]: https://yourbasic.org/golang/multiline-string/
-[SHARK]: https://github.com/digitalocean/sample-golang)
+[SHARK]: https://github.com/digitalocean/sample-golang
