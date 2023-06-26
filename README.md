@@ -85,7 +85,7 @@
     - [qalc - an easy to use command line calculator](#qalc---an-easy-to-use-command-line-calculator)
     - [Regexp - regular expressions](#regexp---regular-expressions)
     - [Renovate - a bot for automating dependency updates](#renovate---a-bot-for-automating-dependency-updates)
-    - [REST](#rest)
+    - [REST - Representational State Transfer, a popular approach to building APIs](#rest---representational-state-transfer-a-popular-approach-to-building-apis)
     - [rm - remove files and directories on the command line](#rm---remove-files-and-directories-on-the-command-line)
     - [Ruby - an interpreted programming language](#ruby---an-interpreted-programming-language)
     - [Rust - a compiled programming language](#rust---a-compiled-programming-language)
@@ -725,7 +725,7 @@
 - [Hide the config](renovate/hide_the_config.md)
 
 <a id="rest"></a>
-### REST
+### REST - Representational State Transfer, a popular approach to building APIs
 
 - [Prototype with dummy APIs](rest/prototype_with_dummy_apis.md)
 - [Use proper headers](rest/use_proper_headers.md)
