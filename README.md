@@ -847,7 +847,7 @@
 <a id="swagger---see-also-openapi"></a>
 ### Swagger - tool for describing RESTful APIs, see also OpenAPI
 
-- [Swagger](swagger/edit_and_validate.md)
+- [Edit and Validate online](swagger/edit_and_validate.md)
 
 <a id="swift"></a>
 ### Swift - a compiled programming language from Apple
