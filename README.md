@@ -526,6 +526,10 @@
 - [Use jq](jq/use_jq.md)
 - [Concatenate two fields](jq/concatenate_two_fields.md)
 - [Sort using jq](jq/sort_using_jq.md)
+- [Count elements](jq/count_elements.md)
+- [Find and Extract object](jq/find_and_extract_object.md)
+- [Specify Colours](jq/specify_colours.md)
+- [Generate CSV file](jq/generate_csv_file.md)
 
 <a id="json"></a>
 ### JSON - see also XML and YAML
@@ -602,7 +606,7 @@
 <a id="openapi"></a>
 ### OpenAPI - a specification for describing RESTful APIs, see also Swagger
 
-- [Validating OpenAPI (Swagger) definition](openapi/validating_openapi_definition.md)
+- [Validating OpenAPI and Swagger definitions](openapi/validating_openapi_definition.md)
 
 <a id="openssl"></a>
 ### OpenSSL - a toolkit for SSL and TLS
