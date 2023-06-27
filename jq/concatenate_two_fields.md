@@ -1,5 +1,7 @@
 # Concatenate two fields in jq
 
+You can easily concatenate two fields in jq using the `+` operator.
+
 ```shell
 echo '{"channel": "youtube", "profile_type": "video", "member_key": "hello"}' \
  | jq '{channel: (.profile_type + "." + .channel)}'
