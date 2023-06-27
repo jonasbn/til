@@ -27,9 +27,25 @@ Do note that this displays a GUI dialog,
 
 ![GUI dialog](defaultbrowser.png)
 
-Currently there is no fix for this minor inexpediency, the dialog can be expedited with a swift `⇥` (tab) followed by a `␣` (space).
+If you want to go full command line, you have to tweak some settings on the newer versions of macOS. This is example is taken from: Ventura (`13.4.1`).
 
- :warning: this keyboard navigation seems to have been disabled in newer updates to **MacOS** :unamused:
+1. Open `System Settings`
+2. Choose `Accessibility`
+3. Choose `Keyboard` on the right hand side
+
+![Accessibility Settings](Settings-Accessibility.png)
+
+4. Choose `Keyboard Settings...`
+
+![Keyboard Settings](Keyboard.png)
+
+1. Toggle `Keyboard navigation` to `On`
+
+> Use keyboard navigation to move focus between controls. Press the Tab key to move forward, Shift-Tab to move backward, and Space to select.
+
+![Window with keyboard Shortcuts](Keyboard-Settings.png)
+
+Now you should be able to tab through the dialog and press `Space` to select the browser you just requested as your default browser.
 
 ## References
 
