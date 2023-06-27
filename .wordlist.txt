@@ -2023,3 +2023,4 @@ ANSIScreen
 Getopt
 Griesemer
 CSP
+wc

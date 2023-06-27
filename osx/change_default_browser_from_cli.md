@@ -49,7 +49,7 @@ Now you should be able to tab through the dialog and press `Space` to select the
 
 As bonus content I can offer you a CLI completion script for `defaultbrowser` for Bash
 
-- [GitHub: jonasbn/bashcompletion_defaultbrowser](https://github.com/jonasbn/bash_completion_defaultbrowser)
+- [GitHub: jonasbn/bash_completion_defaultbrowser](https://github.com/jonasbn/bash_completion_defaultbrowser)
 
 I myself have moved to Zsh and are using Fig. I have gotten [a PR](https://github.com/withfig/autocomplete/pull/1726) with a completion script (generator) for Fig accepted, so I am now using that.
 
