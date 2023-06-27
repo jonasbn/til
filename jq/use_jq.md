@@ -134,7 +134,8 @@ zsh> http https://api.dataforsyningen.dk/postnumre |jq --raw-output '.[] | .nr' 
 - [GitHub repository: jq][GITHUB]
 - [Blog post by Jesus Galvan][JGALVAN]
 - [Blog post by Ganest Chandrasekaran: "Parse JSON easily like a PRO"][GCHANDRASEKARAN]
-- [jq cheatsheet](https://gist.github.com/olih/f7437fb6962fb3ee9fe95bda8d2c8fa4)
+- [jq cheatsheet](https://gist.github.com/olih/f7437fb6962fb3ee9fe95bda8d2c8fa4) a gist
+- [jq cheatsjeet](https://lzone.de/cheat-sheet/jq) some HTML
 
 [GITHUB]: https://github.com/stedolan/jq
 [WEBSITE]: https://stedolan.github.io/jq/
