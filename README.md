@@ -602,7 +602,7 @@
 <a id="openapi"></a>
 ### OpenAPI - a specification for describing RESTful APIs, see also Swagger
 
-- [OpenAPI](openapi/validating_openapi_definition.md)
+- [Validating OpenAPI (Swagger) definition](openapi/validating_openapi_definition.md)
 
 <a id="openssl"></a>
 ### OpenSSL - a toolkit for SSL and TLS
