@@ -27,7 +27,7 @@ Complete example:
 
 Do yourself the favor of testing the URL before making commits containing it, it took me several attempts to get right.
 
-Thanks to the nice supporter from GitHub who helped me out.
+Thanks to the friendly supporter from GitHub who helped me out.
 
 ## References
 
