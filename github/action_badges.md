@@ -25,7 +25,11 @@ Complete example:
 
 - `![example workflow](https://github.com/jonasbn/til/actions/workflows/markdownlint.yml/badge.svg)`
 
-Do yourself the favor of testing the URL before making commits containing it, it took me several attempts to get right.
+If you then want to link the badge to the workflow, you can add the URL to the badge, like this:
+
+- `[![example workflow](https://github.com/jonasbn/til/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/jonasbn/til/actions/workflows/markdownlint.yml)`
+
+Do yourself the favor of testing the URL to the image and to the resource you are linking to before making commits containing it, it took me several attempts to get right.
 
 Thanks to the friendly supporter from GitHub who helped me out.
 
