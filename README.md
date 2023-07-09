@@ -3,6 +3,8 @@
 ![Markdownlint Action Status Badge](https://github.com/jonasbn/til/actions/workflows/markdownlint.yml/badge.svg)
 ![Spellcheck Action Status Badge](https://github.com/jonasbn/til/actions/workflows/spellcheck.yml/badge.svg)
 
+grave speling erorrrs and typeos
+
 ## Table of Contents
 
 <!-- MarkdownTOC levels="1,2,3" autoanchor="true" autolink="true" bracket=round indent="  " -->
@@ -17,9 +19,9 @@
     - [Bootstrap - web framework for fast prototyping](#bootstrap---web-framework-for-fast-prototyping)
     - [carton - tools for handling Perl distributions and dependencies local to a project](#carton---tools-for-handling-perl-distributions-and-dependencies-local-to-a-project)
     - [chezmoi - dot filer manager](#chezmoi---dot-filer-manager)
-    - [chrome - brower also known as chromium](#chrome---brower-also-known-as-chromium)
+    - [chrome - browser also known as chromium](#chrome---browser-also-known-as-chromium)
     - [clang - project for tools for building C, C++ and Objective-C](#clang---project-for-tools-for-building-c-c-and-objective-c)
-    - [colortail - colorfull variation of tail](#colortail---colorfull-variation-of-tail)
+    - [colortail - colorful variation of tail](#colortail---colorful-variation-of-tail)
     - [CPAN - Perl packages and distributions repository](#cpan---perl-packages-and-distributions-repository)
     - [cpanm - a fast CPAN module installer](#cpanm---a-fast-cpan-module-installer)
     - [cpm - alternative to cpanm](#cpm---alternative-to-cpanm)
@@ -59,7 +61,7 @@
     - [Jira - issue tracking and project management](#jira---issue-tracking-and-project-management)
     - [jq - a lightweight and flexible command-line JSON processor](#jq---a-lightweight-and-flexible-command-line-json-processor)
     - [JSON - see also XML and YAML](#json---see-also-xml-and-yaml)
-    - [Kali - a Linux distribution focussed on security and penetration testing](#kali---a-linux-distribution-focussed-on-security-and-penetration-testing)
+    - [Kali - a Linux distribution focused on security and penetration testing](#kali---a-linux-distribution-focused-on-security-and-penetration-testing)
     - [Liquid Prompt - see also Starship](#liquid-prompt---see-also-starship)
     - [macOS - see OSX](#macos---see-osx)
     - [Mail.app - the default mail client on macOS](#mailapp---the-default-mail-client-on-macos)
@@ -68,7 +70,7 @@
     - [Mermaid - awesome tool for generating diagrams from text](#mermaid---awesome-tool-for-generating-diagrams-from-text)
     - [Mojolicious - a Perl web framework](#mojolicious---a-perl-web-framework)
     - [MySQL - a relational database](#mysql---a-relational-database)
-    - [Nginx - a webserver, proxy and loadbalancer](#nginx---a-webserver-proxy-and-loadbalancer)
+    - [Nginx - a webserver, proxy and load-balancer](#nginx---a-webserver-proxy-and-load-balancer)
     - [npm - Node.js package manager](#npm---nodejs-package-manager)
     - [OpenAPI - a specification for describing RESTful APIs, see also Swagger](#openapi---a-specification-for-describing-restful-apis-see-also-swagger)
     - [OpenSSL - a toolkit for SSL and TLS](#openssl---a-toolkit-for-ssl-and-tls)
@@ -188,7 +190,7 @@
 - [Use chezmoi](chezmoi/use_chezmoi.md)
 
 <a id="chrome"></a>
-### chrome - brower also known as chromium
+### chrome - browser also known as chromium
 
 - [Add search shortcuts](chrome/add_search_shortcuts.md)
 
@@ -198,7 +200,7 @@
 - [Diagnostic flags in Clang](clang/diagnostic_flags.md)
 
 <a id="colortail"></a>
-### colortail - colorfull variation of tail
+### colortail - colorful variation of tail
 
 - [use colortail](colortail/use_colortail.md)
 
@@ -539,7 +541,7 @@
 - [Prettify JSON on the command line](json/prettify_json_on_the_command_line.md)
 
 <a id="kali"></a>
-### Kali - a Linux distribution focussed on security and penetration testing
+### Kali - a Linux distribution focused on security and penetration testing
 
 - [Set Keyboard Layout](kali/set_keyboard_layout.md)
 
@@ -592,7 +594,7 @@
 - [Setting the prompt](mysql/setting_the_prompt.md)
 
 <a id="nginx"></a>
-### Nginx - a webserver, proxy and loadbalancer
+### Nginx - a webserver, proxy and load-balancer
 
 - [Install Nginx](nginx/install_nginx.md)
 - [Listen on both IPv4 and IPv6](nginx/listen_on_both_ipv4_and_ipv6.md)

@@ -2024,3 +2024,14 @@ Getopt
 Griesemer
 CSP
 wc
+VSCode
+ufw
+Posix
+Webserver
+webserver
+loadbalancer
+gzip
+HyperText
+statuscode
+Bourne
+Silversurfer
