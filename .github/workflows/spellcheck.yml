@@ -14,7 +14,7 @@ jobs:
         output_file: spellcheck-output.txt
     - name: Check Spellcheck Status
       run: |
-        if [[ ${{ steps.spellcheck.outputs.exit_code }} != 0 ]]; then
+        if [[ "${{ jobs.spellcheck.result }}" -eq 'failed' ]]; then
           echo "Spellcheck failed. Check spellcheck-output.txt for details."
           exit 1
         fi
