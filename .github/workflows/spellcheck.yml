@@ -7,10 +7,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - uses: rojopolis/spellcheck-github-actions@0.33.0
-      name: Spellcheck
+    - name: Run Spellcheck
+      id: spellcheck
+      uses: rojopolis/spellcheck-github-actions@0.33.0
       with:
         output_file: spellcheck-output.txt
+    - name: Check Spellcheck Status
+      run: |
+        if [[ ${{ steps.spellcheck.outputs.exit_code }} != 0 ]]; then
+          echo "Spellcheck failed. Check spellcheck-output.txt for details."
+          exit 1
+        fi
     - uses: actions/upload-artifact@v3
       with:
         name: Spellcheck Output
