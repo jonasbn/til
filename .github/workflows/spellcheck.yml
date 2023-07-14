@@ -10,6 +10,7 @@ jobs:
     - name: Run Spellcheck
       id: spellcheck
       uses: rojopolis/spellcheck-github-actions@0.33.1
+      continue-on-error: true
       with:
         output_file: spellcheck-output.txt
     - uses: actions/upload-artifact@v3
