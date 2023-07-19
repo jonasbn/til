@@ -1,8 +1,12 @@
 # Diagnostic flags in Clang
 
-I maintain some Perl distributions which rely on C bindings. Often I loose track of what versions of **Clang** support which have which diagnostic flags, so I generated this matrix.
+I maintain some Perl distributions which rely on C bindings. Often I loose track of what versions of [Clang][CLANG] support which have which diagnostic flags, so I generated this matrix.
 
 It might contain errors since it is based on scraping the documentation web pages
+
+## Resources and References
+
+- [Clang][CLANG]
 
 | |[4.0.0](https://releases.llvm.org/4.0.0/tools/clang/docs/DiagnosticsReference.html)|[5.0.0](https://releases.llvm.org/5.0.0/tools/clang/docs/DiagnosticsReference.html)|[6.0.0](https://releases.llvm.org/6.0.0/tools/clang/docs/DiagnosticsReference.html)|[7.0.0](https://releases.llvm.org/7.0.0/tools/clang/docs/DiagnosticsReference.html)|[8.0.0](https://releases.llvm.org/8.0.0/tools/clang/docs/DiagnosticsReference.html)|[9.0.0](https://releases.llvm.org/10.0.0/tools/clang/docs/DiagnosticsReference.html)|[10.0.0](https://releases.llvm.org/10.0.0/tools/clang/docs/DiagnosticsReference.html)|[11.0.0](https://releases.llvm.org/11.0.0/tools/clang/docs/DiagnosticsReference.html)|[12.0.0](https://releases.llvm.org/12.0.0/tools/clang/docs/DiagnosticsReference.html)|[13.0.0](https://releases.llvm.org/13.0.0/tools/clang/docs/DiagnosticsReference.html)|[14.0.0](https://releases.llvm.org/14.0.0/tools/clang/docs/DiagnosticsReference.html)|[15.0.0](https://releases.llvm.org/15.0.0/tools/clang/docs/DiagnosticsReference.html)|[16.0.0](https://releases.llvm.org/16.0.0/tools/clang/docs/DiagnosticsReference.html)|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
@@ -980,3 +984,5 @@ It might contain errors since it is based on scraping the documentation web page
 |`-Wxor-used-as-pow`|-|-|-|-|-|[X](https://pxy.fi/10/wxor-used-as-pow)|[X](https://pxy.fi/10/wxor-used-as-pow)|[X](https://pxy.fi/11/wxor-used-as-pow)|[X](https://pxy.fi/12/wxor-used-as-pow)|[X](https://pxy.fi/13/wxor-used-as-pow)|[X](https://pxy.fi/14/wxor-used-as-pow)|[X](https://pxy.fi/15/wxor-used-as-pow)|[X](https://pxy.fi/16/wxor-used-as-pow)|
 |`-Wzero-as-null-pointer-constant`|-|-|[X](https://pxy.fi/6/wzero-as-null-pointer-constant)|[X](https://pxy.fi/7/wzero-as-null-pointer-constant)|[X](https://pxy.fi/8/wzero-as-null-pointer-constant)|[X](https://pxy.fi/10/wzero-as-null-pointer-constant)|[X](https://pxy.fi/10/wzero-as-null-pointer-constant)|[X](https://pxy.fi/11/wzero-as-null-pointer-constant)|[X](https://pxy.fi/12/wzero-as-null-pointer-constant)|[X](https://pxy.fi/13/wzero-as-null-pointer-constant)|[X](https://pxy.fi/14/wzero-as-null-pointer-constant)|[X](https://pxy.fi/15/wzero-as-null-pointer-constant)|[X](https://pxy.fi/16/wzero-as-null-pointer-constant)|
 |`-Wzero-length-array`|[X](https://pxy.fi/4/wzero-length-array)|[X](https://pxy.fi/5/wzero-length-array)|[X](https://pxy.fi/6/wzero-length-array)|[X](https://pxy.fi/7/wzero-length-array)|[X](https://pxy.fi/8/wzero-length-array)|[X](https://pxy.fi/10/wzero-length-array)|[X](https://pxy.fi/10/wzero-length-array)|[X](https://pxy.fi/11/wzero-length-array)|[X](https://pxy.fi/12/wzero-length-array)|[X](https://pxy.fi/13/wzero-length-array)|[X](https://pxy.fi/14/wzero-length-array)|[X](https://pxy.fi/15/wzero-length-array)|[X](https://pxy.fi/16/wzero-length-array)|
+
+[CLANG]: https://en.wikipedia.org/wiki/Clang

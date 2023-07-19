@@ -3,7 +3,7 @@
 ![Markdownlint Action Status Badge](https://github.com/jonasbn/til/actions/workflows/markdownlint.yml/badge.svg)
 ![Spellcheck Action Status Badge](https://github.com/jonasbn/til/actions/workflows/spellcheck.yml/badge.svg)
 
-grave speling erorrrs and typeos
+grave speling erorrrs and typeos oh yes
 
 ## Table of Contents
 
