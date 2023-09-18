@@ -14,7 +14,7 @@ grave speling erorrrs and typeos oh yes
   - [Categories](#categories)
     - [ack - an alternative to grep](#ack---an-alternative-to-grep)
     - [afplay - play audio files from the commandline on macOS](#afplay---play-audio-files-from-the-commandline-on-macos)
-    - [ag also known as the Silversurfer - fast alternative to ack and grep](#ag-also-known-as-the-silversurfer---fast-alternative-to-ack-and-grep)
+    - [ag - also known as the Silversurfer, fast alternative to ack and grep](#ag---also-known-as-the-silversurfer-fast-alternative-to-ack-and-grep)
     - [Bash - the Bourne Again Shell](#bash---the-bourne-again-shell)
     - [Bootstrap - web framework for fast prototyping](#bootstrap---web-framework-for-fast-prototyping)
     - [carton - tools for handling Perl distributions and dependencies local to a project](#carton---tools-for-handling-perl-distributions-and-dependencies-local-to-a-project)
@@ -143,7 +143,7 @@ grave speling erorrrs and typeos oh yes
 - [RTFM](afplay/rtfm.md)
 
 <a id="ag"></a>
-### ag also known as the Silversurfer - fast alternative to ack and grep
+### ag - also known as the Silversurfer, fast alternative to ack and grep
 
 - [Use ag](ag/use_ag.md)
 
