@@ -10,10 +10,10 @@ jobs:
     - name: Run Spellcheck
       id: spellcheck
       uses: rojopolis/spellcheck-github-actions@0.34.0
-      continue-on-error: true
       with:
         output_file: spellcheck-output.txt
     - uses: actions/upload-artifact@v3
+      if: '!cancelled()'
       with:
         name: Spellcheck Output
         path: spellcheck-output.txt
