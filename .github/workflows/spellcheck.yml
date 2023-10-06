@@ -7,11 +7,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
+
+    - uses: tj-actions/changed-files@v39
+      id: changed_files
+
     - name: Run Spellcheck
       id: spellcheck
       uses: rojopolis/spellcheck-github-actions@0.34.0
       with:
+        source_files: ${{ steps.changed_files.outputs.all_changed_files }}
         output_file: spellcheck-output.txt
+
     - uses: actions/upload-artifact@v3
       if: '!cancelled()'
       with:
