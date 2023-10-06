@@ -15,6 +15,7 @@ jobs:
       id: spellcheck
       uses: rojopolis/spellcheck-github-actions@0.34.0
       with:
+        task_name: Spellcheck
         source_files: ${{ steps.changed_files.outputs.all_changed_files }}
         output_file: spellcheck-output.txt
 
