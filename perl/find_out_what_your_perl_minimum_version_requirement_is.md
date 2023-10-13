@@ -20,8 +20,6 @@ You can use it on a single file:
    ------------------------------------------------
 ```
 
-Example
-
 Or you can use it on a directory, your distribution for example. Do note that this is not as fast as it is useful.
 
 ```bash
@@ -53,7 +51,23 @@ $ perlver .
 
 And as you can read the minimum is provided to you.
 
-Remember to specify in your minimum requirements in your distribution requirements or similar.
+If you want to find out as to why a certain version is required you can use the `--explain` flag.
+
+```bash
+$ perlver --blame lib/Test/Timer.pm
+
+ ------------------------------------------------------------
+ File    : lib/Test/Timer.pm
+ Line    : 3
+ Char    : 1
+ Rule    : _perl_5006_pragmas
+ Version : 5.006
+ ------------------------------------------------------------
+ use warnings;
+ ------------------------------------------------------------
+ ```
+
+Remember to specify in your minimum requirements in your distribution requirements or similar afterwards.
 
 ## Resources and References
 
