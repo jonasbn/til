@@ -21,6 +21,13 @@ X-Cache: HIT
 Content-Length: 1256
 ```
 
+Do note this does not work in combination with: `--data`/`-d`.
+
+> Warning: You can only select one HTTP request method! You asked for both POST
+> Warning: (-d, --data) and HEAD (-I, --head).
+
+Instead you should use: `--data-raw`/`-D`, then you can POST data and get the status code at the same time.
+
 ## Resources and References
 
 1. [SuperUser: Getting curl to output HTTP status code?](https://superuser.com/questions/272265/getting-curl-to-output-http-status-code)
