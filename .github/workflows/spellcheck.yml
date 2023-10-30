@@ -8,7 +8,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - uses: tj-actions/changed-files@v39
+    - uses: tj-actions/changed-files@v40
       id: changed_files
 
     - name: Run Spellcheck
