@@ -11,9 +11,12 @@ http https://jsonplaceholder.typicode.com/posts/1/comments | jq -r '.[] | [.id, 
 5,1,"vero eaque aliquid doloribus et culpa","Hayden@althea.biz"
 ```
 
+Do note the `-r/--raw-output` option . Is essential and is used to remove the double quotes from the output.
+
 ## Resources and References
 
 - [Blog post by Rich Rose: "Convert JSON to CSV with JQ"](https://richrose.dev/posts/linux/jq/jq-json2csv/)
 - [jq Manual: @csv](https://stedolan.github.io/jq/manual/#@csv)
 - [httpie](https://httpie.io/)
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+- [jq 1.7 Manual](https://devdocs.io/jq/)
