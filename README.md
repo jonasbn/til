@@ -714,6 +714,8 @@
 - [Old-school string formatting](python/old-school_string_formatting.md)
 - [What is wheel](python/what_is_wheel.md)
 - [How to detect pipe](python/how_to_detect_pipe.md)
+- [strptime: Convert a string representing date and time to an object](python/strptime.md)
+- [strftime: Convert a DateTime object to a string in a given format](pything/strftime.md)
 
 <a id="qalc"></a>
 ### qalc - an easy to use command line calculator
