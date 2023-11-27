@@ -666,6 +666,7 @@
 - [Find out if a given Perl distribution is included in core](perl/find_out_if_a_given_perl_distribution_is_included_in_core.md)
 - [Find out what your perl minimum version requirement is](perl/find_out_what_your_perl_minimum_version_requirement_is.md)
 - [Use cpm](perl/use_cpm.md)
+- [Fortmat numbers](perl/format_numbers.md)
 
 <a id="perlbrew"></a>
 ### Perlbrew - a tool for managing multiple Perl installations
