@@ -509,6 +509,7 @@
 - [Default Parameters for Functions](javascript/function_default_parameters.md)
 - [Console.log](javascript/console_log.md)
 - [Dynamic properties](javascript/dynamic_properties.md)
+- [Format Numbers](javascript/format_numbers.md)
 
 <a id="jenkins"></a>
 ### Jenkins - a continuous integration server
