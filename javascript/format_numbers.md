@@ -2,7 +2,7 @@
 
 The other day I fell over this when attempting to layout some basic ground rules for number formatting in our stack.
 
-JavaScripts NumberFormat is quite nice, there are corners it does not cover, but in general it is quite nice to use.
+NumberFormat for JavaScript is quite nice, there are corners it does not cover, but in general it is quite nice to use.
 
 ```javascript
 #!/usr/bin/env node

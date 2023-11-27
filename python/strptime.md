@@ -1,6 +1,6 @@
 # strptime
 
-I actually used this for a reference for solving some challenges for `jq` and I was reading some documentation which referenced `strftime`, when _googling_ I found this Python resource, which helped me, eventhough I should propably have found one in JavaScript anyway, this one worked for me.
+I actually used this for a reference for solving some challenges for `jq` and I was reading some documentation which referenced `strftime`, when _googling_ I found this Python resource, which helped me, even though I should probably have found one in JavaScript anyway, this one worked for me.
 
 `strptime` can convert a string in a given format to a DateTime object.
 

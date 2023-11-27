@@ -72,4 +72,4 @@ So `HEAD` is implicitly allowed with `GET` as far as I understand.
 
 ## Resources and References
 
-- [StackOverflow: "NGINX limit_except is not woking"](https://stackoverflow.com/questions/73808345/nginx-limit-except-is-not-woking)
+- [StackOverflow: "NGINX limit_except is not working"](https://stackoverflow.com/questions/73808345/nginx-limit-except-is-not-woking) - title corrected.

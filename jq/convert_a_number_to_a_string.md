@@ -1,6 +1,6 @@
 # Convert a number to a string
 
-When you are processing data using `jq` you might run into the problem that some numbers are acually numbers and not strings, so when you want to print them, you get an error.
+When you are processing data using `jq` you might run into the problem that some numbers are actually numbers and not strings, so when you want to print them, you get an error.
 
 This is how you convert a number to string for out.
 

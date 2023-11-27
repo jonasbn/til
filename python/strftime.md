@@ -1,6 +1,6 @@
 # strftime
 
-I was working with `jq` when I was reading some documentation which referenced `strftime`, when _googling_ I found this Python resource, which helped me, eventhough I should propably have found one in JavaScript anyway, this one worked for me.
+I was working with `jq` when I was reading some documentation which referenced `strftime`, when _googling_ I found this Python resource, which helped me, even though I should probably have found one in JavaScript anyway, this one worked for me.
 
 `strftime` can convert a DateTime object to a string in a given format.
 
