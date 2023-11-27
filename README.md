@@ -489,6 +489,7 @@
 <a id="irssi"></a>
 ### irssi - for all your IRC needs
 
+- [use irssi](irssi/use_irssi.md)
 - [Use password authentication on Freenode](irssi/use_password_authentication_on_freenode.md)
 
 <a id="itermapp"></a>
