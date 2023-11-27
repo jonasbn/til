@@ -532,6 +532,7 @@
 - [Find and Extract object](jq/find_and_extract_object.md)
 - [Specify Colours](jq/specify_colours.md)
 - [Generate CSV file](jq/generate_csv_file.md)
+- [Convert a number to a string](jq/convert_a_number_to_a_string.md)
 
 <a id="json"></a>
 ### JSON - see also XML and YAML
