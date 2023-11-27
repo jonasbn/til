@@ -16,5 +16,5 @@ matrix:
       - code
       - pre
   sources:
-  - '!_site/*.md|!osx/list_available_voices_for_speechsynthesis.md|!clang/diagnostic_flags.md|!.wordlist.txt!*.yml|!*.yaml|*/*.md|README.md'
+  - '!_site/*.md|!osx/list_available_voices_for_speechsynthesis.md|!clang/diagnostic_flags.md|!.wordlist.txt|!*.yml|!*.yaml|*/*.md|README.md'
   default_encoding: utf-8
