@@ -18,6 +18,10 @@ The cousin of `npm` is `yarn`. Yarn has a similar command to install dependencie
 yarn install --frozen-lockfile
 ```
 
+For more information on yarn's own lock file `yarn.lock`, see: [yarn.lock][YARNLOCK]
+
 ## Resources and References
 
 - ["Install npm packages from package-lock file"](https://koenwoortman.com/npm-install-from-package-lock/)
+
+[YARNLOCK]: https://classic.yarnpkg.com/lang/en/docs/yarn-lock/
