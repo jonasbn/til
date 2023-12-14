@@ -1,5 +1,17 @@
 # How to handle location header
 
+When a permanent redirect is encountered, the location header is used to indicate the new URL. The location header is used in the response to a GET request. The permanent redirect is indicated by the HTTP status code [301][MDN301].
+
+`curl` does not follow redirects by default, so you need to tell it to do so, like so:
+
+Long form:
+
+```bash
+curl --location <URL>
+```
+
+Short form:
+
 ```bash
 curl -L <URL>
 ```
@@ -54,8 +66,14 @@ strict-transport-security: max-age=300
 content-length: 845482
 ```
 
+And a brief note:
+
+> Use the -L, --location option to tell it to do that. When following redirects is enabled, curl will follow up to 50 redirects by default. You can change this number with the --max-redirs option.
+
 ## Resources and References
 
 - [StackOverflow: "How to retrieve the real redirect location header with Curl? without using {redirect_url}"](https://stackoverflow.com/questions/46507336/how-to-retrieve-the-real-redirect-location-header-with-curl-without-using-redi)
 - [StackOverflow: "Is there a way to follow redirects with command line cURL?"](https://stackoverflow.com/questions/18474690/is-there-a-way-to-follow-redirects-with-command-line-curl)
 - [SuperUser: "Getting curl to output HTTP status code?"](https://superuser.com/questions/272265/getting-curl-to-output-http-status-code)
+
+[MDN301]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/301
