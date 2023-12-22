@@ -1,5 +1,6 @@
 # Translate Release Names
 
+- Version 14: "Sonoma"
 - Version 13: "Ventura"
 - Version 12: "Monterey"
 - Version 11: "Big Sur"
