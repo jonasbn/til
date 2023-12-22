@@ -2042,3 +2042,6 @@ LZone
 programiz
 NginX
 NumberFormat
+Mantic
+Sonoma
+redirs
