@@ -4,6 +4,7 @@ The Debian release names are probably easy to remember for people working with t
 
 I located [this resource][debianreleases], so I can look up the releases and their in order in particular
 
+- Debian 12 _Bookworm_
 - Debian 11 _Bullseye_
 - Debian 10 _Buster_
 - Debian 9 _Stretch_
