@@ -906,6 +906,7 @@
 <a id="ufw"></a>
 ### ufw - Uncomplicated Firewall
 
+- [Use ufw](ufw/use_ufw.md)
 - [How to set up ufw](ufw/how_to_set_up_ufw.md)
 - [Enable or disable IPv6](ufw/disable_or_enable_ipv6.md)
 - [Allow HTTPS](ufw/allow_https.md)
