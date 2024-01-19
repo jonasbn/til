@@ -510,6 +510,7 @@
 - [Console.log](javascript/console_log.md)
 - [Dynamic properties](javascript/dynamic_properties.md)
 - [Format Numbers](javascript/format_numbers.md)
+- [SyntaxError: Unexpected token o in JSON at position 1](javascript/unexpected_token_o_in_json_at_position_1.md)
 
 <a id="jenkins"></a>
 ### Jenkins - a continuous integration server
