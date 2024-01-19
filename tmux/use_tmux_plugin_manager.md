@@ -8,7 +8,7 @@ Installation is via GitHub:
 $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-Add the following to your `~/.tmux.config`:
+Add the following to your `tmux` config (`$XDG_CONFIG_HOME/tmux/tmux.conf` or `~/.tmux.conf`):
 
 ```text
 # List of plugins
@@ -30,6 +30,8 @@ Source your newly updated configuration
 $ tmux source ~/.tmux.conf
 ```
 
+As mentioned the above might very depending on the location of your configuration file, `$XDG_CONFIG_HOME/tmux/tmux.conf` or `~/.tmux.conf`. Using: `$XDG_CONFIG_HOME` does declutter your `$HOME` directory.
+
 To install, in `tmux` you do:
 
 `prefix` + <kbd>I</kbd> (capital i, as in **I**nstall) to fetch the plugin, this also refreshes the `tmux` environment
@@ -40,6 +42,7 @@ And later to update from `tmux` do:
 
 Of noticable [plugins] I can mention:
 
+- [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
 - [Tmux Resurrect](https://github.com/tmux-plugins/tmux-resurrect) or [my til](use_tmux_resurrect.md)
 - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
 
