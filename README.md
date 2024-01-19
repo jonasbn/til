@@ -716,6 +716,7 @@
 - [How to detect pipe](python/how_to_detect_pipe.md)
 - [strptime: Convert a string representing date and time to an object](python/strptime.md)
 - [strftime: Convert a DateTime object to a string in a given format](pything/strftime.md)
+- [Zen of Python](python/zen_of_python.md)
 
 <a id="qalc"></a>
 ### qalc - an easy to use command line calculator
