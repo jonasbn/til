@@ -8,8 +8,12 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - uses: tj-actions/changed-files@v42
+    - name: Get all changed markdown files
+      uses: tj-actions/changed-files@v42
       id: changed_files
+      with:
+        files: |
+           **.md
 
     - name: Run Spellcheck
       id: spellcheck
