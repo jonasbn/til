@@ -424,6 +424,7 @@
 - [Use Dependabot for Docker](github_actions/use_dependabot_for_docker.md)
 - [Use Dependabot for Ruby](github_actions/use_dependabot_for_ruby.md)
 - [Use Dependabot for Python](github_actions/use_dependabot_for_python.md)
+- [Detect What Files Have Changed](github_actions/detect_what_files_have_changed.md)
 
 <a id="gnupg"></a>
 ### GnuPG - PGP tools, GNU variant
