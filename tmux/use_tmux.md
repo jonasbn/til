@@ -1,6 +1,6 @@
 # use tmux
 
-`tmux` is an awesome tool. I will try to get some of my bookmarked resources collected here. To begin with a nifty [cheatsheet][cheatsheet].
+`tmux` is an awesome tool. I will try to get some of my bookmarked resources collected here. To begin with a nifty [cheatsheet][redditcheatsheet] from Reddit or another [cheatsheet][cheatsheet].
 
 I found this great [article][statusbar] on how to customize the `tmux` status bar.
 
@@ -18,6 +18,7 @@ In can recommend [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) 
 - [Youtube: Video tutorial on tmux][video]
 
 [video]: https://youtu.be/DzNmUNvnB04?si=CG1U33TIEPJsBHME
-[cheatsheet]: https://i.redd.it/9eeanpxjucq21.png
+[redditcheatsheet]: https://i.redd.it/9eeanpxjucq21.png
+[cheatsheet]: http://tmuxcheatsheet.com/
 [statusbar]: https://arcolinux.com/everything-you-need-to-know-about-tmux-status-bar/
 [manpage]: (https://man.openbsd.org/tmux)
