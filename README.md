@@ -511,7 +511,7 @@
 - [Console.log](javascript/console_log.md)
 - [Dynamic properties](javascript/dynamic_properties.md)
 - [Format Numbers](javascript/format_numbers.md)
-- [SyntaxError: Unexpected token o in JSON at position 1](javascript/unexpected_token_o_in_json_at_position_1.md)
+- [SyntaxError: Unexpected token o in JSON at position 1](javascript/unexpected_token_o_in_jason_at_position_1.md)
 
 <a id="jenkins"></a>
 ### Jenkins - a continuous integration server
@@ -717,7 +717,7 @@
 - [What is wheel](python/what_is_wheel.md)
 - [How to detect pipe](python/how_to_detect_pipe.md)
 - [strptime: Convert a string representing date and time to an object](python/strptime.md)
-- [strftime: Convert a DateTime object to a string in a given format](pything/strftime.md)
+- [strftime: Convert a DateTime object to a string in a given format](python/strftime.md)
 - [Zen of Python](python/zen_of_python.md)
 
 <a id="qalc"></a>
