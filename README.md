@@ -13,6 +13,7 @@
   - [ag - also known as the Silversurfer, fast alternative to ack and grep](#ag---also-known-as-the-silversurfer-fast-alternative-to-ack-and-grep)
   - [Bash - the Bourne Again Shell](#bash---the-bourne-again-shell)
   - [Bootstrap - web framework for fast prototyping](#bootstrap---web-framework-for-fast-prototyping)
+  - [Bruno - an alternative to Postman](#bruno---an-alternative-to-postman)
   - [carton - tools for handling Perl distributions and dependencies local to a project](#carton---tools-for-handling-perl-distributions-and-dependencies-local-to-a-project)
   - [chezmoi - dot filer manager](#chezmoi---dot-filer-manager)
   - [chrome - browser also known as chromium](#chrome---browser-also-known-as-chromium)
@@ -168,6 +169,11 @@
 ### Bootstrap - web framework for fast prototyping
 
 - [Prevent wrapping of contents of code tags](bootstrap/prevent_wrapping_of_contents_of_code_tags.md)
+
+<a id="bruno">
+### Bruno - an alternative to Postman
+
+- [Use Bruno](bruno/use_bruno.md)
 
 <a id="carton"></a>
 ### carton - tools for handling Perl distributions and dependencies local to a project
