@@ -1,0 +1,32 @@
+meta {
+  name: List users
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{host}}/api/users
+  body: none
+  auth: bearer
+}
+
+headers {
+  Content-Type: application/json
+}
+
+auth:bearer {
+  token: {{bearer_token}}
+}
+
+assert {
+  res.status: eq 200
+  res.body.page: eq 1
+  res.body: isJson
+}
+
+tests {
+  test("Charles should be in the list", function() {
+      const users = res.body.data || [];
+      expect(users.some(user => user.first_name === 'Charles')).equals(true);
+  });
+}
