@@ -170,7 +170,7 @@
 
 - [Prevent wrapping of contents of code tags](bootstrap/prevent_wrapping_of_contents_of_code_tags.md)
 
-<a id="bruno">
+<a id="bruno"></a>
 ### Bruno - an alternative to Postman
 
 - [Use Bruno](bruno/use_bruno.md)
