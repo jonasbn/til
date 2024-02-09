@@ -42,6 +42,6 @@ setting for the Mojolicious web framework syntax plugin for **SublimeText**.
 
 [Mojo::Template]: https://metacpan.org/pod/Mojo::Template
 
-[EditorConfigSnippets]: (https://github.com/mfuentesg/EditorConfigSnippets
+[EditorConfigSnippets]: https://github.com/mfuentesg/EditorConfigSnippets
 
 [perlstyle]: https://perldoc.perl.org/perlstyle.html
