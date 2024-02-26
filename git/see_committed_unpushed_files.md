@@ -1,4 +1,4 @@
-# See Committed, Unspushed Files
+# See Committed, Unpushed Files
 
 Sometime I forget what files I have committed but not pushed. This command will show me the files that I have committed but not pushed.
 

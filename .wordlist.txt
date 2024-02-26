@@ -2066,7 +2066,7 @@ Gemfiles
 toc
 TOC
 unstaged
-Unspushed
+Unpushed
 arabic
 mips
 XavierCooney
