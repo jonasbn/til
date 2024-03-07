@@ -131,6 +131,7 @@ zsh> http https://api.dataforsyningen.dk/postnumre |jq --raw-output '.[] | .nr' 
 ## Resources and References
 
 - [jq Website][WEBSITE]
+- [jq playground][PLAYGROUND]
 - [GitHub repository: jq][GITHUB]
 - [Blog post by Jesus Galvan][JGALVAN]
 - [Blog post by Ganest Chandrasekaran: "Parse JSON easily like a PRO"][GCHANDRASEKARAN]
@@ -142,3 +143,4 @@ zsh> http https://api.dataforsyningen.dk/postnumre |jq --raw-output '.[] | .nr' 
 [WEBSITE]: https://stedolan.github.io/jq/
 [JGALVAN]: https://jsgv.io/blog/getting-started-with-jq/
 [GCHANDRASEKARAN]: https://medium.com/analytics-vidhya/parse-json-easily-like-a-pro-9decef2fd132
+[PLAYGROUND]: https://jqplay.org/
