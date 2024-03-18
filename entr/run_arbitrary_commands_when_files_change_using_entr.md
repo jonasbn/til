@@ -53,7 +53,6 @@ And we use nifty feature, we use the `--profile` flag to point to the file we wa
 ls t/perlcritic.rc
 ```
 
-
 And for building a basic Perl project, it sort of resembles the Go example above.
 
 ```bash

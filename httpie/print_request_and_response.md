@@ -51,7 +51,6 @@ And you have the following options:
 - `b` response body (default)
 - `m` response metadata
 
-
 If we only want the request headers:
 
 ```bash
