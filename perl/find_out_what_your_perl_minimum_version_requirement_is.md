@@ -1,4 +1,4 @@
-# Find out what your perl minimum version requirement is
+# Find out what your Perl minimum version requirement is
 
 This can be done quite easily using the magnificent tool: [Perl::MinimumVersion][PMV] by Neil Bowers.
 
