@@ -35,7 +35,7 @@ Do note:
 
 Another example is for `perlcritic`, the dominant linter for Perl.
 
-When you alter your Perl::Critic configuration outlined in the `perlcriticrc` file, you can run check your source code against the new configuration. This is a good practice when adopting a new Perl::Critic configuration or when starting to use Perl::Critic on a project, which has not been _critized_ before.
+When you alter your Perl::Critic configuration outlined in the `perlcriticrc` file, you can run check your source code against the new configuration. This is a good practice when adopting a new Perl::Critic configuration or when starting to use Perl::Critic on a project, which has not been _criticized_ before.
 
 ```bash
 ls t/perlcritic.rc |entr -c sh -c 'perlcritic --profile /_ lib'

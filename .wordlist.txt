@@ -2082,3 +2082,7 @@ Atbash
 substr
 Nim
 nim
+reqreq
+HTTPie
+pytest
+pragmaticlinux
