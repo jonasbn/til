@@ -151,3 +151,4 @@ You might also find these snippets useful:
 ## References:
 
 - [Visual Studio Marketplace: Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [Todo Tree Extension repository](https://github.com/Gruntfuggly/todo-tree)
