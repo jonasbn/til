@@ -26,3 +26,4 @@ I believe generated packages have the license: `ISC`. This is a permissive licen
 ## Resources and References
 
 - [package.json](https://docs.npmjs.com/cli/v10/configuring-npm/package-json)
+- [StackOverflow: "All Rights Reserved license in package.json"](https://stackoverflow.com/questions/31998202/all-rights-reserved-license-in-package-json)
