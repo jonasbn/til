@@ -2088,7 +2088,7 @@ pytest
 pragmaticlinux
 Nanz
 HanselMinutes
-Hanselminutes
+Hanselm inutes
 Grayson
 Jenni
 Nadler
@@ -2101,4 +2101,4 @@ Cobol
 enums
 reqbin
 explainshell
-        Explainshell
+Explainshell
