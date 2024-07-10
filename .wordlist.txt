@@ -2086,3 +2086,19 @@ reqreq
 HTTPie
 pytest
 pragmaticlinux
+Nanz
+HanselMinutes
+Hanselminutes
+Grayson
+Jenni
+Nadler
+TechTarget
+CamelCase
+camelCase
+StudlyCaps
+PSR
+Cobol
+enums
+reqbin
+explainshell
+        Explainshell
