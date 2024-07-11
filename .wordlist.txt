@@ -2102,3 +2102,5 @@ enums
 reqbin
 explainshell
 Explainshell
+Numbat
+Hanselminutes
