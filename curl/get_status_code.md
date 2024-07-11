@@ -78,7 +78,7 @@ Do note the warning from the last example.
 curl: (8) Weird server reply
 ```
 
-Good luck with your _curling_ - I can recommend reqres.in for testing your `curl` commands.
+Good luck with your _curling_ - I can recommend [reqres.in](https://reqres.in/) for playing around and learning purposes.
 
 ## Resources and References
 
