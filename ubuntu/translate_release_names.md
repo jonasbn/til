@@ -4,6 +4,7 @@ The Ubuntu release names are probably easy to remember for people working with t
 
 I located [this resource][ubuntureleases], so I can look up the releases and their in order in particular
 
+- Ubuntu 24.04 _Noble_ (Noble Numbat)
 - Ubuntu 23.10 _Mantic_ (Mantic Minotaur)
 - Ubuntu 23.04 _Lunar_ (Lunar Lobster)
 - Ubuntu 22.10 _Kinetic_ (Kinetic Kudu)
