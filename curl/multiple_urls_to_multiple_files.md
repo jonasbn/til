@@ -10,7 +10,7 @@ curl http://www.abc.com/123/{def}/{ghi}/{jkl}.mno -o '#1_#2_#3.mno'
 
 The tools are a combination of the curlys `{` and `}`, which markup the URL and the `#N` where `N` in the number indicating the sequence of the curlys. The `-o` flag is used to specify the output file name.
 
-I have access to a service that sends me a list of URLs in a JSON document. I can retrive these using `curl` and `jq` in combination and I can then use `xargs` and `curl` to download all the files.
+I have access to a service that sends me a list of URLs in a JSON document. I can retrieve these using `curl` and `jq` in combination and I can then use `xargs` and `curl` to download all the files.
 
 ```bash
 curl -X GET 'workservice.servingjsonwithlistofurls.plz' \
@@ -29,7 +29,7 @@ curl -X GET 'workservice.servingjsonwithlistofurls.plz' \
      | xargs -n1 curl -t -X GET -o '#1'
 ```
 
-The URLs from the service are in the format `http://www.abc.com/123/def/xl`. The Perl script will convert this to `http://www.abc.com/123/{def}/xl`. Then they cound be combined with `curl`, which then downloads the files one at a time and save them to disk.
+The URLs from the service are in the format `http://www.abc.com/123/def/xl`. The Perl script will convert this to `http://www.abc.com/123/{def}/xl`. Then they can be combined with `curl`, which then downloads the files one at a time and save them to disk.
 
 I hope this TIL will help you in your work with `curl` and downloading multiple files from a list of URLs.
 
