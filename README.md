@@ -786,6 +786,7 @@
 ### Shell - general shell tips
 
 - [Suppress Coloring via env](shell/suppress_coloring_via_env.md)
+- [Get your shell command explained visually](shell/explain_shell.com.md)
 
 <a id="shellcheck"></a>
 ### shellcheck - a linter for shell scripts
@@ -905,6 +906,9 @@
 - [Install updates via command line](ubuntu/install_updates_via_cli.md)
 - [How to enquire version](ubuntu/how_to_enquire_version.md)
 - [Translate release names](ubuntu/translate_release_names.md)
+- [How to add a user to sudoers](ubuntu/how_to_add_sudoers.md)
+- [How to add a user](ubuntu/how_to_add_user.md)
+- [How to check if a package is installed](ubuntu/how_to_check_if_a_package_is_installed.md)
 
 <a id="ufw"></a>
 ### ufw - Uncomplicated Firewall
@@ -913,6 +917,7 @@
 - [How to set up ufw](ufw/how_to_set_up_ufw.md)
 - [Enable or disable IPv6](ufw/disable_or_enable_ipv6.md)
 - [Allow HTTPS](ufw/allow_https.md)
+- [Allow HTTP on another port](ufw/allow_ssh_on_another_port.md)
 
 <a id="visual-studio-code"></a>
 ### VSCode / Visual Studio Code
