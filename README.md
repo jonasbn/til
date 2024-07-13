@@ -110,6 +110,7 @@
   - [tokei - language statistics - fast](#tokei---language-statistics---fast)
   - [Ubuntu - a Linux distribution based on Debian](#ubuntu---a-linux-distribution-based-on-debian)
   - [ufw - Uncomplicated Firewall](#ufw---uncomplicated-firewall)
+  - [vim - a text editor](#vim---a-text-editor)
   - [VSCode / Visual Studio Code](#vscode--visual-studio-code)
   - [VMware Fusion - a virtualization tool for macOS](#vmware-fusion---a-virtualization-tool-for-macos)
   - [Vue - a JavaScript framework](#vue---a-javascript-framework)
@@ -918,6 +919,12 @@
 - [Enable or disable IPv6](ufw/disable_or_enable_ipv6.md)
 - [Allow HTTPS](ufw/allow_https.md)
 - [Allow HTTP on another port](ufw/allow_ssh_on_another_port.md)
+
+<a id="vim"></a>
+### vim - a text editor
+
+- [Use vim-plug](vim/use_vim-plug.md)
+- [Cannot install vim plugin](vim/cannot_install_vim_plugin.md)
 
 <a id="visual-studio-code"></a>
 ### VSCode / Visual Studio Code
