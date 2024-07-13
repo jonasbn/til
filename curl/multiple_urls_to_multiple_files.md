@@ -40,3 +40,6 @@ _Nothing a one-liner cannot solve in a few hours of work, that could be accompli
 - [StackOverflow: Running programs in parallel using xargs](https://stackoverflow.com/questions/28357997/running-programs-in-parallel-using-xargs)
 - [Awesome Guide on Perl one-liners](https://www.ccg.unam.mx/~vinuesa/tlem/pdfs/TPR_one-liners.pdf) (PDF)
 - [StackExchange: Write output of wget or curl to a custom filename based on the url](https://unix.stackexchange.com/questions/91570/write-output-of-wget-or-curl-to-a-custom-filename-based-on-the-url)
+- [ServerFault: How can I download multiple files stored in a text file with curl and xargs?](https://serverfault.com/questions/155832/how-can-i-download-multiple-files-stored-in-a-text-file-with-curl-and-xargs)
+- [StackOverflow: How to use jq wildcard](https://stackoverflow.com/questions/56355822/how-to-use-jq-wildcard)
+- [StackExchange: curl download multiple files with brace syntax](https://unix.stackexchange.com/questions/243134/curl-download-multiple-files-with-brace-syntax)
