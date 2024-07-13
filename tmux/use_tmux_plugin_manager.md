@@ -45,6 +45,7 @@ Of noticable [plugins] I can mention:
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
 - [Tmux Resurrect](https://github.com/tmux-plugins/tmux-resurrect) or [my til](use_tmux_resurrect.md)
 - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
+- [arcticicestudio/nord-tmux](https://github.com/nordtheme/tmux)
 
 Or check this [repository of plugins][plugins]
 

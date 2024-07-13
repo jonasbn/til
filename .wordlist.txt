@@ -2104,3 +2104,8 @@ explainshell
 Explainshell
 Numbat
 Hanselminutes
+arcticicestudio
+nord
+dircolors
+nordtheme
+Nord
