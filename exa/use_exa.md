@@ -1,6 +1,6 @@
 # Use exa
 
-`exa` is an alternative to `ls`.
+`exa` is an alternative to `ls`, since replaced by `eza` (a maintained fork of `exa`).
 
 One of it's features is show icons on the command line.
 
@@ -24,11 +24,14 @@ alias la='exa --grid --all --color auto --icons --sort=type'
 alias lla='exa --long --all --color auto --icons --sort=type'
 ```
 
+I attempted to install `exa` on Ubuntu, but it was not available in the package manager, it has apparently been replaced with `eza` a maintained fork of `exa`.
+
 ## Resources and References
 
-1. [the.exa.website][website]
-1. [dev.to: "My terminal became more Rusty 🦀" by Mahmoud Ashraf](https://dev.to/22mahmoud/my-terminal-became-more-rusty-4g8l)
-2. [Install Nerd fonts on Linux][installfonts]
+- [Exa Website][website]
+- [dev.to: "My terminal became more Rusty 🦀" by Mahmoud Ashraf](https://dev.to/22mahmoud/my-terminal-became-more-rusty-4g8l)
+- [Install Nerd fonts on Linux][installfonts]
+- [GitHub: eza](https://github.com/eza-community/eza)
 
 [website]: https://the.exa.website/
 [fontissue]: https://github.com/ogham/exa/issues/765

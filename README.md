@@ -37,7 +37,7 @@
   - [dzil - Dist::Zilla, a Perl distribution builder](#dzil---distzilla-a-perl-distribution-builder)
   - [EditorConfig - tool for generic text editor configuration](#editorconfig---tool-for-generic-text-editor-configuration)
   - [entr - run arbitrary commands when files change](#entr---run-arbitrary-commands-when-files-change)
-  - [exa - an alternative to the ls command](#exa---an-alternative-to-the-ls-command)
+  - [exa/eza - an alternative to the ls command](#exaeza---an-alternative-to-the-ls-command)
   - [FileMerge.app - a diff tool for macOS](#filemergeapp---a-diff-tool-for-macos)
   - [find - find files and directories on the command line](#find---find-files-and-directories-on-the-command-line)
   - [Git - version control system](#git---version-control-system)
@@ -348,7 +348,7 @@
 - [Run arbitrary commands when files change using entry](entr/run_arbitrary_commands_when_files_change_using_entr.md)
 
 <a id="exa"></a>
-### exa - an alternative to the ls command
+### exa/eza - an alternative to the ls command
 
 - [Use exa](exa/use_exa.md)
 
@@ -999,7 +999,7 @@ TIL snippets, this will be done when I have the time, one TIL at a time :-)
 <a id="license"></a>
 ## License
 
-&copy; 2016-2022 jonasbn
+&copy; 2016-2024 jonasbn
 
 This repository is licensed under the MIT license. See [LICENSE](LICENSE) file
 for details. Much is lifted from elsewhere and might by copyrighted under other
