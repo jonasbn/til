@@ -2109,3 +2109,4 @@ nord
 dircolors
 nordtheme
 Nord
+nordtheme
