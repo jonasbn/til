@@ -75,7 +75,7 @@ unknown option: --wrap-sign
 
 Which is a problem, since it seems that the `fzf` version is not compatible with the `key-bindings.bash` file and `--wrap-sign` was not introduced until version `0.54.0`.
 
-I did clone the repository, so I could use the files in the `shell/` directory, but now I get a maintenance mix of versions and management options for a single tool.
+I did clone the repository, so I could use the files in the `shell/` directory, but now I get a mainte      nance mix of versions and management options for a single tool.
 
 - I could hard-copy the `key-bindings.bash` file and remove the `--wrap-sign` option, but I would rather use the `fzf` version from the repository
 - I could checkout the GitHub repository at a certain revision, but then I would have to manage the version myself
