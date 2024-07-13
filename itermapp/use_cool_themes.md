@@ -34,4 +34,3 @@ Does require **vim-plug** for use, see my TIL on [how to use vim-plug](../vim/us
 [dircolors]: https://github.com/nordtheme/dircolors
 [tmux]: https://github.com/nordtheme/tmux
 [vim]: https://github.com/nordtheme/vim
-

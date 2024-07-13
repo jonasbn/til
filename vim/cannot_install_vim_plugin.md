@@ -22,7 +22,7 @@ I experiences this issue with the Nord theme, where the documentation states:
 Plug 'arcticstudio/nord-vim'
 ```
 
-But the GtiHub repository is called `nordtheme/vim`.
+But the GitHub repository is called `nordtheme/vim`.
 
 So my `.vimrc` ended up looking like this:
 
