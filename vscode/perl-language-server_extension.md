@@ -2,7 +2,16 @@
 
 **VScode** is a magnificent tool. Since I maintain a few Perl distributions, I am always interested in having good Perl support in my tooling, which is often not the case, since Perl is often treated as dead language.
 
-Anyway there is a Perl Language Server Extension for VScode, which is a great tool to have.
+Anyway there is a Perl Language Server Extension for VScode, which is a great tool to use.
+
+Do note there are actually two implementations:
+
+- [VScode MarketPlace: Perl][MARKETPERL]
+- [VScode Perl Language Server (PLS)][MARKETPLS]
+
+I have used both and they can be installed in parallel. I have not experienced any conflicts. However you might need to double down on configuration, I believe the challenges of include paths and general configuration is somewhat similar for both - from my point of view I was looking at activity, but it might come down to best debugger integration.
+
+Now let's continue with PLS.
 
 These are my notes on how I have set it up.
 
@@ -79,6 +88,12 @@ There are possibly smart ways to work with this and I am still exploring the pos
 
 ## Resources and References
 
-- [VScode MarketPlace: Perl Language Server Extension](https://marketplace.visualstudio.com/items?itemName=FractalBoy.pls)
-- [MetaCPAN: Perl Language Server Extension](https://metacpan.org/pod/PLS)
-- [GitHub: Perl Language Server Extension](https://github.com/FractalBoy/perl-language-server)
+- [VScode Perl Language Server (PLS)][MARKETPLS]
+- [MetaCPAN: PLS](https://metacpan.org/pod/PLS)
+- [GitHub: FractalBoy/perl-language-server (PLS)](https://github.com/FractalBoy/perl-language-server)
+- [VScode MarketPlace: Perl][MARKETPERL]
+- [MetaCPAN: Perl::LanguageServer](https://metacpan.org/pod/Perl::LanguageServer)
+- [GitHub: richterger](https://github.com/richterger/Perl-LanguageServer)
+
+[MARKETPERL]: https://marketplace.visualstudio.com/items?itemName=richterger.perl-language-server
+[MARKETPLS]: https://marketplace.visualstudio.com/items?itemName=FractalBoy.pls
