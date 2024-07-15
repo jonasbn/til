@@ -78,7 +78,7 @@ And since I am using `perlbrew` I have to specify the path to the Perl executabl
     "pls.syntax.perl": "/Users/jonasbn/perl5/perlbrew/perls/perl-5.40.0/bin/perl"
 ```
 
-There are possibly smart ways to work with this and I am still exploring the possibilities. The reason for ending here was that it does not seem possible to use the **VScode** variables in the configuration, which would have been a great way to specify the path to the varies libries along the lines of this:
+There are possibly smart ways to work with this and I am still exploring the possibilities. The reason for ending here was that it does not seem possible to use the **VScode** variables in the configuration, which would have been a great way to specify the path to the varies libraries along the lines of this:
 
 ```
 "pls.inc": [

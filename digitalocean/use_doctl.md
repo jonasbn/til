@@ -10,7 +10,7 @@ I [responded to a question on StackOverflow](https://stackoverflow.com/questions
 
 At the time of responding I was using version: `doctl version 1.98.1-release`
 
-SSH does however still not seem to be availabe:
+SSH does however still not seem to be available:
 
 ```bash
 doctl apps help

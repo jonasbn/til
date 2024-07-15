@@ -1944,7 +1944,7 @@ GMP
 MPFR
 choco
 Ventura
-Monterey
+MontereyLanguageServer
 richgo
 pythonwheels
 sshd
@@ -2111,3 +2111,9 @@ nordtheme
 Nord
 nordtheme
 eza
+zoxide
+FractalBoy
+PLS
+LanguageServer
+richterger
+Monterey
