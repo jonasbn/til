@@ -118,7 +118,8 @@
   - [wtf util - a tool for the command line for visualising important information](#wtf-util---a-tool-for-the-command-line-for-visualising-important-information)
   - [XML - see also YAML and JSON](#xml---see-also-yaml-and-json)
   - [YAML - see also XML and JSON](#yaml---see-also-xml-and-json)
-  - [z - for jumping around in the commandline](#z---for-jumping-around-in-the-commandline)
+  - [z - for jumping around in the file structures, an alternative to cd](#z---for-jumping-around-in-the-file-structures-an-alternative-to-cd)
+  - [zoxide - an alternative to z](#zoxide---an-alternative-to-z)
   - [zsh - another shell than bash](#zsh---another-shell-than-bash)
 - [About](#about)
 - [Additional TIL Collections](#additional-til-collections)
@@ -975,9 +976,14 @@
 - [How to syntax check a YAML file](yaml/howto_syntax_check_a_yaml_file.md)
 
 <a id="z"></a>
-### z - for jumping around in the commandline
+### z - for jumping around in the file structures, an alternative to cd
 
 - [Jumping Around Using z](z/jump_around.md)
+
+<a id="zoxide>
+### zoxide - an alternative to z
+
+- [Use zoxide](zoxide/use_zoxide.md)
 
 <a id="zsh"></a>
 ### zsh - another shell than bash
