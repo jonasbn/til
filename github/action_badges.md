@@ -35,6 +35,8 @@ Do yourself the favor of testing the URL to the image and to the resource you ar
 
 Thanks to the friendly supporter from GitHub who helped me out.
 
+There are a multitude of options for badges, do checkout [shields.io][shields.io] for more badges, because you _need  sti***ng_ badges.
+
 ## References
 
 - [GitHub: "Adding a workflow status badge"](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge)
@@ -44,3 +46,4 @@ Thanks to the friendly supporter from GitHub who helped me out.
 
 [github_actions]: https://help.github.com/en/github/automating-your-workflow-with-github-actions/setting-up-continuous-integration-using-github-actions
 [github_badges]: https://help.github.com/en/github/automating-your-workflow-with-github-actions/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository
+[shields.io]: https://shields.io/badges/git-hub-actions-workflow-status
