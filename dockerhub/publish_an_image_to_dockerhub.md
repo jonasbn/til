@@ -30,6 +30,16 @@ And if you use versioning, push the same image with a tag
 $ docker push jonasbn/myimage:0.1.0
 ```
 
+If you get the error: `denied: requested access to the resource is denied`
+
+It might be due to the fact that you are not logged in, so check that before you start investigating all kinds of other things.
+
+REF: [StackOverflow: docker push error "denied: requested access to the resource is denied"](https://stackoverflow.com/questions/43858398/docker-push-error-denied-requested-access-to-the-resource-is-denied)
+
+I found an interesting article on tagging.
+
+- [How-to-geek: How to Add, Replace, and Remove Docker Image Tags](https://www.howtogeek.com/devops/how-to-add-replace-and-remove-docker-image-tags/#removing-tags)
+
 ## Resources and References
 
 - [DockerHub][dockerhub]
