@@ -2117,3 +2117,13 @@ PLS
 LanguageServer
 richterger
 Monterey
+gpg
+infertux
+SHA
+checksums
+openssf
+ossf
+ov
+ng
+sti
+gpg
