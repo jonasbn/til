@@ -11,7 +11,7 @@ Thanks @larsbalker
 The Perl solution is:
 
 ```perl
-perl -e "unlink '-v'";
+perl -e "unlink '-v'"
 ```
 
 ## References
