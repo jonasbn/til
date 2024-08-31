@@ -8,7 +8,7 @@ I am not a C-programmer at all, but that does not mean that I am not impressed w
 
 ## Resources and References
 
-- [Godboldt][GODBOLT]
+- [Godbolt][GODBOLT]
 - [Programming Throwdown](https://www.programmingthrowdown.com/)
 - [Programming Throwdown podcast episode 155][EPISODE155]
 
