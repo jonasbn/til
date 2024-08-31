@@ -1,10 +1,10 @@
 # Test::Compile
 
-Test::Compile is a nice module to test the compilation of all the modules and scripts in a distribution. It is a good practice to include a test script that checks the compilation of all the modules in a distribution. This is a simple way to catch syntax errors and other compilation errors before the distribution is installed.
+[Test::Compile][METACPAN] is a nice module to test the compilation of all the modules and scripts in a distribution. It is a good practice to include a test script that checks the compilation of all the modules in a distribution. This is a simple way to catch syntax errors and other compilation errors before the distribution is installed.
 
 And you can with luck use it in a CI/CD pipeline to catch errors before they are deployed.
 
-This is the common way to use Test::Compile:
+This is the common way to use [Test::Compile][METACPAN].
 
 ```perl
 #!perl
@@ -95,4 +95,6 @@ The recommendation is to put the Test::Compile test in the `t/` directory and na
 
 ## Resources and References
 
-- [MetaCPAN: Test::Compile](https://metacpan.org/pod/Test::Compile)
+- [MetaCPAN: Test::Compile][METACPAN]
+
+[METACPAN]: https://metacpan.org/pod/Test::Compile
