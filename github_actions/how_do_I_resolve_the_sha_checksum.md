@@ -30,7 +30,7 @@ https://github.com/actions/checkout/commit/b4ffde65f46336ab88eb53be808477a3936ba
 
 The last part is what we need: `b4ffde65f46336ab88eb53be808477a3936bae11` and we are good to go.
 
-Do note Dependabot should be able to handle these and AFAIK see from resolved issues, it will event annotate with the tag used, so you get a little bit of a hint for human consumption.
+Do note Dependabot should be able to handle these and AFAIK see from resolved issues, it will annotate with the tag used, so you get a little bit of a hint for human consumption.
 
 Meaning that:
 
