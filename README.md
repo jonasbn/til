@@ -436,7 +436,7 @@
 - [Use Dependabot for Python](github_actions/use_dependabot_for_python.md)
 - [Detect What Files Have Changed](github_actions/detect_what_files_have_changed.md)
 - [Pin Your Action Dependencies](github_actions/pin_your_action_dependencies.md)
-- [How do I resolved the SHA checksums](github_actions/how_do_i_resolved_the_sha_checksums.md)
+- [How do I resolve the SHA checksum for pinning](github_actions/how_do_I_resolve_the_sha_checksum.md)
 - [Use checkout action](github_actions/use_checkout.md)
 
 <a id="gnupg"></a>
