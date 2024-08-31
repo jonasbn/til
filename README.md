@@ -14,6 +14,7 @@
   - [Bash - the Bourne Again Shell](#bash---the-bourne-again-shell)
   - [Bootstrap - web framework for fast prototyping](#bootstrap---web-framework-for-fast-prototyping)
   - [Bruno - an alternative to Postman](#bruno---an-alternative-to-postman)
+  - [C - compiled programming language](#c---compiled-programming-language)
   - [carton - tools for handling Perl distributions and dependencies local to a project](#carton---tools-for-handling-perl-distributions-and-dependencies-local-to-a-project)
   - [chezmoi - dot filer manager](#chezmoi---dot-filer-manager)
   - [chrome - browser also known as chromium](#chrome---browser-also-known-as-chromium)
@@ -176,6 +177,11 @@
 ### Bruno - an alternative to Postman
 
 - [Use Bruno](bruno/use_bruno.md)
+
+<a id="c"></a>
+### C - compiled programming language
+
+- [Inspect your C using Godbolt](c/inspect_your_c_using_godbolt.md)
 
 <a id="carton"></a>
 ### carton - tools for handling Perl distributions and dependencies local to a project
