@@ -4,7 +4,7 @@ Test::Compile is a nice module to test the compilation of all the modules and sc
 
 And you can with luck use it in a CI/CD pipeline to catch errors before they are deployed.
 
-This is the commoon way to use Test::Compile:
+This is the common way to use Test::Compile:
 
 ```perl
 #!perl
