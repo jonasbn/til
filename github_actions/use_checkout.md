@@ -31,6 +31,20 @@ In order to resolve the SHA checksums do see my TIL on that [How do I resolve th
 
 The action has a lot of options that you can use to customize the behavior. You can find more information about the action in the [GitHub Marketplace][checkout].
 
+## Fetch Depth
+
+The `fetch-depth` option allows you to specify how many commits to fetch. By default, the action fetches the latest commit only. If you want to fetch all commits, you can set the `fetch-depth` to `0`.
+
+This is used by the action for goreleaser, which is used to build precompiled binaries. Do see my TIL on that [Build Precompiled Binaries](../github/build_precompiled_binaries.md).
+
+```yaml
+    steps:
+      - name: Checkout
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+        with:
+          fetch-depth: 0
+```
+
 ## Resources and References
 
 - [GitHub Action: checkout][checkout]

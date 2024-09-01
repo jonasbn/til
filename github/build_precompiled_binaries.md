@@ -2,7 +2,7 @@
 
 One of the reasons why I love open source, is that you can see what other people are doing, you can read, learn and adopt.
 
-One of the projects I am following had the following [PR](https://github.com/rakyll/gotest/pull/38/files). It was a proposal for building executables for multiple platforms and operating systems for you particular executable.
+One of the projects I am following had the following [PR](https://github.com/rakyll/gotest/pull/38/files). It was a proposal for building executables for multiple platforms and operating systems for your particular executable.
 
 Since I am currently learning Go and I am building some small utilities, which happen to be executables. I decided to see if I could use this in my projects.
 
@@ -46,6 +46,13 @@ The `GITHUB_TOKEN` used by the build is [auto-generated][GITHUBDOCS], so you do 
 
 The workflow uses an action for **goreleaser** which is available on the GitHub Marketplace.
 
+Do note the `fetch-depth: 0` option, this is used to ensure that all commits are fetched, so the build can be based on the latest commit.
+
+> IMPORTANT: note the fetch-depth: 0 input in Checkout step. It is required for the changelog to work correctly.
+>
+
+REF: [GitHub Marketplace: goreleaser][GORELEASER]
+
 Next up is the configuration for **goreleaser**.
 
 Second file `.goreleaser.yml`:
@@ -70,7 +77,7 @@ checksum:
   name_template: 'checksums.txt'
 ```
 
-If you want to see the above put to use go to [my repository](https://github.com/jonasbn/punycode), check the releases a see the impressive list.
+If you want to see the above put to use go to [my repository](https://github.com/jonasbn/punycode), check the releases and see the impressive list.
 
 ## Resources and References
 
