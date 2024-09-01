@@ -1,6 +1,6 @@
 # Pin Your Action Dependencies
 
-When you write a GitHub Actions workflow, you can use actions from the GitHub Marketplace or from a public repository. It is [recommended to pin the version of the action][[GITHUBDOCS] you are using to ensure that your workflow is stable and does not break or expose your repository due to changes in the action.
+When you write a GitHub Actions workflow, you can use actions from the GitHub Marketplace or from a public repository. It is [recommended to pin the version of the action][GITHUBDOCS] you are using to ensure that your workflow is stable and does not break or expose your repository due to changes in the action.
 
 > You can help mitigate this risk by following these good practices:
 > Pin actions to a full length commit SHA
