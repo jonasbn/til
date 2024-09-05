@@ -403,6 +403,7 @@
 - [Get Name of Current Branch](git/get_name_of_current_branch.md)
 - [Use pre-commit](git/use_pre-commit.md)
 - [Ignore Git](git/ignore_git.md)
+- [Sort git tags](git/sort_git_tags.md)
 
 <a id="git-delta"></a>
 ### git-delta - an commandline diff tool, also known as delta
