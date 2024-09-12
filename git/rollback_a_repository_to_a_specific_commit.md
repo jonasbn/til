@@ -15,3 +15,4 @@ $ git push <reponame> -f
 ## References
 
 - [StackOverflow](https://stackoverflow.com/questions/1616957/how-do-you-roll-back-reset-a-git-repository-to-a-particular-commit)
+- [Oh shit, Git!?](https://ohshitgit.com/)
