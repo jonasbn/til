@@ -221,6 +221,7 @@
 - [Test::Pretty](cpan/test-pretty.md)
 - [Parsing Gitignore](cpan/parsing_gitignore.md)
 - [Install DateTime::Astro](cpan/install_datetime_astro.md)
+- [Getopt::Long](cpan/getopt-long.md)
 
 <a id="cpanm"></a>
 ### cpanm - a fast CPAN module installer
