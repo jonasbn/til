@@ -66,6 +66,59 @@ As I add more and more Markdown the warnings/recommendations start to appear and
 }
 ```
 
+## Decluttering Your Repository Root Directory
+
+As your toolbox grow and your repository adopt more and more tooling, you might experience that your repository root directory clutters with all sort of repository specific configurations.
+
+Luckily the action can be configured to point to an alternative path for the configuration file:
+
+```yaml
+with:
+    files: .
+    config_file: ".markdownlint.json"
+```
+
+You can move the file into a sub-directory, for example `.github/`.
+
+```yaml
+with:
+    files: .
+    config_file: ".github/markdownlint.json"
+```
+
+## Avoiding Markdownlint Conflicts
+
+Sometimes you adopt Markdown files from other projects and these might not adhere to your specific Markdown linting ruleset and hence they will get reported as items for your attention.
+
+Examples of these files can be:
+
+- License descriptions
+- Code of Conduct Policy
+
+Luckily **Markdownlint-CLI** supports adding an ignore file as you know it from Git ignore files.
+
+An example for a `markdownlintignore` file:
+
+```
+LICENCE.md
+CODE_OF_CONDUCT.md
+```
+
+Next step is telling the action about the location of the ignore file:
+
+```yaml
+with:
+    files: .
+    config_file: ".github/markdownlint.json"
+    ignore_path: ".github/markdownlintignore"
+```
+
+This does mean that you might have some challenges in regards to the additional tooling, like VScode and the command line tool.
+
+AFAICT the VScode extension does not allow for configuring the path to the ignore file.
+
+The CLI tool has the following options: `-p/--ignore-path`, but these take path arguments and not the path to an ignore file, so some cluttering will occur.
+
 ## Resources and References
 
 - [GitHub Marketplace: Markdownlint-CLI][MARKETPLACE]
