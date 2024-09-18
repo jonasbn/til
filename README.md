@@ -7,6 +7,7 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Categories](#categories)
   - [ack - an alternative to grep](#ack---an-alternative-to-grep)
   - [afplay - play audio files from the commandline on macOS](#afplay---play-audio-files-from-the-commandline-on-macos)
@@ -765,6 +766,7 @@
 ### rm - remove files and directories on the command line
 
 - [Delete files with names resembling cli options](rm/delete_files_with_names_resembling_cli_options.md)
+- [Are you sure?](rm/are_you_sure.md)
 
 <a id="ruby"></a>
 ### Ruby - an interpreted programming language
@@ -800,6 +802,8 @@
 
 - [Suppress Coloring via env](shell/suppress_coloring_via_env.md)
 - [Get your shell command explained visually](shell/explain_shell.com.md)
+- [Nifty aliases](shell/nifty_aliases.md)
+- [Testing Using Bats](shell/testing_using_bats.md)
 
 <a id="shellcheck"></a>
 ### shellcheck - a linter for shell scripts
@@ -878,6 +882,7 @@
 ### Swagger - tool for describing RESTful APIs, see also OpenAPI
 
 - [Edit and Validate online](swagger/edit_and_validate.md)
+- [Making PR against a Swagger UI repo](swagger/making_prs_against_a_swagger_ui_repo.md)
 
 <a id="swift"></a>
 ### Swift - a compiled programming language from Apple
@@ -979,6 +984,7 @@
 
 - [Avoid entity expansion](xml/avoid_entity_expansion.md)
 - [Fast XML/XSD validation on the command line](xml/fast_xml-xsd_validation_on_cli.md)
+- [Prettify XML on the command line](xml/prettify_xml_on_the_cli.md)
 
 <a id="yaml"></a>
 ### YAML - see also XML and JSON
