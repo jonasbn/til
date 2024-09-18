@@ -2,7 +2,7 @@
 
 I am doing some XSL processing the command line using: `xsltproc`.
 
-The output is not always easily digestable, so I started to pipe it to `xml_pp` which is XML Pretty Printer implemented in Perl available via the [XML::Twig distribution][META]
+The output is not always easily digestible, so I started to pipe it to `xml_pp` which is XML Pretty Printer implemented in Perl available via the [XML::Twig distribution][META]
 
 ```shell
 xsltproc transformer.xsl source.xml|xml_pp
