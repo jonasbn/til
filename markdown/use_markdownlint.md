@@ -12,7 +12,7 @@ Both implementations implement a set of rules [Ruby implementation][markdownlint
 
 This documentation is nice to have close at hand when you get started.
 
-I wrote up [a blog post][devtojonasbn] where I compare the rulesets of the two.
+I wrote up [a blog post][devtojonasbn] where I compare the rule sets of the two.
 
 ## Let go over some rules
 
@@ -36,7 +36,7 @@ Example:
 
 This rule has the label/name: `MD049`, do see [the documentation][MD049].
 
-I prefer to use `_` for emphasis, again Markdown allow for varies characters for indicating emphasis, for example: `*` (asterisk). Sticking to one, makes it easier for me, when editing and this rule makes it easier to be consisten in writing style.
+I prefer to use `_` for emphasis, again Markdown allow for varies characters for indicating emphasis, for example: `*` (asterisk). Sticking to one, makes it easier for me, when editing and this rule makes it easier to be consistent in writing style.
 
 Example:
 

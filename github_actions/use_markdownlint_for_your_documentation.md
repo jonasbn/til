@@ -1,6 +1,6 @@
 # Use Markdownlint for your documentation
 
-**Markdownlint-CLI** is one of those allround tools, which are always within grasp when you need them.
+**Markdownlint-CLI** is one of those all-round tools, which are always within grasp when you need them.
 
 - I lint my markdown on the command line
 - I lint my markdown my editor of choice VScode
@@ -20,7 +20,7 @@ In the root of the repository I add the file: `.markdownlint.json`
 
 The moment I have done that, I can use the command line tool and my editor let's me know I entered bad Markdown.
 
-Next step is configuring the action, so I add the following file to the directory: `.github/workflows/markdownlint.yml`, I do this so all of the warnings and recommendations that Markdownlint I do not see, get's captured as part of the continuous integration on GitHub.
+Next step is configuring the action, so I add the following file to the directory: `.github/workflows/markdownlint.yml`, I do this so all of the warnings and recommendations that Markdownlint I do not see, gets captured as part of the continuous integration on GitHub.
 
 The file contents looks something along the lines of:
 
@@ -88,7 +88,7 @@ with:
 
 ## Avoiding Markdownlint Conflicts
 
-Sometimes you adopt Markdown files from other projects and these might not adhere to your specific Markdown linting ruleset and hence they will get reported as items for your attention.
+Sometimes you adopt Markdown files from other projects and these might not adhere to your specific Markdown linting rule set and hence they will get reported as items for your attention.
 
 Examples of these files can be:
 
