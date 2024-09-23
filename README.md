@@ -40,6 +40,7 @@
   - [EditorConfig - tool for generic text editor configuration](#editorconfig---tool-for-generic-text-editor-configuration)
   - [entr - run arbitrary commands when files change](#entr---run-arbitrary-commands-when-files-change)
   - [exa/eza - an alternative to the ls command](#exaeza---an-alternative-to-the-ls-command)
+  - [fd - a fast alternative to find](#fd---a-fast-alternative-to-find)
   - [FileMerge.app - a diff tool for macOS](#filemergeapp---a-diff-tool-for-macos)
   - [find - find files and directories on the command line](#find---find-files-and-directories-on-the-command-line)
   - [Git - version control system](#git---version-control-system)
@@ -361,6 +362,11 @@
 ### exa/eza - an alternative to the ls command
 
 - [Use exa](exa/use_exa.md)
+
+<a id="fd"></a>
+### fd - a fast alternative to find
+
+- [use fd](fd/use_fd.md)
 
 <a id="filemergeapp"></a>
 ### FileMerge.app - a diff tool for macOS
