@@ -33,6 +33,6 @@ nvm use v20.17.0
 
 Make the a given version the default
 
-```shell 
+```shell
 nvm alias default v20.17.0
 ```
