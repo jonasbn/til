@@ -7,3 +7,4 @@
 ## References
 
 - [GitHub: tig](https://jonas.github.io/tig/)
+- [tig Manual](https://jonas.github.io/tig/doc/manual.html)
