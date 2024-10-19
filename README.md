@@ -960,6 +960,7 @@
 - [Todo Tree Extension](vscode/todo_tree_extension.md)
 - [Issue with integrated terminal on macOS](vscode/issue_with_integrated_terminal_on_macos.md)
 - [Themes](vscode/themes.md)
+- [Use Markdown All in One](vscode/use_markdown_all_in_one.md)
 
 <a id="vmware-fusion"></a>
 ### VMware Fusion - a virtualization tool for macOS
