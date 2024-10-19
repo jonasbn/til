@@ -124,6 +124,7 @@
   - [z - for jumping around in the file structures, an alternative to cd](#z---for-jumping-around-in-the-file-structures-an-alternative-to-cd)
   - [zoxide - an alternative to z](#zoxide---an-alternative-to-z)
   - [zsh - another shell than bash](#zsh---another-shell-than-bash)
+  - [XSLT](#xslt)
 - [About](#about)
 - [Additional TIL Collections](#additional-til-collections)
 - [License](#license)
@@ -1013,6 +1014,10 @@
 
 - [Use zsh](zsh/use_zsh.md)
 - [Set Environment from File](zsh/set_environment_from_file.md)
+
+### XSLT
+
+- [Learn XSLT](xslt/learn_xslt.md)
 
 <a id="about"></a>
 ## About
