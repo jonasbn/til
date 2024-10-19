@@ -890,6 +890,7 @@
 
 - [Edit and Validate online](swagger/edit_and_validate.md)
 - [Making PR against a Swagger UI repo](swagger/making_prs_against_a_swagger_ui_repo.md)
+- [Deprecating API Endpoints](swagger/deprecating_api_endpoints.md)
 
 <a id="swift"></a>
 ### Swift - a compiled programming language from Apple
