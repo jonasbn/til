@@ -6,10 +6,10 @@ jobs:
     name: Spellcheck
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@eef61447b9ff4aafe5dcd4e0bbf5d482be7e7871 # v4
 
     - name: Get all changed markdown files
-      uses: tj-actions/changed-files@v45
+      uses: tj-actions/changed-files@c3a1bb2c992d77180ae65be6ae6c166cf40f857c # v45
       id: changed_files
       with:
         files: |
@@ -17,13 +17,13 @@ jobs:
 
     - name: Run Spellcheck
       id: spellcheck
-      uses: rojopolis/spellcheck-github-actions@master
+      uses: rojopolis/spellcheck-github-actions@v0
       with:
         task_name: Markdown
         source_files: ${{ steps.changed_files.outputs.all_changed_files }}
         output_file: spellcheck-output.txt
 
-    - uses: actions/upload-artifact@v4
+    - uses: actions/upload-artifact@b4b15b8c7c6ac21ea08fcf65892d2ee8f75cf882 # v4
       if: '!cancelled()'
       with:
         name: Spellcheck Output
