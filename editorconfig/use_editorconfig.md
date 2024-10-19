@@ -54,6 +54,7 @@ You can also enable use of **EditorConfig** for GitHub Actions, see [my TIL on E
 - [EditorConfig Properties][properties]
 - [eclint GitHub repository](https://github.com/jedmao/eclint)
 - [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker)
+- [editorconfig-checker](https://hub.docker.com/r/mstruebing/editorconfig-checker) Docker edition
 
 [editorconfig]: https://editorconfig.org/
 [properties]: https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
