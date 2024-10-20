@@ -3,8 +3,12 @@
 For alternative rendering of a deprecated endpoint, the flag: `deprecated` can be specified with the value: `true`
 
 ```json
-deprecated	true
+{
+  "deprecated": true
+}
 ```
+
+TODO: Write more about other deprecation approaches
 
 ## Reousrces and References
 
