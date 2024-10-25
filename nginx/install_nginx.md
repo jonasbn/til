@@ -63,3 +63,4 @@ curl http://<your-public-ipv4-address>
 ## Resources and References
 
 - [DigitalOcean Tutorial: "How To Install Nginx on Ubuntu 20.04"](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
+- [Canonical: "Install and configure Nginx](https://ubuntu.com/tutorials/install-and-configure-nginx)
