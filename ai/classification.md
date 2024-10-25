@@ -6,7 +6,7 @@ Currently collection notes and material on classification.
 
 Most classification line Naive Bayes is not really AI, but probabilistic models, but it is a useful tool which can be used instead of AI to solve some types of problems.
 
-Naive Bayes is very wellknown from spam filters.
+Naive Bayes is very well known from spam filters.
 
 ### Perl
 
@@ -19,4 +19,4 @@ Naive Bayes is very wellknown from spam filters.
 
 ## Resources and References
 
-- [Geeksforgeeks: "Geeting Started with Classification](https://www.geeksforgeeks.org/getting-started-with-classification/)
+- [Geeksforgeeks: "Getting Started with Classification](https://www.geeksforgeeks.org/getting-started-with-classification/)

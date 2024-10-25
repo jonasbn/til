@@ -10,7 +10,7 @@ For alternative rendering of a deprecated endpoint, the flag: `deprecated` can b
 
 TODO: Write more about other deprecation approaches
 
-## Reousrces and References
+## Resources and References
 
 - [Swagger Example: Petstore](https://petstore.swagger.io/#/)
 - [Swagger Example: Petstore JSON file](https://petstore.swagger.io/v2/swagger.json)

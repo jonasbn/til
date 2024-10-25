@@ -1,6 +1,6 @@
 # What is my IP?
 
-There are pleny of websites which can help you, but you can do get your public IP using the command line - my preferred way.
+There are plenty of websites which can help you, but you can do get your public IP using the command line - my preferred way.
 
 Examples using `curl` could be **httpie** or similar.
 

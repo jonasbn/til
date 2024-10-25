@@ -12,4 +12,4 @@ Notes on NLP and collection of resources of NodeJS Natural.
 - [GitHub: Natural (NodeJS)](https://naturalnode.github.io/natural/)
 - [Dzone: Using Natural NLP Module](https://dzone.com/articles/using-natural-nlp-module)
 - [GitHub: NLP in JavaScript with Natural](https://github.com/handav/nlp-in-javascript-with-natural)
-- [Egghead lessons_ "JavaScript Classify JSON test with matchine learning in Natural"](https://egghead.io/lessons/javascript-classify-json-text-data-with-machine-learning-in-natural)
+- [Egghead lessons_ "JavaScript Classify JSON test with machine learning in Natural"](https://egghead.io/lessons/javascript-classify-json-text-data-with-machine-learning-in-natural)

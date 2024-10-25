@@ -12,6 +12,7 @@
   - [ack - an alternative to grep](#ack---an-alternative-to-grep)
   - [afplay - play audio files from the commandline on macOS](#afplay---play-audio-files-from-the-commandline-on-macos)
   - [ag - also known as the Silversurfer, fast alternative to ack and grep](#ag---also-known-as-the-silversurfer-fast-alternative-to-ack-and-grep)
+  - [awk](#awk)
   - [Bash - the Bourne Again Shell](#bash---the-bourne-again-shell)
   - [Bootstrap - web framework for fast prototyping](#bootstrap---web-framework-for-fast-prototyping)
   - [Bruno - an alternative to Postman](#bruno---an-alternative-to-postman)
@@ -71,6 +72,7 @@
   - [Mojolicious - a Perl web framework](#mojolicious---a-perl-web-framework)
   - [MySQL - a relational database](#mysql---a-relational-database)
   - [Nginx - a webserver, proxy and load-balancer](#nginx---a-webserver-proxy-and-load-balancer)
+  - [NodeJS - server-side JavaScript interpreter](#nodejs---server-side-javascript-interpreter)
   - [npm - Node.js package manager](#npm---nodejs-package-manager)
   - [OpenAPI - a specification for describing RESTful APIs, see also Swagger](#openapi---a-specification-for-describing-restful-apis-see-also-swagger)
   - [OpenSSL - a toolkit for SSL and TLS](#openssl---a-toolkit-for-ssl-and-tls)
@@ -147,6 +149,11 @@
 ### ag - also known as the Silversurfer, fast alternative to ack and grep
 
 - [Use ag](ag/use_ag.md)
+
+<a id="awk"></a>
+### awk
+
+- [Learn AWK](awk/learn_awk.md)
 
 <a id="bash"></a>
 ### Bash - the Bourne Again Shell
@@ -627,10 +634,20 @@
 - [Serve static files and proxy](nginx/serve_static_pages_and_proxy.md)
 - [Limit served HTTP methods](nginx/limit_served_http_methods.md)
 
+<a id="node"></a>
+### NodeJS - server-side JavaScript interpreter
+
+- [Use Node](node/use_node.md)
+- [Use env files](node/use_env_files.md)
+- [Use nodeenv](node/use_nodeenv.md)
+- [Use nvm](node/use_nvm.md)
+
 <a id="npm"></a>
 ### npm - Node.js package manager
 
 - [Install dependencies from package-lock.json](npm/install_dependencies_from_package-lock_file.md)
+- [Specify Lag to Prohibit Upload to NPM](npm/specify_flag_to_prohibit_upload_to_npm.md)
+- [xslt-processor](npm/xslt-processor.md)
 
 <a id="openapi"></a>
 ### OpenAPI - a specification for describing RESTful APIs, see also Swagger
@@ -878,6 +895,7 @@
 
 - [Permissions on SSH folder and files](ssh/permissions_on_ssh_folder_and_files.md)
 - [Hardening SSH server](ssh/hardening_ssh_server.md)
+- [fail2ban](ssh/fail2ban.md)
 
 <a id="starship"></a>
 ### Starship - nifty prompt and an alternative to Liquid Prompt
