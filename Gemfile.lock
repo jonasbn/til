@@ -264,7 +264,7 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
     uri (0.13.0)
-    webrick (1.8.2)
+    webrick (1.9.0)
 
 PLATFORMS
   ruby
@@ -273,7 +273,7 @@ DEPENDENCIES
   github-pages
   jekyll-github-metadata
   jemoji
-  webrick (= 1.8.2)
+  webrick (= 1.9.0)
 
 BUNDLED WITH
    2.1.4
