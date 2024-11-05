@@ -9,28 +9,28 @@ Compare current branch with master and get filenames and statusses:
 
 ```shell
 git diff --name-status master
-A       git/compare_two_brances_and_get_a_list_of_files.md
+A       git/compare_two_branches_and_get_a_list_of_files.md
 ```
 
 Or comparing current branch with master and get only filenames:
 
 ```shell
 git diff --name-only master
-git/compare_two_brances_and_get_a_list_of_files.md
+git/compare_two_branches_and_get_a_list_of_files.md
 ```
 
 Compare two branches and get filenames and statusses:
 
 ```shell
-git diff --name-status difftest master
-A       git/compare_two_brances_and_get_a_list_of_files.md
+git diff --name-status master another_branch
+A       go/use_mage_build_tool.md
 ```
 
 Compare two branches and get only filenames:
 
 ```shell
-git diff --name-only difftest master
-git/compare_two_brances_and_get_a_list_of_files.md
+╰─ git diff --name-only master another_branch
+go/use_mage_build_tool.md
 ```
 
 ## Resources and References
