@@ -28,7 +28,7 @@ Do note this does not work in combination with: `--data`/`-d`.
 
 Instead you should use: `--data-raw`/`-D`, then you can use a `POST` request for submitting data and get the status code at the same time.
 
-And when doing a `POST` request with `-d`, you can use the `-i` flag to get the status code.
+And when doing a `POST` or `PUT` request with `-d`, you can use the `-i` flag to get the status code.
 
 ```bash
 curl -i -X POST -d '{ "name": "morpheus", "job": "leader" }' https://reqres.in/api/users
@@ -50,7 +50,7 @@ cf-ray: 8a1af30d8b941909-FRA
 {"{ \"name\": \"morpheus\", \"job\": \"leader\" }":"","id":"830","createdAt":"2024-07-11T18:45:14.574Z"}%
 ```
 
-And using the `-I` flag with a `POST` with `-D´ will give you the status code.
+And using the `-I` flag with a `POST` or `PUT` with `-D` will give you the status code.
 
 ```bash
 curl -I -X POST -D '{ "name": "xenomorpheus", "job": "supremeleader" }' https://reqres.in/api/users

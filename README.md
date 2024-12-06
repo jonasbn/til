@@ -28,6 +28,7 @@
   - [crates - Rust packages](#crates---rust-packages)
   - [cron - schedule and repeat jobs](#cron---schedule-and-repeat-jobs)
   - [css - cascading style sheets, used for styling HTML](#css---cascading-style-sheets-used-for-styling-html)
+  - [C# - .NET based language from Microsoft](#c---net-based-language-from-microsoft)
   - [curl - a commandline tool for transferring data with URL syntax](#curl---a-commandline-tool-for-transferring-data-with-url-syntax)
   - [Dash.app - an alternative browser to the built-in documentation in macOS and other resources](#dashapp---an-alternative-browser-to-the-built-in-documentation-in-macos-and-other-resources)
   - [date - see dates and time on the command line](#date---see-dates-and-time-on-the-command-line)
@@ -264,6 +265,11 @@
 
 - [Making sure you are using alt tags](css/making_sure_you_are_using_alt_tags.md)
 - [CSS Properties](css/properties.md)
+
+<a id="csharp"></a>
+### C# - .NET based language from Microsoft
+
+- [Problem building: "MSBUILD : error MSB1011"](charp/problem_building_msb1011.md)
 
 <a id="curl"></a>
 ### curl - a commandline tool for transferring data with URL syntax
