@@ -1,6 +1,6 @@
 # sprintf
 
-Like many other languages PHP has a `sprintf`, the reason for this til was that rececently I came across two sections at about 18 lines of code, that could be written as single lines using `sprintf`.
+Like many other languages PHP has a `sprintf`, the reason for this til was that recently I came across two sections at about 18 lines of code, that could be written as single lines using `sprintf`.
 So I dug into the PHP documentation to find out  whether there was a reason not to.
 
 ## Zero-padding

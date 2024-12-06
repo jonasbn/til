@@ -2,7 +2,7 @@
 
 Comments in PHP are different.
 
-PHP suports:
+PHP supports:
 
 - `#`
 - `//`

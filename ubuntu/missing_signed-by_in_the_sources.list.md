@@ -1,6 +1,6 @@
 # Missing Signed-Bu in the sources.list(5)
 
-I came accross this error on a DigitalOcean droplet running Ubuntu the other day, when running:
+I came across this error on a DigitalOcean droplet running Ubuntu the other day, when running:
 
 `sudo apt update`
 
