@@ -783,6 +783,7 @@
 ### Regexp - regular expressions
 
 - [Regex Posix](regexp/posix.md)
+- [Prime Numbers](regexp/prime_numbers.md)
 
 <a id="renovate"></a>
 ### Renovate - a bot for automating dependency updates
