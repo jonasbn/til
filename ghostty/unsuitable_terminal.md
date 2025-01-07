@@ -1,6 +1,6 @@
 # Unsuitable Terminal
 
-*ghostty* is a new formidable terminal emulator. I wanted to try it out, but when I attempted to SSH to some remote hosts I got the following error:
+**ghostty** is a new formidable terminal emulator. I wanted to try it out, but when I attempted to SSH to some remote hosts I got the following error:
 
 ```text
 missing or unsuitable terminal: xterm-ghostty
