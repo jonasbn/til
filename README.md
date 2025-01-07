@@ -814,6 +814,7 @@
 - [Use rvm](ruby/use_rvm.md)
 - [Use bundler](ruby/use_bundler.md)
 - [ignore in Git](ruby/ignore_in_git.md)
+- [Division](ruby/division.md)
 
 <a id="rust"></a>
 ### Rust - a compiled programming language
