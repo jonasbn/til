@@ -15,4 +15,4 @@ By adding a decimal point to one of the operands, the division operator will ret
 
 ## Resources and References
 
-- https://stackoverflow.com/questions/5502761/why-is-division-in-ruby-returning-an-integer-instead-of-decimal-value
+- [StackOverflow](https://stackoverflow.com/questions/5502761/why-is-division-in-ruby-returning-an-integer-instead-of-decimal-value)
