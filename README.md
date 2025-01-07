@@ -815,6 +815,7 @@
 - [Use bundler](ruby/use_bundler.md)
 - [ignore in Git](ruby/ignore_in_git.md)
 - [Division](ruby/division.md)
+- [Split an integer into an array](ruby/split_an_integer_into_an_array.md)
 
 <a id="rust"></a>
 ### Rust - a compiled programming language
