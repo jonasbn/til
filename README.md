@@ -45,6 +45,7 @@
   - [fd - a fast alternative to find](#fd---a-fast-alternative-to-find)
   - [FileMerge.app - a diff tool for macOS](#filemergeapp---a-diff-tool-for-macos)
   - [find - find files and directories on the command line](#find---find-files-and-directories-on-the-command-line)
+  - [Ghostty - a fast and native terminal emulator](#ghostty---a-fast-and-native-terminal-emulator)
   - [Git - version control system](#git---version-control-system)
   - [git-delta - an commandline diff tool, also known as delta](#git-delta---an-commandline-diff-tool-also-known-as-delta)
   - [GitHub - platform for hosting Git repositories](#github---platform-for-hosting-git-repositories)
@@ -269,7 +270,7 @@
 <a id="csharp"></a>
 ### C# - .NET based language from Microsoft
 
-- [Problem building: "MSBUILD : error MSB1011"](charp/problem_building_msb1011.md)
+- [Problem building: "MSBUILD : error MSB1011"](csharp/problem_building_msb1011.md)
 
 <a id="curl"></a>
 ### curl - a commandline tool for transferring data with URL syntax
@@ -390,6 +391,12 @@
 ### find - find files and directories on the command line
 
 - [Searching Found Files in Found Directories](find/searching_found_files_in_found_directories.md)
+
+<a id="ghostty"></id>
+### Ghostty - a fast and native terminal emulator
+
+- [Unsuitable Terminal Error](ghostty/unsuitable_terminal.md)
+- [Visor](ghostty/visor.md)
 
 <a id="git"></a>
 ### Git - version control system
