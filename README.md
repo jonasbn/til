@@ -843,6 +843,7 @@
 - [Get your shell command explained visually](shell/explain_shell.com.md)
 - [Nifty aliases](shell/nifty_aliases.md)
 - [Testing Using Bats](shell/testing_using_bats.md)
+- [stat](shell/stat.md)
 
 <a id="shellcheck"></a>
 ### shellcheck - a linter for shell scripts
