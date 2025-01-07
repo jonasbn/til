@@ -969,6 +969,7 @@
 - [How to add a user to sudoers](ubuntu/how_to_add_sudoers.md)
 - [How to add a user](ubuntu/how_to_add_user.md)
 - [How to check if a package is installed](ubuntu/how_to_check_if_a_package_is_installed.md)
+- [Missing Signed-By in the sources.list(5)](ubuntu/missing_signed-by_in_the_sources.list.md)
 
 <a id="ufw"></a>
 ### ufw - Uncomplicated Firewall

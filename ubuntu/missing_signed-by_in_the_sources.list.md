@@ -1,4 +1,4 @@
-# Missing Signed-Bu in the sources.list(5)
+# Missing Signed-By in the sources.list(5)
 
 I came across this error on a DigitalOcean droplet running Ubuntu the other day, when running:
 
