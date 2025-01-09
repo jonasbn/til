@@ -189,6 +189,7 @@
 ### Bruno - an alternative to Postman
 
 - [Use Bruno](bruno/use_bruno.md)
+- [See Your Requests](bruno/see_your_requests.md)
 
 <a id="c"></a>
 ### C - compiled programming language
