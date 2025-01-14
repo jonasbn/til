@@ -434,6 +434,7 @@
 - [Use pre-commit](git/use_pre-commit.md)
 - [Ignore Git](git/ignore_git.md)
 - [Sort git tags](git/sort_git_tags.md)
+- [Git Status Shell Prompt](git/git_status_shell_prompt.md)
 
 <a id="git-delta"></a>
 ### git-delta - an commandline diff tool, also known as delta
