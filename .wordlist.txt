@@ -2195,3 +2195,7 @@ RDBMS
 Ghostty
 ghostty
 vNinja
+gitstatus
+romkatv
+Powerlevel
+powerlevel

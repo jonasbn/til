@@ -4,7 +4,7 @@ I did a lot of work using **httpie** so I forgot how I saw the actual requests i
 
 Luckily [StackOverflow][stackoverflow] had the answer.
 
-> You will find the sent request (including the called URI and header fields) in the "Timeline" tab at the right-hand side of Brunos GUI (close to the "Response" tab) - see screenshot attached:
+> You will find the sent request (including the called URI and header fields) in the "Timeline" tab at the right-hand side of Bruno's GUI (close to the "Response" tab) - see screenshot attached:
 >
 
 ...
