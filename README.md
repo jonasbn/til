@@ -1001,6 +1001,7 @@
 - [Themes](vscode/themes.md)
 - [Use Markdown All in One](vscode/use_markdown_all_in_one.md)
 - [Perl Language Server Extension](vscode/perl-language-server_extension.md)
+- [Search and Replace Empty Lines](vscode/search_and_replace_empty_lines.md)
 
 <a id="vmware-fusion"></a>
 ### VMware Fusion - a virtualization tool for macOS
