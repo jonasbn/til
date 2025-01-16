@@ -24,6 +24,11 @@ This is used for class names, interfaces, annotations, enums and records in Java
 
 Using the underscore character to separate words, this casing style is used in many programming languages, including Python, Ruby, and Rust. The underscore is close to the ground hence the reference to the snake.
 
+Do note:
+
+- `_` is part of the alphanumeric set in Perl together with letters and numbers
+- _double-clicking_ to select these word will take the entire string, try with: `i_adore_snakes`, compared to kebab-case, which splits at hyphen/dash. This might be configurable depending on your circumstances
+
 ### Kebab Case
 
 - `kebab-case`
@@ -31,6 +36,11 @@ Using the underscore character to separate words, this casing style is used in m
 The string is penetrated by hyphens, hence the kebab reference.
 
 This is not recommended as per the Java programming recommendations, see: [TechTarget: CamelCase Definition](https://www.techtarget.com/whatis/definition/CamelCase)
+
+Do note:
+
+- _double-clicking_ to select these word will not necessarily take the entire string, try with: `i_love_kebab`, it might just take the word up to the hyphen/dash, compared to kebab-case, which allows for selection of the whole string. This might be configurable depending on your circumstances.
+
 
 ### Train Case
 
