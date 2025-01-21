@@ -41,7 +41,6 @@ Do note:
 
 - _double-clicking_ to select these word will not necessarily take the entire string, try with: `i_love_kebab`, it might just take the word up to the hyphen/dash, compared to kebab-case, which allows for selection of the whole string. This might be configurable depending on your circumstances.
 
-
 ### Train Case
 
 - `Train-Case`
