@@ -1,6 +1,6 @@
 # Ghostty Visor
 
-**Ghostty** has a nifty feature of a terminal window you can access easily even if **Ghostty** is not the active applicatio, I believe this is called a visor - and it seems to originate from the Quake terminal, where you have this overlay terminal you can access with a key combination at all times.
+**Ghostty** has a nifty feature of a terminal window you can access easily even if **Ghostty** is not the active application, I believe this is called a visor - and it seems to originate from the Quake terminal, where you have this overlay terminal you can access with a key combination at all times.
 
 - ["Request: Quake-style (Visor) Overlay Terminal Mode"](https://github.com/ghostty-org/ghostty/discussions/3733).
 
