@@ -58,7 +58,6 @@ Since `>>` appends to an existing file or creates it if does not exist and `>` j
 
 I cannot really handle appending since the file is a JSON structure so this would require working on the JSON, not just appending.
 
-
 ## Resources and References
 
 - [StackExchange: Unix & Linux: "How to append multiple lines to a file"](https://unix.stackexchange.com/questions/77277/how-to-append-multiple-lines-to-a-file)
