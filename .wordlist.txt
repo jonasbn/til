@@ -2199,3 +2199,7 @@ gitstatus
 romkatv
 Powerlevel
 powerlevel
+dbeaver
+Parsefloat
+strconv
+bitSize
