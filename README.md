@@ -648,6 +648,7 @@
 - [Listen on both IPv4 and IPv6](nginx/listen_on_both_ipv4_and_ipv6.md)
 - [Serve static files and proxy](nginx/serve_static_pages_and_proxy.md)
 - [Limit served HTTP methods](nginx/limit_served_http_methods.md)
+- [Configure Automatic Restart](nginx/configure_automatic_restart.md)
 
 <a id="node"></a>
 ### NodeJS - server-side JavaScript interpreter

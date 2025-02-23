@@ -2203,3 +2203,5 @@ dbeaver
 Parsefloat
 strconv
 bitSize
+DBeaver
+allowPublicKeyRetrieval
