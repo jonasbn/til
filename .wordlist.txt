@@ -2205,3 +2205,5 @@ strconv
 bitSize
 DBeaver
 allowPublicKeyRetrieval
+systemd
+freedesktop

@@ -13,4 +13,31 @@ Restart=always
 RestartSec=5s
 ```
 
+`RestartSec` defaults to: 100ms. Has to be configured with: `Restart`
+
 I have no idea on how to test this at this time and I am still researching the root cause of the incident, but this was ready a nice extension to my configuration, which is just the default, since everything else is done it the site configuration for NginX.
+
+Options for restart are:
+
+- `no`
+- `always`
+- `on-success`
+- `on-failure`
+- `on-abnormal`
+- `on-abort`
+- `on-watchdog`
+
+The follow matrix lifted from [systemd service man-page](https://www.freedesktop.org/software/systemd/man/latest/systemd.service.html#Restart=)
+
+| Exit causes/Restart settings | `no` | `always` | `on-success` | `on-failure` | `on-abnormal` | `on-abort` | `on-watchdog` |
+|:--|:-:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Clean exit code or signal | | X | X | | | | |
+| Unclean exit code | | X | | X | | | |
+| Unclean signal | | X | | X | X | X | |
+| Timeout | | X | | X | X | | |
+| Watchdog | | X | | X | X | | X |
+
+## Resources and References:
+
+- [freedesktop.org: systemd service documentation](https://www.freedesktop.org/software/systemd/man/latest/systemd.service.html#Restart=)
+- [freedesktop.org: systemd service documentation](https://www.freedesktop.org/software/systemd/man/latest/systemd.service.html#RestartSec=)
