@@ -29,7 +29,7 @@ To get around my configuration I need to do:
 - `--no-location`
 - `--progress-meter`
 
-Unforunately **curl** does not seem to have an option to ignore the config files and it seems to stack the options.
+Unfortunately **curl** does not seem to have an option to ignore the config files and it seems to stack the options.
 
 ## Resources and References
 

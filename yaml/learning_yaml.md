@@ -4,7 +4,7 @@ A very nice introduction to YAML by Maria Marshmallow can be found at [dev.to][D
 
 ## Comments
 
-Comments are very helpful, since it mean that you can hide something from machine use/interpretation and you can annotate your _unhidden_ parts for human interpretation.
+Comments are very helpful, since it mean that you can hide something from machine use/interpretation and you can annotate your public parts for human interpretation.
 
 YAML only supports single lines comments. Comments are prefixed with: `#`
 

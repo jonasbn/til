@@ -2207,3 +2207,6 @@ DBeaver
 allowPublicKeyRetrieval
 systemd
 freedesktop
+scrollback
+fullscreen
+Scrollback
