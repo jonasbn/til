@@ -25,6 +25,8 @@ I currently prefer.
 
 - `.mode box`
 
+And if you want your choice to be the default do check my TIL: ["Use a Configuration File"](sqlite/use_config_file.md)
+
 ## Resources and References
 
 - [StackOverflow: "How to change the format of select output (SQLite)"](https://stackoverflow.com/questions/72272830/how-to-change-the-format-of-select-output-sqlite)
