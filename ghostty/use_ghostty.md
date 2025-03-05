@@ -4,7 +4,7 @@
 
 Anyway I found [this Gist](https://gist.github.com/trashhalo/2fc177d74c1d6791f1874a3c59865660) with and overview of default keyboard shortcuts.
 
-# Ghostty Keyboard Shortcuts
+## Ghostty Keyboard Shortcuts
 
 Default keyboard shortcuts for Ghostty terminal emulator. Platform-specific differences are noted where applicable.
 
