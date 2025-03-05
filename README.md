@@ -903,6 +903,8 @@
 - [Inserting dates](sqlite/insert_dates.md)
 - [Defaulting to now for date](sqlite/default_now_for_date.md)
 - [VARCHAR is just text](sqlite/varchar_is_just_text.md)
+- [Output formats](sqlite/output_formats.md)
+- [Use a configuration file](sqlite/use_config_file.md)
 
 <a id="sqlplus"></a>
 ### sqlplus - the CLI tool for Oracle
