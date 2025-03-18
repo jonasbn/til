@@ -287,7 +287,7 @@
 - [Handle gzip](curl/handle_gzip.md)
 - [How to handle location header](curl/how_to_handle_location_header.md)
 - [Ignore self signed certificates](curl/ignore_self_signed_certificates.md)
-- [usea config file](curl/use_a_config_file.md)
+- [Use a config file](curl/use_a_config_file.md)
 
 <a id="dashapp"></a>
 ### Dash.app - an alternative browser to the built-in documentation in macOS and other resources
