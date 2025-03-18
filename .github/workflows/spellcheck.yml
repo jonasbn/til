@@ -6,10 +6,10 @@ jobs:
     name: Spellcheck
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+    - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
 
     - name: Get all changed markdown files
-      uses: tj-actions/changed-files@0fee5fb278312d962ff465bb38dc4cae9f446de2 # v45
+      uses: tj-actions/changed-files@2f7c5bfce28377bc069a65ba478de0a74aa0ca32 # v46.0.1
       id: changed_files
       with:
         files: |
@@ -23,7 +23,7 @@ jobs:
         source_files: ${{ steps.changed_files.outputs.all_changed_files }}
         output_file: spellcheck-output.txt
 
-    - uses: actions/upload-artifact@4cec3d8aa04e39d1a68397de0c4cd6fb9dce8ec1 # v4
+    - uses: actions/upload-artifact@4cec3d8aa04e39d1a68397de0c4cd6fb9dce8ec1 # v4.6.1
       if: '!cancelled()'
       with:
         name: Spellcheck Output
