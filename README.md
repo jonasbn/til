@@ -276,6 +276,7 @@
 <a id="curl"></a>
 ### curl - a commandline tool for transferring data with URL syntax
 
+- [Learn curl](curl/learn_curl.md)
 - [More POST Parameters](curl/more_post_parameters.md)
 - [Handling shell sensitive characters in URL](curl/handling_shell_sensitive_characters_in_url.md)
 - [Pipe output to less](curl/pipe_output_to_less.md)
@@ -712,6 +713,7 @@
 - [Translate Release Names](osx/translate_release_names.md)
 - [Find timezones](osx/find_timezones.md)
 - [Remove backgrounds from images](osx/remove_backgrounds_from_images.md)
+- [Switch to and from Dark Mode Using Command Line](osx/switch_to_and_from_dark_mode_using_cli.md)
 
 <a id="perl"></a>
 ### Perl - Swiss Army Knife of programming languages
