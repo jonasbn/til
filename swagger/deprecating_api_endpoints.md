@@ -8,7 +8,9 @@ For alternative rendering of a deprecated endpoint, the flag: `deprecated` can b
 }
 ```
 
-TODO: Write more about other deprecation approaches
+For more information on the RESTful part, have a look at my TIL:
+
+- [Deprecating API Endpoints](../rest/deprecating_api_endpoints.md)
 
 ## Resources and References
 

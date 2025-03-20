@@ -805,6 +805,8 @@
 - [Use proper headers](rest/use_proper_headers.md)
 - [Check out OpenAPI](rest/check_out_openapi.md)
 - [Use verbs](rest/use_verbs.md)
+- [Deprecating API Endpoints](rest/deprecating_api_endpoints.md)
+- [Notes on RESTful API design](rest/notes_on_restful_api_design.md)
 
 <a id="rm"></a>
 ### rm - remove files and directories on the command line
