@@ -381,6 +381,11 @@
 
 - [Use exa](exa/use_exa.md)
 
+<a id="exercism"></a>
+
+- [Do exercism](exercism/do_exercism.md)
+- [Update when the exercise has been updated](exercism/update_when_the_exercis_has_been_updated.md)
+
 <a id="fd"></a>
 ### fd - a fast alternative to find
 

@@ -2214,3 +2214,5 @@ Holywell
 Spacelift
 aws
 Simonewebdesign
+CloudFront
+Vercel
