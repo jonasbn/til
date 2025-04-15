@@ -5,17 +5,17 @@ This is a list of return codes in relation to a RESTful API design.
 Some of the operations has more that one outcome, so you need to decide on what you find the most appropriate one.
 
 <table>
-<tr><th>Operation</th><th>HTTP Method</th><th>STATUS CODE ON SUCCESS</th></tr>
-<tr><td>Create</td><td>POST</td><td>201 Created</td></tr>
-<tr><td></td><td></td><td>202 Accepted</td></tr>
-<tr><td>Read</td><td>GET</td></td><td>200 OK</td></tr>
-<tr><td rowspan=4>Update</td><td rowspan=2>PUT</td><td>200 OK</td></tr>
-<tr><td>204 No Content</td></tr>
-<tr><td rowspan=2>PATCH</td><td>200 OK</td></tr>
-<tr><td>204 No Content</td></tr>
-<tr><td rowspan=3>Delete</td><td rowspan=3>DELETE</td><td>200 OK</td></tr>
-<tr><td>202 Accepted</td></tr>
-<tr><td>204 No Content</td></tr>
+<tr><th>Operation</th><th>HTTP Method</th><th>STATUS CODE ON SUCCESS</th><th>Notes</th></tr>
+<tr><td>Create</td><td>POST</td><td>201 Created</td><td>When the object is created immediately</td></tr>
+<tr><td></td><td></td><td>202 Accepted</td><td>When the object is accepted but not created immediately</td</tr>
+<tr><td>Read</td><td>GET</td></td><td>200 OK</td><td>When the object requested in included in the response</td></tr>
+<tr><td rowspan=4>Update</td><td rowspan=2>PUT</td><td>200 OK</td><td>When the updated object is returned as part of the response</td></tr>
+<tr><td>204 No Content</td><td>When the updated object is not returned as part of the response</td></tr>
+<tr><td rowspan=2>PATCH</td><td>200 OK</td><td>When the updated object is returned as part of the response</td></tr>
+<tr><td>204 No Content</td><td>When the updated object is not returned as part of the response</td></tr>
+<tr><td rowspan=3>Delete</td><td rowspan=3>DELETE</td><td>200 OK</td><td>When an object changes status to deleted or similar</td></tr>
+<tr><td>202 Accepted</td><td>When an object changes status to deleted or similar and is deleted a part of a garbage collection process or similar</td></tr>
+<tr><td>204 No Content</td><td>When an object is deleted immediately</td></tr>
 </table>
 
 <table>
