@@ -830,6 +830,7 @@
 - [ignore in Git](ruby/ignore_in_git.md)
 - [Division](ruby/division.md)
 - [Split an integer into an array](ruby/split_an_integer_into_an_array.md)
+- [Overload on basic types](ruby/overloaded_on_basic_types.md)
 
 <a id="rust"></a>
 ### Rust - a compiled programming language
