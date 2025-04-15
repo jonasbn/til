@@ -84,6 +84,7 @@
   - [Perlbrew - a tool for managing multiple Perl installations](#perlbrew---a-tool-for-managing-multiple-perl-installations)
   - [Perltidy - tidy all your Perl](#perltidy---tidy-all-your-perl)
   - [Postgresql - a relational database](#postgresql---a-relational-database)
+  - [posting - a cool HTTP client that lives in your terminal](#posting---a-cool-http-client-that-lives-in-your-terminal)
   - [Programming - general programming tips](#programming---general-programming-tips)
   - [Probot - a framework for building GitHub Apps](#probot---a-framework-for-building-github-apps)
   - [Prolog - a logic programming language](#prolog---a-logic-programming-language)
@@ -755,6 +756,11 @@
 ### Postgresql - a relational database
 
 - [Setting the prompt](postgresql/setting_the_prompt.md)
+
+<a id="posting"></a>
+### posting - a cool HTTP client that lives in your terminal
+
+- [Use posting](posting/use_posting.md)
 
 <a id="programming"></a>
 ### Programming - general programming tips
