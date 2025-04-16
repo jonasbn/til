@@ -2216,3 +2216,5 @@ aws
 Simonewebdesign
 CloudFront
 Vercel
+boolean
+darrenburns
