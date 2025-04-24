@@ -44,6 +44,248 @@ user    0m0.011s
 sys     0m0.021s
 ```
 
+## Supported Languages
+
+The help message (`--help`) indicates that you can get a list of supported languages and their extensions using: `--languages`.
+
+```shell
+-l, --languages           Prints out supported languages and their extensions.
+```
+
+I however get the following:
+
+```shell
+tokei --languages
+ABNF
+ABAP
+ActionScript
+Ada
+Agda
+Alex
+Alloy
+Arduino C++
+AsciiDoc
+ASN.1
+ASP
+ASP.NET
+Assembly
+GNU Style Assembly
+AutoHotKey
+Autoconf
+Automake
+BASH
+Batch
+Bean
+BrightScript
+C
+C Header
+CMake
+C#
+C Shell
+Cabal
+Cassius
+Ceylon
+Clojure
+ClojureC
+ClojureScript
+COBOL
+CodeQL
+CoffeeScript
+Cogent
+ColdFusion
+ColdFusion CFScript
+Coq
+C++
+C++ Header
+Crystal
+CSS
+D
+DAML
+Dart
+Device Tree
+Dhall
+Dockerfile
+.NET Resource
+Dream Maker
+Dust.js
+Edn
+Emacs Lisp
+Elixir
+Elm
+Elvish
+Emacs Dev Env
+Emojicode
+Erlang
+FEN
+F#
+Fish
+FlatBuffers Schema
+Forth
+FORTRAN Legacy
+FORTRAN Modern
+FreeMarker
+F*
+Futhark
+GDB Script
+GDScript
+Gherkin (Cucumber)
+Gleam
+GLSL
+Go
+Go HTML
+GraphQL
+Groovy
+Gwion
+Hamlet
+Handlebars
+Happy
+Haskell
+Haxe
+HCL
+Headache
+HEX
+HLSL
+HolyC
+HTML
+Idris
+INI
+Intel HEX
+Isabelle
+JAI
+Java
+JavaScript
+JSON
+Jsonnet
+JSX
+Julia
+Julius
+Jupyter Notebooks
+K
+Kakoune script
+Kotlin
+LLVM
+Lean
+LESS
+LD Script
+Liquid
+Lisp
+LiveScript
+Logtalk
+Lua
+Lucius
+Madlang
+Makefile
+Markdown
+Meson
+Mint
+Module-Definition
+MoonScript
+MSBuild
+Mustache
+Nim
+Nix
+Not Quite Perl
+OCaml
+Objective-C
+Objective-C++
+Odin
+OpenType Feature File
+Org
+Oz
+PSL Assertion
+Pan
+Pascal
+Perl
+Rakudo
+Pest
+PHP
+Polly
+Pony
+PostCSS
+PowerShell
+Processing
+Prolog
+Protocol Buffers
+Pug
+PureScript
+Python
+Q
+QCL
+QML
+R
+Rusty Object Notation
+RPM Specfile
+Racket
+Rakefile
+Razor
+ReStructuredText
+Ren'Py
+Ruby
+Ruby HTML
+Rust
+SRecode Template
+Sass
+Scala
+Scheme
+Scons
+Shell
+Standard ML (SML)
+Solidity
+Specman e
+Spice Netlist
+SQL
+Stan
+Stratego/XT
+Stylus
+Svelte
+SVG
+Swift
+SWIG
+SystemVerilog
+TCL
+Tera
+TeX
+Plain Text
+Thrift
+TOML
+TSX
+TTCN-3
+Twig
+TypeScript
+Unreal Markdown
+Unreal Plugin
+Unreal Project
+Unreal Script
+Unreal Shader
+Unreal Shader Header
+Ur/Web
+Ur/Web Project
+VB6
+VBScript
+Vala
+Apache Velocity
+Verilog
+Verilog Args File
+VHDL
+Vim script
+Visual Basic
+Visual Studio Project
+Visual Studio Solution
+Vue
+WebAssembly
+Wolfram
+XSL
+XAML
+Xcode Config
+XML
+Xtend
+YAML
+Zig
+Zsh
+```
+
+So the resource I use to find extensions for `tokey` is the [JSON resource in the GitHub repository](https://github.com/XAMPPRocky/tokei/blob/master/languages.json).
+
 ## Resources and References
 
 - [GitHub: tokei](https://github.com/XAMPPRocky/tokei)
