@@ -69,6 +69,24 @@ Capitalizing all letters and separating words with underscores. In some language
 
 Also referred to as: `MACRO_CASE`
 
+## Acronyms
+
+I have seen various uses of acronyms in the case styles listed above. I do prefer to have my acronyms in uniform case written as either: `PDF` or `pdf`
+
+The variation observed with example Camel Case of: `Pdf` is _wrong_ in my opinion. Acronyms are already made up of a set of words, for example "PDF" means: "Portable Document Format", "PDF" in itself is not a word and according to the Camel Case formatting rule, this should read: "PDF" not "Pdf".
+
+Example:
+
+- `writePdfFile` should be written as: `writePDFFile` the first one is prettier, but it is incorrect if you ask me
+
+As for snake case:
+
+- `write_PDF_file` or `write_pdf_file` is at least uniform and is separated using the snake case separator: `_`.
+
+There is not such thing as "Pdf" it is either "PDF" of "pdf". As stated: "Pdf" is an incorrect and inconsistent abbreviation/acronym where as both "PDF" and "pdf" are consistent, the first one more correct, but the other one might be acceptable as part of the formatting.
+
+I can read: "PDF", "pdf" and "Pdf", but the last one rubs me everytime I see it. I can of course stick to case insensitive searching, then it does not matter.
+
 ## Resources and References
 
 - [Wikipedia: "Snake case"](https://en.wikipedia.org/wiki/Snake_case)
