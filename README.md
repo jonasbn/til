@@ -42,6 +42,7 @@
   - [EditorConfig - tool for generic text editor configuration](#editorconfig---tool-for-generic-text-editor-configuration)
   - [entr - run arbitrary commands when files change](#entr---run-arbitrary-commands-when-files-change)
   - [exa/eza - an alternative to the ls command](#exaeza---an-alternative-to-the-ls-command)
+  - [Exercism - programming exercises and learning tracks](#exercism---programming-exercises-and-learning-tracks)
   - [fd - a fast alternative to find](#fd---a-fast-alternative-to-find)
   - [FileMerge.app - a diff tool for macOS](#filemergeapp---a-diff-tool-for-macos)
   - [find - find files and directories on the command line](#find---find-files-and-directories-on-the-command-line)
@@ -383,6 +384,7 @@
 - [Use exa](exa/use_exa.md)
 
 <a id="exercism"></a>
+### Exercism - programming exercises and learning tracks
 
 - [Do exercism](exercism/do_exercism.md)
 - [Update when the exercise has been updated](exercism/update_when_the_exercis_has_been_updated.md)
@@ -397,11 +399,12 @@
 
 - [User Filemerge from the commandline](filemergeapp/use_filemerge_from_cli.md)
 
+<a id="find"></a>
 ### find - find files and directories on the command line
 
 - [Searching Found Files in Found Directories](find/searching_found_files_in_found_directories.md)
 
-<a id="ghostty"></id>
+<a id="ghostty"></a>
 ### Ghostty - a fast and native terminal emulator
 
 - [Unsuitable Terminal Error](ghostty/unsuitable_terminal.md)
