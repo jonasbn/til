@@ -81,6 +81,7 @@
   - [OpenSSL - a toolkit for SSL and TLS](#openssl---a-toolkit-for-ssl-and-tls)
   - [Oracle - a relational database](#oracle---a-relational-database)
   - [OSX - the operating system for Macs - now known as macOS](#osx---the-operating-system-for-macs---now-known-as-macos)
+  - [PDF - a binary document format](#pdf---a-binary-document-format)
   - [Perl - Swiss Army Knife of programming languages](#perl---swiss-army-knife-of-programming-languages)
   - [Perlbrew - a tool for managing multiple Perl installations](#perlbrew---a-tool-for-managing-multiple-perl-installations)
   - [Perltidy - tidy all your Perl](#perltidy---tidy-all-your-perl)
@@ -465,6 +466,7 @@
 - [Use renovate bot](github/use_renovate.md)
 - [Providing Suggestions in Reviews](github/providing_suggestions_in_reviews.md)
 - [Use CLI](github/use_cli.md)
+- [Theme Sensitive Images in GitHub Markdown](github/theme_sensitive_images_in_gh_markdown.md)
 
 <a id="github_actions"></a>
 ### GitHub Actions - automate your GitHub work and repositories
@@ -724,6 +726,11 @@
 - [Find timezones](osx/find_timezones.md)
 - [Remove backgrounds from images](osx/remove_backgrounds_from_images.md)
 - [Switch to and from Dark Mode Using Command Line](osx/switch_to_and_from_dark_mode_using_cli.md)
+
+<a id="pdf"></a>
+### PDF - a binary document format
+
+- [How to see what fonts are embedded](pdf/how_to_see_what_fonts_are_embedded.md)
 
 <a id="perl"></a>
 ### Perl - Swiss Army Knife of programming languages
