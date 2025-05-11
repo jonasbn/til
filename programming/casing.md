@@ -85,7 +85,7 @@ As for snake case:
 
 There is not such thing as "Pdf" it is either "PDF" of "pdf". As stated: "Pdf" is an incorrect and inconsistent abbreviation/acronym where as both "PDF" and "pdf" are consistent, the first one more correct, but the other one might be acceptable as part of the formatting.
 
-I can read: "PDF", "pdf" and "Pdf", but the last one rubs me everytime I see it. I can of course stick to case insensitive searching, then it does not matter.
+I can read: "PDF", "pdf" and "Pdf", but the last one rubs me every time I see it. I can of course stick to case insensitive searching, then it does not matter.
 
 ## Resources and References
 

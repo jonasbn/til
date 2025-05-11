@@ -8,7 +8,7 @@ Like so:
 strings /path/to/document.pdf | grep -i FontName
 ```
 
-Alternativly there are also:
+Alternatively there are also:
 
 - `poppler`
 - `xpdf`
