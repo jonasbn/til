@@ -40,7 +40,6 @@ But with GitHub introducing the `picture` element, there is a better way
 
 The first one is not so compatible outside GitHub, the second one is relying on HTML and promises more compatibility, but I guess it depends on toolchain.
 
-
 ## Resources and References
 
 1. [Specify theme context for images in Markdown](https://github.blog/changelog/2021-11-24-specify-theme-context-for-images-in-markdown/)
