@@ -1113,7 +1113,7 @@ TIL snippets, this will be done when I have the time, one TIL at a time :-)
 <a id="license"></a>
 ## License
 
-&copy; 2016-2024 jonasbn
+&copy; since 2016 jonasbn
 
 This repository is licensed under the MIT license. See [LICENSE](LICENSE) file
 for details. Much is lifted from elsewhere and might by copyrighted under other
