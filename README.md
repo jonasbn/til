@@ -7,7 +7,6 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Categories](#categories)
   - [ack - an alternative to grep](#ack---an-alternative-to-grep)
   - [afplay - play audio files from the commandline on macOS](#afplay---play-audio-files-from-the-commandline-on-macos)
@@ -129,6 +128,7 @@
   - [XML - see also YAML and JSON](#xml---see-also-yaml-and-json)
   - [YAML - see also XML and JSON](#yaml---see-also-xml-and-json)
   - [z - for jumping around in the file structures, an alternative to cd](#z---for-jumping-around-in-the-file-structures-an-alternative-to-cd)
+  - [zed - a text editor](#zed---a-text-editor)
   - [zoxide - an alternative to z](#zoxide---an-alternative-to-z)
   - [zsh - another shell than bash](#zsh---another-shell-than-bash)
   - [XSLT](#xslt)
@@ -410,6 +410,7 @@
 
 - [Unsuitable Terminal Error](ghostty/unsuitable_terminal.md)
 - [Visor](ghostty/visor.md)
+- [Using light and dark themes](ghostty/using_light_and_dark_themes.md)
 
 <a id="git"></a>
 ### Git - version control system
@@ -726,6 +727,7 @@
 - [Find timezones](osx/find_timezones.md)
 - [Remove backgrounds from images](osx/remove_backgrounds_from_images.md)
 - [Switch to and from Dark Mode Using Command Line](osx/switch_to_and_from_dark_mode_using_cli.md)
+- [Light and Dark Mode](osx/light_and_dark_mode.md)
 
 <a id="pdf"></a>
 ### PDF - a binary document format
@@ -1032,6 +1034,7 @@
 - [Use Markdown All in One](vscode/use_markdown_all_in_one.md)
 - [Perl Language Server Extension](vscode/perl-language-server_extension.md)
 - [Search and Replace Empty Lines](vscode/search_and_replace_empty_lines.md)
+- [Using light and dark themes](vscode/using_light_and_dark_themes.md)
 
 <a id="vmware-fusion"></a>
 ### VMware Fusion - a virtualization tool for macOS
@@ -1075,6 +1078,11 @@
 ### z - for jumping around in the file structures, an alternative to cd
 
 - [Jumping Around Using z](z/jump_around.md)
+
+<a id="zed"></a>
+### zed - a text editor
+
+- [Using light and dark themes](zed/using_light_and_dark_themes.md)
 
 <a id="zoxide>
 ### zoxide - an alternative to z

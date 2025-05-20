@@ -33,7 +33,7 @@ And finally I discovered some tools I did not know at all:
 
 - `shfmt` ([jumanjihouse/pre-commit-hooks](https://github.com/jumanjihouse/pre-commit-hooks))
 
-And believe there are many [more][HOOKS]...
+And believe [there are many more][HOOKS]...
 
 ## Getting Started
 
