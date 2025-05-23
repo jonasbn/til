@@ -1086,7 +1086,7 @@
 
 - [Using light and dark themes](zed/using_light_and_dark_themes.md)
 
-<a id="zoxide>
+<a id="zoxide"></a>
 ### zoxide - an alternative to z
 
 - [Use zoxide](zoxide/use_zoxide.md)
