@@ -7,6 +7,7 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Categories](#categories)
   - [ack - an alternative to grep](#ack---an-alternative-to-grep)
   - [afplay - play audio files from the commandline on macOS](#afplay---play-audio-files-from-the-commandline-on-macos)
@@ -344,6 +345,7 @@
 - [Debugging a b0rken Docker build step](docker/debugging_a_broken_docker_build_step.md)
 - [exec error](docker/exec_error.md)
 - [Docker on Windows](docker/docker_on_windows.md)
+- [Pinning Images in Docker Files](docker/pinning_images_in_docker_files.md)
 
 <a id="dockerhub"></a>
 ### DockerHub - a repository for Docker images

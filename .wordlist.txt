@@ -2224,3 +2224,12 @@ Judis
 PDFs
 PAdEs
 UA
+ForAllValues
+StringLike
+IAM
+OIDC
+StringLike
+SSO
+orgs
+Biró
+Bálint
