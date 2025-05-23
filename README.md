@@ -1096,6 +1096,7 @@
 
 - [Use zsh](zsh/use_zsh.md)
 - [Set Environment from File](zsh/set_environment_from_file.md)
+- [Edit Command in Editor](zsh/edit_command_in_editor.md)
 
 <a id="xslt"></a>
 ### XSLT

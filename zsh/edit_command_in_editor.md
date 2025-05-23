@@ -4,7 +4,7 @@ Sometimes you have a complex command line or something recalled from your histor
 
 In **Bash** you could call `<ctrl>`-`x` followed by: `<ctrl>`-`e` and your chosen editor would open up with the relevant line for you editing pleasure.
 
-In **Zsh** this can also be accomplised using: `<ctrl>`-`x` followed by: `e`
+In **Zsh** this can also be accomplished using: `<ctrl>`-`x` followed by: `e`
 
 And just to recap:
 
@@ -18,7 +18,7 @@ VISUAL=code --wait --new-window
 EDITOR=/usr/bin/vim
 ```
 
-If you are ind doubt about the keybinding or want to change it, excute: `keybind` and see the current list of bindings.
+If you are ind doubt about the keybinding or want to change it, execute: `keybind` and see the current list of bindings.
 
 ```shell
 bindkey|ag edit
