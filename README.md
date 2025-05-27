@@ -33,6 +33,7 @@
   - [Dash.app - an alternative browser to the built-in documentation in macOS and other resources](#dashapp---an-alternative-browser-to-the-built-in-documentation-in-macos-and-other-resources)
   - [date - see dates and time on the command line](#date---see-dates-and-time-on-the-command-line)
   - [Debian - popular Linux distribution](#debian---popular-linux-distribution)
+  - [Diagramming](#diagramming)
   - [diff-so-fancy - a diff alternative](#diff-so-fancy---a-diff-alternative)
   - [DigitalOcean - a hosting provider, caring about open source](#digitalocean---a-hosting-provider-caring-about-open-source)
   - [Docker - containerization](#docker---containerization)
@@ -311,6 +312,11 @@
 - [Resolve conflicting values in Debian package](debian/resolve_conflicting_values_in_package.md)
 - [Install unauthenticated package](debian/install_unauthenticated_package.md)
 - [Translate release names](debian/translate_release_names.md)
+
+<a id="diagramming"></a>
+### Diagramming
+
+- [Diagrams as Python Code](diagramming/diagrams_as_python_code.md)
 
 <a id="diff-so-fancy"></a>
 ### diff-so-fancy - a diff alternative

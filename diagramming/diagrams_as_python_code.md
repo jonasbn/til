@@ -1,6 +1,6 @@
 # Diagrams as Python Code
 
-I love diagrams. I am not good a drawing or paiting or similar, but I low diagrams and I am very fond of visuals.
+I love diagrams. I am not good a drawing or painting or similar, but I low diagrams and I am very fond of visuals.
 
 In my work diagrams play an important role and it is important to be able to create diagrams.
 
@@ -28,13 +28,13 @@ with Diagram("Grouped Workers", show=True, direction="TB"):
 
 ![example AWS diagram](https://diagrams.mingrammer.com/img/grouped_workers_diagram.png)
 
-I mentioned speed and that speed of the essense so let me give you an introduction to my setup.
+I mentioned speed and that speed of the essence so let me give you an introduction to my setup.
 
 I edit the Python in VSCode, which leverages of the benefits there of a good editor, it could be any.
 
 I save the diagram to a file.
 
-In the diagram code you can see the attribute: `show`, if you set the to `True` the diagram open automically when the Python code is executed (at least on macOS), which is awesome.
+In the diagram code you can see the attribute: `show`, if you set the to `True` the diagram open automatically when the Python code is executed (at least on macOS), which is awesome.
 
 If you combine this with: `entr` you get instant gratification.
 
