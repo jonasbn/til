@@ -885,6 +885,7 @@
 - [Nifty aliases](shell/nifty_aliases.md)
 - [Testing Using Bats](shell/testing_using_bats.md)
 - [stat](shell/stat.md)
+- [Creating a file with multiple lines of content](shell/creating_a_file_with_multiple_lines_of_content.md)
 
 <a id="shellcheck"></a>
 ### shellcheck - a linter for shell scripts
@@ -923,6 +924,7 @@
 - [Counting NULL and non-NULL values in a single query](sql/counting_null_and_non_null_values_in_a_single_query.md)
 - [How to group by month in a year](sql/how_to_group_by_month_in_a_year.md)
 - [How to query data where you are unsure of the casing](sql/how_to_query_data_where_you_are_unsure_of_the_casing.md)
+- [Styling your SQL](sql/styling_your_sql.md)
 
 <a id="sql-developer"></a>
 ### SQL Developer - a GUI tool for Oracle
@@ -1103,6 +1105,7 @@
 - [Use zsh](zsh/use_zsh.md)
 - [Set Environment from File](zsh/set_environment_from_file.md)
 - [Edit Command in Editor](zsh/edit_command_in_editor.md)
+- [Slimming history](zsh/slimming_history.md)
 
 <a id="xslt"></a>
 ### XSLT

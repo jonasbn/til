@@ -2233,3 +2233,6 @@ SSO
 orgs
 Biró
 Bálint
+DigitalOceans
+sts
+Comcast
