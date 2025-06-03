@@ -6,4 +6,4 @@ This is an awesome list of interesting MCP servers
 
 ## Resources and References
 
-- [List of MCP serverse](https://github.com/modelcontextprotocol/servers)
+- [List of MCP servers](https://github.com/modelcontextprotocol/servers)
