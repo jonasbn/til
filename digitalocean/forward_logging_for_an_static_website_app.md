@@ -22,6 +22,6 @@ This is outlined in this [guide][betterstack], the section on: "Browser only" - 
 
 ## Resources and References
 
-- [BetterStack: "JavaScript quick start guide"][]
+- [BetterStack: "JavaScript quick start guide"][betterstack]
 
 [betterstack]: https://betterstack.com/docs/logs/javascript/install/#logging-from-browser
