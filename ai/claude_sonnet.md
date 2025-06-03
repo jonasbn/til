@@ -9,7 +9,7 @@ and it simply did not work out, I believe the model used was the default of GPT.
 
 After a change copilot provided a working version.
 
-From the interview here are some of my take aways:
+From the interview here are some of my takeaways:
 
 > [00:56:22.03] I believe this is going to be useful in the future, even if I am not a fan of rug, because I believe that RAG created a lot of issues. For example, one of the reasons I believe Claude Sonnet is often in the real world so strong for programmers is that when you attach a file there, the model sees all the file. They don’t use RAG. Instead, when you attach a file in the Open AI systems, it uses RAG. So you don’t see it, but the model is just seeing fragments of the code. So in some way, Claude looks magical because of that.
 >
