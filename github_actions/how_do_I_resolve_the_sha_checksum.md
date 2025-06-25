@@ -1,4 +1,4 @@
-# How do I resolved the SHA checksums?
+# How do I resolve the SHA checksums?
 
 Since the recommendation is to pin the version of the action, you may need to update the SHA checksums in your workflow file. The SHA checksums are used to ensure that the action is not tampered with and that the action is the same version that you expect.
 
