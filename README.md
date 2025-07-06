@@ -123,6 +123,7 @@
   - [ufw - Uncomplicated Firewall](#ufw---uncomplicated-firewall)
   - [vim - a text editor](#vim---a-text-editor)
   - [VSCode / Visual Studio Code](#vscode--visual-studio-code)
+  - [Warp - a modern terminal emulaltor with AI integration](#warp---a-modern-terminal-emulaltor-with-ai-integration)
   - [VMware Fusion - a virtualization tool for macOS](#vmware-fusion---a-virtualization-tool-for-macos)
   - [Vue - a JavaScript framework](#vue---a-javascript-framework)
   - [WSL 1/2 - Windows Subsystem for Linux](#wsl-12---windows-subsystem-for-linux)
@@ -1045,6 +1046,12 @@
 - [Perl Language Server Extension](vscode/perl-language-server_extension.md)
 - [Search and Replace Empty Lines](vscode/search_and_replace_empty_lines.md)
 - [Using light and dark themes](vscode/using_light_and_dark_themes.md)
+
+<a id="warp"></a>
+### Warp - a modern terminal emulaltor with AI integration
+
+- [Use Warp](warp/use_warp.md)
+- [Indexed Codebases](warp/indexed_codebases.md)
 
 <a id="vmware-fusion"></a>
 ### VMware Fusion - a virtualization tool for macOS
