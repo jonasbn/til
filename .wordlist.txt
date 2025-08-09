@@ -2247,3 +2247,6 @@ LLaMA
 GenAI
 BetterStack
 logtail
+Codebases
+codebases
+TypeScript
