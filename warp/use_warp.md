@@ -1,6 +1,6 @@
 # Use Warp
 
-Warp is very advanced and has some special features. 
+Warp is very advanced and has some special features.
 
 I can recommend checking out [the Warp Youtube channel][WARPTUBE] and these particular videos:
 
