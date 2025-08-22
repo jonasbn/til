@@ -466,6 +466,7 @@
 <a id="github"></a>
 ### GitHub - platform for hosting Git repositories
 
+- [Create Descriptive Organization Profile](github/create_descriptive_org_profile.md)
 - [Ignore whitespace changes](github/ignore_whitespace_changes.md)
 - [Test Markdown rendering before making public](github/test_markdown_rendering_before_making_public.md)
 - [How to get the email address of a github user](github/get_email_of_github_user.md)
