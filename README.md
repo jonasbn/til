@@ -382,6 +382,7 @@
 - [Perl](editorconfig/perl.md)
 - [XML](editorconfig/xml.md)
 - [Markdown](editorconfig/markdown.md)
+- [YAML](editorconfig/yaml.md)
 
 <a id="entr"></a>
 ### entr - run arbitrary commands when files change
