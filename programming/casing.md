@@ -14,7 +14,7 @@ This is used for variable names, function names, and method names in Java.
 
 - `PascalCase`
 
-Also referred to as upper camel case, this casing style is used in many programming languages, including C#, C++, and Swift. The first letter of each word is capitalized.
+Also referred to as *upper camel case* (`UpperCamelCase`), this casing style is used in many programming languages, including C#, C++, and Swift. The first letter of each word is capitalized.
 
 This is used for class names, interfaces, annotations, enums and records in Java.
 
