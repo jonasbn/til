@@ -6,7 +6,7 @@ They are indeed _magical_, or let's just say, incredibly useful. I have added a 
 
 The gist:
 
-You are working in something in a branch in your git workdirectory.
+You are working in something in a branch in your git work directory.
 
 An urgent distraction enters, so you do:
 
