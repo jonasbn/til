@@ -4,10 +4,24 @@ use warnings;
 use strict;
 use File::Find;
 
-find(\&wanted, '.');
+find({ wanted => \&wanted, preprocess => \&preprocess }, '.');
 
 my %files;
 my %links;
+
+sub preprocess {
+    my @result;
+    foreach my $e (@_) {
+        if ($e =~ m/^\.git$/) {
+            next;
+        }
+        if ($e =~ m/^_site$/) {
+            next;
+        }
+        push @result, $e;
+    }
+    return @result;
+}
 
 sub wanted {
     if ($_ =~ m/\.md$/) {
