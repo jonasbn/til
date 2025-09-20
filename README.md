@@ -13,6 +13,7 @@
   - [afplay - play audio files from the commandline on macOS](#afplay---play-audio-files-from-the-commandline-on-macos)
   - [ag - also known as the Silversurfer, fast alternative to ack and grep](#ag---also-known-as-the-silversurfer-fast-alternative-to-ack-and-grep)
   - [awk](#awk)
+  - [AWS - the Amazon cloud](#aws---the-amazon-cloud)
   - [Bash - the Bourne Again Shell](#bash---the-bourne-again-shell)
   - [Bootstrap - web framework for fast prototyping](#bootstrap---web-framework-for-fast-prototyping)
   - [Bruno - an alternative to Postman](#bruno---an-alternative-to-postman)
@@ -104,6 +105,7 @@
   - [shellcheck - a linter for shell scripts](#shellcheck---a-linter-for-shell-scripts)
   - [Slack - a collaboration tool](#slack---a-collaboration-tool)
   - [smartcd - a tool for running commands when changing directories](#smartcd---a-tool-for-running-commands-when-changing-directories)
+  - [SSL-TLS](#ssl-tls)
   - [Sublime Text 3 - see also VSCode](#sublime-text-3---see-also-vscode)
   - [Subversion - do see Git](#subversion---do-see-git)
   - [SQL - Structured Query Language](#sql---structured-query-language)
@@ -119,6 +121,7 @@
   - [tldr - Too Long; Didn't Read, so use tldr](#tldr---too-long-didnt-read-so-use-tldr)
   - [tmux - an alternative to screen](#tmux---an-alternative-to-screen)
   - [tokei - language statistics - fast](#tokei---language-statistics---fast)
+  - [Typescript - strictly typed JavaScript](#typescript---strictly-typed-javascript)
   - [Ubuntu - a Linux distribution based on Debian](#ubuntu---a-linux-distribution-based-on-debian)
   - [ufw - Uncomplicated Firewall](#ufw---uncomplicated-firewall)
   - [vim - a text editor](#vim---a-text-editor)
@@ -162,6 +165,15 @@
 ### awk
 
 - [Learn AWK](awk/learn_awk.md)
+
+<a id="aws"></a>
+### AWS - the Amazon cloud
+
+- [AWS CLI SSO](aws/aws_cli_sso.md)
+- [Learn S3](aws/learn_s3.md)
+- [AWS MCP](aws/mcp.md)
+- [Multiple keys in JSON templates](aws/multiple_keys_in_json_templates.md)
+- [Notes on CloudFront S3 static sites](aws/notes_on_cloudfront_s3_static_sites.md)
 
 <a id="bash"></a>
 ### Bash - the Bourne Again Shell
@@ -774,6 +786,12 @@
 
 - [Tidy a file inline](perltidy/tidy_file_inline.md)
 
+<a id="php"></a>
+
+- [Comments](php/comments.md)
+- [sprintf](php/sprintf.md)
+- [Use phpbrew](php/use_phpbrew.md)
+
 <a id="postgresql"></a>
 ### Postgresql - a relational database
 
@@ -907,6 +925,11 @@
 - [Use smartcd with tabs](smartcd/use_with_tabs.md)
 - [Silence smartcd](smartcd/silence_smartcd.md)
 
+<a id="ssl_tls"></a>
+### SSL-TLS
+
+- [Best Practices](ssl_tls/best_practices.md)
+
 <a id="sublime-text-3"></a>
 ### Sublime Text 3 - see also VSCode
 
@@ -1006,6 +1029,11 @@
 ### tokei - language statistics - fast
 
 - [use tokei](tokei/use_tokei.md)
+
+<a id="typescript"></a>
+### Typescript - strictly typed JavaScript
+
+- [String Interpolation](typescript/string_interpolation.md)
 
 <a id="ubuntu"></a>
 ### Ubuntu - a Linux distribution based on Debian
