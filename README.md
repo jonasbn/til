@@ -490,6 +490,7 @@
 - [Providing Suggestions in Reviews](github/providing_suggestions_in_reviews.md)
 - [Use CLI](github/use_cli.md)
 - [Theme Sensitive Images in GitHub Markdown](github/theme_sensitive_images_in_gh_markdown.md)
+- [GitHub MCP Server](github/github_mcp_server.md)
 
 <a id="github_actions"></a>
 ### GitHub Actions - automate your GitHub work and repositories

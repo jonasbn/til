@@ -2261,3 +2261,7 @@ awslabs
 mcp
 webapp
 VueJS
+cfinnberg
+NAC
+hexdocs
+monterail
