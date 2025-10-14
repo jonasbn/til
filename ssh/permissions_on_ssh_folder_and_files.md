@@ -26,4 +26,4 @@ Yes these are just notes, but handled like source code and hence treated like so
 
 - [SuperUser: Permissions on private key in .ssh folder?](https://superuser.com/questions/215504/permissions-on-private-key-in-ssh-folder)
 - [ServerFault: ssh returns “Bad owner or permissions on ~/.ssh/config”](https://serverfault.com/questions/253313/ssh-returns-bad-owner-or-permissions-on-ssh-config)
-- [jonasbn/TIL: Issue #128](https://github.com/jonasbn/til/issues/128) 
+- [jonasbn/TIL: Issue #128](https://github.com/jonasbn/til/issues/128)
