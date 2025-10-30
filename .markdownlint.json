@@ -14,5 +14,6 @@
     "no-space-in-links": false,
     "no-space-in-emphasis": false,
     "emphasis-style": { "style": "underscore" },
-    "strong-style": { "style": "asterisk" }
+    "strong-style": { "style": "asterisk" },
+    "no-blanks-blockquote": false
 }
