@@ -26,22 +26,36 @@ The file contents looks something along the lines of:
 
 ```yaml
 name: Markdownlint Action
-on: push
+on:
+  push:
+    paths:
+      - '**/*.md'
+      - '.markdownlintignore'
+      - '.markdown.json'
+  pull_request:
+    paths:
+      - '**/*.md'
+      - '.markdownlintignore'
+      - '.markdown.json'
+
+permissions: read-all
 
 jobs:
   build:
     name: Markdownlint
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - uses: nosborn/github-action-markdown-cli@v3.3.0
-      name: Markdownlint
-      with:
-        files: .
-        config_file: ".markdownlint.json"
+      - name: Checkout
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+      - name: Markdownlint
+        uses: nosborn/github-action-markdown-cli@508d6cefd8f0cc99eab5d2d4685b1d5f470042c1 # v3.5.0
+        continue-on-error: true
+        with:
+          files: .
+          config_file: ".markdownlint.json"
 ```
 
-The action used `nosborn/github-action-markdown-cli` can be found on the [GitHub marketplace][MARKETPLACE] and since it is based on **markdownlint-cli** I have no challenges with the configuration outlined above since it is the same configuration used for the CLI tool and additionally VScode.
+The action uses `nosborn/github-action-markdown-cli` can be found on the [GitHub marketplace][MARKETPLACE] and since it is based on **markdownlint-cli** I have no challenges with the configuration outlined above since it is the same configuration used for the CLI tool: `markdownlint` and additionally **VScode**.
 
 As I add more and more Markdown the warnings/recommendations start to appear and I adjust the configuration. For this repository is looks like this at the time of writing.
 
@@ -70,7 +84,10 @@ As I add more and more Markdown the warnings/recommendations start to appear and
 
 As your toolbox grow and your repository adopt more and more tooling, you might experience that your repository root directory clutters with all sort of repository specific configurations.
 
-Luckily the action can be configured to point to an alternative path for the configuration file:
+Luckily the action can be configured to point to an alternative path for the configuration file.
+
+> [!WARNING]
+> This below is not compatible with the intuitive and out of the box solution of having the `.markdownlint.json` in the root directory for easy detection by the CLI tool or VScode.
 
 ```yaml
 with:
