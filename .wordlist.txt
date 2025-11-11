@@ -2268,3 +2268,15 @@ monterail
 programmatically
 ppas
 tmuxcheatsheet
+PPAs
+jeffbailey
+neovim
+nvim
+nathan
+lazyvim
+phillips
+cTbtLCIM
+LazyVim
+multiport
+manpages
+natively

@@ -400,6 +400,7 @@
 ### entr - run arbitrary commands when files change
 
 - [Run arbitrary commands when files change using entry](entr/run_arbitrary_commands_when_files_change_using_entr.md)
+- [Solving Condition Requirement](entr/solving_conditional_requirement.md)
 
 <a id="exa"></a>
 ### exa/eza - an alternative to the ls command
@@ -807,6 +808,8 @@
 ### Programming - general programming tips
 
 - [Round float to 2 decimals](programming/round_float_to_2_decimals.md)
+- [Error Messages](programming/error_messages.md)
+- [Casing](programming/casing.md)
 
 <a id="probot"></a>
 ### Probot - a framework for building GitHub Apps
@@ -1143,6 +1146,7 @@
 - [Set Environment from File](zsh/set_environment_from_file.md)
 - [Edit Command in Editor](zsh/edit_command_in_editor.md)
 - [Slimming history](zsh/slimming_history.md)
+- [String interpolation](zsh/string_interpolation.md)
 
 <a id="xslt"></a>
 ### XSLT
