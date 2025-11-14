@@ -169,6 +169,7 @@ The CLI tool has the following options: `-p/--ignore-path`, but these take path 
 
 - [GitHub Marketplace: Markdownlint-CLI][GITHUBMARKETPLACE]
 - [VScode Marketplace: Markdownlint][VSCODEMARKETPLACE]
+- [Markdownlint Specification](https://www.markdownguide.org/basic-syntax/)
 
 [GITHUBMARKETPLACE]: https://github.com/marketplace/actions/markdownlint-cli
 [VSCODEMARKETPLACE]: https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
