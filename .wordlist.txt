@@ -2280,3 +2280,7 @@ LazyVim
 multiport
 manpages
 natively
+Lightsail
+lightsail
+lik
+hwen
