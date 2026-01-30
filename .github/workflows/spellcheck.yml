@@ -6,7 +6,7 @@ jobs:
     name: Spellcheck
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+    - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
 
     - name: Get all changed markdown files
       uses: tj-actions/changed-files@e0021407031f5be11a464abee9a0776171c79891 # v47.0.1
@@ -17,7 +17,7 @@ jobs:
 
     - name: Run Spellcheck
       id: spellcheck
-      uses: rojopolis/spellcheck-github-actions@v0
+      uses: rojopolis/spellcheck-github-actions@0bf4b2f91efa259b52c202b09b0c3845c524ff36 # 0.58.0
       with:
         task_name: Markdown
         source_files: ${{ steps.changed_files.outputs.all_changed_files }}

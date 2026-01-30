@@ -31,4 +31,8 @@ gh prs
 - [GitHub repository](https://github.com/cli/cli)
 - [GitHub CLI extensions listing][GHEXTLIST]
 
+## Resources and References
+
+- [New GitHub CLI extension tools](https://github.blog/developer-skills/github/new-github-cli-extension-tools/)
+
 [GHEXTLIST]: https://github.com/topics/gh-extension

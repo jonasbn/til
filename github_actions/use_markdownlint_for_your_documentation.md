@@ -18,9 +18,9 @@ In the root of the repository I add the file: `.markdownlint.json`
 }
 ```
 
-The moment I have done that, I can use the command line tool and my editor let's me know I entered bad Markdown.
+The moment I have done that, I can use the command line tool and my editor let's me know I entered _bad_ Markdown.
 
-Next step is configuring the action, so I add the following file to the directory: `.github/workflows/markdownlint.yml`, I do this so all of the warnings and recommendations that Markdownlint I do not see, gets captured as part of the continuous integration on GitHub.
+Next step is configuring the action, so I add the following file to the directory: `.github/workflows/markdownlint.yml`, I do this so all of the warnings and recommendations that Markdownlint I do not catch, gets captured as part of the continuous integration on GitHub.
 
 The file contents looks something along the lines of:
 
@@ -31,12 +31,12 @@ on:
     paths:
       - '**/*.md'
       - '.markdownlintignore'
-      - '.markdown.json'
+      - '.markdownlint.json'
   pull_request:
     paths:
       - '**/*.md'
       - '.markdownlintignore'
-      - '.markdown.json'
+      - '.markdownlint.json'
 
 permissions: read-all
 
@@ -55,7 +55,19 @@ jobs:
           config_file: ".markdownlint.json"
 ```
 
-The action uses `nosborn/github-action-markdown-cli` can be found on the [GitHub marketplace][MARKETPLACE] and since it is based on **markdownlint-cli** I have no challenges with the configuration outlined above since it is the same configuration used for the CLI tool: `markdownlint` and additionally **VScode**.
+The configuration has a lot of things going on:
+
+- I have configured what triggers the linting process
+  - Markdown files of course, if you name them differently lik: `*.mkdn` etc. you need to take that into consideration
+  - But also changes to the tool chain:
+    - `.markdownlint.json` specifies our rules, so do we have changes to the rules we need a run
+    - `.markdownlintignore` a classical ignore file for Markdownlint, does this file have changes we need a run
+- The action only needs read permissions
+- The `uses` statements pointing to the actions used are pinned, which is a security recommendation
+- I use `continue-on-error` as Markdown linting errors are often not critical to the repository
+- The `config_file` parameter is for hwen you want to locate your configuration in another place to declutter the root of your repository, I just have it here for convenience, see more below
+
+The action uses `nosborn/github-action-markdown-cli` can be found on the [GitHub marketplace][GITHUBMARKETPLACE] and since it is based on **markdownlint-cli** I have no challenges with the configuration outlined above since it is the same configuration used for the CLI tool: `markdownlint` and additionally **VScode** via the plugin from the [VScode marketplace][VSCODEMARKETPLACE].
 
 As I add more and more Markdown the warnings/recommendations start to appear and I adjust the configuration. For this repository is looks like this at the time of writing.
 
@@ -79,6 +91,20 @@ As I add more and more Markdown the warnings/recommendations start to appear and
     "strong-style": { "style": "asterisk" }
 }
 ```
+
+For the rules I have configured I would like to emphasize:
+
+- `"ul-style": { "style": "dash" }`
+- `"emphasis-style": { "style": "underscore" }`
+- `"strong-style": { "style": "asterisk" }`
+
+Since Markdown is very flexible, I prefer to have a very uniform style, so I use:
+
+- `-` (dash) for lists, why? this could also be: `+` (plus) or `*` (asterisk)
+- `_` (underscore) for italics/emphasis, why? - two consecutive underscores is also bold
+- `*` (asterisk) for bold/strong, why? - a single asterisk is emphasis, two is bold, asterisk surrounded by spaces is a bullet
+
+There might be cases where I have to bend this rules, so I do that on a per repository basis.
 
 ## Decluttering Your Repository Root Directory
 
@@ -134,10 +160,16 @@ This does mean that you might have some challenges in regards to the additional 
 
 AFAICT the VScode extension does not allow for configuring the path to the ignore file.
 
+> [!NOTE]
+> Do note that the files moved to `.github` has the dot removed, since there is not need to hide them as such, when the directory is hidden
+
 The CLI tool has the following options: `-p/--ignore-path`, but these take path arguments and not the path to an ignore file, so some cluttering will occur.
 
 ## Resources and References
 
-- [GitHub Marketplace: Markdownlint-CLI][MARKETPLACE]
+- [GitHub Marketplace: Markdownlint-CLI][GITHUBMARKETPLACE]
+- [VScode Marketplace: Markdownlint][VSCODEMARKETPLACE]
+- [Markdownlint Specification](https://www.markdownguide.org/basic-syntax/)
 
-[MARKETPLACE]: https://github.com/marketplace/actions/markdownlint-cli
+[GITHUBMARKETPLACE]: https://github.com/marketplace/actions/markdownlint-cli
+[VSCODEMARKETPLACE]: https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint

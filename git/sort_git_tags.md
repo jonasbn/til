@@ -57,6 +57,7 @@ You can create an alias for this command by adding the following line to your `.
 
 Do note this is the GNU `sort` command, so it might not work on all systems. If you are on macOS, you can install the GNU Core Utils using Homebrew:
 
+```shell
 ```bash
 brew install coreutils
 ```
@@ -68,3 +69,13 @@ git tag | gsort -r --version-sort
 ```
 
 Before I new all this I had created a basic Perl script to do it, available as [a Gist](https://dev.to/jonasbn/gist-sorting-semantic-versioned-git-tags-191e) AND then I learned a tonnes about the `sort` command and the `--version-sort` option from a comment - just awesome.
+
+And finally I ended up with the following aliases
+
+```bash
+[alias]
+    rtags = !git tag | gsort -r --version-sort
+    tags = !git tag | gsort --version-sort
+```
+
+The `rtags` alias lists the tags in descending version order (newest/highest at the top) and the `tags` alias lists them in ascending version order (oldest/lowest at the top), which is also the default behavior of `git tag`.
