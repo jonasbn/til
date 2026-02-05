@@ -1,5 +1,5 @@
-.PHONY: stats spelling
-stats:
+.PHONY: stats spelling monitor markdown
+monitor:
 	ls **/*.md | entr ./check_til.pl
 
 markdown:
@@ -7,3 +7,6 @@ markdown:
 
 spelling:
 	spellchecker.sh
+
+stats:
+	./check_til.pl
