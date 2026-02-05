@@ -316,6 +316,7 @@
 ### date - see dates and time on the command line
 
 - [Getting time in another timezone](date/getting_time_in_another_timezone.md)
+- [Get nanoseconds as part of of epoch](date/get_nanoseconds_as_part_of_epoch.md)
 
 <a id="debian"></a>
 ### Debian - popular Linux distribution
@@ -986,6 +987,8 @@
 - [Permissions on SSH folder and files](ssh/permissions_on_ssh_folder_and_files.md)
 - [Hardening SSH server](ssh/hardening_ssh_server.md)
 - [fail2ban](ssh/fail2ban.md)
+- [SSH on Windows](ssh/ssh_on_windows.md)
+- [SSH Penetration testing](ssh/ssh_penetration_testing.md)
 
 <a id="starship"></a>
 ### Starship - nifty prompt and an alternative to Liquid Prompt
@@ -1147,6 +1150,7 @@
 - [Edit Command in Editor](zsh/edit_command_in_editor.md)
 - [Slimming history](zsh/slimming_history.md)
 - [String interpolation](zsh/string_interpolation.md)
+- [Oh My Zsh Themes](zsh/ohmyzsh_themes.md)
 
 <a id="xslt"></a>
 ### XSLT
