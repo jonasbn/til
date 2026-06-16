@@ -3,7 +3,6 @@
 ## Show Hidden files in Explorer and Picker
 
 ```lua
-```lua
 return {
   {
     "folke/snacks.nvim",
@@ -23,10 +22,6 @@ return {
     },
   },
 }
-```
-```
-```
-````
 ```
 
 REF: [LazyVim GitHub Discussions](https://github.com/LazyVim/LazyVim/discussions/6807)

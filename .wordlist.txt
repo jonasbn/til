@@ -2321,3 +2321,5 @@ OpenAI
 baeacc
 hootsuite
 mortems
+hyperextensible
+symlink

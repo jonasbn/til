@@ -1,6 +1,6 @@
 # ministack
 
-> The **best** AWS emulator 
+> The **best** AWS emulator
 > & LocalStack alternative
 
 ## Resources and References
