@@ -12,18 +12,25 @@
   - [ack - an alternative to grep](#ack---an-alternative-to-grep)
   - [afplay - play audio files from the commandline on macOS](#afplay---play-audio-files-from-the-commandline-on-macos)
   - [ag - also known as the Silversurfer, fast alternative to ack and grep](#ag---also-known-as-the-silversurfer-fast-alternative-to-ack-and-grep)
+  - [AI - Artificial Intelligence](#ai---artificial-intelligence)
+  - [API - Application Programming Interface](#api---application-programming-interface)
   - [awk](#awk)
   - [AWS - the Amazon cloud](#aws---the-amazon-cloud)
   - [Bash - the Bourne Again Shell](#bash---the-bourne-again-shell)
   - [Bootstrap - web framework for fast prototyping](#bootstrap---web-framework-for-fast-prototyping)
   - [Bruno - an alternative to Postman](#bruno---an-alternative-to-postman)
+  - [Bumblebee - development workstation inspection tool](#bumblebee---development-workstation-inspection-tool)
   - [C - compiled programming language](#c---compiled-programming-language)
   - [carton - tools for handling Perl distributions and dependencies local to a project](#carton---tools-for-handling-perl-distributions-and-dependencies-local-to-a-project)
+  - [certbot - SSL certificate tool from Let's Encrypt](#certbot---ssl-certificate-tool-from-lets-encrypt)
   - [chezmoi - dot filer manager](#chezmoi---dot-filer-manager)
   - [chrome - browser also known as chromium](#chrome---browser-also-known-as-chromium)
   - [clang - project for tools for building C, C++ and Objective-C](#clang---project-for-tools-for-building-c-c-and-objective-c)
+  - [Claude - Claude Code and Claude AI](#claude---claude-code-and-claude-ai)
   - [colortail - colorful variation of tail](#colortail---colorful-variation-of-tail)
+  - [Copilot - GitHub Copilot AI assistant](#copilot---github-copilot-ai-assistant)
   - [CPAN - Perl packages and distributions repository](#cpan---perl-packages-and-distributions-repository)
+  - [cpanfile - Perl dependency file format](#cpanfile---perl-dependency-file-format)
   - [cpanm - a fast CPAN module installer](#cpanm---a-fast-cpan-module-installer)
   - [cpm - alternative to cpanm](#cpm---alternative-to-cpanm)
   - [crates - Rust packages](#crates---rust-packages)
@@ -32,8 +39,11 @@
   - [C# - .NET based language from Microsoft](#c---net-based-language-from-microsoft)
   - [curl - a commandline tool for transferring data with URL syntax](#curl---a-commandline-tool-for-transferring-data-with-url-syntax)
   - [Dash.app - an alternative browser to the built-in documentation in macOS and other resources](#dashapp---an-alternative-browser-to-the-built-in-documentation-in-macos-and-other-resources)
+  - [Database - relational and other databases](#database---relational-and-other-databases)
+  - [DBeaver - universal database tool](#dbeaver---universal-database-tool)
   - [date - see dates and time on the command line](#date---see-dates-and-time-on-the-command-line)
   - [Debian - popular Linux distribution](#debian---popular-linux-distribution)
+  - [dev.to - developer blogging platform](#devto---developer-blogging-platform)
   - [Diagramming](#diagramming)
   - [diff-so-fancy - a diff alternative](#diff-so-fancy---a-diff-alternative)
   - [DigitalOcean - a hosting provider, caring about open source](#digitalocean---a-hosting-provider-caring-about-open-source)
@@ -48,6 +58,7 @@
   - [fd - a fast alternative to find](#fd---a-fast-alternative-to-find)
   - [FileMerge.app - a diff tool for macOS](#filemergeapp---a-diff-tool-for-macos)
   - [find - find files and directories on the command line](#find---find-files-and-directories-on-the-command-line)
+  - [Fresh Editor - a CLI text editor](#fresh-editor---a-cli-text-editor)
   - [Ghostty - a fast and native terminal emulator](#ghostty---a-fast-and-native-terminal-emulator)
   - [Git - version control system](#git---version-control-system)
   - [git-delta - an commandline diff tool, also known as delta](#git-delta---an-commandline-diff-tool-also-known-as-delta)
@@ -68,19 +79,27 @@
   - [jq - a lightweight and flexible command-line JSON processor](#jq---a-lightweight-and-flexible-command-line-json-processor)
   - [JSON - see also XML and YAML](#json---see-also-xml-and-yaml)
   - [Kali - a Linux distribution focused on security and penetration testing](#kali---a-linux-distribution-focused-on-security-and-penetration-testing)
+  - [Kubernetes - container orchestration](#kubernetes---container-orchestration)
+  - [Licenses - software licensing](#licenses---software-licensing)
   - [Liquid Prompt - see also Starship](#liquid-prompt---see-also-starship)
+  - [Logtail - log management and analytics](#logtail---log-management-and-analytics)
   - [macOS - see OSX](#macos---see-osx)
   - [Mail.app - the default mail client on macOS](#mailapp---the-default-mail-client-on-macos)
+  - [Make - build automation tool](#make---build-automation-tool)
   - [Markdown - basic markup language, great for documentation](#markdown---basic-markup-language-great-for-documentation)
   - [markdownlint - a tool for linting Markdown](#markdownlint---a-tool-for-linting-markdown)
   - [Mermaid - awesome tool for generating diagrams from text](#mermaid---awesome-tool-for-generating-diagrams-from-text)
   - [Mojolicious - a Perl web framework](#mojolicious---a-perl-web-framework)
   - [MySQL - a relational database](#mysql---a-relational-database)
   - [Nginx - a webserver, proxy and load-balancer](#nginx---a-webserver-proxy-and-load-balancer)
+  - [Neovim - a hyperextensible Vim-based text editor](#neovim---a-hyperextensible-vim-based-text-editor)
+  - [Networks - networking and IP tips](#networks---networking-and-ip-tips)
+  - [Nim - compiled programming language](#nim---compiled-programming-language)
   - [NodeJS - server-side JavaScript interpreter](#nodejs---server-side-javascript-interpreter)
   - [npm - Node.js package manager](#npm---nodejs-package-manager)
   - [OpenAPI - a specification for describing RESTful APIs, see also Swagger](#openapi---a-specification-for-describing-restful-apis-see-also-swagger)
   - [OpenSSL - a toolkit for SSL and TLS](#openssl---a-toolkit-for-ssl-and-tls)
+  - [Opera - a web browser](#opera---a-web-browser)
   - [Oracle - a relational database](#oracle---a-relational-database)
   - [OSX - the operating system for Macs - now known as macOS](#osx---the-operating-system-for-macs---now-known-as-macos)
   - [PDF - a binary document format](#pdf---a-binary-document-format)
@@ -89,6 +108,7 @@
   - [Perltidy - tidy all your Perl](#perltidy---tidy-all-your-perl)
   - [Postgresql - a relational database](#postgresql---a-relational-database)
   - [posting - a cool HTTP client that lives in your terminal](#posting---a-cool-http-client-that-lives-in-your-terminal)
+  - [PowerShell - Microsoft's shell and scripting language](#powershell---microsofts-shell-and-scripting-language)
   - [Programming - general programming tips](#programming---general-programming-tips)
   - [Probot - a framework for building GitHub Apps](#probot---a-framework-for-building-github-apps)
   - [Prolog - a logic programming language](#prolog---a-logic-programming-language)
@@ -104,6 +124,7 @@
   - [Shell - general shell tips](#shell---general-shell-tips)
   - [shellcheck - a linter for shell scripts](#shellcheck---a-linter-for-shell-scripts)
   - [Slack - a collaboration tool](#slack---a-collaboration-tool)
+  - [Snyk - security scanning for code and dependencies](#snyk---security-scanning-for-code-and-dependencies)
   - [smartcd - a tool for running commands when changing directories](#smartcd---a-tool-for-running-commands-when-changing-directories)
   - [SSL-TLS](#ssl-tls)
   - [Sublime Text 3 - see also VSCode](#sublime-text-3---see-also-vscode)
@@ -113,6 +134,7 @@
   - [SQLite - a lightweight relational database](#sqlite---a-lightweight-relational-database)
   - [sqlplus - the CLI tool for Oracle](#sqlplus---the-cli-tool-for-oracle)
   - [SSH - Secure Shell](#ssh---secure-shell)
+  - [stow - symlink farm manager](#stow---symlink-farm-manager)
   - [Starship - nifty prompt and an alternative to Liquid Prompt](#starship---nifty-prompt-and-an-alternative-to-liquid-prompt)
   - [Swagger - tool for describing RESTful APIs, see also OpenAPI](#swagger---tool-for-describing-restful-apis-see-also-openapi)
   - [Swift - a compiled programming language from Apple](#swift---a-compiled-programming-language-from-apple)
@@ -121,6 +143,7 @@
   - [tldr - Too Long; Didn't Read, so use tldr](#tldr---too-long-didnt-read-so-use-tldr)
   - [tmux - an alternative to screen](#tmux---an-alternative-to-screen)
   - [tokei - language statistics - fast](#tokei---language-statistics---fast)
+  - [Twitter / X - social media platform](#twitter--x---social-media-platform)
   - [Typescript - strictly typed JavaScript](#typescript---strictly-typed-javascript)
   - [Ubuntu - a Linux distribution based on Debian](#ubuntu---a-linux-distribution-based-on-debian)
   - [ufw - Uncomplicated Firewall](#ufw---uncomplicated-firewall)
@@ -129,6 +152,7 @@
   - [Warp - a modern terminal emulator with AI integration](#warp---a-modern-terminal-emulator-with-ai-integration)
   - [VMware Fusion - a virtualization tool for macOS](#vmware-fusion---a-virtualization-tool-for-macos)
   - [Vue - a JavaScript framework](#vue---a-javascript-framework)
+  - [Windows 10 - Microsoft's desktop OS](#windows-10---microsofts-desktop-os)
   - [WSL 1/2 - Windows Subsystem for Linux](#wsl-12---windows-subsystem-for-linux)
   - [wtf util - a tool for the command line for visualising important information](#wtf-util---a-tool-for-the-command-line-for-visualising-important-information)
   - [XML - see also YAML and JSON](#xml---see-also-yaml-and-json)
@@ -161,6 +185,19 @@
 
 - [Use ag](ag/use_ag.md)
 
+<a id="ai"></a>
+### AI - Artificial Intelligence
+
+- [Classification](ai/classification.md)
+- [Claude Sonnet](ai/claude_sonnet.md)
+- [MCP - Model Context Protocol](ai/mcp.md)
+- [NLP - Natural Language Processing](ai/nlp.md)
+
+<a id="api"></a>
+### API - Application Programming Interface
+
+- [API Design Notes](api/notes.md)
+
 <a id="awk"></a>
 ### awk
 
@@ -174,6 +211,8 @@
 - [AWS MCP](aws/mcp.md)
 - [Multiple keys in JSON templates](aws/multiple_keys_in_json_templates.md)
 - [Notes on CloudFront S3 static sites](aws/notes_on_cloudfront_s3_static_sites.md)
+- [Lightsail](aws/lightsail.md)
+- [ministack](aws/ministack.md)
 
 <a id="bash"></a>
 ### Bash - the Bourne Again Shell
@@ -209,10 +248,16 @@
 - [Use Bruno](bruno/use_bruno.md)
 - [See Your Requests](bruno/see_your_requests.md)
 
+<a id="bumblebee"></a>
+### Bumblebee - development workstation inspection tool
+
+- [Use bumblebee](bumblebee/use_bumblebee.md)
+
 <a id="c"></a>
 ### C - compiled programming language
 
 - [Inspect your C using Godbolt](c/inspect_your_c_using_godbolt.md)
+- [Tutorial on finding bug in C selection sort implementation](c/selection_sort_tutorial/tutorial.md)
 
 <a id="carton"></a>
 ### carton - tools for handling Perl distributions and dependencies local to a project
@@ -221,6 +266,11 @@
 - [Pass flags to arguments to exec](carton/pass_flags_to_arguments_to_exec.md)
 - [Update snapshot cpanfile](carton/update_snapshot_cpanfile.md)
 - [Use PERL_CARTON_MIRROR](carton/use_perl_carton_mirror.md)
+
+<a id="certbot"></a>
+### certbot - SSL certificate tool from Let's Encrypt
+
+- [Use certbot](certbot/use_certbot.md)
 
 <a id="chezmoi"></a>
 ### chezmoi - dot filer manager
@@ -232,16 +282,28 @@
 ### chrome - browser also known as chromium
 
 - [Add search shortcuts](chrome/add_search_shortcuts.md)
+- [View Environment Variables](chrome/view_environment_files.md)
 
 <a id="clang"></a>
 ### clang - project for tools for building C, C++ and Objective-C
 
 - [Diagnostic flags in Clang](clang/diagnostic_flags.md)
 
+<a id="claude"></a>
+### Claude - Claude Code and Claude AI
+
+- [Hooks](claude/hooks.md)
+- [Claude Plugins](claude/plugins.md)
+
 <a id="colortail"></a>
 ### colortail - colorful variation of tail
 
 - [use colortail](colortail/use_colortail.md)
+
+<a id="copilot"></a>
+### Copilot - GitHub Copilot AI assistant
+
+- [Copilot Models](copilot/models.md)
 
 <a id="cpan"></a>
 ### CPAN - Perl packages and distributions repository
@@ -253,6 +315,12 @@
 - [Parsing Gitignore](cpan/parsing_gitignore.md)
 - [Install DateTime::Astro](cpan/install_datetime_astro.md)
 - [Getopt::Long](cpan/getopt-long.md)
+- [Test::Compile](cpan/test-compile.md)
+
+<a id="cpanfile"></a>
+### cpanfile - Perl dependency file format
+
+- [Use cpanfile](cpanfile/use_cpanfile.md)
 
 <a id="cpanm"></a>
 ### cpanm - a fast CPAN module installer
@@ -285,6 +353,7 @@
 
 - [Making sure you are using alt tags](css/making_sure_you_are_using_alt_tags.md)
 - [CSS Properties](css/properties.md)
+- [Z-index](css/z-index.md)
 
 <a id="csharp"></a>
 ### C# - .NET based language from Microsoft
@@ -306,11 +375,24 @@
 - [How to handle location header](curl/how_to_handle_location_header.md)
 - [Ignore self signed certificates](curl/ignore_self_signed_certificates.md)
 - [Use a config file](curl/use_a_config_file.md)
+- [Multiple URLs to Multiple Files](curl/multiple_urls_to_multiple_files.md)
+- [Post JSON Data with cURL](curl/post_json_data.md)
+- [Send a Bearer Token Using curl](curl/send_a_bearer_token.md)
 
 <a id="dashapp"></a>
 ### Dash.app - an alternative browser to the built-in documentation in macOS and other resources
 
 - [Query Dash from the CLI](dashapp/query_dash_from_the_cli.md)
+
+<a id="database"></a>
+### Database - relational and other databases
+
+- [Developing with Databases](database/developing_with_databases.md)
+
+<a id="dbeaver"></a>
+### DBeaver - universal database tool
+
+- [Connecting to MySQL](dbeaver/connecting_to_mysql.md)
 
 <a id="date"></a>
 ### date - see dates and time on the command line
@@ -326,6 +408,11 @@
 - [Resolve conflicting values in Debian package](debian/resolve_conflicting_values_in_package.md)
 - [Install unauthenticated package](debian/install_unauthenticated_package.md)
 - [Translate release names](debian/translate_release_names.md)
+
+<a id="devto"></a>
+### dev.to - developer blogging platform
+
+- [How to make a series](dev.to/how_to_make_a_series.md)
 
 <a id="diagramming"></a>
 ### Diagramming
@@ -344,6 +431,8 @@
 - [Monitor billing](digitalocean/monitor_billing.md)
 - [Use doctl](digitalocean/use_doctl.md)
 - [Serving Static Files From a Go App](digitalocean/serving_static_files_from_a_go_app.md)
+- [Deploy an application from a Docker image](digitalocean/deploy_an_application_based_on_a_docker_image.md)
+- [Forward Logging for a static website app](digitalocean/forward_logging_for_an_static_website_app.md)
 
 <a id="docker"></a>
 ### Docker - containerization
@@ -396,6 +485,7 @@
 - [XML](editorconfig/xml.md)
 - [Markdown](editorconfig/markdown.md)
 - [YAML](editorconfig/yaml.md)
+- [Python](editorconfig/python.md)
 
 <a id="entr"></a>
 ### entr - run arbitrary commands when files change
@@ -429,12 +519,18 @@
 
 - [Searching Found Files in Found Directories](find/searching_found_files_in_found_directories.md)
 
+<a id="fresh-editor"></a>
+### Fresh Editor - a CLI text editor
+
+- [Fresh Editor](fresh-editor/use_fresh-editor.md)
+
 <a id="ghostty"></a>
 ### Ghostty - a fast and native terminal emulator
 
 - [Unsuitable Terminal Error](ghostty/unsuitable_terminal.md)
 - [Visor](ghostty/visor.md)
 - [Using light and dark themes](ghostty/using_light_and_dark_themes.md)
+- [Use Ghostty](ghostty/use_ghostty.md)
 
 <a id="git"></a>
 ### Git - version control system
@@ -472,6 +568,13 @@
 - [Ignore Git](git/ignore_git.md)
 - [Sort git tags](git/sort_git_tags.md)
 - [Git Status Shell Prompt](git/git_status_shell_prompt.md)
+- [Compare Two Branches and Get a List of Files](git/compare_two_branches_and_get_a_list_of_files.md)
+- [Git Worktrees](git/git_worktrees.md)
+- [See Committed, Unpushed Files](git/see_committed_unpushed_files.md)
+- [See Staged Files](git/see_staged_files.md)
+- [Signing a Tag](git/signing_a_tag.md)
+- [Squash Commits](git/squash_commits.md)
+- [Working with your config](git/working_with_your_config.md)
 
 <a id="git-delta"></a>
 ### git-delta - an commandline diff tool, also known as delta
@@ -493,6 +596,9 @@
 - [Use CLI](github/use_cli.md)
 - [Theme Sensitive Images in GitHub Markdown](github/theme_sensitive_images_in_gh_markdown.md)
 - [GitHub MCP Server](github/github_mcp_server.md)
+- [Build Precompiled Binaries For Your Go Executables](github/build_precompiled_binaries.md)
+- [GitHub Flavoured Markdown](github/github_flavoured_markdown.md)
+- [Work on issues from comments and commit messages](github/work_on_issues_from_comments_and_commit_messages.md)
 
 <a id="github_actions"></a>
 ### GitHub Actions - automate your GitHub work and repositories
@@ -509,6 +615,10 @@
 - [Pin Your Action Dependencies](github_actions/pin_your_action_dependencies.md)
 - [How do I resolve the SHA checksum for pinning](github_actions/how_do_I_resolve_the_sha_checksum.md)
 - [Use checkout action](github_actions/use_checkout.md)
+- [CodeQL Action](github_actions/codeql.md)
+- [Installing Dependencies and Tools](github_actions/installing_dependencies_and_tools.md)
+- [Use Markdownlint for your documentation](github_actions/use_markdownlint_for_your_documentation.md)
+- [Use zizmor](github_actions/zizmor.md)
 
 <a id="gnupg"></a>
 ### GnuPG - PGP tools, GNU variant
@@ -530,6 +640,7 @@
 - [Test Main Function](go/test_main_function.md)
 - [Get to know the standard library](go/get_to_know_the_standard_library.md)
 - [structs](go/structs.md)
+- [Convert String to Float](go/convert_string_to_float.md)
 - [Running specific tests](go/running_specific_test.md)
 - [Read from STDIN](go/read_from_stdin.md)
 - [Use gocritic](go/use_gocritic.md)
@@ -570,6 +681,7 @@
 
 - [Use httpie](httpie/use_httpie.md)
 - [Using httpie with Graphql server](httpie/using_httpie_with_graphql_server.md)
+- [Print Request and Response](httpie/print_request_and_response.md)
 
 <a id="irssi"></a>
 ### irssi - for all your IRC needs
@@ -596,6 +708,8 @@
 - [Dynamic properties](javascript/dynamic_properties.md)
 - [Format Numbers](javascript/format_numbers.md)
 - [SyntaxError: Unexpected token o in JSON at position 1](javascript/unexpected_token_o_in_jason_at_position_1.md)
+- [Difference between let and var](javascript/difference_between_let_and_var.md)
+- [Next.js](javascript/next.js.md)
 
 <a id="jenkins"></a>
 ### Jenkins - a continuous integration server
@@ -607,6 +721,10 @@
 
 - [Get a List of Linked Issues](jira/get_a_list_of_linked_issues.md)
 - [How to escape curly brackets within code tags](jira/how_to_escape_curlys_within_code_tags.md)
+- [Jira CLI](jira/cli.md)
+- [Pasting Into Tables](jira/pasting_into_tables.md)
+- [Jira Rules of Engagement](jira/rules_of_engagement.md)
+- [Working with labels](jira/working_with_labels.md)
 
 <a id="jq"></a>
 ### jq - a lightweight and flexible command-line JSON processor
@@ -619,6 +737,7 @@
 - [Specify Colours](jq/specify_colours.md)
 - [Generate CSV file](jq/generate_csv_file.md)
 - [Convert a number to a string](jq/convert_a_number_to_a_string.md)
+- [Align values on one line](jq/align_values_on_one_line.md)
 
 <a id="json"></a>
 ### JSON - see also XML and YAML
@@ -626,16 +745,32 @@
 - [Beware of eval](json/beware_of_eval.md)
 - [Check out JSON Schema](json/check_out_json_schema.md)
 - [Prettify JSON on the command line](json/prettify_json_on_the_command_line.md)
+- [Notes on JSON](json/notes_on_json.md)
 
 <a id="kali"></a>
 ### Kali - a Linux distribution focused on security and penetration testing
 
 - [Set Keyboard Layout](kali/set_keyboard_layout.md)
 
+<a id="kubernetes"></a>
+### Kubernetes - container orchestration
+
+- [Use k9s](kubernetes/use_k9s.md)
+
+<a id="licenses"></a>
+### Licenses - software licensing
+
+- [Extracting Licenses from package-lock.json](licenses/extracting_licenses_from_package-lock.json.md)
+
 <a id="liquid-prompt"></a>
 ### Liquid Prompt - see also Starship
 
 - [Install Liquid Prompt](liquidprompt/install_liquidprompt.md)
+
+<a id="logtail"></a>
+### Logtail - log management and analytics
+
+- [Database](logtail/database.md)
 
 <a id="macos"></a>
 ### macOS - see OSX
@@ -644,6 +779,11 @@
 ### Mail.app - the default mail client on macOS
 
 - [Mail file from the commandline](mailapp/mail_file_from_cli.md)
+
+<a id="make"></a>
+### Make - build automation tool
+
+- [Learn Makefiles](make/learn_makefiles.md)
 
 <a id="markdown"></a>
 ### Markdown - basic markup language, great for documentation
@@ -674,6 +814,7 @@
 - [Mojolicious::Controller respond_to and template parameter](mojolicious/respond_to_and_template_parameter.md)
 - [Enable syntax highlighting for configuration files](mojolicious/enable_syntax_highlighting_for_configuration_files.md)
 - [Mojolicious::Plugin::Config](mojolicious/mojolicious-plugin-config.md)
+- [Learn Mojolicious](mojolicious/learn_mojolicious.md)
 
 <a id="mysql"></a>
 ### MySQL - a relational database
@@ -689,6 +830,22 @@
 - [Limit served HTTP methods](nginx/limit_served_http_methods.md)
 - [Configure Automatic Restart](nginx/configure_automatic_restart.md)
 
+<a id="neovim"></a>
+### Neovim - a hyperextensible Vim-based text editor
+
+- [Use LazyVim](neovim/use_lazyvim.md)
+
+<a id="networks"></a>
+### Networks - networking and IP tips
+
+- [Geolocation](networks/geolocation.md)
+- [What is my IP?](networks/what_is_my_ip.md)
+
+<a id="nim"></a>
+### Nim - compiled programming language
+
+- [Learn nim](nim/learn_nim.md)
+
 <a id="node"></a>
 ### NodeJS - server-side JavaScript interpreter
 
@@ -696,6 +853,7 @@
 - [Use env files](node/use_env_files.md)
 - [Use nodeenv](node/use_nodeenv.md)
 - [Use nvm](node/use_nvm.md)
+- [Schedule Cron Jobs in Node.js](node/schedule_cron_jobs.md)
 
 <a id="npm"></a>
 ### npm - Node.js package manager
@@ -703,6 +861,9 @@
 - [Install dependencies from package-lock.json](npm/install_dependencies_from_package-lock_file.md)
 - [Specify Lag to Prohibit Upload to NPM](npm/specify_flag_to_prohibit_upload_to_npm.md)
 - [xslt-processor](npm/xslt-processor.md)
+- [Configuring NPM](npm/configuring_npm.md)
+- [npm Version Specification](npm/npm_version_specification.md)
+- [Reinstall Broken npm](npm/reinstall_broken_npm.md)
 
 <a id="openapi"></a>
 ### OpenAPI - a specification for describing RESTful APIs, see also Swagger
@@ -713,6 +874,11 @@
 ### OpenSSL - a toolkit for SSL and TLS
 
 - [How to get information from a P12 file](openssl/how_to_get_information_from_a_p12_file.md)
+
+<a id="opera"></a>
+### Opera - a web browser
+
+- [Bookmarks being saved on Desktop](opera/bookmarks.md)
 
 <a id="oracle"></a>
 ### Oracle - a relational database
@@ -725,6 +891,7 @@
 - [Comments in tnsnames.ora](oracle/comments_in_tnsnamesora.md)
 - [See grants for a specific user](oracle/see_grants_for_specific_user.md)
 - [See What a Record Looked Like](oracle/see_what_a_record_looked_like.md)
+- [Merge Statements and Joins](oracle/merge_statements_and_joins.md)
 
 <a id="osx"></a>
 ### OSX - the operating system for Macs - now known as macOS
@@ -758,6 +925,7 @@
 ### PDF - a binary document format
 
 - [How to see what fonts are embedded](pdf/how_to_see_what_fonts_are_embedded.md)
+- [What the PDF?](pdf/what_the_pdf.md)
 
 <a id="perl"></a>
 ### Perl - Swiss Army Knife of programming languages
@@ -774,6 +942,11 @@
 - [Find out what your perl minimum version requirement is](perl/find_out_what_your_perl_minimum_version_requirement_is.md)
 - [Use cpm](perl/use_cpm.md)
 - [Format numbers](perl/format_numbers.md)
+- [Get Started Linting with Perl::Critic](perl/get_started_linting_with_perlcritic.md)
+- [Ordered Hash](perl/ordered_hash.md)
+- [Output UTF-8](perl/output_utf8.md)
+- [substring Outside String](perl/substring_outside_string.md)
+- [Use perlcritic](perl/use_perlcritic.md)
 
 <a id="perlbrew"></a>
 ### Perlbrew - a tool for managing multiple Perl installations
@@ -805,12 +978,18 @@
 
 - [Use posting](posting/use_posting.md)
 
+<a id="powershell"></a>
+### PowerShell - Microsoft's shell and scripting language
+
+- [How to break a running command](powershell/how_to_break_a_running_command.md)
+
 <a id="programming"></a>
 ### Programming - general programming tips
 
 - [Round float to 2 decimals](programming/round_float_to_2_decimals.md)
 - [Error Messages](programming/error_messages.md)
 - [Casing](programming/casing.md)
+- [Choose the right language for the job](programming/choose_the_right_language_for_the_job.md)
 
 <a id="probot"></a>
 ### Probot - a framework for building GitHub Apps
@@ -882,6 +1061,7 @@
 - [Division](ruby/division.md)
 - [Split an integer into an array](ruby/split_an_integer_into_an_array.md)
 - [Overload on basic types](ruby/overloaded_on_basic_types.md)
+- [String Repetition](ruby/string_repetition.md)
 
 <a id="rust"></a>
 ### Rust - a compiled programming language
@@ -893,6 +1073,8 @@
 - [Learn Rust](rust/learn_rust.md)
 - [Formatting code](rust/formatting_code.md)
 - [Declaring a constant](rust/declaring_a_constant.md)
+- [Doing Static Analysis Using clippy](rust/doing_static_analysis_using_clippy.md)
+- [Notes on Rust](rust/notes_on_rust.md)
 
 <a id="sed"></a>
 ### sed - stream editor
@@ -923,6 +1105,11 @@
 
 - [Mark all as read](slack/mark_all_as_read.md)
 
+<a id="snyk"></a>
+### Snyk - security scanning for code and dependencies
+
+- [Navigating Debian Packages](snyk/navigating_debian_packages.md)
+
 <a id="smartcd"></a>
 ### smartcd - a tool for running commands when changing directories
 
@@ -947,6 +1134,7 @@
 - [See in what revision a branch was created](subversion/see_in_what_revision_was_a_branch_created.md)
 - [Use Filemerge as diff tool](subversion/use_filemerge_for_diff.md)
 - [Use commit message from file](subversion/use_commit_message_from_file.md)
+- [svn2git](svn/svn2git.md)
 
 <a id="sql"></a>
 ### SQL - Structured Query Language
@@ -990,6 +1178,11 @@
 - [SSH on Windows](ssh/ssh_on_windows.md)
 - [SSH Penetration testing](ssh/ssh_penetration_testing.md)
 
+<a id="stow"></a>
+### stow - symlink farm manager
+
+- [Use stow](stow/use_stow.md)
+
 <a id="starship"></a>
 ### Starship - nifty prompt and an alternative to Liquid Prompt
 
@@ -1031,11 +1224,18 @@
 - [Standard Layouts](tmux/standard_layouts.md)
 - [Use tmux Resurrect](tmux/use_tmux_resurrect.md)
 - [Use tmux plugin manager](tmux/use_tmux_plugin_manager.md)
+- [Tmux Cheat Sheet & Quick Reference](tmux/cheatsheet.md)
+- [Use sesh](tmux/use_sesh.md)
 
 <a id="tokei"></a>
 ### tokei - language statistics - fast
 
 - [use tokei](tokei/use_tokei.md)
+
+<a id="twitter"></a>
+### Twitter / X - social media platform
+
+- [View Twitter Bookmarks on Desktop](twitter/view_bookmarks_on_desktop.md)
 
 <a id="typescript"></a>
 ### Typescript - strictly typed JavaScript
@@ -1100,6 +1300,12 @@
 
 - [Get Started with Vue](vue/get_started_with_vue.md)
 
+<a id="windows10"></a>
+### Windows 10 - Microsoft's desktop OS
+
+- [Check edition, version and build for Windows 10](windows10/check_edition_version_and_build.md)
+- [Get a free Windows 10 upgrade](windows10/get_a_free_windows10_upgrade.md)
+
 <a id="wsl"></a>
 ### WSL 1/2 - Windows Subsystem for Linux
 
@@ -1107,6 +1313,9 @@
 - [Developing in Visual Studio Code](wsl/developing_in_vscode.md)
 - [Up and Downgrade WSL](wsl/up_and_downgrade_wsl.md)
 - [bashrc not being sourced](wsl/bashrc_not_being_sourced.md)
+- [Change terminal colours](wsl/change_terminal_colours.md)
+- [Install WSL](wsl/install_wsl.md)
+- [Suppress annoying SSH warning](wsl/suppress_annoying_ssh_warning.md)
 
 <a id="wtf-util"></a>
 ### wtf util - a tool for the command line for visualising important information

@@ -4,23 +4,19 @@ use warnings;
 use strict;
 use File::Find;
 
+my %ignore_dirs  = map { $_ => 1 } qw(.git _site .claude .github);
+my %ignore_files = map { $_ => 1 } qw(README.md CLAUDE.md);
+
+# Files to scan for links; default to README.md
+my @link_sources = @ARGV ? @ARGV : ('README.md');
+
 find({ wanted => \&wanted, preprocess => \&preprocess }, '.');
 
 my %files;
 my %links;
 
 sub preprocess {
-    my @result;
-    foreach my $e (@_) {
-        if ($e =~ m/^\.git$/) {
-            next;
-        }
-        if ($e =~ m/^_site$/) {
-            next;
-        }
-        push @result, $e;
-    }
-    return @result;
+    return grep { !$ignore_dirs{$_} } @_;
 }
 
 sub wanted {
@@ -30,14 +26,16 @@ sub wanted {
     }
 }
 
-open(FIN, 'README.md') or die "Unable to open file: README.md - $!";
-while(<FIN>) {
-    if ($_ =~ m/\(.*\.md\)/) {
-        my ($key) = $_ =~ m/\((.*\.md)\)/;
-        $links{$key}++;
+for my $source (@link_sources) {
+    open(my $fh, '<', $source) or die "Unable to open file: $source - $!";
+    while (<$fh>) {
+        if ($_ =~ m/\(.*\.md\)/) {
+            my ($key) = $_ =~ m/\((.*\.md)\)/;
+            $links{$key}++;
+        }
     }
+    close($fh);
 }
-close(FIN);
 
 my ($unlinked, $linked, $deadlinks, $ignored_files) = (0, 0, 0, 0);
 
@@ -50,7 +48,8 @@ print join "\n", @report;
 print "\n\n";
 printf "Unlinked files: %d\n", $unlinked;
 printf "Linked files: %d\n", $linked;
-printf "Ignored files: %d\n\n", $ignored_files;
+printf "Ignored files: %d", $ignored_files;
+printf " (Ignored directories: %d)\n\n", scalar keys %ignore_dirs;
 printf "Total files: %d\n\n", $total_files;
 
 printf "Dead links: %d\n", $deadlinks;
@@ -62,7 +61,7 @@ sub compare_hashes {
     my ($files, $links) = @_;
     my @report;
     foreach my $k (sort keys %{ $files }) {
-        if ($k eq 'README.md') {
+        if ($ignore_files{$k}) {
             $ignored_files++;
             next;
         }
