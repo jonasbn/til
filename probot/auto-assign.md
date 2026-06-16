@@ -31,6 +31,12 @@ assignees:
 # numberOfAssignees: 2
 ```
 
+I have always used **auto-assign-bot**, another option was Dependabot reviewer settings. However this this has been changed to use `CODEOWNERS`, see [the announcement](https://github.blog/changelog/2025-04-29-dependabot-reviewers-configuration-option-being-replaced-by-code-owners/).
+
+Since **auto-assign-bot** currently has [some issues](https://github.com/kentaro-m/auto-assign/issues/276), `CODEOWNERS` configuration can be a help, alternatively there is [an action](https://github.com/kentaro-m/auto-assign-action) that can be used.
+
 ## Resources and References
 
 - [Probot Website](https://probot.github.io/apps/auto-assign/)
+- [GitHub Repository](https://github.com/kentaro-m/auto-assign)
+- [auto-assign GitHub Action](https://github.com/kentaro-m/auto-assign-action)

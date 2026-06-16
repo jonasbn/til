@@ -42,12 +42,13 @@ And later to update from `tmux` do:
 
 Of noticable [plugins] I can mention:
 
-- [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
-- [Tmux Resurrect](https://github.com/tmux-plugins/tmux-resurrect) or [my til](use_tmux_resurrect.md)
-- [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
+- [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) recommended on [GitHub repository for tpm][tpm]
+- [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) or [my til](use_tmux_resurrect.md), can preserve and resurrect sessions across boots
+- [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - supplies tmux-resurrect with some automation
+- [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) - improved prefix indication
 - [arcticicestudio/nord-tmux](https://github.com/nordtheme/tmux)
 
-Or check this [repository of plugins][plugins]
+Or check this [repository of plugins][plugins].
 
 ## Resources and References
 

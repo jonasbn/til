@@ -5,3 +5,5 @@
 A _good_ tip is to get a Cheatsheet.
 
 [This one](https://gist.github.com/akras14/3d242d80af8388ebca60#file-getting-cheat-sheet-md) is just a Gist, you can fork it and edit it to your own liking.
+
+If want a more interactive one, meaning it is easy to filter etc. check [this one](https://gitcheatsheets.org/)
