@@ -1093,6 +1093,7 @@
 - [Testing Using Bats](shell/testing_using_bats.md)
 - [stat](shell/stat.md)
 - [Creating a file with multiple lines of content](shell/creating_a_file_with_multiple_lines_of_content.md)
+- [Inspecting path](shell/inspecting_path.md)
 
 <a id="shellcheck"></a>
 ### shellcheck - a linter for shell scripts
