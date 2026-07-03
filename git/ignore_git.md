@@ -34,6 +34,45 @@ Example fetching `.gitignore` for Go:
 curl -o gitignore https://raw.githubusercontent.com/github/gitignore/main/Go.gitignore
 ```
 
+## Ignoring
+
+I had created a small utility `gitignore` located in my `~/bin/`:
+
+```perl
+#!/usr/bin/env perl
+
+use warnings;
+use strict;
+
+my $file = '.gitignore';
+
+if (-e $file and -f _ and -w _) {
+    open my $FOUT, '>>', $file or die "Unable to open file: $file - $!";
+    print $FOUT "$ARGV[0]\n";
+    close($FOUT);
+} else {
+    open my $FOUT, '>>', $file or die "Unable to open file: $file - $!";
+    print $FOUT "$ARGV[0]\n";
+    close($FOUT);
+}
+
+exit 0;
+```
+
+Where I would be able to ignore a file from the command line easily as:
+
+```shell
+gitignore file_to_be_ignored
+```
+
+Then I found out that `git` can already do this:
+
+```shell
+git ignore file_to_be_ignored
+```
+
+You learn something every day.
+
 ## Resources and References
 
 1. [Git documentation: gitignore][GITDOC]
