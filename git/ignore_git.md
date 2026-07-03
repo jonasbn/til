@@ -65,7 +65,7 @@ Where I would be able to ignore a file from the command line easily as:
 gitignore file_to_be_ignored
 ```
 
-Then I found out that `git` can already do this:
+Then I found out that `git` can already do this, via **git-extras**
 
 ```shell
 git ignore file_to_be_ignored
@@ -78,7 +78,9 @@ You learn something every day.
 1. [Git documentation: gitignore][GITDOC]
 1. [GitHub: gitignore][GITHUBIGNORE] - collection of gitignore examples
 1. [gh extension: gh-gitignore][GHIGNORE]
+2. [GitHub: git-extras][GITEXTRAS]
 
 [GITHUBIGNORE]: https://github.com/github/gitignore
 [GITDOC]: https://git-scm.com/docs/gitignore
 [GHIGNORE]: https://github.com/ymmmtym/gh-gitignore
+[GITEXTRAS]: https://github.com/tj/git-extras
