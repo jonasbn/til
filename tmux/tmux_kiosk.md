@@ -12,6 +12,6 @@ So using Claude code I developed, [tmux-kiosk][GITHUBTMUXKIOSK], it can be enabl
 
 ## Resource and References
 
-- [GitHub: jonabsn/tmux-kiosk][GITHUBTMUXKIOSK]
+- [GitHub: jonasbn/tmux-kiosk][GITHUBTMUXKIOSK]
 
 [GITHUBTMUXKIOSK]: https://github.com/jonasbn/tmux-kiosk
