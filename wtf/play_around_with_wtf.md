@@ -2,6 +2,8 @@
 
 Do note that this is the customizable CLI Dashboard and not the utility to lookup terms.
 
+Kudos for having the configuration in `$XDG_CONFIG_HOME`.
+
 `wtf` is fun, it can be customized using a lot of different modules.
 
 Here are some of my notes.
@@ -46,5 +48,5 @@ Do note that [@senorprogrammer](https://twitter.com/senorprogrammer) has [addres
 
 ## References
 
-- [wtf documentation](https://wtfutil.com/)
-- [GitHub](https://github.com/senorprogrammer/wtf)
+- [wtfutil documentation](https://wtfutil.com/)
+- [GitHub: senorprogrammer/wtf](https://github.com/senorprogrammer/wtf)
