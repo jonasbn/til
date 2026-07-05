@@ -1,0 +1,3 @@
+- Use markdownlint to check the markdown syntax for the markdown files
+- The markdown linting should adhere to the rules outlined in .markdownlint.json
+- Files that should be ignored are listed in .markdownlintignore
