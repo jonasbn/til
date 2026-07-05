@@ -1,0 +1,21 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash",
+            "args": ["-c", "markdownlint --config .markdownlint.json \"$CLAUDE_TOOL_RESULT_FILE_PATH\" 2>&1 || true"]
+          },
+          {
+            "type": "command",
+            "command": "bash",
+            "args": ["-c", "[[ \"$CLAUDE_TOOL_RESULT_FILE_PATH\" == *README.md ]] && perl check_til.pl || true"]
+          }
+        ]
+      }
+    ]
+  }
+}

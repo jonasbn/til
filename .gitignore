@@ -12,3 +12,4 @@ dictionary.dic
 til.code-workspace
 go/slices/shared_array
 .DS_Store
+.claude/settings.local.json
