@@ -5,6 +5,7 @@ on:
       - "**/*.md"
       - ".spellcheck.yaml"
       - ".wordlist.txt"
+      - ".github/workflows/spellcheck.yml"
 
 permissions:
   contents: read

@@ -5,6 +5,7 @@ on:
       - "**/*.md"
       - ".markdownlint.json"
       - ".markdownlintignore"
+      - ".github/workflows/markdownlint.yml"
 
 permissions:
   contents: read
