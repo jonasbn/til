@@ -2,7 +2,9 @@
 
 `tmux` is an awesome tool. I will try to get some of my bookmarked resources collected here. To begin with a nifty [cheatsheet][redditcheatsheet] from Reddit or another [cheatsheet][cheatsheet]. And there is [an interactive one](https://tmuxcheatsheet.org/) available online
 
-> [!WARNING] Tmux configuration file precedence
+> [!WARNING]
+> 
+> Tmux configuration file precedence
 >
 > if `$HOME/.tmux.conf` exists, `$HOME/.config/tmux/tmux.conf` is not read, so if you do not understand why your changes to not work, that might
 > be the reason
