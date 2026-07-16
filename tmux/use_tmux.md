@@ -2,6 +2,15 @@
 
 `tmux` is an awesome tool. I will try to get some of my bookmarked resources collected here. To begin with a nifty [cheatsheet][redditcheatsheet] from Reddit or another [cheatsheet][cheatsheet]. And there is [an interactive one](https://tmuxcheatsheet.org/) available online
 
+> WARN Tmux configuration file precedence
+>
+> if `$HOME/.tmux.conf` exists, `$HOME/.config/tmux/tmux.conf` is not read, so if you do not understand why your changes to not work, that might
+> be the reason
+>
+> As a _hack_ your could source extra files in `$HOME/.tmux.conf` like:
+> `source-file ~/.config/tmux/tmux.conf` or similar
+>
+
 I found this great [article][statusbar] on how to customize the `tmux` status bar.
 
 And then there is of course always the [man page][manpage].

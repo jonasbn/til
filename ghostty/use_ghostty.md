@@ -188,3 +188,38 @@ As specified in: `~/.config/ghostty/config`
 ```text
 keybind = global:cmd+shift+t=toggle_quick_terminal
 ```
+
+## Other key bindings of mine:
+
+For tabs (yes, there are numbers):
+
+- Jump to next tab: `<cmd>` + `->` (right arrow)
+- Jump to previous tab: `<cmd>` + `<-` (left arrow)
+
+For windows:
+
+- Jump to next window: `<cmd>` + `<shift>` + `->` (right arrow)
+- Jump to previous window: `<cmd>` + `<shift>` + `<-` (left arrow)
+
+```text
+keybind = super+shift+arrow_right=goto_window:next
+keybind = super+shift+arrow_left=goto_window:previous
+keybind = super+arrow_right=next_tab
+keybind = super+arrow_left=previous_tab
+```
+
+> WARN Keybindings I need
+>
+> On macOS I would like to be able to select to the beginning and end of a line
+>
+> This is the closest I have gotten.
+>
+
+```text
+keybind = shift+arrow_right=adjust_selection:right
+keybind = shift+end=adjust_selection:end_of_line
+keybind = shift+arrow_left=adjust_selection:left
+keybind = shift+home=adjust_selection:beginning_of_line
+```
+
+But it is not really working as expected, I believe it has to do with you have to have an existing selection, which requires a mouse-click.
