@@ -209,7 +209,7 @@ keybind = super+arrow_left=previous_tab
 ```
 
 > [!NOTE]
-> 
+>
 > Keybindings I need
 >
 > On macOS I would like to be able to select to the beginning and end of a line
