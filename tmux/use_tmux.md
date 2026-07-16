@@ -43,4 +43,4 @@ Another interesting tmux related application is **tmuxai**
 [redditcheatsheet]: https://i.redd.it/9eeanpxjucq21.png
 [cheatsheet]: http://tmuxcheatsheet.com/
 [statusbar]: https://arcolinux.com/everything-you-need-to-know-about-tmux-status-bar/
-[manpage]: (https://man.openbsd.org/tmux)
+[manpage]: https://man.openbsd.org/tmux
