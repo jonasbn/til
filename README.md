@@ -378,6 +378,7 @@
 - [Multiple URLs to Multiple Files](curl/multiple_urls_to_multiple_files.md)
 - [Post JSON Data with cURL](curl/post_json_data.md)
 - [Send a Bearer Token Using curl](curl/send_a_bearer_token.md)
+- [Specify User-Agent](curl/specify_user_agent.md)
 
 <a id="dashapp"></a>
 ### Dash.app - an alternative browser to the built-in documentation in macOS and other resources
