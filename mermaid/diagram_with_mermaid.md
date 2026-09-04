@@ -44,6 +44,14 @@ But I ran into another problem. **Mermaid** is supported for Markdown on GitHub,
 
 I am investigating whether I can add **Mermaid** to the Pages rendering, but it requires that I can control the HTML, so I would prefer for GitHub to support this out of the box.
 
+> INFO!
+> The [mermaid-cli](https://github.com/mermaid-js/mermaid-cli) application can be installed using Homebrew. It has had some issues. I ran into:
+> `Error: Could not find Chrome (ver. 131.0.6778.204). This can occur if either`
+>
+> This trick of pointing to Puppeteer worked for me:
+> `export PUPPETEER_EXECUTABLE_PATH="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"`
+> Lifted from [a comment on an issue](https://github.com/mermaid-js/mermaid-cli/issues/288)
+
 ## Resources and References
 
 1. [GitHub Announcement on Mermaid in Markdown][ANNOUNCE]
