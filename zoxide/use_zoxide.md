@@ -38,6 +38,20 @@ rm $HOME/Library/Application Support/zoxide/db.zo`
 zoxide add $(pwd)
 ```
 
+I ran into a problem where two repositories was quite close in named, so I kept ending up in the the _wrong_ one.
+
+One had a weight of `50+` the other `14`.
+
+I found out that the following _hack_ can tip the weights:
+
+cd into the directory and run.
+
+```bash
+for i in {1..40}; do zoxide add $(pwd); done
+```
+
+And now the weights are shifted as can be observed using `zi`
+
 ## Resources and References
 
 - [GitHub repository](https://github.com/ajeetdsouza/zoxide?tab=readme-ov-file) - The official repository for zoxide, where you can find the source code, documentation, and installation instructions.
