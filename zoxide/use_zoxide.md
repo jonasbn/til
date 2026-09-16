@@ -38,6 +38,8 @@ rm $HOME/Library/Application Support/zoxide/db.zo`
 zoxide add $(pwd)
 ```
 
+## Shifting the weights
+
 I ran into a problem where two repositories was quite close in named, so I kept ending up in the the _wrong_ one.
 
 One had a weight of `50+` the other `14`.
