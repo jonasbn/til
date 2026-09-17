@@ -1,4 +1,4 @@
-# GitHub Flavoured Markdown
+# GitHub Flavoured Markdown (GFM)
 
 ## How to add a collapsible section
 

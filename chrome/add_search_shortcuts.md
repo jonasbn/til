@@ -40,6 +40,9 @@ For getting information fast on the Oracle error that bites you:
 
 Suggested keyword `ora`and URL: `http://ora%s.ora-code.com/`
 
+> [!INFO]
+> I believe this website is no longer active.
+
 ## Request Tracker Numbers
 
 For getting fast to the RT you want to read:
@@ -57,6 +60,12 @@ Suggested keyword `jira` and URL: `https://url_of_your_jira_instance/browse/%s`
 For easy access to RFCs:
 
 Suggested keyword `rfc` and URL: `http://datatracker.ietf.org/doc/%s`
+
+## CVE Records
+
+For linking to CVEs:
+
+Suggested keyword `rfc` and URL: `https://www.cve.org/CVERecord?id=%s`
 
 ## Twitter
 
