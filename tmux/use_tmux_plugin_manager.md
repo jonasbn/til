@@ -1,4 +1,4 @@
-# Use Tmux Plugin Manager
+# Use Tmux Plugin Manager (TPM)
 
 **Tmux Plugin Manager** extends your `tmux` capabilities
 

@@ -1179,6 +1179,7 @@
 - [fail2ban](ssh/fail2ban.md)
 - [SSH on Windows](ssh/ssh_on_windows.md)
 - [SSH Penetration testing](ssh/ssh_penetration_testing.md)
+- [Use SSH](ssh/use_ssh.md)
 
 <a id="stow"></a>
 ### stow - symlink farm manager
@@ -1225,9 +1226,10 @@
 - [Install tmux](tmux/install_tmux.md)
 - [Standard Layouts](tmux/standard_layouts.md)
 - [Use tmux Resurrect](tmux/use_tmux_resurrect.md)
-- [Use tmux plugin manager](tmux/use_tmux_plugin_manager.md)
+- [Use tmux plugin manager](tmux/use_tmux_plugin_manager.md) (TPM)
 - [Tmux Cheat Sheet & Quick Reference](tmux/cheatsheet.md)
 - [Use sesh](tmux/use_sesh.md)
+- [Use tmux-kiosk](tmux/tmux_kiosk.md)
 
 <a id="tokei"></a>
 ### tokei - language statistics - fast
