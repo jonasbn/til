@@ -2,7 +2,7 @@
 
 I call this the _birthday cake problem_.
 
-When you see the string or simiar, a string which should have been interpolated, but is not:
+When you see the string or similar, a string which should have been interpolated, but is not:
 
 ```text
 Happy birthday <insert name here>

@@ -2326,3 +2326,4 @@ symlink
 Ingy
 döt
 charmbracelet
+Autolinks

@@ -1,6 +1,6 @@
 # Setting Up Autolinks
 
-I do not know how this feature could go unoticed by me. But just as for the browser trick with the custom search which I use for tickets in Jira.
+I do not know how this feature could go unnoticed by me. But just as for the browser trick with the custom search which I use for tickets in Jira.
 
 - [Add search shortcuts in Chrome](chrome/add_search_shortcuts.md)
 
