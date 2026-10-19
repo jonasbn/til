@@ -11,4 +11,4 @@ gem 'jemoji'
 gem 'webrick', '1.9.2'
 # Security patch
 # REF: https://github.com/advisories/GHSA-22h5-pq3x-2gf2
-gem 'uri', '1.1.1'
+gem 'uri', '1.1.2'
