@@ -2332,3 +2332,7 @@ UnattendedUpgrades
 uncommenting
 vCPU
 DigitalOcean's
+ControlMaster
+ControlPersist
+IdentitiesOnly
+pty

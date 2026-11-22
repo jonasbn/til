@@ -1181,6 +1181,8 @@
 - [SSH on Windows](ssh/ssh_on_windows.md)
 - [SSH Penetration testing](ssh/ssh_penetration_testing.md)
 - [Use SSH](ssh/use_ssh.md)
+- [ControlMaster can fake a "login still works" test](ssh/controlmaster_can_fake_a_login_test.md)
+- [Restrict what an SSH key can do](ssh/restrict_what_an_ssh_key_can_do.md)
 
 <a id="stow"></a>
 ### stow - symlink farm manager
