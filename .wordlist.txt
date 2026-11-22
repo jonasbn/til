@@ -2330,3 +2330,5 @@ Autolinks
 LinuxCapable
 UnattendedUpgrades
 uncommenting
+vCPU
+DigitalOcean's
