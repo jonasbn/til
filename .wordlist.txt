@@ -2327,3 +2327,5 @@ Ingy
 döt
 charmbracelet
 Autolinks
+LinuxCapable
+UnattendedUpgrades

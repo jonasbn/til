@@ -1256,6 +1256,7 @@
 - [How to add a user](ubuntu/how_to_add_user.md)
 - [How to check if a package is installed](ubuntu/how_to_check_if_a_package_is_installed.md)
 - [Missing Signed-By in the sources.list](ubuntu/missing_signed-by_in_the_sources.list.md)
+- [Configure unattended upgrades](ubuntu/configure_unattended_upgrades.md)
 
 <a id="ufw"></a>
 ### ufw - Uncomplicated Firewall
