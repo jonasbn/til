@@ -58,6 +58,8 @@ running it has no privilege to change anything.
 - `ControlMaster`/`ControlPersist` reusing an SSH connection can make a "does a fresh login still work" test pass
   silently without actually testing anything — worth remembering before trusting that kind of verification.
 
+Further improvements and adjustments to this setup will be made when and if something significant comes up.
+
 ## Resources and References
 
 - [Claude Code](https://claude.com/claude-code)

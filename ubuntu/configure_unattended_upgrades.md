@@ -1,6 +1,6 @@
 # Configure unattended upgrades
 
-`unattended-upgrades` applies package updates automatically on a schedule, without you having to run `apt upgrade` by hand. I set this up on two of my Linux hosts so security updates land without me having to remember to log in and patch them.
+`unattended-upgrades` applies package updates automatically on a schedule, without you having to run `apt upgrade` by hand. My time is a limited resource too, so I set this up on two of my Linux hosts to cut the time spent logging in and patching them by hand, and to stop relying on remembering to do it at all.
 
 ## Install
 
@@ -56,6 +56,8 @@ sudo unattended-upgrade --dry-run --debug
 ```
 
 Actual runs get logged to `/var/log/unattended-upgrades/unattended-upgrades.log`.
+
+This TIL will be updated as I get more practical experience with the setup and adjust it accordingly.
 
 ## Resources and References
 
