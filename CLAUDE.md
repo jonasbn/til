@@ -23,6 +23,18 @@ markdownlint --config .markdownlint.json .
 
 `markdownlint` is available at `/opt/homebrew/bin/markdownlint`.
 
+**Spellcheck runs locally too**, via a `pre-push` git hook (`.githooks/pre-push`), scoped to only the markdown files
+changed since `origin/master` — the same scope the CI Spellcheck Action uses. This catches wordlist gaps before CI does,
+without false-failing on unrelated/untracked WIP files elsewhere in the repo (a full-repo scan does, and is noisy).
+Requires the `jonasbn/github-action-spellcheck:local` Docker image and the hook enabled once per checkout:
+
+```sh
+git config core.hooksPath .githooks
+```
+
+If Docker or the image isn't available, the hook skips with a warning instead of blocking every push — CI remains the
+backstop. For an interactive full-repo check (with audio feedback), run `~/bin/spellchecker.sh`.
+
 To audit `README.md` links vs actual files (unlinked files, dead links):
 
 ```sh

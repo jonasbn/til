@@ -1,0 +1,77 @@
+#!/bin/bash
+# Runs the same spellcheck CI runs, but scoped to only the markdown files
+# this push actually changes (mirroring the GitHub Action's diff-based scope).
+# A full-repo scan would also flag untracked/WIP files never part of the push.
+#
+# Requires Docker (image: jonasbn/github-action-spellcheck:local, built from
+# https://github.com/jonasbn/github-action-spellcheck). If Docker is not
+# available, the check is skipped with a warning rather than blocking every
+# push forever.
+#
+# One-time setup: git config core.hooksPath .githooks
+
+set -u
+
+IMAGE="jonasbn/github-action-spellcheck:local"
+
+if ! command -v docker >/dev/null 2>&1 || ! docker info >/dev/null 2>&1; then
+    echo "pre-push: Docker not available, skipping local spellcheck (CI will still run it)" >&2
+    exit 0
+fi
+
+if ! docker image inspect "$IMAGE" >/dev/null 2>&1; then
+    echo "pre-push: $IMAGE not found locally, skipping local spellcheck (CI will still run it)" >&2
+    exit 0
+fi
+
+remote="$1"
+range=""
+while read -r local_ref local_sha remote_ref remote_sha
+do
+    [ "$local_sha" = "0000000000000000000000000000000000000000" ] && continue
+    if [ "$remote_sha" = "0000000000000000000000000000000000000000" ]
+    then
+        # New remote branch/ref: diff against the merge-base with the default branch
+        base=$(git merge-base "$local_sha" origin/master 2>/dev/null || echo "$local_sha")
+        range="$base..$local_sha"
+    else
+        range="$remote_sha..$local_sha"
+    fi
+done
+
+if [ -z "$range" ]
+then
+    exit 0
+fi
+
+files=()
+while IFS= read -r f
+do
+    [ -n "$f" ] && files+=("$f")
+done < <(git diff --name-only --diff-filter=ACMR "$range" -- '*.md' 2>/dev/null)
+
+if [ ${#files[@]} -eq 0 ]
+then
+    exit 0
+fi
+
+echo "pre-push: spellchecking ${#files[@]} changed markdown file(s): ${files[*]}"
+
+source_files="${files[*]}"
+
+docker run --rm \
+    -e INPUT_TASK_NAME="Markdown" \
+    -e INPUT_SOURCE_FILES="$source_files" \
+    -v "$PWD:/tmp" \
+    "$IMAGE"
+rv=$?
+
+if [ $rv -ne 0 ]
+then
+    echo "" >&2
+    echo "pre-push: spellcheck failed — add any false positives to .wordlist.txt, then re-push." >&2
+    echo "pre-push: for an interactive full-repo check, run ~/bin/spellchecker.sh" >&2
+    exit $rv
+fi
+
+exit 0
