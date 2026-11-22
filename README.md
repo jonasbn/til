@@ -434,6 +434,7 @@
 - [Serving Static Files From a Go App](digitalocean/serving_static_files_from_a_go_app.md)
 - [Deploy an application from a Docker image](digitalocean/deploy_an_application_based_on_a_docker_image.md)
 - [Forward Logging for a static website app](digitalocean/forward_logging_for_an_static_website_app.md)
+- [Use Claude Code to manage droplets with limited resources](digitalocean/use_claude_code_to_manage_droplets_with_limited_resources.md)
 
 <a id="docker"></a>
 ### Docker - containerization
