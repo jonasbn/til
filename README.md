@@ -578,6 +578,7 @@
 - [Signing a Tag](git/signing_a_tag.md)
 - [Squash Commits](git/squash_commits.md)
 - [Working with your config](git/working_with_your_config.md)
+- [Difference between `git clone --bare` and `git clone --mirror`](git/difference_between_clone_bare_and_clone_mirror.md)
 
 <a id="git-delta"></a>
 ### git-delta - an commandline diff tool, also known as delta
