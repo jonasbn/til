@@ -650,6 +650,7 @@
 - [Working with local packages](go/working_with_local_packages.md)
 - [Panic: Flag redefined](go/flag_redefined.md)
 - [Multiline strings](go/multiline_strings.md)
+- ["package command-line-arguments is not a main package" error](go/package_command-line-arguments_is_not_a_main_package_error.md)
 
 <a id="grep"></a>
 ### grep - see also ag or ack
