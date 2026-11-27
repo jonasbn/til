@@ -2336,3 +2336,5 @@ ControlMaster
 ControlPersist
 IdentitiesOnly
 pty
+Ghostty's
+keybind

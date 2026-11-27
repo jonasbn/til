@@ -533,6 +533,7 @@
 - [Visor](ghostty/visor.md)
 - [Using light and dark themes](ghostty/using_light_and_dark_themes.md)
 - [Use Ghostty](ghostty/use_ghostty.md)
+- [Visual config editor for Ghostty](ghostty/visual_config_editor.md)
 
 <a id="git"></a>
 ### Git - version control system
